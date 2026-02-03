@@ -12,7 +12,12 @@
       {
         "title": "Ergo",
         "description": "An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.",
-        "url": "https://github.com/ergo-services/ergo"
+        "url": "https://github.com/ergo-services/ergo",
+        "repo_metadata": {
+          "stars": 4351,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:11:55.915875707Z"
+        }
       },
       {
         "title": "Goakt",
@@ -18280,6 +18285,51 @@
         "slug": "",
         "links": [
           {
+            "title": "address",
+            "description": "Handles address representation, validation and formatting.",
+            "url": "https://github.com/bojanz/address",
+            "repo_metadata": {
+              "stars": 82,
+              "is_archived": false,
+              "enriched_at": "2026-02-03T04:11:54.256052846Z"
+            }
+          },
+          {
+            "title": "align",
+            "description": "A general purpose application that aligns text.",
+            "url": "https://github.com/Guitarbum722/align",
+            "repo_metadata": {
+              "stars": 84,
+              "is_archived": false,
+              "enriched_at": "2026-02-03T04:11:54.39477434Z"
+            }
+          },
+          {
+            "title": "bytes",
+            "description": "Formats and parses numeric byte values (10K, 2M, 3G, etc.).",
+            "url": "https://github.com/labstack/gommon/tree/master/bytes"
+          },
+          {
+            "title": "go-fixedwidth",
+            "description": "Fixed-width text formatting (encoder/decoder with reflection).",
+            "url": "https://github.com/ianlopshire/go-fixedwidth",
+            "repo_metadata": {
+              "stars": 87,
+              "is_archived": false,
+              "enriched_at": "2026-02-03T04:11:54.547453238Z"
+            }
+          },
+          {
+            "title": "go-humanize",
+            "description": "Formatters for time, numbers, and memory size to human readable format.",
+            "url": "https://github.com/dustin/go-humanize",
+            "repo_metadata": {
+              "stars": 4791,
+              "is_archived": false,
+              "enriched_at": "2026-02-03T04:11:54.695050232Z"
+            }
+          },
+          {
             "title": "gotabulate",
             "description": "Easily pretty-print your tabular data with Go.",
             "url": "https://github.com/bndr/gotabulate",
@@ -18288,6 +18338,26 @@
               "is_archived": false,
               "enriched_at": "2026-02-03T04:49:58.642917462+01:00"
             }
+          },
+          {
+            "title": "sq",
+            "description": "Convert data from SQL databases or document formats like CSV or Excel into formats such as JSON, Excel, CSV, HTML, Markdown, XML, and YAML.",
+            "url": "https://github.com/neilotoole/sq",
+            "repo_metadata": {
+              "stars": 2426,
+              "is_archived": false,
+              "enriched_at": "2026-02-03T04:11:54.81916507Z"
+            }
+          },
+          {
+            "title": "textwrap",
+            "description": "Wraps text at end of lines. Implementation of textwrap module from Python.",
+            "url": "https://github.com/isbm/textwrap",
+            "repo_metadata": {
+              "stars": 6,
+              "is_archived": false,
+              "enriched_at": "2026-02-03T04:11:54.993520571Z"
+            }
           }
         ]
       },
@@ -18295,6 +18365,56 @@
         "title": "Markup Languages",
         "slug": "",
         "links": [
+          {
+            "title": "bafi",
+            "description": "Universal JSON, BSON, YAML, XML translator to ANY format using templates.",
+            "url": "https://github.com/mmalcek/bafi",
+            "repo_metadata": {
+              "stars": 112,
+              "is_archived": false,
+              "enriched_at": "2026-02-03T04:11:55.113839468Z"
+            }
+          },
+          {
+            "title": "bbConvert",
+            "description": "Converts bbCode to HTML that allows you to add support for custom bbCode tags.",
+            "url": "https://github.com/CalebQ42/bbConvert",
+            "repo_metadata": {
+              "stars": 12,
+              "is_archived": false,
+              "enriched_at": "2026-02-03T04:11:55.24506252Z"
+            }
+          },
+          {
+            "title": "blackfriday",
+            "description": "Markdown processor in Go.",
+            "url": "https://github.com/russross/blackfriday",
+            "repo_metadata": {
+              "stars": 5616,
+              "is_archived": false,
+              "enriched_at": "2026-02-03T04:11:55.34732246Z"
+            }
+          },
+          {
+            "title": "go-output-format",
+            "description": "Output go structures into multiple formats (YAML/JSON/etc) in your command line app.",
+            "url": "https://github.com/drewstinnett/go-output-format",
+            "repo_metadata": {
+              "stars": 18,
+              "is_archived": false,
+              "enriched_at": "2026-02-03T04:11:55.589400204Z"
+            }
+          },
+          {
+            "title": "go-toml",
+            "description": "Go library for the TOML format with query support and handy cli tools.",
+            "url": "https://github.com/pelletier/go-toml",
+            "repo_metadata": {
+              "stars": 1902,
+              "is_archived": false,
+              "enriched_at": "2026-02-03T04:11:55.74030976Z"
+            }
+          },
           {
             "title": "goldmark",
             "description": "A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured.",
