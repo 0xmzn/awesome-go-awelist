@@ -20,7 +20,10 @@ jobs:
           go-version: '1.24'
 
       - name: Install awelist
-        run: go install github.com/0xmzn/awelist/cmd/awelist@refactor
+        run: |
+          go install github.com/0xmzn/awelist/cmd/awelist@refactor
+        env:
+          GOPROXY: direct
 
       - name: Enrich List
         run: awelist enrich
