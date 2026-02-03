@@ -20,6 +20,26 @@
         }
       },
       {
+        "title": "Goakt",
+        "description": "Fast and Distributed Actor framework using protocol buffers as message for Golang.",
+        "url": "https://github.com/Tochemey/goakt",
+        "repo_metadata": {
+          "stars": 319,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:21.407736364Z"
+        }
+      },
+      {
+        "title": "Hollywood",
+        "description": "Blazingly fast and light-weight Actor engine written in Golang.",
+        "url": "https://github.com/anthdm/hollywood",
+        "repo_metadata": {
+          "stars": 2175,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:21.614397841Z"
+        }
+      },
+      {
         "title": "ProtoActor",
         "description": "Distributed actors for Go, C#, and Java/Kotlin.",
         "url": "https://github.com/asynkron/protoactor-go",
@@ -174,6 +194,36 @@
         }
       },
       {
+        "title": "malgo",
+        "description": "Mini audio library.",
+        "url": "https://github.com/gen2brain/malgo",
+        "repo_metadata": {
+          "stars": 385,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:21.864913741Z"
+        }
+      },
+      {
+        "title": "minimp3",
+        "description": "Lightweight MP3 decoder library.",
+        "url": "https://github.com/tosone/minimp3",
+        "repo_metadata": {
+          "stars": 133,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:22.064570825Z"
+        }
+      },
+      {
+        "title": "Oto",
+        "description": "A low-level library to play sound on multiple platforms.",
+        "url": "https://github.com/hajimehoshi/oto",
+        "repo_metadata": {
+          "stars": 1854,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:22.486505909Z"
+        }
+      },
+      {
         "title": "PortAudio",
         "description": "Go bindings for the PortAudio audio I/O library.",
         "url": "https://github.com/gordonklaus/portaudio",
@@ -228,6 +278,36 @@
           "stars": 22,
           "is_archived": false,
           "enriched_at": "2026-02-03T04:38:26.201979937+01:00"
+        }
+      },
+      {
+        "title": "go-githubauth",
+        "description": "Utilities for GitHub authentication: generate and use GitHub application and installation tokens.",
+        "url": "https://github.com/jferrl/go-githubauth",
+        "repo_metadata": {
+          "stars": 26,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:22.702061921Z"
+        }
+      },
+      {
+        "title": "go-guardian",
+        "description": "Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.",
+        "url": "https://github.com/shaj13/go-guardian",
+        "repo_metadata": {
+          "stars": 606,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:22.95021719Z"
+        }
+      },
+      {
+        "title": "go-iam",
+        "description": "Developer-first Identity and Access Management system with a simple UI.",
+        "url": "https://github.com/melvinodsa/go-iam",
+        "repo_metadata": {
+          "stars": 34,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:23.189670014Z"
         }
       },
       {
@@ -338,6 +418,26 @@
           "stars": 237,
           "is_archived": false,
           "enriched_at": "2026-02-03T04:38:31.130036797+01:00"
+        }
+      },
+      {
+        "title": "jwt-go",
+        "description": "A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs.",
+        "url": "https://github.com/golang-jwt/jwt",
+        "repo_metadata": {
+          "stars": 8881,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:23.430471558Z"
+        }
+      },
+      {
+        "title": "jwx",
+        "description": "Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies.",
+        "url": "https://github.com/lestrrat-go/jwx",
+        "repo_metadata": {
+          "stars": 2309,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:23.684663151Z"
         }
       },
       {
@@ -608,6 +708,36 @@
         }
       },
       {
+        "title": "lnd",
+        "description": "A complete implementation of a Lightning Network node.",
+        "url": "https://github.com/lightningnetwork/lnd",
+        "repo_metadata": {
+          "stars": 8097,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:23.92861294Z"
+        }
+      },
+      {
+        "title": "nview",
+        "description": "Local monitoring tool for a Cardano Node. It's a TUI (terminal user interface) designed to fit most screens.",
+        "url": "https://github.com/blinklabs-io/nview",
+        "repo_metadata": {
+          "stars": 38,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:24.21565375Z"
+        }
+      },
+      {
+        "title": "solana-go",
+        "description": "Go library to interface with Solana JSON RPC and WebSocket interfaces.",
+        "url": "https://github.com/gagliardetto/solana-go",
+        "repo_metadata": {
+          "stars": 1508,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:24.474402577Z"
+        }
+      },
+      {
         "title": "tendermint",
         "description": "High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols.",
         "url": "https://github.com/tendermint/tendermint",
@@ -658,6 +788,96 @@
         "title": "go-joe",
         "description": "A general-purpose bot library inspired by Hubot but written in Go.",
         "url": "https://joe-bot.net"
+      },
+      {
+        "title": "go-sarah",
+        "description": "Framework to build a bot for desired chat services including LINE, Slack, Gitter, and more.",
+        "url": "https://github.com/oklahomer/go-sarah",
+        "repo_metadata": {
+          "stars": 266,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:24.734064049Z"
+        }
+      },
+      {
+        "title": "go-tg",
+        "description": "Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.",
+        "url": "https://github.com/mr-linch/go-tg",
+        "repo_metadata": {
+          "stars": 123,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:24.942536595Z"
+        }
+      },
+      {
+        "title": "go-twitch-irc",
+        "description": "Library to write bots for twitch.tv chat",
+        "url": "https://github.com/gempir/go-twitch-irc",
+        "repo_metadata": {
+          "stars": 389,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:25.191535781Z"
+        }
+      },
+      {
+        "title": "micha",
+        "description": "Go Library for Telegram bot api.",
+        "url": "https://github.com/onrik/micha",
+        "repo_metadata": {
+          "stars": 31,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:25.426362886Z"
+        }
+      },
+      {
+        "title": "slack-bot",
+        "description": "Ready to use Slack Bot for lazy developers: Custom commands, Jenkins, Jira, Bitbucket, Github...",
+        "url": "https://github.com/innogames/slack-bot",
+        "repo_metadata": {
+          "stars": 205,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:25.685895133Z"
+        }
+      },
+      {
+        "title": "slacker",
+        "description": "Easy to use framework to create Slack bots.",
+        "url": "https://github.com/slack-io/slacker",
+        "repo_metadata": {
+          "stars": 60,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:25.920070061Z"
+        }
+      },
+      {
+        "title": "telebot",
+        "description": "Telegram bot framework is written in Go.",
+        "url": "https://github.com/tucnak/telebot",
+        "repo_metadata": {
+          "stars": 4547,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:26.115781645Z"
+        }
+      },
+      {
+        "title": "telego",
+        "description": "Telegram Bot API library for Golang with full one-to-one API implementation.",
+        "url": "https://github.com/mymmrac/telego",
+        "repo_metadata": {
+          "stars": 919,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:26.31812632Z"
+        }
+      },
+      {
+        "title": "telegram-bot-api",
+        "description": "Simple and clean Telegram bot client.",
+        "url": "https://github.com/go-telegram-bot-api/telegram-bot-api",
+        "repo_metadata": {
+          "stars": 6368,
+          "is_archived": false,
+          "enriched_at": "2026-02-03T04:31:26.537943029Z"
+        }
       },
       {
         "title": "wayback",
