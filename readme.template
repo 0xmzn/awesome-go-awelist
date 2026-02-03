@@ -1,3 +1,6 @@
+# Awesome Go
+This is a testing playground for [0xmzn/awelist](https://github.com/0xmzn/awelist). Data was extracted from [avelino/awesome-go](https://github.com/avelino/awesome-go).
+
 {{- range . }}
 ## {{ .Title }}
 
