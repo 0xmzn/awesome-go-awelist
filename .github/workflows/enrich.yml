@@ -29,7 +29,7 @@ jobs:
           GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
       
       - name: Generate Readme
-        run: awelist generate readme.template > README.md 
+        run: awelist generate -o README.md readme.template
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
