@@ -27,9 +27,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+      
+      - name: Generate Readme
+        run: awelist generate readme.template > README.md 
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update awesome-lock.json [skip ci]"
-          file_pattern: 'awesome-lock.json'
+          commit_message: "chore: update awesome-lock.json and README.md [skip ci]"
+          file_pattern: 'awesome-lock.json README.md'
