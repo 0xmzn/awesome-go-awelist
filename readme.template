@@ -8,7 +8,7 @@
 {{- if .Links }}
 {{ range .Links }}
 * [{{ .Title }}]({{ .URL }}) - {{ .Description }}
-{{- if .RepoMetadata }} (★ {{ .RepoMetadata.Stars }}){{- end }}
+{{- if .RepoMetadata }} ⭐ {{ .RepoMetadata.Stars }}{{- end }}
 {{- end }}
 {{- end }}
 
