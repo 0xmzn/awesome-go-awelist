@@ -7,7 +7,7 @@
 
 {{- if .Links }}
 {{ range .Links }}
-* [{{ .Title }}]({{ .URL }}) - {{ .Description }}
+* [{{ .Title }}]({{ .URL }}) {{- if .RepoMetadata }} / ⭐ {{ .RepoMetadata.Stars }}{{- end }} - {{ .Description }}
 {{- if .RepoMetadata }} ⭐ {{ .RepoMetadata.Stars }}{{- end }}
 {{- end }}
 {{- end }}
@@ -22,8 +22,7 @@
 
 {{- if .Links }}
 {{ range .Links }}
-* [{{ .Title }}]({{ .URL }}) - {{ .Description }}
-{{- if .RepoMetadata }} ({{ .RepoMetadata.Stars }}){{- end }}
+* [{{ .Title }}]({{ .URL }}) {{- if .RepoMetadata }} / ⭐ {{ .RepoMetadata.Stars }}{{- end }} - {{ .Description }}
 {{- end }}
 {{- end }}
 
