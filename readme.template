@@ -1,0 +1,34 @@
+{{- range . }}
+## {{ .Title }}
+
+{{- if .Description }}
+{{ .Description }}
+{{- end }}
+
+{{- if .Links }}
+{{ range .Links }}
+* [{{ .Title }}]({{ .URL }}) - {{ .Description }}
+{{- if .RepoMetadata }} (★ {{ .RepoMetadata.Stars }}){{- end }}
+{{- end }}
+{{- end }}
+
+{{- if .Subcategories }}
+{{- range .Subcategories }}
+### {{ .Title }}
+
+{{- if .Description }}
+{{ .Description }}
+{{- end }}
+
+{{- if .Links }}
+{{ range .Links }}
+* [{{ .Title }}]({{ .URL }}) - {{ .Description }}
+{{- if .RepoMetadata }} ({{ .RepoMetadata.Stars }}){{- end }}
+{{- end }}
+{{- end }}
+
+{{- end }}
+{{- end }}
+
+---
+{{- end }}
