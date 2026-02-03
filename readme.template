@@ -11,7 +11,6 @@ This is a testing playground for [0xmzn/awelist](https://github.com/0xmzn/awelis
 {{- if .Links }}
 {{ range .Links }}
 * [{{ .Title }}]({{ .URL }}) {{- if .RepoMetadata }} / ⭐ {{ .RepoMetadata.Stars }}{{- end }} - {{ .Description }}
-{{- if .RepoMetadata }} ⭐ {{ .RepoMetadata.Stars }}{{- end }}
 {{- end }}
 {{- end }}
 
