@@ -2,7 +2,7 @@
   {
     "title": "Actor Model",
     "description": "Libraries for building actor-based programs.",
-    "slug": "",
+    "slug": "actor-model",
     "links": [
       {
         "title": "asyncmachine-go/pkg/machine",
@@ -54,7 +54,7 @@
   {
     "title": "Artificial Intelligence",
     "description": "Libraries for building programs that leverage AI.",
-    "slug": "",
+    "slug": "artificial-intelligence",
     "links": [
       {
         "title": "chromem-go",
@@ -121,7 +121,7 @@
   {
     "title": "Audio and Music",
     "description": "Libraries for manipulating audio.",
-    "slug": "",
+    "slug": "audio-and-music",
     "links": [
       {
         "title": "beep",
@@ -238,7 +238,7 @@
   {
     "title": "Authentication and Authorization",
     "description": "Libraries for implementing authentication and authorization.",
-    "slug": "",
+    "slug": "authentication-and-authorization",
     "links": [
       {
         "title": "authboss",
@@ -635,7 +635,7 @@
   {
     "title": "Blockchain",
     "description": "Tools for building blockchains.",
-    "slug": "",
+    "slug": "blockchain",
     "links": [
       {
         "title": "cometbft",
@@ -752,7 +752,7 @@
   {
     "title": "Bot Building",
     "description": "Libraries for building and working with bots.",
-    "slug": "",
+    "slug": "bot-building",
     "links": [
       {
         "title": "arikawa",
@@ -894,7 +894,7 @@
   {
     "title": "Build Automation",
     "description": "Libraries and tools help with build automation.",
-    "slug": "",
+    "slug": "build-automation",
     "links": [
       {
         "title": "1build",
@@ -1025,12 +1025,12 @@
   },
   {
     "title": "Command Line",
-    "slug": "",
+    "slug": "command-line",
     "subcategories": [
       {
         "title": "Advanced Console UIs",
         "description": "Libraries for building Console Applications and Console User Interfaces.",
-        "slug": "",
+        "slug": "advanced-console-uis",
         "links": [
           {
             "title": "asciigraph",
@@ -1382,7 +1382,7 @@
       {
         "title": "Standard CLI",
         "description": "Libraries for building standard or basic Command Line applications.",
-        "slug": "",
+        "slug": "standard-cli",
         "links": [
           {
             "title": "acmd",
@@ -1876,7 +1876,7 @@
   {
     "title": "Configuration",
     "description": "Libraries for configuration parsing.",
-    "slug": "",
+    "slug": "configuration",
     "links": [
       {
         "title": "aconfig",
@@ -2458,7 +2458,7 @@
   {
     "title": "Continuous Integration",
     "description": "Tools for help with continuous integration.",
-    "slug": "",
+    "slug": "continuous-integration",
     "links": [
       {
         "title": "abstruse",
@@ -2615,7 +2615,7 @@
   {
     "title": "CSS Preprocessors",
     "description": "Libraries for preprocessing CSS files.",
-    "slug": "",
+    "slug": "css-preprocessors",
     "links": [
       {
         "title": "go-css",
@@ -2642,7 +2642,7 @@
   {
     "title": "Data Integration Frameworks",
     "description": "Frameworks for performing ELT / ETL",
-    "slug": "",
+    "slug": "data-integration-frameworks",
     "links": [
       {
         "title": "Benthos",
@@ -2678,11 +2678,11 @@
   },
   {
     "title": "Data Structures and Algorithms",
-    "slug": "",
+    "slug": "data-structures-and-algorithms",
     "subcategories": [
       {
         "title": "Bit-packing and Compression",
-        "slug": "",
+        "slug": "bit-packing-and-compression",
         "links": [
           {
             "title": "bingo",
@@ -2748,7 +2748,7 @@
       },
       {
         "title": "Bit Sets",
-        "slug": "",
+        "slug": "bit-sets",
         "links": [
           {
             "title": "bitmap",
@@ -2774,7 +2774,7 @@
       },
       {
         "title": "Bloom and Cuckoo Filters",
-        "slug": "",
+        "slug": "bloom-and-cuckoo-filters",
         "links": [
           {
             "title": "bloom",
@@ -2860,7 +2860,7 @@
       },
       {
         "title": "Data Structure and Algorithm Collections",
-        "slug": "",
+        "slug": "data-structure-and-algorithm-collections",
         "links": [
           {
             "title": "algorithms",
@@ -2906,7 +2906,7 @@
       },
       {
         "title": "Iterators",
-        "slug": "",
+        "slug": "iterators",
         "links": [
           {
             "title": "gloop",
@@ -2943,7 +2943,7 @@
       {
         "title": "Maps",
         "description": "See also Database for more complex key-value stores, and Trees for\nadditional ordered map implementations.",
-        "slug": "",
+        "slug": "maps",
         "links": [
           {
             "title": "cmap",
@@ -3009,7 +3009,7 @@
       },
       {
         "title": "Miscellaneous Data Structures and Algorithms",
-        "slug": "",
+        "slug": "miscellaneous-data-structures-and-algorithms",
         "links": [
           {
             "title": "concurrent-writer",
@@ -3185,7 +3185,7 @@
       },
       {
         "title": "Nullable Types",
-        "slug": "",
+        "slug": "nullable-types",
         "links": [
           {
             "title": "nan",
@@ -3221,7 +3221,7 @@
       },
       {
         "title": "Queues",
-        "slug": "",
+        "slug": "queues",
         "links": [
           {
             "title": "deque",
@@ -3307,7 +3307,7 @@
       },
       {
         "title": "Sets",
-        "slug": "",
+        "slug": "sets",
         "links": [
           {
             "title": "dsu",
@@ -3353,7 +3353,7 @@
       },
       {
         "title": "Text Analysis",
-        "slug": "",
+        "slug": "text-analysis",
         "links": [
           {
             "title": "bleve",
@@ -3449,7 +3449,7 @@
       },
       {
         "title": "Trees",
-        "slug": "",
+        "slug": "trees",
         "links": [
           {
             "title": "graphlib",
@@ -3515,7 +3515,7 @@
       },
       {
         "title": "Pipes",
-        "slug": "",
+        "slug": "pipes",
         "links": [
           {
             "title": "ordered-concurrently",
@@ -3563,12 +3563,12 @@
   },
   {
     "title": "Database",
-    "slug": "",
+    "slug": "database",
     "subcategories": [
       {
         "title": "Caches",
         "description": "Data stores with expiring records, in-memory distributed data stores, or in-memory subsets of file-based databases.",
-        "slug": "",
+        "slug": "caches",
         "links": [
           {
             "title": "bcache",
@@ -3874,7 +3874,7 @@
       },
       {
         "title": "Databases Implemented in Go",
-        "slug": "",
+        "slug": "databases-implemented-in-go",
         "links": [
           {
             "title": "badger",
@@ -4325,7 +4325,7 @@
       },
       {
         "title": "Database Schema Migration",
-        "slug": "",
+        "slug": "database-schema-migration",
         "links": [
           {
             "title": "atlas",
@@ -4546,7 +4546,7 @@
       },
       {
         "title": "Database Tools",
-        "slug": "",
+        "slug": "database-tools",
         "links": [
           {
             "title": "chproxy",
@@ -4738,7 +4738,7 @@
       {
         "title": "SQL Query Builders",
         "description": "Libraries for building and using SQL.",
-        "slug": "",
+        "slug": "sql-query-builders",
         "links": [
           {
             "title": "bqb",
@@ -5006,11 +5006,11 @@
   },
   {
     "title": "Database Drivers",
-    "slug": "",
+    "slug": "database-drivers",
     "subcategories": [
       {
         "title": "Interfaces to Multiple Backends",
-        "slug": "",
+        "slug": "interfaces-to-multiple-backends",
         "links": [
           {
             "title": "cayley",
@@ -5066,7 +5066,7 @@
       },
       {
         "title": "Relational Database Drivers",
-        "slug": "",
+        "slug": "relational-database-drivers",
         "links": [
           {
             "title": "avatica",
@@ -5277,7 +5277,7 @@
       },
       {
         "title": "NoSQL Database Drivers",
-        "slug": "",
+        "slug": "nosql-database-drivers",
         "links": [
           {
             "title": "aerospike-client-go",
@@ -5568,7 +5568,7 @@
       },
       {
         "title": "Search and Analytic Databases",
-        "slug": "",
+        "slug": "search-and-analytic-databases",
         "links": [
           {
             "title": "clickhouse-go",
@@ -5667,7 +5667,7 @@
   {
     "title": "Date and Time",
     "description": "Libraries for working with dates and times.",
-    "slug": "",
+    "slug": "date-and-time",
     "links": [
       {
         "title": "approx",
@@ -5904,7 +5904,7 @@
   {
     "title": "Distributed Systems",
     "description": "Packages that help with building Distributed Systems.",
-    "slug": "",
+    "slug": "distributed-systems",
     "links": [
       {
         "title": "arpc",
@@ -6541,7 +6541,7 @@
   {
     "title": "Dynamic DNS",
     "description": "Tools for updating dynamic DNS records.",
-    "slug": "",
+    "slug": "dynamic-dns",
     "links": [
       {
         "title": "DDNS",
@@ -6578,7 +6578,7 @@
   {
     "title": "Email",
     "description": "Libraries and tools that implement email creation and sending.",
-    "slug": "",
+    "slug": "email",
     "links": [
       {
         "title": "chasquid",
@@ -6820,7 +6820,7 @@
   {
     "title": "Embeddable Scripting Languages",
     "description": "Embedding other languages inside your go code.",
-    "slug": "",
+    "slug": "embeddable-scripting-languages",
     "links": [
       {
         "title": "anko",
@@ -7052,7 +7052,7 @@
   {
     "title": "Error Handling",
     "description": "Libraries for handling errors.",
-    "slug": "",
+    "slug": "error-handling",
     "links": [
       {
         "title": "emperror",
@@ -7239,7 +7239,7 @@
   {
     "title": "File Handling",
     "description": "Libraries for handling files and file systems.",
-    "slug": "",
+    "slug": "file-handling",
     "links": [
       {
         "title": "afero",
@@ -7506,7 +7506,7 @@
   {
     "title": "Financial",
     "description": "Packages for accounting and finance.",
-    "slug": "",
+    "slug": "financial",
     "links": [
       {
         "title": "accounting",
@@ -7768,7 +7768,7 @@
   {
     "title": "Forms",
     "description": "Libraries for working with forms.",
-    "slug": "",
+    "slug": "forms",
     "links": [
       {
         "title": "bind",
@@ -7905,7 +7905,7 @@
   {
     "title": "Functional",
     "description": "Packages to support functional programming in Go.",
-    "slug": "",
+    "slug": "functional",
     "links": [
       {
         "title": "fp-go",
@@ -8012,7 +8012,7 @@
   {
     "title": "Game Development",
     "description": "Awesome game development libraries.",
-    "slug": "",
+    "slug": "game-development",
     "links": [
       {
         "title": "Ark",
@@ -8239,7 +8239,7 @@
   {
     "title": "Generators",
     "description": "Tools that generate Go code.",
-    "slug": "",
+    "slug": "generators",
     "links": [
       {
         "title": "convergen",
@@ -8376,7 +8376,7 @@
   {
     "title": "Geographic",
     "description": "Geographic tools and servers",
-    "slug": "",
+    "slug": "geographic",
     "links": [
       {
         "title": "borders",
@@ -8553,7 +8553,7 @@
   {
     "title": "Go Compilers",
     "description": "Tools for compiling Go to other languages and vice-versa.",
-    "slug": "",
+    "slug": "go-compilers",
     "links": [
       {
         "title": "bunster",
@@ -8630,7 +8630,7 @@
   {
     "title": "Goroutines",
     "description": "Tools for managing and working with Goroutines.",
-    "slug": "",
+    "slug": "goroutines",
     "links": [
       {
         "title": "anchor",
@@ -9132,7 +9132,7 @@
   {
     "title": "GUI",
     "description": "Interaction",
-    "slug": "",
+    "slug": "gui",
     "links": [
       {
         "title": "app",
@@ -9399,7 +9399,7 @@
   {
     "title": "Hardware",
     "description": "Libraries, tools, and tutorials for interacting with hardware.",
-    "slug": "",
+    "slug": "hardware",
     "links": [
       {
         "title": "arduino-cli",
@@ -9486,7 +9486,7 @@
   {
     "title": "Images",
     "description": "Libraries for manipulating images.",
-    "slug": "",
+    "slug": "images",
     "links": [
       {
         "title": "bild",
@@ -9923,7 +9923,7 @@
   {
     "title": "IoT (Internet of Things)",
     "description": "Libraries for programming devices of the IoT.",
-    "slug": "",
+    "slug": "iot-internet-of-things",
     "links": [
       {
         "title": "connectordb",
@@ -10065,7 +10065,7 @@
   {
     "title": "Job Scheduler",
     "description": "Libraries for scheduling jobs.",
-    "slug": "",
+    "slug": "job-scheduler",
     "links": [
       {
         "title": "cdule",
@@ -10242,7 +10242,7 @@
   {
     "title": "JSON",
     "description": "Libraries for working with JSON.",
-    "slug": "",
+    "slug": "json",
     "links": [
       {
         "title": "ajson",
@@ -10639,7 +10639,7 @@
   {
     "title": "Logging",
     "description": "Libraries for generating and working with log files.",
-    "slug": "",
+    "slug": "logging",
     "links": [
       {
         "title": "distillog",
@@ -11261,7 +11261,7 @@
   {
     "title": "Machine Learning",
     "description": "Libraries for Machine Learning.",
-    "slug": "",
+    "slug": "machine-learning",
     "links": [
       {
         "title": "bayesian",
@@ -11648,7 +11648,7 @@
   {
     "title": "Messaging",
     "description": "Libraries that implement messaging systems.",
-    "slug": "",
+    "slug": "messaging",
     "links": [
       {
         "title": "ami",
@@ -12234,7 +12234,7 @@
   },
   {
     "title": "Microsoft Office",
-    "slug": "",
+    "slug": "microsoft-office",
     "links": [
       {
         "title": "unioffice",
@@ -12251,7 +12251,7 @@
       {
         "title": "Microsoft Excel",
         "description": "Libraries for working with Microsoft Excel.",
-        "slug": "",
+        "slug": "microsoft-excel",
         "links": [
           {
             "title": "cellwalker",
@@ -12318,7 +12318,7 @@
       {
         "title": "Microsoft Word",
         "description": "Libraries for working with Microsoft Word.",
-        "slug": "",
+        "slug": "microsoft-word",
         "links": [
           {
             "title": "godocx",
@@ -12336,12 +12336,12 @@
   },
   {
     "title": "Miscellaneous",
-    "slug": "",
+    "slug": "miscellaneous",
     "subcategories": [
       {
         "title": "Dependency Injection",
         "description": "Libraries for working with dependency injection.",
-        "slug": "",
+        "slug": "dependency-injection",
         "links": [
           {
             "title": "alice",
@@ -12598,7 +12598,7 @@
       {
         "title": "Project Layout",
         "description": "Unofficial set of patterns for structuring projects.",
-        "slug": "",
+        "slug": "project-layout",
         "links": [
           {
             "title": "ardanlabs/service",
@@ -12795,7 +12795,7 @@
       {
         "title": "Strings",
         "description": "Libraries for working with strings.",
-        "slug": "",
+        "slug": "strings",
         "links": [
           {
             "title": "bexp",
@@ -12877,7 +12877,7 @@
       {
         "title": "Uncategorized",
         "description": "These libraries were placed here because none of the other categories seemed to fit.",
-        "slug": "",
+        "slug": "uncategorized",
         "links": [
           {
             "title": "anagent",
@@ -13466,11 +13466,11 @@
   {
     "title": "Natural Language Processing",
     "description": "See also Text Processing and Text Analysis.",
-    "slug": "",
+    "slug": "natural-language-processing",
     "subcategories": [
       {
         "title": "Language Detection",
-        "slug": "",
+        "slug": "language-detection",
         "links": [
           {
             "title": "detectlanguage",
@@ -13526,7 +13526,7 @@
       },
       {
         "title": "Morphological Analyzers",
-        "slug": "",
+        "slug": "morphological-analyzers",
         "links": [
           {
             "title": "go-stem",
@@ -13692,7 +13692,7 @@
       },
       {
         "title": "Slugifiers",
-        "slug": "",
+        "slug": "slugifiers",
         "links": [
           {
             "title": "go-slugify",
@@ -13728,7 +13728,7 @@
       },
       {
         "title": "Tokenizers",
-        "slug": "",
+        "slug": "tokenizers",
         "links": [
           {
             "title": "gojieba",
@@ -13824,7 +13824,7 @@
       },
       {
         "title": "Translation",
-        "slug": "",
+        "slug": "translation",
         "links": [
           {
             "title": "ctxi18n",
@@ -13920,7 +13920,7 @@
       },
       {
         "title": "Transliteration",
-        "slug": "",
+        "slug": "transliteration",
         "links": [
           {
             "title": "enca",
@@ -13969,7 +13969,7 @@
   {
     "title": "Networking",
     "description": "Libraries for working with various layers of the network.",
-    "slug": "",
+    "slug": "networking",
     "links": [
       {
         "title": "arp",
@@ -14746,7 +14746,7 @@
       {
         "title": "HTTP Clients",
         "description": "Libraries for making HTTP requests.",
-        "slug": "",
+        "slug": "http-clients",
         "links": [
           {
             "title": "axios4go",
@@ -14995,7 +14995,7 @@
   {
     "title": "OpenGL",
     "description": "Libraries for using OpenGL in Go.",
-    "slug": "",
+    "slug": "opengl",
     "links": [
       {
         "title": "gl",
@@ -15062,7 +15062,7 @@
   {
     "title": "ORM",
     "description": "Libraries that implement Object-Relational Mapping or datamapping techniques.",
-    "slug": "",
+    "slug": "orm",
     "links": [
       {
         "title": "bob",
@@ -15314,7 +15314,7 @@
   {
     "title": "Package Management",
     "description": "Unofficial libraries for package and dependency management.",
-    "slug": "",
+    "slug": "package-management",
     "links": [
       {
         "title": "go modules",
@@ -15355,7 +15355,7 @@
   },
   {
     "title": "Performance",
-    "slug": "",
+    "slug": "performance",
     "links": [
       {
         "title": "ebpf-go",
@@ -15441,7 +15441,7 @@
   },
   {
     "title": "Query Language",
-    "slug": "",
+    "slug": "query-language",
     "links": [
       {
         "title": "api-fu",
@@ -15617,7 +15617,7 @@
   },
   {
     "title": "Reflection",
-    "slug": "",
+    "slug": "reflection",
     "links": [
       {
         "title": "copy",
@@ -15713,7 +15713,7 @@
   },
   {
     "title": "Resource Embedding",
-    "slug": "",
+    "slug": "resource-embedding",
     "links": [
       {
         "title": "debme",
@@ -15755,7 +15755,7 @@
   {
     "title": "Science and Data Analysis",
     "description": "Libraries for scientific computing and data analyzing.",
-    "slug": "",
+    "slug": "science-and-data-analysis",
     "links": [
       {
         "title": "assocentity",
@@ -16117,7 +16117,7 @@
   {
     "title": "Security",
     "description": "Libraries that are used to help make your application more secure.",
-    "slug": "",
+    "slug": "security",
     "links": [
       {
         "title": "acmetool",
@@ -16554,7 +16554,7 @@
   {
     "title": "Serialization",
     "description": "Libraries and tools for binary serialization.",
-    "slug": "",
+    "slug": "serialization",
     "links": [
       {
         "title": "bambam",
@@ -16750,7 +16750,7 @@
   },
   {
     "title": "Server Applications",
-    "slug": "",
+    "slug": "server-applications",
     "links": [
       {
         "title": "algernon",
@@ -17062,7 +17062,7 @@
   {
     "title": "Stream Processing",
     "description": "Libraries and tools for stream processing and reactive programming.",
-    "slug": "",
+    "slug": "stream-processing",
     "links": [
       {
         "title": "go-etl",
@@ -17159,7 +17159,7 @@
   {
     "title": "Template Engines",
     "description": "Libraries and tools for templating and lexing.",
-    "slug": "",
+    "slug": "template-engines",
     "links": [
       {
         "title": "ego",
@@ -17331,11 +17331,11 @@
   {
     "title": "Testing",
     "description": "Libraries for testing codebases and generating test data.",
-    "slug": "",
+    "slug": "testing",
     "subcategories": [
       {
         "title": "Testing Frameworks",
-        "slug": "",
+        "slug": "testing-frameworks",
         "links": [
           {
             "title": "apitest",
@@ -17976,7 +17976,7 @@
       },
       {
         "title": "Mock",
-        "slug": "",
+        "slug": "mock",
         "links": [
           {
             "title": "connexions",
@@ -18187,7 +18187,7 @@
       },
       {
         "title": "Fuzzing and delta-debugging/reducing/shrinking",
-        "slug": "",
+        "slug": "fuzzing-and-delta-debugging-reducing-shrinking",
         "links": [
           {
             "title": "go-fuzz",
@@ -18213,7 +18213,7 @@
       },
       {
         "title": "Selenium and browser control tools",
-        "slug": "",
+        "slug": "selenium-and-browser-control-tools",
         "links": [
           {
             "title": "cdp",
@@ -18259,7 +18259,7 @@
       },
       {
         "title": "Fail injection",
-        "slug": "",
+        "slug": "fail-injection",
         "links": [
           {
             "title": "failpoint",
@@ -18278,11 +18278,11 @@
   {
     "title": "Text Processing",
     "description": "See also Natural Language Processing and Text Analysis.",
-    "slug": "",
+    "slug": "text-processing",
     "subcategories": [
       {
         "title": "Formatters",
-        "slug": "",
+        "slug": "formatters",
         "links": [
           {
             "title": "address",
@@ -18363,7 +18363,7 @@
       },
       {
         "title": "Markup Languages",
-        "slug": "",
+        "slug": "markup-languages",
         "links": [
           {
             "title": "bafi",
@@ -18499,7 +18499,7 @@
       },
       {
         "title": "Parsers/Encoders/Decoders",
-        "slug": "",
+        "slug": "parsers-encoders-decoders",
         "links": [
           {
             "title": "allot",
@@ -18750,7 +18750,7 @@
       },
       {
         "title": "Regular Expressions",
-        "slug": "",
+        "slug": "regular-expressions",
         "links": [
           {
             "title": "genex",
@@ -18806,7 +18806,7 @@
       },
       {
         "title": "Sanitation",
-        "slug": "",
+        "slug": "sanitation",
         "links": [
           {
             "title": "bluemonday",
@@ -18832,7 +18832,7 @@
       },
       {
         "title": "Scrapers",
-        "slug": "",
+        "slug": "scrapers",
         "links": [
           {
             "title": "colly",
@@ -18928,7 +18928,7 @@
       },
       {
         "title": "RSS",
-        "slug": "",
+        "slug": "rss",
         "links": [
           {
             "title": "podcast",
@@ -18944,7 +18944,7 @@
       },
       {
         "title": "Utility/Miscellaneous",
-        "slug": "",
+        "slug": "utility-miscellaneous",
         "links": [
           {
             "title": "go-runewidth",
@@ -19023,7 +19023,7 @@
   {
     "title": "Third-party APIs",
     "description": "Libraries for accessing third party APIs.",
-    "slug": "",
+    "slug": "third-party-apis",
     "links": [
       {
         "title": "airtable",
@@ -20050,7 +20050,7 @@
   {
     "title": "Utilities",
     "description": "General utilities and tools to make your life easier.",
-    "slug": "",
+    "slug": "utilities",
     "links": [
       {
         "title": "abstract",
@@ -21887,7 +21887,7 @@
   {
     "title": "UUID",
     "description": "Libraries for working with UUIDs.",
-    "slug": "",
+    "slug": "uuid",
     "links": [
       {
         "title": "fastuuid",
@@ -22034,7 +22034,7 @@
   {
     "title": "Validation",
     "description": "Libraries for validation.",
-    "slug": "",
+    "slug": "validation",
     "links": [
       {
         "title": "checkdigit",
@@ -22191,7 +22191,7 @@
   {
     "title": "Version Control",
     "description": "Libraries for version control.",
-    "slug": "",
+    "slug": "version-control",
     "links": [
       {
         "title": "cli",
@@ -22278,7 +22278,7 @@
   {
     "title": "Video",
     "description": "Libraries for manipulating video.",
-    "slug": "",
+    "slug": "video",
     "links": [
       {
         "title": "gmf",
@@ -22395,7 +22395,7 @@
   {
     "title": "Web Frameworks",
     "description": "Full stack web frameworks.",
-    "slug": "",
+    "slug": "web-frameworks",
     "links": [
       {
         "title": "Atreugo",
@@ -22771,7 +22771,7 @@
     "subcategories": [
       {
         "title": "Middlewares",
-        "slug": "",
+        "slug": "middlewares",
         "links": [
           {
             "title": "client-timing",
@@ -23007,7 +23007,7 @@
       },
       {
         "title": "Routers",
-        "slug": "",
+        "slug": "routers",
         "links": [
           {
             "title": "alien",
@@ -23285,7 +23285,7 @@
   },
   {
     "title": "WebAssembly",
-    "slug": "",
+    "slug": "webassembly",
     "links": [
       {
         "title": "dom",
@@ -23361,7 +23361,7 @@
   },
   {
     "title": "Webhooks Server",
-    "slug": "",
+    "slug": "webhooks-server",
     "links": [
       {
         "title": "webhook",
@@ -23397,7 +23397,7 @@
   },
   {
     "title": "Windows",
-    "slug": "",
+    "slug": "windows",
     "links": [
       {
         "title": "d3d9",
@@ -23434,7 +23434,7 @@
   {
     "title": "Workflow Frameworks",
     "description": "Libraries for creating Workflows.",
-    "slug": "",
+    "slug": "workflow-frameworks",
     "links": [
       {
         "title": "Cadence-client",
@@ -23491,7 +23491,7 @@
   {
     "title": "XML",
     "description": "Libraries and tools for manipulating XML.",
-    "slug": "",
+    "slug": "xml",
     "links": [
       {
         "title": "XML-Comp",
@@ -23558,7 +23558,7 @@
   {
     "title": "Zero Trust",
     "description": "Libraries and tools to implement Zero Trust architectures.",
-    "slug": "",
+    "slug": "zero-trust",
     "links": [
       {
         "title": "Cosign",
@@ -23615,7 +23615,7 @@
   {
     "title": "Code Analysis",
     "description": "Source code analysis tools, also known as Static Application Security Testing (SAST) Tools.",
-    "slug": "",
+    "slug": "code-analysis",
     "links": [
       {
         "title": "apicompat",
@@ -23932,7 +23932,7 @@
   {
     "title": "Editor Plugins",
     "description": "Plugin for text editors and IDEs.",
-    "slug": "",
+    "slug": "editor-plugins",
     "links": [
       {
         "title": "coc-go language server extension for Vim/Neovim",
@@ -24058,7 +24058,7 @@
   },
   {
     "title": "Go Generate Tools",
-    "slug": "",
+    "slug": "go-generate-tools",
     "links": [
       {
         "title": "envdoc",
@@ -24189,7 +24189,7 @@
   },
   {
     "title": "Go Tools",
-    "slug": "",
+    "slug": "go-tools",
     "links": [
       {
         "title": "decouple",
@@ -24396,11 +24396,11 @@
   {
     "title": "Software Packages",
     "description": "Software written in Go.",
-    "slug": "",
+    "slug": "software-packages",
     "subcategories": [
       {
         "title": "DevOps Tools",
-        "slug": "",
+        "slug": "devops-tools",
         "links": [
           {
             "title": "abbreviate",
@@ -25357,7 +25357,7 @@
       {
         "title": "Other Software",
         "description": "Where to discover new Go libraries.",
-        "slug": "",
+        "slug": "other-software",
         "links": [
           {
             "title": "Better Go Playground",
@@ -26030,7 +26030,7 @@
   },
   {
     "title": "Benchmarks",
-    "slug": "",
+    "slug": "benchmarks",
     "links": [
       {
         "title": "autobench",
@@ -26181,7 +26181,7 @@
   },
   {
     "title": "Conferences",
-    "slug": "",
+    "slug": "conferences",
     "links": [
       {
         "title": "GoCon",
@@ -26262,11 +26262,11 @@
   },
   {
     "title": "E-Books",
-    "slug": "",
+    "slug": "e-books",
     "subcategories": [
       {
         "title": "E-books for purchase",
-        "slug": "",
+        "slug": "e-books-for-purchase",
         "links": [
           {
             "title": "100 Go Mistakes: How to Avoid Them",
@@ -26347,7 +26347,7 @@
       },
       {
         "title": "Free e-books",
-        "slug": "",
+        "slug": "free-e-books",
         "links": [
           {
             "title": "A Go Developer's Notebook",
@@ -26490,7 +26490,7 @@
   },
   {
     "title": "Gophers",
-    "slug": "",
+    "slug": "gophers",
     "links": [
       {
         "title": "Free Gophers Pack",
@@ -26607,7 +26607,7 @@
   {
     "title": "Meetups",
     "description": "Add the group of your city/country here (send PR)",
-    "slug": "",
+    "slug": "meetups",
     "links": [
       {
         "title": "Basel Go Meetup",
@@ -26938,7 +26938,7 @@
   },
   {
     "title": "Style Guides",
-    "slug": "",
+    "slug": "style-guides",
     "links": [
       {
         "title": "bahlo/go-styleguide",
@@ -26984,11 +26984,11 @@
   },
   {
     "title": "Social Media",
-    "slug": "",
+    "slug": "social-media",
     "subcategories": [
       {
         "title": "Twitter",
-        "slug": "",
+        "slug": "twitter",
         "links": [
           {
             "title": "@GoDiscussions",
@@ -27019,7 +27019,7 @@
       },
       {
         "title": "Reddit",
-        "slug": "",
+        "slug": "reddit",
         "links": [
           {
             "title": "r/golang",
@@ -27032,7 +27032,7 @@
   },
   {
     "title": "Websites",
-    "slug": "",
+    "slug": "websites",
     "links": [
       {
         "title": "Awesome Go @LibHunt",
@@ -27233,7 +27233,7 @@
     "subcategories": [
       {
         "title": "Tutorials",
-        "slug": "",
+        "slug": "tutorials",
         "links": [
           {
             "title": "50 Shades of Go",
@@ -27529,7 +27529,7 @@
       },
       {
         "title": "Guided Learning",
-        "slug": "",
+        "slug": "guided-learning",
         "links": [
           {
             "title": "The Go Developer Roadmap",
