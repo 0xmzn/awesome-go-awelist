@@ -34,7 +34,7 @@ jobs:
 
       - name: Install awelist
         run: |
-          go install github.com/0xmzn/awelist@latest
+          go install github.com/0xmzn/awelist/cmd/awelist@latest
         env:
           GOPROXY: direct
 
