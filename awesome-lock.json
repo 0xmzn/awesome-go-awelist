@@ -14,9 +14,9 @@
         "description": "An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.",
         "url": "https://github.com/ergo-services/ergo",
         "repo_metadata": {
-          "stars": 4353,
+          "stars": 4380,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:45:58.076847936Z"
+          "enriched_at": "2026-02-05T06:55:15.930401622Z"
         }
       },
       {
@@ -26,7 +26,7 @@
         "repo_metadata": {
           "stars": 319,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:45:58.305229588Z"
+          "enriched_at": "2026-02-05T06:55:16.11681888Z"
         }
       },
       {
@@ -36,7 +36,7 @@
         "repo_metadata": {
           "stars": 2176,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:45:58.488702832Z"
+          "enriched_at": "2026-02-05T06:55:16.299714525Z"
         }
       },
       {
@@ -46,7 +46,7 @@
         "repo_metadata": {
           "stars": 5419,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:45:58.704111578Z"
+          "enriched_at": "2026-02-05T06:55:16.497408813Z"
         }
       }
     ]
@@ -61,9 +61,9 @@
         "description": "Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.",
         "url": "https://github.com/philippgille/chromem-go",
         "repo_metadata": {
-          "stars": 842,
+          "stars": 843,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:45:58.901082912Z"
+          "enriched_at": "2026-02-05T06:55:16.703193815Z"
         }
       },
       {
@@ -81,9 +81,9 @@
         "description": "LangChainGo is a framework for developing applications powered by language models.",
         "url": "https://github.com/tmc/langchaingo",
         "repo_metadata": {
-          "stars": 8583,
+          "stars": 8588,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:45:59.104499695Z"
+          "enriched_at": "2026-02-05T06:55:16.875043116Z"
         }
       },
       {
@@ -91,9 +91,9 @@
         "description": "Open Source OpenAI alternative, self-host AI models.",
         "url": "https://github.com/mudler/LocalAI",
         "repo_metadata": {
-          "stars": 42573,
+          "stars": 42588,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:45:59.353922593Z"
+          "enriched_at": "2026-02-05T06:55:17.09385964Z"
         }
       },
       {
@@ -101,9 +101,9 @@
         "description": "Run large language models locally.",
         "url": "https://github.com/jmorganca/ollama",
         "repo_metadata": {
-          "stars": 161615,
+          "stars": 161751,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:45:59.703041905Z"
+          "enriched_at": "2026-02-05T06:55:17.415734015Z"
         }
       },
       {
@@ -113,7 +113,7 @@
         "repo_metadata": {
           "stars": 94,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:45:59.894460038Z"
+          "enriched_at": "2026-02-05T06:55:17.595584485Z"
         }
       }
     ]
@@ -128,9 +128,9 @@
         "description": "A simple library for playback and audio manipulation.",
         "url": "https://github.com/gopxl/beep",
         "repo_metadata": {
-          "stars": 510,
+          "stars": 509,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:00.098192185Z"
+          "enriched_at": "2026-02-05T06:55:17.783789198Z"
         }
       },
       {
@@ -140,7 +140,7 @@
         "repo_metadata": {
           "stars": 350,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:00.31280809Z"
+          "enriched_at": "2026-02-05T06:55:18.012225269Z"
         }
       },
       {
@@ -150,7 +150,7 @@
         "repo_metadata": {
           "stars": 135,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:00.569390377Z"
+          "enriched_at": "2026-02-05T06:55:18.212695902Z"
         }
       },
       {
@@ -160,7 +160,7 @@
         "repo_metadata": {
           "stars": 19,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:00.785889061Z"
+          "enriched_at": "2026-02-05T06:55:18.397666526Z"
         }
       },
       {
@@ -168,9 +168,9 @@
         "description": "Native Go Audio Processing Library.",
         "url": "https://github.com/DylanMeeus/GoAudio",
         "repo_metadata": {
-          "stars": 403,
+          "stars": 404,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:00.971199623Z"
+          "enriched_at": "2026-02-05T06:55:18.587234302Z"
         }
       },
       {
@@ -180,7 +180,7 @@
         "repo_metadata": {
           "stars": 38,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:01.180340577Z"
+          "enriched_at": "2026-02-05T06:55:18.767188674Z"
         }
       },
       {
@@ -190,7 +190,7 @@
         "repo_metadata": {
           "stars": 360,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:01.633149043Z"
+          "enriched_at": "2026-02-05T06:55:19.097374886Z"
         }
       },
       {
@@ -200,7 +200,7 @@
         "repo_metadata": {
           "stars": 385,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:01.84807008Z"
+          "enriched_at": "2026-02-05T06:55:19.245900069Z"
         }
       },
       {
@@ -210,7 +210,7 @@
         "repo_metadata": {
           "stars": 133,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:02.066983378Z"
+          "enriched_at": "2026-02-05T06:55:19.457188049Z"
         }
       },
       {
@@ -220,7 +220,7 @@
         "repo_metadata": {
           "stars": 1854,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:02.427928148Z"
+          "enriched_at": "2026-02-05T06:55:19.863491488Z"
         }
       },
       {
@@ -230,7 +230,7 @@
         "repo_metadata": {
           "stars": 825,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:02.611577403Z"
+          "enriched_at": "2026-02-05T06:55:20.058580241Z"
         }
       }
     ]
@@ -247,7 +247,7 @@
         "repo_metadata": {
           "stars": 4145,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:02.941277428Z"
+          "enriched_at": "2026-02-05T06:55:20.362653414Z"
         }
       },
       {
@@ -257,7 +257,7 @@
         "repo_metadata": {
           "stars": 95,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:03.159447782Z"
+          "enriched_at": "2026-02-05T06:55:20.595931023Z"
         }
       },
       {
@@ -265,9 +265,9 @@
         "description": "Authorization library that supports access control models like ACL, RBAC, and ABAC.",
         "url": "https://github.com/hsluoyz/casbin",
         "repo_metadata": {
-          "stars": 19802,
+          "stars": 19805,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:03.601059826Z"
+          "enriched_at": "2026-02-05T06:55:20.897006457Z"
         }
       },
       {
@@ -277,7 +277,7 @@
         "repo_metadata": {
           "stars": 22,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:03.868948756Z"
+          "enriched_at": "2026-02-05T06:55:21.055117058Z"
         }
       },
       {
@@ -287,7 +287,7 @@
         "repo_metadata": {
           "stars": 26,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:04.07843339Z"
+          "enriched_at": "2026-02-05T06:55:21.238965623Z"
         }
       },
       {
@@ -297,7 +297,7 @@
         "repo_metadata": {
           "stars": 607,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:04.276299361Z"
+          "enriched_at": "2026-02-05T06:55:21.433352431Z"
         }
       },
       {
@@ -307,7 +307,7 @@
         "repo_metadata": {
           "stars": 34,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:04.499515621Z"
+          "enriched_at": "2026-02-05T06:55:21.581470332Z"
         }
       },
       {
@@ -317,7 +317,7 @@
         "repo_metadata": {
           "stars": 478,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:04.683451603Z"
+          "enriched_at": "2026-02-05T06:55:21.750157622Z"
         }
       },
       {
@@ -327,7 +327,7 @@
         "repo_metadata": {
           "stars": 16,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:04.883161447Z"
+          "enriched_at": "2026-02-05T06:55:21.973539178Z"
         }
       },
       {
@@ -337,7 +337,7 @@
         "repo_metadata": {
           "stars": 183,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:05.084520616Z"
+          "enriched_at": "2026-02-05T06:55:22.153445451Z"
         }
       },
       {
@@ -347,7 +347,7 @@
         "repo_metadata": {
           "stars": 1945,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:05.280896935Z"
+          "enriched_at": "2026-02-05T06:55:22.315806262Z"
         }
       },
       {
@@ -357,7 +357,7 @@
         "repo_metadata": {
           "stars": 1659,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:05.45985156Z"
+          "enriched_at": "2026-02-05T06:55:22.534851345Z"
         }
       },
       {
@@ -367,7 +367,7 @@
         "repo_metadata": {
           "stars": 258,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:05.676800051Z"
+          "enriched_at": "2026-02-05T06:55:22.739620399Z"
         }
       },
       {
@@ -375,9 +375,9 @@
         "description": "provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box.",
         "url": "https://github.com/markbates/goth",
         "repo_metadata": {
-          "stars": 6435,
+          "stars": 6436,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:05.868901103Z"
+          "enriched_at": "2026-02-05T06:55:22.950606857Z"
         }
       },
       {
@@ -387,7 +387,7 @@
         "repo_metadata": {
           "stars": 270,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:06.067793285Z"
+          "enriched_at": "2026-02-05T06:55:23.13882487Z"
         }
       },
       {
@@ -397,7 +397,7 @@
         "repo_metadata": {
           "stars": 362,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:06.245706446Z"
+          "enriched_at": "2026-02-05T06:55:23.517771371Z"
         }
       },
       {
@@ -407,7 +407,7 @@
         "repo_metadata": {
           "stars": 687,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:06.459790799Z"
+          "enriched_at": "2026-02-05T06:55:23.721368619Z"
         }
       },
       {
@@ -417,7 +417,7 @@
         "repo_metadata": {
           "stars": 237,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:06.692568005Z"
+          "enriched_at": "2026-02-05T06:55:23.89334922Z"
         }
       },
       {
@@ -427,7 +427,7 @@
         "repo_metadata": {
           "stars": 8884,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:06.930892464Z"
+          "enriched_at": "2026-02-05T06:55:24.162093671Z"
         }
       },
       {
@@ -435,9 +435,9 @@
         "description": "Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies.",
         "url": "https://github.com/lestrrat-go/jwx",
         "repo_metadata": {
-          "stars": 2309,
+          "stars": 2311,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:07.121571393Z"
+          "enriched_at": "2026-02-05T06:55:24.412926725Z"
         }
       },
       {
@@ -445,9 +445,9 @@
         "description": "Open Source (Go) implementation of \"Zanzibar: Google's Consistent, Global Authorization System\". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.",
         "url": "https://github.com/ory/keto",
         "repo_metadata": {
-          "stars": 5264,
+          "stars": 5265,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:07.34233786Z"
+          "enriched_at": "2026-02-05T06:55:24.640744051Z"
         }
       },
       {
@@ -457,7 +457,7 @@
         "repo_metadata": {
           "stars": 1926,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:07.742083255Z"
+          "enriched_at": "2026-02-05T06:55:25.078611204Z"
         }
       },
       {
@@ -465,9 +465,9 @@
         "description": "Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support.",
         "url": "https://github.com/golang/oauth2",
         "repo_metadata": {
-          "stars": 5814,
+          "stars": 5816,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:07.979999902Z"
+          "enriched_at": "2026-02-05T06:55:25.293972931Z"
         }
       },
       {
@@ -477,7 +477,7 @@
         "repo_metadata": {
           "stars": 1759,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:08.223085538Z"
+          "enriched_at": "2026-02-05T06:55:25.452099096Z"
         }
       },
       {
@@ -485,9 +485,9 @@
         "description": "Implementation of fine-grained authorization based on the \"Zanzibar: Google's Consistent, Global Authorization System\" paper. Backed by CNCF.",
         "url": "https://github.com/openfga/openfga",
         "repo_metadata": {
-          "stars": 4702,
+          "stars": 4705,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:08.436736963Z"
+          "enriched_at": "2026-02-05T06:55:25.666378558Z"
         }
       },
       {
@@ -497,7 +497,7 @@
         "repo_metadata": {
           "stars": 1935,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:08.65914266Z"
+          "enriched_at": "2026-02-05T06:55:25.871950058Z"
         }
       },
       {
@@ -507,7 +507,7 @@
         "repo_metadata": {
           "stars": 142,
           "is_archived": false,
-          "enriched_at": "2026-02-04T06:46:09.038807663Z"
+          "enriched_at": "2026-02-05T06:55:26.238323637Z"
         }
       },
       {
