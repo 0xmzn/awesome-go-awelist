@@ -4,31 +4,31 @@ This is a testing playground for [0xmzn/awelist](https://github.com/0xmzn/awelis
 Libraries for building actor-based programs.
 
 * [asyncmachine-go/pkg/machine](https://github.com/pancsta/asyncmachine-go/tree/main/pkg/machine) - Graph control flow library (AOP, actor, state-machine).
-* [Ergo](https://github.com/ergo-services/ergo) / ⭐ 4426 - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.
+* [Ergo](https://github.com/ergo-services/ergo) / ⭐ 4428 - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.
 * [Goakt](https://github.com/Tochemey/goakt) / ⭐ 321 - Fast and Distributed Actor framework using protocol buffers as message for Golang.
-* [Hollywood](https://github.com/anthdm/hollywood) / ⭐ 2177 - Blazingly fast and light-weight Actor engine written in Golang.
+* [Hollywood](https://github.com/anthdm/hollywood) / ⭐ 2176 - Blazingly fast and light-weight Actor engine written in Golang.
 * [ProtoActor](https://github.com/asynkron/protoactor-go) / ⭐ 5419 - Distributed actors for Go, C#, and Java/Kotlin.
 
 ---
 ## Artificial Intelligence
 Libraries for building programs that leverage AI.
 
-* [chromem-go](https://github.com/philippgille/chromem-go) / ⭐ 862 - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
+* [chromem-go](https://github.com/philippgille/chromem-go) / ⭐ 863 - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 * [fun](https://gitlab.com/tozd/go/fun) / ⭐ 7 - The simplest but powerful way to use large language models (LLMs) in Go.
-* [langchaingo](https://github.com/tmc/langchaingo) / ⭐ 8654 - LangChainGo is a framework for developing applications powered by language models.
-* [LocalAI](https://github.com/mudler/LocalAI) / ⭐ 42842 - Open Source OpenAI alternative, self-host AI models.
-* [Ollama](https://github.com/jmorganca/ollama) / ⭐ 162704 - Run large language models locally.
+* [langchaingo](https://github.com/tmc/langchaingo) / ⭐ 8661 - LangChainGo is a framework for developing applications powered by language models.
+* [LocalAI](https://github.com/mudler/LocalAI) / ⭐ 42853 - Open Source OpenAI alternative, self-host AI models.
+* [Ollama](https://github.com/jmorganca/ollama) / ⭐ 162778 - Run large language models locally.
 * [OllamaFarm](https://github.com/presbrey/ollamafarm) / ⭐ 95 - Manage, load-balance, and failover packs of Ollamas.
 
 ---
 ## Audio and Music
 Libraries for manipulating audio.
 
-* [beep](https://github.com/gopxl/beep) / ⭐ 514 - A simple library for playback and audio manipulation.
+* [beep](https://github.com/gopxl/beep) / ⭐ 516 - A simple library for playback and audio manipulation.
 * [flac](https://github.com/mewkiz/flac) / ⭐ 350 - Native Go FLAC encoder/decoder with support for FLAC streams.
 * [gaad](https://github.com/Comcast/gaad) / ⭐ 135 - Native Go AAC bitstream parser.
 * [go-mpris](https://github.com/leberKleber/go-mpris) / ⭐ 19 - Client for mpris dbus interfaces.
-* [GoAudio](https://github.com/DylanMeeus/GoAudio) / ⭐ 404 - Native Go Audio Processing Library.
+* [GoAudio](https://github.com/DylanMeeus/GoAudio) / ⭐ 405 - Native Go Audio Processing Library.
 * [gosamplerate](https://github.com/dh1tw/gosamplerate) / ⭐ 38 - libsamplerate bindings for go.
 * [id3v2](https://github.com/bogem/id3v2) / ⭐ 360 - ID3 decoding and encoding library for Go.
 * [malgo](https://github.com/gen2brain/malgo) / ⭐ 387 - Mini audio library.
@@ -42,7 +42,7 @@ Libraries for implementing authentication and authorization.
 
 * [authboss](https://github.com/volatiletech/authboss) / ⭐ 4149 - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.
 * [branca](https://github.com/essentialkaos/branca) / ⭐ 95 - branca token specification implementation for Golang 1.15+.
-* [casbin](https://github.com/hsluoyz/casbin) / ⭐ 19837 - Authorization library that supports access control models like ACL, RBAC, and ABAC.
+* [casbin](https://github.com/hsluoyz/casbin) / ⭐ 19839 - Authorization library that supports access control models like ACL, RBAC, and ABAC.
 * [cookiestxt](https://github.com/mengzhuo/cookiestxt) / ⭐ 22 - provides a parser of cookies.txt file format.
 * [go-githubauth](https://github.com/jferrl/go-githubauth) / ⭐ 27 - Utilities for GitHub authentication: generate and use GitHub application and installation tokens.
 * [go-guardian](https://github.com/shaj13/go-guardian) / ⭐ 608 - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.
