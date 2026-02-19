@@ -1413,17 +1413,17 @@ Libraries that implement messaging systems.
 * [hub](https://github.com/leandro-lugaresi/hub) / ⭐ 149 - A Message/Event Hub for Go applications, using publish/subscribe pattern with support for alias like rabbitMQ exchanges.
 * [hypermatch](https://github.com/SchwarzIT/hypermatch) / ⭐ 33 - A very fast and efficient Go library for matching events to a large set of rules
 * [jazz](https://github.com/socifi/jazz) / ⭐ 18 - A simple RabbitMQ abstraction layer for queue administration and publishing and consuming of messages.
-* [machinery](https://github.com/RichardKnop/machinery) / ⭐ 7948 - Asynchronous task queue/job queue based on distributed message passing.
+* [machinery](https://github.com/RichardKnop/machinery) / ⭐ 7949 - Asynchronous task queue/job queue based on distributed message passing.
 * [mangos](https://github.com/nanomsg/mangos) / ⭐ 747 - Pure go implementation of the Nanomsg ("Scalability Protocols") with transport interoperability.
-* [melody](https://github.com/olahol/melody) / ⭐ 4065 - Minimalist framework for dealing with websocket sessions, includes broadcasting and automatic ping/pong handling.
+* [melody](https://github.com/olahol/melody) / ⭐ 4066 - Minimalist framework for dealing with websocket sessions, includes broadcasting and automatic ping/pong handling.
 * [Mercure](https://github.com/dunglas/mercure) / ⭐ 5184 - Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events).
 * [messagebus](https://github.com/vardius/message-bus) / ⭐ 286 - messagebus is a Go simple async message bus, perfect for using as event bus when doing event sourcing, CQRS, DDD.
-* [NATS Go Client](https://github.com/nats-io/nats.go) / ⭐ 6444 - Go client for the NATS
+* [NATS Go Client](https://github.com/nats-io/nats.go) / ⭐ 6445 - Go client for the NATS
 messaging system.
 * [nsq-event-bus](https://github.com/rafaeljesus/nsq-event-bus) / ⭐ 80 - A tiny wrapper around NSQ topic and channel.
 * [oplog](https://github.com/dailymotion/oplog) / ⭐ 110 - Generic oplog/replication system for REST APIs.
 * [pubsub](https://github.com/tuxychandru/pubsub) / ⭐ 448 - Simple pubsub package for go.
-* [Quamina](https://github.com/timbray/quamina) / ⭐ 477 - Fast pattern-matching for filtering messages and events.
+* [Quamina](https://github.com/timbray/quamina) / ⭐ 478 - Fast pattern-matching for filtering messages and events.
 * [rabbitroutine](https://github.com/furdarius/rabbitroutine) / ⭐ 114 - Lightweight library that handles RabbitMQ auto-reconnect and publishing retries. The library takes into account the need to re-declare entities in RabbitMQ after reconnection.
 * [rabbus](https://github.com/rafaeljesus/rabbus) / ⭐ 98 - A tiny wrapper over amqp exchanges and queues.
 * [rabtap](https://github.com/jandelgado/rabtap) / ⭐ 278 - RabbitMQ swiss army knife cli app.
