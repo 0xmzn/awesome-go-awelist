@@ -1418,7 +1418,7 @@ Libraries that implement messaging systems.
 * [melody](https://github.com/olahol/melody) / ⭐ 4066 - Minimalist framework for dealing with websocket sessions, includes broadcasting and automatic ping/pong handling.
 * [Mercure](https://github.com/dunglas/mercure) / ⭐ 5184 - Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events).
 * [messagebus](https://github.com/vardius/message-bus) / ⭐ 285 - messagebus is a Go simple async message bus, perfect for using as event bus when doing event sourcing, CQRS, DDD.
-* [NATS Go Client](https://github.com/nats-io/nats.go) / ⭐ 6447 - Go client for the NATS
+* [NATS Go Client](https://github.com/nats-io/nats.go) / ⭐ 6448 - Go client for the NATS
 messaging system.
 * [nsq-event-bus](https://github.com/rafaeljesus/nsq-event-bus) / ⭐ 80 - A tiny wrapper around NSQ topic and channel.
 * [oplog](https://github.com/dailymotion/oplog) / ⭐ 110 - Generic oplog/replication system for REST APIs.
