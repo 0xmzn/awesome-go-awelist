@@ -14,7 +14,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  enrich:
+  report:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
