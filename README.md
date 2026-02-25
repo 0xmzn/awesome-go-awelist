@@ -2225,7 +2225,7 @@ See also Natural Language Processing and Text Analysis.
 * [dataflowkit](https://github.com/slotix/dataflowkit) / ⭐ 710 - Web scraping Framework to turn websites into structured data.
 * [go-recipe](https://github.com/kkyr/go-recipe) / ⭐ 32 - A package for scraping recipes from websites.
 * [go-sitemap-parser](https://github.com/aafeher/go-sitemap-parser) / ⭐ 5 - Go language library for parsing Sitemaps.
-* [GoQuery](https://github.com/PuerkitoBio/goquery) / ⭐ 14912 - GoQuery brings a syntax and a set of features similar to jQuery to the Go language.
+* [GoQuery](https://github.com/PuerkitoBio/goquery) / ⭐ 14913 - GoQuery brings a syntax and a set of features similar to jQuery to the Go language.
 * [pagser](https://github.com/foolin/pagser) / ⭐ 110 - Pagser is a simple, extensible, configurable parse and deserialize html page to struct based on goquery and struct tags for golang crawler.
 * [Tagify](https://github.com/zoomio/tagify) / ⭐ 39 - Produces a set of tags from given source.
 * [walker](https://github.com/cyucelen/walker) / ⭐ 14 - Seamlessly fetch paginated data from any source. Simple and high performance API scraping included.
@@ -2251,7 +2251,7 @@ Libraries for accessing third party APIs.
 * [anaconda](https://github.com/ChimeraCoder/anaconda) / ⭐ 1140 - Go client library for the Twitter 1.1 API.
 * [appstore-sdk-go](https://github.com/Kachit/appstore-sdk-go) / ⭐ 7 - Unofficial Golang SDK for AppStore Connect API.
 * [aws-encryption-sdk-go](https://github.com/chainifynet/aws-encryption-sdk-go) / ⭐ 22 - Unofficial Go SDK implementation of the AWS Encryption SDK.
-* [aws-sdk-go](https://github.com/aws/aws-sdk-go-v2) / ⭐ 3476 - The official AWS SDK for the Go programming language.
+* [aws-sdk-go](https://github.com/aws/aws-sdk-go-v2) / ⭐ 3477 - The official AWS SDK for the Go programming language.
 * [bqwriter](https://github.com/OTA-Insight/bqwriter) / ⭐ 16 - High Level Go Library to write data into Google BigQuery at a high throughout.
 * [brewerydb](https://github.com/naegelejd/brewerydb) / ⭐ 20 - Go library for accessing the BreweryDB API.
 * [cachet](https://github.com/andygrunwald/cachet) / ⭐ 90 - Go client library for Cachet (open source status page system).
@@ -2270,9 +2270,9 @@ Libraries for accessing third party APIs.
 * [gads](https://github.com/emiddleton/gads) / ⭐ 51 - Google Adwords Unofficial API.
 * [gcm](https://github.com/Aorioli/gcm) / ⭐ 31 - Go library for Google Cloud Messaging.
 * [geo-golang](https://github.com/codingsince1985/geo-golang) / ⭐ 538 - Go Library to access Google Maps, MapQuest, Nominatim, OpenCage, Bing, Mapbox, and OpenStreetMap geocoding / reverse geocoding APIs.
-* [github](https://github.com/google/go-github) / ⭐ 11138 - Go library for accessing the GitHub REST API v3.
+* [github](https://github.com/google/go-github) / ⭐ 11141 - Go library for accessing the GitHub REST API v3.
 * [githubql](https://github.com/shurcooL/githubql) / ⭐ 1185 - Go library for accessing the GitHub GraphQL API v4.
-* [go-atlassian](https://github.com/ctreminiom/go-atlassian) / ⭐ 195 - Go library for accessing the Atlassian Cloud services (Jira, Jira Service Management, Jira Agile, Confluence, Admin Cloud)
+* [go-atlassian](https://github.com/ctreminiom/go-atlassian) / ⭐ 196 - Go library for accessing the Atlassian Cloud services (Jira, Jira Service Management, Jira Agile, Confluence, Admin Cloud)
 * [go-aws-news](https://github.com/circa10a/go-aws-news) / ⭐ 18 - Go application and library to fetch what's new from AWS.
 * [go-chronos](https://github.com/axelspringer/go-chronos) / ⭐ 8 - Go library for interacting with the Chronos Job Scheduler
 * [go-gerrit](https://github.com/andygrunwald/go-gerrit) / ⭐ 104 - Go client library for Gerrit Code Review.
@@ -2284,7 +2284,7 @@ Libraries for accessing third party APIs.
 * [go-lark](https://github.com/go-lark/lark) / ⭐ 239 - An easy-to-use unofficial SDK for Feishu and Lark Open Platform.
 * [go-marathon](https://github.com/gambol99/go-marathon) / ⭐ 199 - Go library for interacting with Mesosphere's Marathon PAAS.
 * [go-myanimelist](https://github.com/nstratos/go-myanimelist) / ⭐ 43 - Go client library for accessing the MyAnimeList API.
-* [go-openai](https://github.com/sashabaranov/go-openai) / ⭐ 10557 - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
+* [go-openai](https://github.com/sashabaranov/go-openai) / ⭐ 10561 - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
 * [go-openproject](https://github.com/manuelbcd/go-openproject) / ⭐ 19 - Go client library for interacting with OpenProject API.
 * [go-postman-collection](https://github.com/rbretecher/go-postman-collection) / ⭐ 87 - Go module to work with Postman Collections (compatible with Insomnia).
 * [go-redoc](https://github.com/mvrilo/go-redoc) / ⭐ 94 - Embedded OpenAPI/Swagger documentation ui for Go using ReDoc.
@@ -2302,12 +2302,12 @@ Libraries for accessing third party APIs.
 * [GoFreeDB](https://github.com/FreeLeh/GoFreeDB) / ⭐ 90 - Golang library providing common and simple database abstractions on top of Google Sheets.
 * [gogtrends](https://github.com/groovili/gogtrends) / ⭐ 87 - Google Trends Unofficial API.
 * [golang-tmdb](https://github.com/cyruzin/golang-tmdb) / ⭐ 156 - Golang wrapper for The Movie Database API v3.
-* [golyrics](https://github.com/mamal72/golyrics) / ⭐ 41 - Golyrics is a Go library to fetch music lyrics data from the Wikia website.
+* [golyrics](https://github.com/mamal72/golyrics) / ⭐ 42 - Golyrics is a Go library to fetch music lyrics data from the Wikia website.
 * [gomalshare](https://github.com/MonaxGT/gomalshare) / ⭐ 13 - Go library MalShare API malshare.com
 * [GoMusicBrainz](https://github.com/michiwend/gomusicbrainz) / ⭐ 64 - Go MusicBrainz WS2 client library.
 * [google](https://github.com/google/google-api-go-client) / ⭐ 4399 - Auto-generated Google APIs for Go.
 * [google-analytics](https://github.com/chonthu/go-google-analytics) / ⭐ 15 - Simple wrapper for easy google analytics reporting.
-* [google-cloud](https://github.com/GoogleCloudPlatform/gcloud-golang) / ⭐ 4418 - Google Cloud APIs Go Client Library.
+* [google-cloud](https://github.com/GoogleCloudPlatform/gcloud-golang) / ⭐ 4421 - Google Cloud APIs Go Client Library.
 * [gopaapi5](https://github.com/utekaravinash/gopaapi5) / ⭐ 16 - Go Client Library for Amazon Product Advertising API 5.0.
 * [gopensky](https://github.com/navidys/gopensky) / ⭐ 3 - Go client implementation for OpenSKY Network live's API (airspace ADS-B and Mode S data).
 * [gosip](https://github.com/koltyakov/gosip) / ⭐ 167 - Client library for SharePoint.
@@ -2317,12 +2317,12 @@ Libraries for accessing third party APIs.
 * [igdb](https://github.com/Henry-Sarabia/igdb) / ⭐ 85 - Go client for the Internet Game Database API.
 * [ip2location-io-go](https://github.com/ip2location/ip2location-io-go) / ⭐ 14 - Go wrapper for the IP2Location.io API IP2Location.io.
 * [jokeapi-go](https://github.com/icelain/jokeapi) / ⭐ 27 - Go client for JokeAPI.
-* [lark](https://github.com/chyroc/lark) / ⭐ 462 - Feishu/Lark Open API Go SDK, Support ALL Open API and Event Callback.
+* [lark](https://github.com/chyroc/lark) / ⭐ 461 - Feishu/Lark Open API Go SDK, Support ALL Open API and Event Callback.
 * [lastpass-go](https://github.com/ansd/lastpass-go) / ⭐ 35 - Go client library for the LastPass API.
 * [libgoffi](https://github.com/clevabit/libgoffi) / ⭐ 10 - Library adapter toolbox for native libffi integration
 * [Medium](https://github.com/Medium/medium-sdk-go) / ⭐ 142 - Golang SDK for Medium's OAuth2 API.
 * [megos](https://github.com/andygrunwald/megos) / ⭐ 54 - Client library for accessing an Apache Mesos cluster.
-* [minio-go](https://github.com/minio/minio-go) / ⭐ 2908 - Minio Go Library for Amazon S3 compatible cloud storage.
+* [minio-go](https://github.com/minio/minio-go) / ⭐ 2910 - Minio Go Library for Amazon S3 compatible cloud storage.
 * [mixpanel](https://github.com/dukex/mixpanel) / ⭐ 60 - Mixpanel is a library for tracking events and sending Mixpanel profile updates to Mixpanel from your go applications.
 * [newsapi-go](https://github.com/jellydator/newsapi-go) / ⭐ 7 - Go client for NewsAPI.
 * [openaigo](https://github.com/otiai10/openaigo) / ⭐ 299 - OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
