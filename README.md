@@ -4,20 +4,20 @@ This is a testing playground for [0xmzn/awelist](https://github.com/0xmzn/awelis
 Libraries for building actor-based programs.
 
 * [asyncmachine-go/pkg/machine](https://github.com/pancsta/asyncmachine-go/tree/main/pkg/machine) - Graph control flow library (AOP, actor, state-machine).
-* [Ergo](https://github.com/ergo-services/ergo) / ⭐ 4448 - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.
+* [Ergo](https://github.com/ergo-services/ergo) / ⭐ 4449 - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.
 * [Goakt](https://github.com/Tochemey/goakt) / ⭐ 324 - Fast and Distributed Actor framework using protocol buffers as message for Golang.
-* [Hollywood](https://github.com/anthdm/hollywood) / ⭐ 2186 - Blazingly fast and light-weight Actor engine written in Golang.
+* [Hollywood](https://github.com/anthdm/hollywood) / ⭐ 2187 - Blazingly fast and light-weight Actor engine written in Golang.
 * [ProtoActor](https://github.com/asynkron/protoactor-go) / ⭐ 5426 - Distributed actors for Go, C#, and Java/Kotlin.
 
 ---
 ## Artificial Intelligence
 Libraries for building programs that leverage AI.
 
-* [chromem-go](https://github.com/philippgille/chromem-go) / ⭐ 879 - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
+* [chromem-go](https://github.com/philippgille/chromem-go) / ⭐ 880 - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 * [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
-* [langchaingo](https://github.com/tmc/langchaingo) / ⭐ 8747 - LangChainGo is a framework for developing applications powered by language models.
-* [LocalAI](https://github.com/mudler/LocalAI) / ⭐ 43194 - Open Source OpenAI alternative, self-host AI models.
-* [Ollama](https://github.com/jmorganca/ollama) / ⭐ 163865 - Run large language models locally.
+* [langchaingo](https://github.com/tmc/langchaingo) / ⭐ 8754 - LangChainGo is a framework for developing applications powered by language models.
+* [LocalAI](https://github.com/mudler/LocalAI) / ⭐ 43218 - Open Source OpenAI alternative, self-host AI models.
+* [Ollama](https://github.com/jmorganca/ollama) / ⭐ 164001 - Run large language models locally.
 * [OllamaFarm](https://github.com/presbrey/ollamafarm) / ⭐ 95 - Manage, load-balance, and failover packs of Ollamas.
 
 ---
@@ -30,41 +30,41 @@ Libraries for manipulating audio.
 * [go-mpris](https://github.com/leberKleber/go-mpris) / ⭐ 19 - Client for mpris dbus interfaces.
 * [GoAudio](https://github.com/DylanMeeus/GoAudio) / ⭐ 408 - Native Go Audio Processing Library.
 * [gosamplerate](https://github.com/dh1tw/gosamplerate) / ⭐ 38 - libsamplerate bindings for go.
-* [id3v2](https://github.com/bogem/id3v2) / ⭐ 360 - ID3 decoding and encoding library for Go.
-* [malgo](https://github.com/gen2brain/malgo) / ⭐ 389 - Mini audio library.
+* [id3v2](https://github.com/bogem/id3v2) / ⭐ 359 - ID3 decoding and encoding library for Go.
+* [malgo](https://github.com/gen2brain/malgo) / ⭐ 390 - Mini audio library.
 * [minimp3](https://github.com/tosone/minimp3) / ⭐ 133 - Lightweight MP3 decoder library.
-* [Oto](https://github.com/hajimehoshi/oto) / ⭐ 1873 - A low-level library to play sound on multiple platforms.
+* [Oto](https://github.com/hajimehoshi/oto) / ⭐ 1874 - A low-level library to play sound on multiple platforms.
 * [PortAudio](https://github.com/gordonklaus/portaudio) / ⭐ 831 - Go bindings for the PortAudio audio I/O library.
 
 ---
 ## Authentication and Authorization
 Libraries for implementing authentication and authorization.
 
-* [authboss](https://github.com/volatiletech/authboss) / ⭐ 4165 - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.
+* [authboss](https://github.com/volatiletech/authboss) / ⭐ 4164 - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.
 * [branca](https://github.com/essentialkaos/branca) / ⭐ 96 - branca token specification implementation for Golang 1.15+.
-* [casbin](https://github.com/hsluoyz/casbin) / ⭐ 19890 - Authorization library that supports access control models like ACL, RBAC, and ABAC.
+* [casbin](https://github.com/hsluoyz/casbin) / ⭐ 19888 - Authorization library that supports access control models like ACL, RBAC, and ABAC.
 * [cookiestxt](https://github.com/mengzhuo/cookiestxt) / ⭐ 22 - provides a parser of cookies.txt file format.
 * [go-githubauth](https://github.com/jferrl/go-githubauth) / ⭐ 28 - Utilities for GitHub authentication: generate and use GitHub application and installation tokens.
 * [go-guardian](https://github.com/shaj13/go-guardian) / ⭐ 610 - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.
 * [go-iam](https://github.com/melvinodsa/go-iam) / ⭐ 34 - Developer-first Identity and Access Management system with a simple UI.
-* [go-jose](https://github.com/go-jose/go-jose) / ⭐ 484 - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
+* [go-jose](https://github.com/go-jose/go-jose) / ⭐ 485 - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
 * [go-jwt](https://github.com/pardnchiu/go-jwt) / ⭐ 17 - JWT authentication package providing access tokens and refresh tokens with fingerprinting, Redis storage, and automatic refresh capabilities.
 * [goiabada](https://github.com/leodip/goiabada) / ⭐ 185 - An open-source authentication and authorization server supporting OAuth2 and OpenID Connect.
-* [gologin](https://github.com/dghubble/gologin) / ⭐ 1949 - chainable handlers for login with OAuth1 and OAuth2 authentication providers.
+* [gologin](https://github.com/dghubble/gologin) / ⭐ 1947 - chainable handlers for login with OAuth1 and OAuth2 authentication providers.
 * [gorbac](https://github.com/mikespook/gorbac) / ⭐ 1660 - provides a lightweight role-based access control (RBAC) implementation in Golang.
 * [gosession](https://github.com/Kwynto/gosession) / ⭐ 258 - This is quick session for net/http in GoLang. This package is perhaps the best implementation of the session mechanism, or at least it tries to become one.
-* [goth](https://github.com/markbates/goth) / ⭐ 6466 - provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box.
+* [goth](https://github.com/markbates/goth) / ⭐ 6470 - provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box.
 * [jeff](https://github.com/abraithwaite/jeff) / ⭐ 271 - Simple, flexible, secure, and idiomatic web session management with pluggable backends.
 * [jwt](https://github.com/pascaldekloe/jwt) / ⭐ 362 - Lightweight JSON Web Token (JWT) library.
 * [jwt](https://github.com/cristalhq/jwt) / ⭐ 688 - Safe, simple, and fast JSON Web Tokens for Go.
 * [jwt-auth](https://github.com/adam-hanna/jwt-auth) / ⭐ 237 - JWT middleware for Golang http servers with many configuration options.
 * [jwt-go](https://github.com/golang-jwt/jwt) / ⭐ 8927 - A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs.
-* [jwx](https://github.com/lestrrat-go/jwx) / ⭐ 2325 - Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies.
+* [jwx](https://github.com/lestrrat-go/jwx) / ⭐ 2326 - Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies.
 * [keto](https://github.com/ory/keto) / ⭐ 5276 - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 * [loginsrv](https://github.com/tarent/loginsrv) / ⭐ 1928 - JWT login microservice with pluggable backends such as OAuth2 (Github), htpasswd, osiam.
 * [oauth2](https://github.com/golang/oauth2) / ⭐ 5823 - Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support.
 * [oidc](https://github.com/zitadel/oidc) / ⭐ 1774 - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation.
-* [openfga](https://github.com/openfga/openfga) / ⭐ 4838 - Implementation of fine-grained authorization based on the "Zanzibar: Google's Consistent, Global Authorization System" paper. Backed by CNCF.
+* [openfga](https://github.com/openfga/openfga) / ⭐ 4843 - Implementation of fine-grained authorization based on the "Zanzibar: Google's Consistent, Global Authorization System" paper. Backed by CNCF.
 * [osin](https://github.com/openshift/osin) / ⭐ 1934 - Golang OAuth2 server library.
 * [otpgen](https://github.com/grijul/otpgen) / ⭐ 142 - Library to generate TOTP/HOTP codes.
 * [otpgo](https://github.com/jltorresm/otpgo) / ⭐ 77 - Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go.
@@ -77,7 +77,7 @@ Libraries for implementing authentication and authorization.
 * [sessions](https://github.com/adam-hanna/sessions) / ⭐ 79 - Dead simple, highly performant, highly customizable sessions service for go http servers.
 * [sessionup](https://github.com/swithek/sessionup) / ⭐ 130 - Simple, yet effective HTTP session management and identification package.
 * [sjwt](https://github.com/brianvoe/sjwt) / ⭐ 122 - Simple jwt generator and parser.
-* [spicedb](https://github.com/authzed/spicedb) / ⭐ 6466 - A Zanzibar-inspired database that enables fine-grained authorization.
+* [spicedb](https://github.com/authzed/spicedb) / ⭐ 6468 - A Zanzibar-inspired database that enables fine-grained authorization.
 * [x509proxy](https://github.com/vkuznet/x509proxy) / ⭐ 7 - Library to handle X509 proxy certificates.
 
 ---
@@ -86,8 +86,8 @@ Tools for building blockchains.
 
 * [cometbft](https://github.com/cometbft/cometbft) / ⭐ 864 - A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm.
 * [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) / ⭐ 6939 - A Framework for Building Public Blockchains in the Cosmos Ecosystem.
-* [gno](https://github.com/gnolang/gno) / ⭐ 1056 - A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains.
-* [go-ethereum](https://github.com/ethereum/go-ethereum) / ⭐ 50882 - Official Go implementation of the Ethereum protocol.
+* [gno](https://github.com/gnolang/gno) / ⭐ 1055 - A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains.
+* [go-ethereum](https://github.com/ethereum/go-ethereum) / ⭐ 50891 - Official Go implementation of the Ethereum protocol.
 * [gosemble](https://github.com/LimeChain/gosemble) / ⭐ 14 - A Go-based framework for building Polkadot/Substrate-compatible runtimes.
 * [gossamer](https://github.com/ChainSafe/gossamer) / ⭐ 455 - A Go implementation of the Polkadot Host.
 * [kubo](https://github.com/ipfs/kubo) / ⭐ 16935 - An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
@@ -101,18 +101,18 @@ Tools for building blockchains.
 Libraries for building and working with bots.
 
 * [arikawa](https://github.com/diamondburned/arikawa) / ⭐ 577 - A library and framework for the Discord API.
-* [bot](https://github.com/go-telegram/bot) / ⭐ 1613 - Zero-dependencies Telegram Bot library with additional UI components.
+* [bot](https://github.com/go-telegram/bot) / ⭐ 1618 - Zero-dependencies Telegram Bot library with additional UI components.
 * [echotron](https://github.com/NicoNex/echotron) / ⭐ 422 - An elegant and concurrent library for Telegram Bots in Go.
 * [go-joe](https://joe-bot.net) - A general-purpose bot library inspired by Hubot but written in Go.
 * [go-sarah](https://github.com/oklahomer/go-sarah) / ⭐ 266 - Framework to build a bot for desired chat services including LINE, Slack, Gitter, and more.
-* [go-tg](https://github.com/mr-linch/go-tg) / ⭐ 127 - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
+* [go-tg](https://github.com/mr-linch/go-tg) / ⭐ 129 - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
 * [go-twitch-irc](https://github.com/gempir/go-twitch-irc) / ⭐ 393 - Library to write bots for twitch.tv chat
 * [micha](https://github.com/onrik/micha) / ⭐ 32 - Go Library for Telegram bot api.
 * [slack-bot](https://github.com/innogames/slack-bot) / ⭐ 206 - Ready to use Slack Bot for lazy developers: Custom commands, Jenkins, Jira, Bitbucket, Github...
 * [slacker](https://github.com/slack-io/slacker) / ⭐ 60 - Easy to use framework to create Slack bots.
-* [telebot](https://github.com/tucnak/telebot) / ⭐ 4573 - Telegram bot framework is written in Go.
+* [telebot](https://github.com/tucnak/telebot) / ⭐ 4572 - Telegram bot framework is written in Go.
 * [telego](https://github.com/mymmrac/telego) / ⭐ 961 - Telegram Bot API library for Golang with full one-to-one API implementation.
-* [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) / ⭐ 6387 - Simple and clean Telegram bot client.
+* [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) / ⭐ 6389 - Simple and clean Telegram bot client.
 * [wayback](https://github.com/wabarc/wayback) / ⭐ 2149 - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
 ---
@@ -120,7 +120,7 @@ Libraries for building and working with bots.
 Libraries and tools help with build automation.
 
 * [1build](https://github.com/gopinath-langote/1build) / ⭐ 242 - Command line tool to frictionlessly manage project-specific commands.
-* [air](https://github.com/cosmtrek/air) / ⭐ 23078 - Air - Live reload for Go apps.
+* [air](https://github.com/cosmtrek/air) / ⭐ 23087 - Air - Live reload for Go apps.
 * [anko](https://github.com/GuilhermeCaruso/anko) / ⭐ 43 - Simple application watcher for multiple programming languages.
 * [gaper](https://github.com/maxclaus/gaper) / ⭐ 83 - Builds and restarts a Go project when it crashes or some watched file changes.
 * [gilbert](https://go-gilbert.github.io) - Build system and task runner for Go projects.
@@ -129,7 +129,7 @@ Libraries and tools help with build automation.
 * [mage](https://github.com/magefile/mage) / ⭐ 4577 - Mage is a make/rake-like build tool using Go.
 * [mmake](https://github.com/tj/mmake) / ⭐ 1739 - Modern Make.
 * [realize](https://github.com/tockins/realize) / ⭐ 4454 - Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths.
-* [Task](https://github.com/go-task/task) / ⭐ 14986 - simple "Make" alternative.
+* [Task](https://github.com/go-task/task) / ⭐ 15011 - simple "Make" alternative.
 * [taskctl](https://github.com/taskctl/taskctl) / ⭐ 318 - Concurrent task runner.
 * [xc](https://github.com/joerdav/xc) / ⭐ 1372 - Task runner with README.md defined tasks, executable markdown.
 
@@ -138,25 +138,25 @@ Libraries and tools help with build automation.
 ### Advanced Console UIs
 Libraries for building Console Applications and Console User Interfaces.
 
-* [asciigraph](https://github.com/guptarohit/asciigraph) / ⭐ 2961 - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
-* [aurora](https://github.com/logrusorgru/aurora) / ⭐ 1477 - ANSI terminal colors that support fmt.Printf/Sprintf.
-* [box-cli-maker](https://github.com/Delta456/box-cli-maker) / ⭐ 617 - Make Highly Customized Boxes for your CLI.
-* [bubble-table](https://github.com/Evertras/bubble-table) / ⭐ 556 - An interactive table component for bubbletea.
-* [bubbles](https://github.com/charmbracelet/bubbles) / ⭐ 7893 - TUI components for bubbletea.
-* [bubbletea](https://github.com/charmbracelet/bubbletea) / ⭐ 40089 - Go framework to build terminal apps, based on The Elm Architecture.
+* [asciigraph](https://github.com/guptarohit/asciigraph) / ⭐ 2962 - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
+* [aurora](https://github.com/logrusorgru/aurora) / ⭐ 1478 - ANSI terminal colors that support fmt.Printf/Sprintf.
+* [box-cli-maker](https://github.com/Delta456/box-cli-maker) / ⭐ 618 - Make Highly Customized Boxes for your CLI.
+* [bubble-table](https://github.com/Evertras/bubble-table) / ⭐ 557 - An interactive table component for bubbletea.
+* [bubbles](https://github.com/charmbracelet/bubbles) / ⭐ 7903 - TUI components for bubbletea.
+* [bubbletea](https://github.com/charmbracelet/bubbletea) / ⭐ 40129 - Go framework to build terminal apps, based on The Elm Architecture.
 * [crab-config-files-templating](https://github.com/alfiankan/crab-config-files-templating) / ⭐ 8 - Dynamic configuration file templating tool for kubernetes manifest or general configuration files.
 * [ctc](https://github.com/wzshiming/ctc) / ⭐ 52 - The non-invasive cross-platform terminal color library does not need to modify the Print method.
-* [fx](https://github.com/antonmedv/fx) / ⭐ 20308 - Terminal JSON viewer & processor.
+* [fx](https://github.com/antonmedv/fx) / ⭐ 20309 - Terminal JSON viewer & processor.
 * [go-ataman](https://github.com/workanator/go-ataman) / ⭐ 20 - Go library for rendering ANSI colored text templates in terminals.
 * [go-colorable](https://github.com/mattn/go-colorable) / ⭐ 805 - Colorable writer for windows.
-* [go-colortext](https://github.com/daviddengcn/go-colortext) / ⭐ 214 - Go library for color output in terminals.
+* [go-colortext](https://github.com/daviddengcn/go-colortext) / ⭐ 215 - Go library for color output in terminals.
 * [go-isatty](https://github.com/mattn/go-isatty) / ⭐ 892 - isatty for golang.
 * [go-palette](https://github.com/abusomani/go-palette) / ⭐ 20 - Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the fmt library for nice terminal layouts.
-* [go-prompt](https://github.com/c-bata/go-prompt) / ⭐ 5469 - Library for building a powerful interactive prompt, inspired by python-prompt-toolkit.
-* [gocui](https://github.com/jroimartin/gocui) / ⭐ 10520 - Minimalist Go library aimed at creating Console User Interfaces.
+* [go-prompt](https://github.com/c-bata/go-prompt) / ⭐ 5470 - Library for building a powerful interactive prompt, inspired by python-prompt-toolkit.
+* [gocui](https://github.com/jroimartin/gocui) / ⭐ 10522 - Minimalist Go library aimed at creating Console User Interfaces.
 * [gommon/color](https://github.com/labstack/gommon/tree/master/color) - Style terminal text.
 * [gookit/color](https://github.com/gookit/color) / ⭐ 1573 - Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows.
-* [lipgloss](https://github.com/charmbracelet/lipgloss) / ⭐ 10712 - Declaratively define styles for color, format and layout in the terminal.
+* [lipgloss](https://github.com/charmbracelet/lipgloss) / ⭐ 10715 - Declaratively define styles for color, format and layout in the terminal.
 * [marker](https://github.com/cyucelen/marker) / ⭐ 51 - Easiest way to match and mark strings for colorful terminal outputs.
 * [mpb](https://github.com/vbauerster/mpb) / ⭐ 2483 - Multi progress bar for terminal applications.
 * [progressbar](https://github.com/schollz/progressbar) / ⭐ 4645 - Basic thread-safe progress bar that works in every OS.
@@ -167,39 +167,39 @@ Libraries for building Console Applications and Console User Interfaces.
 * [table](https://github.com/tomlazar/table) / ⭐ 50 - Small library for terminal color based tables.
 * [termbox-go](https://github.com/nsf/termbox-go) / ⭐ 4765 - Termbox is a library for creating cross-platform text-based interfaces.
 * [termdash](https://github.com/mum4k/termdash) / ⭐ 2977 - Go terminal dashboard based on termbox-go and inspired by termui.
-* [termenv](https://github.com/muesli/termenv) / ⭐ 1971 - Advanced ANSI style & color support for your terminal applications.
-* [termui](https://github.com/gizak/termui) / ⭐ 13523 - Go terminal dashboard based on termbox-go and inspired by blessed-contrib.
+* [termenv](https://github.com/muesli/termenv) / ⭐ 1973 - Advanced ANSI style & color support for your terminal applications.
+* [termui](https://github.com/gizak/termui) / ⭐ 13524 - Go terminal dashboard based on termbox-go and inspired by blessed-contrib.
 * [uilive](https://github.com/gosuri/uilive) / ⭐ 1714 - Library for updating terminal output in real time.
 * [uiprogress](https://github.com/gosuri/uiprogress) / ⭐ 2138 - Flexible library to render progress bars in terminal applications.
 * [uitable](https://github.com/gosuri/uitable) / ⭐ 742 - Library to improve readability in terminal apps using tabular data.
-* [yacspin](https://github.com/theckman/yacspin) / ⭐ 455 - Yet Another CLi Spinner package, for working with terminal spinners.
+* [yacspin](https://github.com/theckman/yacspin) / ⭐ 456 - Yet Another CLi Spinner package, for working with terminal spinners.
 ### Standard CLI
 Libraries for building standard or basic Command Line applications.
 
 * [acmd](https://github.com/cristalhq/acmd) / ⭐ 137 - Simple, useful, and opinionated CLI package in Go.
 * [argparse](https://github.com/akamensky/argparse) / ⭐ 638 - Command line argument parser inspired by Python's argparse module.
 * [argv](https://github.com/cosiner/argv) / ⭐ 42 - Go library to split command line string as arguments array using the bash syntax.
-* [carapace](https://github.com/rsteube/carapace) / ⭐ 1186 - Command argument completion generator for spf13/cobra.
+* [carapace](https://github.com/rsteube/carapace) / ⭐ 1188 - Command argument completion generator for spf13/cobra.
 * [carapace-bin](https://github.com/rsteube/carapace-bin) / ⭐ 1718 - Multi-shell multi-command argument completer.
 * [carapace-spec](https://github.com/rsteube/carapace-spec) / ⭐ 29 - Define simple completions using a spec file.
 * [climax](https://github.com/tucnak/climax) / ⭐ 217 - Alternative CLI with "human face", in spirit of Go command.
 * [clîr](https://github.com/leaanthony/clir) / ⭐ 197 - A Simple and Clear CLI library. Dependency free.
 * [cmd](https://github.com/posener/cmd) / ⭐ 47 - Extends the standard flag package to support sub commands and more in idiomatic way.
 * [cmdr](https://github.com/hedzr/cmdr) / ⭐ 141 - A POSIX/GNU style, getopt-like command-line UI Go library.
-* [cobra](https://github.com/spf13/cobra) / ⭐ 43329 - Commander for modern Go CLI interactions.
+* [cobra](https://github.com/spf13/cobra) / ⭐ 43351 - Commander for modern Go CLI interactions.
 * [command-chain](https://github.com/rainu/go-command-chain) / ⭐ 70 - A go library for configure and run command chains - such as pipelining in unix shells.
 * [commandeer](https://github.com/jaffee/commandeer) / ⭐ 175 - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags.
-* [complete](https://github.com/posener/complete) / ⭐ 951 - Write bash completions in Go + Go command bash completion.
+* [complete](https://github.com/posener/complete) / ⭐ 952 - Write bash completions in Go + Go command bash completion.
 * [console](https://github.com/reeflective/console) / ⭐ 104 - 
-* [Dnote](https://github.com/dnote/dnote) / ⭐ 3011 - A simple command line notebook with multi-device sync.
+* [Dnote](https://github.com/dnote/dnote) / ⭐ 3012 - A simple command line notebook with multi-device sync.
 * [elvish](https://github.com/elves/elvish) / ⭐ 6250 - An expressive programming language and a versatile interactive shell.
 * [env](https://github.com/codingconcepts/env) / ⭐ 126 - Tag-based environment configuration for structs.
 * [flaggy](https://github.com/integrii/flaggy) / ⭐ 947 - A robust and idiomatic flags package with excellent subcommand support.
 * [flagvar](https://github.com/sgreben/flagvar) / ⭐ 48 - A collection of flag argument types for Go's standard flag package.
 * [flash-flags](https://github.com/agilira/flash-flags) / ⭐ 10 - Ultra-fast, zero-dependency, POSIX-compliant flag parsing library that can be used as drop-in stdlib replacement with security hardening.
 * [getopt](https://github.com/jon-codes/getopt) / ⭐ 8 - An accurate Go getopt, validated against the GNU libc implementation.
-* [go-arg](https://github.com/alexflint/go-arg) / ⭐ 2234 - Struct-based argument parsing in Go.
-* [go-flags](https://github.com/jessevdk/go-flags) / ⭐ 2690 - go command line option parser.
+* [go-arg](https://github.com/alexflint/go-arg) / ⭐ 2236 - Struct-based argument parsing in Go.
+* [go-flags](https://github.com/jessevdk/go-flags) / ⭐ 2693 - go command line option parser.
 * [go-getoptions](https://github.com/DavidGamba/go-getoptions) / ⭐ 61 - Go option parser inspired by the flexibility of Perl’s GetOpt::Long.
 * [go-readline-ny](https://github.com/nyaosorg/go-readline-ny) / ⭐ 33 - A customizable line-editing library with Emacs keybindings, Unicode support, completion, and syntax highlighting. Used in NYAGOS shell.
 * [gocmd](https://github.com/devfacet/gocmd) / ⭐ 67 - Go library for building command line applications.
@@ -212,16 +212,16 @@ Libraries for building standard or basic Command Line applications.
 * [mcli](https://github.com/jxskiss/mcli) / ⭐ 44 - A minimal but very powerful cli library for Go.
 * [mkideal/cli](https://github.com/mkideal/cli) / ⭐ 727 - Feature-rich and easy to use command-line package based on golang struct tags.
 * [mow.cli](https://github.com/jawher/mow.cli) / ⭐ 883 - Go library for building CLI applications with sophisticated flag and argument parsing and validation.
-* [ops](https://github.com/nanovms/ops) / ⭐ 1468 - Unikernel Builder/Orchestrator.
+* [ops](https://github.com/nanovms/ops) / ⭐ 1469 - Unikernel Builder/Orchestrator.
 * [orpheus](https://github.com/agilira/orpheus) / ⭐ 27 - CLI framework with security hardening, plugin storage system, and production observability features.
-* [pflag](https://github.com/spf13/pflag) / ⭐ 2712 - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
+* [pflag](https://github.com/spf13/pflag) / ⭐ 2713 - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
 * [readline](https://github.com/reeflective/readline) / ⭐ 133 - Shell library with modern and easy to use UI features.
 * [sflags](https://github.com/octago/sflags) / ⭐ 167 - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
 * [structcli](https://github.com/leodido/structcli) / ⭐ 8 - Eliminate Cobra boilerplate: build powerful, feature-rich CLIs declaratively from Go structs.
 * [strumt](https://github.com/antham/strumt) / ⭐ 63 - Library to create prompt chain.
 * [subcmd](https://github.com/bobg/subcmd) / ⭐ 9 - Another approach to parsing and running subcommands. Works alongside the standard flag package.
 * [teris-io/cli](https://github.com/teris-io/cli) / ⭐ 131 - Simple and complete API for building command line interfaces in Go.
-* [urfave/cli](https://github.com/urfave/cli) / ⭐ 23907 - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).
+* [urfave/cli](https://github.com/urfave/cli) / ⭐ 23913 - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).
 * [version](https://github.com/mszostok/version) / ⭐ 110 - Collects and displays CLI version information in multiple formats along with upgrade notice.
 * [wlog](https://github.com/dixonwille/wlog) / ⭐ 67 - Simple logging interface that supports cross-platform color and concurrency.
 * [wmenu](https://github.com/dixonwille/wmenu) / ⭐ 229 - Easy to use menu structure for cli applications that prompt users to make choices.
@@ -234,7 +234,7 @@ Libraries for configuration parsing.
 * [argus](https://github.com/agilira/argus) / ⭐ 166 - File watching and configuration management with MPSC ring buffer, adaptive batching strategies, and universal format parsing (JSON, YAML, TOML, INI, HCL, Properties).
 * [azureappconfiguration](https://github.com/Azure/AppConfiguration-GoProvider) / ⭐ 5 - The configuration provider for consuming data in Azure App Configuration from Go applications.
 * [bcl](https://github.com/wkhere/bcl) / ⭐ 29 - BCL is a configuration language similar to HCL.
-* [cleanenv](https://github.com/ilyakaznacheev/cleanenv) / ⭐ 2066 - Minimalistic configuration reader (from files, ENV, and wherever you want).
+* [cleanenv](https://github.com/ilyakaznacheev/cleanenv) / ⭐ 2068 - Minimalistic configuration reader (from files, ENV, and wherever you want).
 * [config](https://github.com/JeremyLoy/config) / ⭐ 338 - Cloud native application configuration. Bind ENV to structs in only two lines.
 * [config](https://github.com/num30/config) / ⭐ 60 - configure your app using file, environment variables, or flags in two lines of code.
 * [configuration](https://github.com/BoRuDar/configuration) / ⭐ 108 - Library for initializing configuration structs from env variables, files, flags and 'default' tag.
@@ -243,7 +243,7 @@ Libraries for configuration parsing.
 * [confita](https://github.com/heetch/confita) / ⭐ 508 - Load configuration in cascade from multiple backends into a struct.
 * [conflate](https://github.com/the4thamigo-uk/conflate) / ⭐ 37 - Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema.
 * [enflag](https://github.com/atelpis/enflag) / ⭐ 38 - Container-oriented, zero-dependency configuration library that unifies Env variable and Flag parsing. Uses generics for type safety, without reflection or struct tags.
-* [env](https://github.com/caarlos0/env) / ⭐ 6023 - Parse environment variables to Go structs (with defaults).
+* [env](https://github.com/caarlos0/env) / ⭐ 6024 - Parse environment variables to Go structs (with defaults).
 * [env](https://github.com/junk1tm/env) / ⭐ 80 - A lightweight package for loading environment variables into structs.
 * [env](https://github.com/syntaqx/env) / ⭐ 7 - An environment utility package with support for unmarshaling into structs.
 * [envconfig](https://github.com/vrischmann/envconfig) / ⭐ 250 - Read your configuration from environment variables.
@@ -260,7 +260,7 @@ Libraries for configuration parsing.
 * [go-ssm-config](https://github.com/ianlopshire/go-ssm-config) / ⭐ 22 - Go utility for loading configuration parameters from AWS SSM (Parameter Store).
 * [go-up](https://github.com/ufoscout/go-up) / ⭐ 43 - A simple configuration library with recursive placeholders resolution and no magic.
 * [GoCfg](https://github.com/Jagerente/gocfg) / ⭐ 6 - Config manager with Struct Tags based contracts, custom value providers, parsers, and documentation generation. Customizable yet simple.
-* [godotenv](https://github.com/joho/godotenv) / ⭐ 10259 - Go port of Ruby's dotenv library (Loads environment variables from .env).
+* [godotenv](https://github.com/joho/godotenv) / ⭐ 10263 - Go port of Ruby's dotenv library (Loads environment variables from .env).
 * [GoLobby/Config](https://github.com/golobby/config) / ⭐ 369 - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
 * [gone/jconf](https://github.com/One-com/gone/tree/master/jconf) - Modular JSON configuration. Keep your config structs along with the code they configure and delegate parsing to submodules without sacrificing full config serialization.
 * [gonfig](https://github.com/milad-abbasi/gonfig) / ⭐ 10 - Tag-based configuration parser which loads values from different providers into typesafe struct.
@@ -269,23 +269,23 @@ Libraries for configuration parsing.
 * [hedzr/store](https://github.com/hedzr/store) / ⭐ 7 - Extensible, high-performance configuration management library, optimized for hierarchical data.
 * [hjson](https://github.com/hjson/hjson-go) / ⭐ 347 - Human JSON, a configuration file format for humans. Relaxed syntax, fewer mistakes, more comments.
 * [hocon](https://github.com/gurkankaymak/hocon) / ⭐ 88 - Configuration library for working with the HOCON(a human-friendly JSON superset) format, supports features like environment variables, referencing other values, comments and multiple files.
-* [ini](https://github.com/go-ini/ini) / ⭐ 3537 - Go package to read and write INI files.
+* [ini](https://github.com/go-ini/ini) / ⭐ 3536 - Go package to read and write INI files.
 * [ini](https://github.com/wlevene/ini) / ⭐ 18 - INI Parser & Write Library, Unmarshal to Struct, Marshal to Json, Write File, watch file.
 * [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) / ⭐ 5410 - Go library for managing configuration data from environment variables.
 * [koanf](https://github.com/knadh/koanf) / ⭐ 3889 - Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line.
 * [konf](https://github.com/nil-go/konf) / ⭐ 369 - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
 * [konfig](https://github.com/lalamove/konfig) / ⭐ 647 - Composable, observable and performant config handling for Go for the distributed processing era.
-* [kong](https://github.com/alecthomas/kong) / ⭐ 2985 - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to kingpin).
+* [kong](https://github.com/alecthomas/kong) / ⭐ 2986 - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to kingpin).
 * [nasermirzaei89/env](https://github.com/nasermirzaei89/env) / ⭐ 22 - Simple useful package for read environment variables.
 * [nfigure](https://github.com/muir/nfigure) / ⭐ 10 - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
 * [onion](https://github.com/goraz/onion) / ⭐ 119 - Layer based configuration for Go, Supports JSON, TOML, YAML, properties, etcd, env, and encryption using PGP.
 * [piper](https://github.com/Yiling-J/piper) / ⭐ 10 - Viper wrapper with config inheritance and key generation.
-* [sonic](https://github.com/bytedance/sonic) / ⭐ 9255 - A blazingly fast JSON serializing & deserializing library.
+* [sonic](https://github.com/bytedance/sonic) / ⭐ 9258 - A blazingly fast JSON serializing & deserializing library.
 * [swap](https://github.com/oblq/swap) / ⭐ 8 - Instantiate/configure structs recursively, based on build environment. (YAML, TOML, JSON and env).
 * [typenv](https://github.com/diegomarangoni/typenv) / ⭐ 12 - Minimalistic, zero dependency, typed environment variables library.
 * [uConfig](https://github.com/omeid/uconfig) / ⭐ 72 - Lightweight, zero-dependency, and extendable configuration management.
-* [viper](https://github.com/spf13/viper) / ⭐ 30112 - Go configuration with fangs.
-* [xdg](https://github.com/adrg/xdg) / ⭐ 959 - Go implementation of the XDG Base Directory Specification and XDG user directories.
+* [viper](https://github.com/spf13/viper) / ⭐ 30122 - Go configuration with fangs.
+* [xdg](https://github.com/adrg/xdg) / ⭐ 960 - Go implementation of the XDG Base Directory Specification and XDG user directories.
 * [yamagiconf](https://github.com/romshark/yamagiconf) / ⭐ 18 - The "safe subset" of YAML for Go configs.
 * [zerocfg](https://github.com/chaindead/zerocfg) / ⭐ 199 - Zero-effort, concise configuration management that avoids boilerplate and repetitive code, supports multiple sources with priority overrides.
 
@@ -295,20 +295,20 @@ Tools for help with continuous integration.
 
 * [abstruse](https://github.com/bleenco/abstruse) / ⭐ 954 - Abstruse is a distributed CI platform.
 * [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
-* [CDS](https://github.com/ovh/cds) / ⭐ 4806 - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
+* [CDS](https://github.com/ovh/cds) / ⭐ 4807 - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
 * [dot](https://github.com/opnlabs/dot) / ⭐ 33 - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
-* [drone](https://github.com/drone/drone) / ⭐ 33840 - Drone is a Continuous Integration platform built on Docker, written in Go.
+* [drone](https://github.com/drone/drone) / ⭐ 33844 - Drone is a Continuous Integration platform built on Docker, written in Go.
 * [go-beautiful-html-coverage](https://github.com/gha-common/go-beautiful-html-coverage) / ⭐ 21 - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
 * [go-fuzz-action](https://github.com/jidicula/go-fuzz-action) / ⭐ 19 - Use Go 1.18's built-in fuzz testing in GitHub Actions.
 * [go-semver-release](https://github.com/s0ders/go-semver-release) / ⭐ 20 - Automate the semantic versioning of Git repositories.
 * [go-test-coverage](https://github.com/marketplace/actions/go-test-coverage) - A GitHub Action which reports issues when test coverage is below set threshold.
 * [gomason](https://github.com/nikogura/gomason) / ⭐ 66 - Test, Build, Sign, and Publish your go binaries from a clean workspace.
-* [gotestfmt](https://github.com/GoTestTools/gotestfmt) / ⭐ 591 - go test output for humans.
+* [gotestfmt](https://github.com/GoTestTools/gotestfmt) / ⭐ 592 - go test output for humans.
 * [goveralls](https://github.com/mattn/goveralls) / ⭐ 793 - Go integration for Coveralls.io continuous code coverage tracking system.
 * [muffet](https://github.com/raviqqe/muffet) / ⭐ 2590 - Fast website link checker in Go, see alternatives.
 * [overalls](https://github.com/go-playground/overalls) / ⭐ 116 - Multi-Package go project coverprofile for tools like goveralls.
 * [roveralls](https://github.com/LawrenceWoodman/roveralls) / ⭐ 20 - Recursive coverage testing tool.
-* [woodpecker](https://github.com/woodpecker-ci/woodpecker) / ⭐ 6573 - Woodpecker is a community fork of the Drone CI system.
+* [woodpecker](https://github.com/woodpecker-ci/woodpecker) / ⭐ 6581 - Woodpecker is a community fork of the Drone CI system.
 
 ---
 ## CSS Preprocessors
@@ -321,8 +321,8 @@ Libraries for preprocessing CSS files.
 ## Data Integration Frameworks
 Frameworks for performing ELT / ETL
 
-* [Benthos](https://github.com/benthosdev/benthos) / ⭐ 8597 - A message streaming bridge between a range of protocols.
-* [CloudQuery](http://github.com/cloudquery/cloudquery) / ⭐ 6334 - A high-performance ELT data integration framework with pluggable architecture.
+* [Benthos](https://github.com/benthosdev/benthos) / ⭐ 8599 - A message streaming bridge between a range of protocols.
+* [CloudQuery](http://github.com/cloudquery/cloudquery) / ⭐ 6335 - A high-performance ELT data integration framework with pluggable architecture.
 * [omniparser](https://github.com/jf-tech/omniparser) / ⭐ 1079 - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
 
 ---
