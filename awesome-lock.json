@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-03-04T16:39:24.542841881Z",
+    "updated_at": "2026-03-04T18:43:12.646731724Z",
     "provider_metrics": [
       {
         "provider": "gitlab-provider",
@@ -21,7 +21,7 @@
       "https://github.com/micro/micro": "GET https://api.github.com/repos/micro/micro: 404 Not Found []",
       "https://github.com/ndabAP/assocentity": "GET https://api.github.com/repos/ndabAP/assocentity: 404 Not Found []",
       "https://github.com/stv0g/gont": "GET https://api.github.com/repos/stv0g/gont: 404 Not Found []",
-      "https://github.com/twharmon/golamb": "GET https://api.github.com/repos/twharmon/golamb: 404 Not Found []",
+      "https://github.com/twharmon/golamb": "GET https://api.github.com/repos/twharmon/golamb: 502  []",
       "https://github.com/tyler-smith/golang-sql-benchmark": "GET https://api.github.com/repos/tyler-smith/golang-sql-benchmark: 404 Not Found []",
       "https://gitlab.com/fruitygo/pnutmux": "404 Not Found",
       "https://gitlab.com/skilstak/code/go/uniq": "404 Not Found",
