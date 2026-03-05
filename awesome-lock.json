@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-03-04T22:27:40.087079267Z",
+    "updated_at": "2026-03-05T01:50:35.52159718Z",
     "provider_metrics": [
       {
         "provider": "gitlab-provider",
@@ -23,10 +23,10 @@
       "https://github.com/stv0g/gont": "GET https://api.github.com/repos/stv0g/gont: 404 Not Found []",
       "https://github.com/twharmon/golamb": "GET https://api.github.com/repos/twharmon/golamb: 404 Not Found []",
       "https://github.com/tyler-smith/golang-sql-benchmark": "GET https://api.github.com/repos/tyler-smith/golang-sql-benchmark: 404 Not Found []",
-      "https://gitlab.com/fruitygo/pnutmux": "404 Not Found",
-      "https://gitlab.com/skilstak/code/go/uniq": "404 Not Found",
-      "https://gitlab.com/tozd/go/errors": "404 Not Found",
-      "https://gitlab.com/tozd/go/fun": "404 Not Found"
+      "https://gitlab.com/fruitygo/pnutmux": "GET https://gitlab.com/api/v4/projects/fruitygo%2Fpnutmux: 401 {error: invalid_token}, {error_description: Token is expired. You can either do re-authorization or token refresh.}",
+      "https://gitlab.com/skilstak/code/go/uniq": "GET https://gitlab.com/api/v4/projects/skilstak%2Fcode: 401 {error: invalid_token}, {error_description: Token is expired. You can either do re-authorization or token refresh.}",
+      "https://gitlab.com/tozd/go/errors": "GET https://gitlab.com/api/v4/projects/tozd%2Fgo: 401 {error: invalid_token}, {error_description: Token is expired. You can either do re-authorization or token refresh.}",
+      "https://gitlab.com/tozd/go/fun": "GET https://gitlab.com/api/v4/projects/tozd%2Fgo: 401 {error: invalid_token}, {error_description: Token is expired. You can either do re-authorization or token refresh.}"
     }
   },
   "list": [
