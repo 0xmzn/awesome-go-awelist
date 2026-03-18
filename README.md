@@ -865,13 +865,13 @@ Libraries for handling files and file systems.
 * [copy](https://github.com/otiai10/copy) / ⭐ 770 - Copy directory recursively.
 * [fastwalk](https://github.com/charlievieth/fastwalk) / ⭐ 125 - Fast parallel directory traversal library (used by fzf).
 * [flop](https://github.com/homedepot/flop) / ⭐ 35 - File operations library which aims to mirror feature parity with GNU cp.
-* [gdu](https://github.com/dundee/gdu) / ⭐ 5415 - Disk usage analyzer with console interface.
+* [gdu](https://github.com/dundee/gdu) / ⭐ 5421 - Disk usage analyzer with console interface.
 * [go-csv-tag](https://github.com/artonge/go-csv-tag) / ⭐ 130 - Load csv file using tag.
 * [go-decent-copy](https://github.com/hugocarreira/go-decent-copy) / ⭐ 22 - Copy files for humans.
 * [go-exiftool](https://github.com/barasher/go-exiftool) / ⭐ 293 - Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...).
 * [go-gtfs](https://github.com/artonge/go-gtfs) / ⭐ 48 - Load gtfs files in go.
 * [go-wkhtmltopdf](https://github.com/SebastiaanKlippert/go-wkhtmltopdf) / ⭐ 1178 - A package to convert an HTML template to a PDF file.
-* [gofs](https://github.com/no-src/gofs) / ⭐ 526 - A cross-platform real-time file synchronization tool out of the box.
+* [gofs](https://github.com/no-src/gofs) / ⭐ 525 - A cross-platform real-time file synchronization tool out of the box.
 * [gulter](https://github.com/adelowo/gulter) / ⭐ 70 - A simple HTTP middleware to automatically handle all your file upload needs
 * [gut/yos](https://github.com/1set/gut) / ⭐ 27 - Simple and reliable package for file operations like copy/move/diff/list on files, directories and symbolic links.
 * [higgs](https://github.com/dastoori/higgs) / ⭐ 24 - A tiny cross-platform Go library to hide/unhide files and directories.
@@ -880,7 +880,7 @@ Libraries for handling files and file systems.
 * [opc](https://github.com/qmuntal/opc) / ⭐ 79 - Load Open Packaging Conventions (OPC) files for Go.
 * [parquet](https://github.com/parsyl/parquet) / ⭐ 127 - Read and write parquet files.
 * [pathtype](https://github.com/jonchun/pathtype) / ⭐ 13 - Treat paths as their own type instead of using strings.
-* [pdfcpu](https://github.com/pdfcpu/pdfcpu) / ⭐ 8524 - PDF processor.
+* [pdfcpu](https://github.com/pdfcpu/pdfcpu) / ⭐ 8522 - PDF processor.
 * [skywalker](https://github.com/dixonwille/skywalker) / ⭐ 103 - Package to allow one to concurrently go through a filesystem with ease.
 * [todotxt](https://github.com/1set/todotxt) / ⭐ 25 - Go library for Gina Trapani's todo.txt files, supports parsing and manipulating of task lists in the todo.txt format.
 * [vfs](https://github.com/C2FO/vfs) / ⭐ 358 - A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS.
@@ -889,13 +889,13 @@ Libraries for handling files and file systems.
 ## Financial
 Packages for accounting and finance.
 
-* [accounting](https://github.com/leekchan/accounting) / ⭐ 907 - money and currency formatting for golang.
+* [accounting](https://github.com/leekchan/accounting) / ⭐ 908 - money and currency formatting for golang.
 * [ach](https://github.com/moov-io/ach) / ⭐ 535 - A reader, writer, and validator for Automated Clearing House (ACH) files.
-* [bbgo](https://github.com/c9s/bbgo) / ⭐ 1609 - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
+* [bbgo](https://github.com/c9s/bbgo) / ⭐ 1607 - A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing and many built-in strategies.
 * [currency](https://github.com/bojanz/currency) / ⭐ 628 - Handles currency amounts, provides currency information and formatting.
 * [currency](https://github.com/naughtygopher/currency) / ⭐ 61 - High performant & accurate currency computation package.
 * [dec128](https://github.com/jokruger/dec128) / ⭐ 42 - High performance 128-bit fixed-point decimal numbers.
-* [decimal](https://github.com/shopspring/decimal) / ⭐ 7274 - Arbitrary-precision fixed-point decimal numbers.
+* [decimal](https://github.com/shopspring/decimal) / ⭐ 7275 - Arbitrary-precision fixed-point decimal numbers.
 * [decimal](https://github.com/govalues/decimal) / ⭐ 226 - Immutable decimal numbers with panic-free arithmetic.
 * [fpdecimal](https://github.com/nikolaydubina/fpdecimal) / ⭐ 34 - Fast and precise serialization and arithmetic for small fixed-point decimals
 * [fpmoney](https://github.com/nikolaydubina/fpmoney) / ⭐ 35 - Fast and simple ISO4217 fixed-point decimal money.
@@ -904,14 +904,14 @@ Packages for accounting and finance.
 * [go-money](https://github.com/rhymond/go-money) / ⭐ 1880 - Implementation of Fowler's Money pattern.
 * [go-nowpayments](https://github.com/matm/go-nowpayments) / ⭐ 5 - Library for the crypto NOWPayments API.
 * [gobl](https://github.com/invopop/gobl) / ⭐ 261 - Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats.
-* [ledger](https://github.com/formancehq/ledger) / ⭐ 1172 - A programmable financial ledger that provides a foundation for money-moving applications.
+* [ledger](https://github.com/formancehq/ledger) / ⭐ 1174 - A programmable financial ledger that provides a foundation for money-moving applications.
 * [money](https://github.com/govalues/money) / ⭐ 49 - Immutable monetary amounts and exchange rates with panic-free arithmetic.
 * [ofxgo](https://github.com/aclindsa/ofxgo) / ⭐ 147 - Query OFX servers and/or parse the responses (with example command-line client).
-* [orderbook](https://github.com/i25959341/orderbook) / ⭐ 540 - Matching Engine for Limit Order Book in Golang.
+* [orderbook](https://github.com/i25959341/orderbook) / ⭐ 541 - Matching Engine for Limit Order Book in Golang.
 * [payme](https://github.com/jovandeginste/payme) / ⭐ 91 - QR code generator (ASCII & PNG) for SEPA payments.
 * [swift](https://code.pfad.fr/swift/) - Offline validity check of IBAN (International Bank Account Number) and retrieval of BIC (for some countries).
-* [techan](https://github.com/sdcoffey/techan) / ⭐ 891 - Technical analysis library with advanced market analysis and trading strategies.
-* [ticker](https://github.com/achannarasappa/ticker) / ⭐ 5986 - Terminal stock watcher and stock position tracker.
+* [techan](https://github.com/sdcoffey/techan) / ⭐ 890 - Technical analysis library with advanced market analysis and trading strategies.
+* [ticker](https://github.com/achannarasappa/ticker) / ⭐ 5982 - Terminal stock watcher and stock position tracker.
 * [transaction](https://github.com/claygod/transaction) / ⭐ 139 - Embedded transactional database of accounts, running in multithreaded mode.
 * [udecimal](https://github.com/quagmt/udecimal) / ⭐ 176 - High performance, high precision, zero allocation fixed-point decimal library for financial applications.
 * [vat](https://github.com/dannyvankooten/vat) / ⭐ 119 - VAT number validation & EU VAT rates.
@@ -929,7 +929,7 @@ Libraries for working with forms.
 * [gbind](https://github.com/bdjimmy/gbind) / ⭐ 10 - Bind data to any Go value. Can use built-in and custom expression binding capabilities; supports data validation
 * [gorilla/csrf](https://github.com/gorilla/csrf) / ⭐ 1185 - CSRF protection for Go web applications & services.
 * [httpin](https://github.com/ggicci/httpin) / ⭐ 385 - Decode an HTTP request into a custom struct, including querystring, forms, HTTP headers, etc.
-* [nosurf](https://github.com/justinas/nosurf) / ⭐ 1730 - CSRF protection middleware for Go.
+* [nosurf](https://github.com/justinas/nosurf) / ⭐ 1728 - CSRF protection middleware for Go.
 * [qs](https://github.com/sonh/qs) / ⭐ 80 - Go module for encoding structs into URL query parameters.
 * [queryparam](https://github.com/tomwright/queryparam) / ⭐ 19 - Decode url.Values into usable struct values of standard or custom types.
 * [roamer](https://github.com/slipros/roamer) / ⭐ 6 - Eliminates boilerplate code for parsing HTTP requests by binding cookies, headers, query params, path params, body to structs and more by using simple tags.
@@ -945,7 +945,7 @@ Packages to support functional programming in Go.
 * [go-functional](https://github.com/BooleanCat/go-functional) / ⭐ 527 - Functional programming in Go using generics
 * [go-underscore](https://github.com/tobyhede/go-underscore) / ⭐ 1299 - Useful collection of helpfully functional Go collection utilities.
 * [gofp](https://github.com/rbrahul/gofp) / ⭐ 152 - A lodash like powerful utility library for Golang.
-* [mo](https://github.com/samber/mo) / ⭐ 3300 - Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...).
+* [mo](https://github.com/samber/mo) / ⭐ 3302 - Monads and popular FP abstractions, based on Go 1.18+ Generics (Option, Result, Either...).
 * [underscore](https://github.com/rjNemo/underscore) / ⭐ 117 - Functional programming helpers for Go 1.18 and beyond.
 * [valor](https://github.com/phelmkamp/valor) / ⭐ 20 - Generic option and result types that optionally contain a value.
 
@@ -954,25 +954,25 @@ Packages to support functional programming in Go.
 Awesome game development libraries.
 
 * [Ark](https://github.com/mlange-42/ark) / ⭐ 227 - Archetype-based Entity Component System (ECS) for Go.
-* [Ebitengine](https://github.com/hajimehoshi/ebiten) / ⭐ 13029 - dead simple 2D game engine in Go.
+* [Ebitengine](https://github.com/hajimehoshi/ebiten) / ⭐ 13032 - dead simple 2D game engine in Go.
 * [ecs](https://github.com/andygeiss/ecs) / ⭐ 171 - Build your own Game-Engine based on the Entity Component System concept in Golang.
 * [engo](https://github.com/EngoEngine/engo) / ⭐ 1817 - Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm.
 * [fantasyname](https://github.com/s0rg/fantasyname) / ⭐ 40 - Fantasy names generator.
-* [g3n](https://github.com/g3n/engine) / ⭐ 3074 - Go 3D Game Engine.
+* [g3n](https://github.com/g3n/engine) / ⭐ 3073 - Go 3D Game Engine.
 * [go-astar](https://github.com/beefsack/go-astar) / ⭐ 631 - Go implementation of the A* path finding algorithm.
-* [go-sdl2](https://github.com/veandco/go-sdl2) / ⭐ 2324 - Go bindings for the Simple DirectMedia Layer.
+* [go-sdl2](https://github.com/veandco/go-sdl2) / ⭐ 2323 - Go bindings for the Simple DirectMedia Layer.
 * [go3d](https://github.com/ungerik/go3d) / ⭐ 338 - Performance oriented 2D/3D math package for Go.
 * [gonet](https://github.com/xtaci/gonet) / ⭐ 1291 - Game server skeleton implemented with golang.
 * [goworld](https://github.com/xiaonanln/goworld) / ⭐ 2707 - Scalable game server engine, featuring space-entity framework and hot-swapping.
 * [grid](https://github.com/s0rg/grid) / ⭐ 25 - Generic 2D grid with ray-casting, shadow-casting and path finding.
-* [Leaf](https://github.com/name5566/leaf) / ⭐ 5500 - Lightweight game server framework.
+* [Leaf](https://github.com/name5566/leaf) / ⭐ 5499 - Lightweight game server framework.
 * [nano](https://github.com/lonng/nano) / ⭐ 3177 - Lightweight, facility, high performance golang based game server framework.
-* [Oak](https://github.com/oakmound/oak) / ⭐ 1655 - Pure Go game engine.
+* [Oak](https://github.com/oakmound/oak) / ⭐ 1656 - Pure Go game engine.
 * [Pi](https://github.com/elgopher/pi) / ⭐ 61 - Game engine for creating retro games for modern computers. Inspired by Pico-8 and powered by Ebitengine.
 * [Pitaya](https://github.com/topfreegames/pitaya) / ⭐ 2750 - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
 * [Pixel](https://github.com/gopxl/pixel) / ⭐ 385 - Hand-crafted 2D game library in Go.
 * [prototype](https://github.com/gonutz/prototype) / ⭐ 107 - Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API.
-* [raylib-go](https://github.com/gen2brain/raylib-go) / ⭐ 2385 - Go bindings for raylib, a simple and easy-to-use library to learn videogames programming.
+* [raylib-go](https://github.com/gen2brain/raylib-go) / ⭐ 2386 - Go bindings for raylib, a simple and easy-to-use library to learn videogames programming.
 * [termloop](https://github.com/JoelOtter/termloop) / ⭐ 1472 - Terminal-based game engine for Go, built on top of Termbox.
 * [tile](https://github.com/kelindar/tile) / ⭐ 213 - Data-oriented and cache-friendly 2D Grid library (TileMap), includes pathfinding, observers and import/export.
 
@@ -980,18 +980,18 @@ Awesome game development libraries.
 ## Generators
 Tools that generate Go code.
 
-* [convergen](https://github.com/reedom/convergen) / ⭐ 49 - Feature rich type-to-type copy code generator.
+* [convergen](https://github.com/reedom/convergen) / ⭐ 50 - Feature rich type-to-type copy code generator.
 * [copygen](https://github.com/switchupcb/copygen) / ⭐ 400 - Generate any code based on Go types, including type-to-type converters (copy code) without reflection by default.
 * [generis](https://github.com/senselogic/GENERIS) / ⭐ 47 - Code generation tool providing generics, free-form macros, conditional compilation and HTML templating.
 * [go-enum](https://github.com/abice/go-enum) / ⭐ 932 - Code generation for enums from code comments.
 * [go-enum-encoding](https://github.com/nikolaydubina/go-enum-encoding) / ⭐ 15 - Code generation for enum encoding from code comments.
 * [go-linq](https://github.com/ahmetalpbalkan/go-linq) / ⭐ 3644 - .NET LINQ-like query methods for Go.
 * [goderive](https://github.com/awalterschulze/goderive) / ⭐ 1264 - Derives functions from input types
-* [goverter](https://github.com/jmattheis/goverter) / ⭐ 829 - Generate converters by defining an interface.
-* [GoWrap](https://github.com/hexdigest/gowrap) / ⭐ 1315 - Generate decorators for Go interfaces using simple templates.
+* [goverter](https://github.com/jmattheis/goverter) / ⭐ 830 - Generate converters by defining an interface.
+* [GoWrap](https://github.com/hexdigest/gowrap) / ⭐ 1314 - Generate decorators for Go interfaces using simple templates.
 * [interfaces](https://github.com/rjeczalik/interfaces) / ⭐ 432 - Command line tool for generating interface definitions.
 * [jennifer](https://github.com/dave/jennifer) / ⭐ 3604 - Generate arbitrary Go code without templates.
-* [oapi-codegen](https://github.com/deepmap/oapi-codegen) / ⭐ 8163 - This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.
+* [oapi-codegen](https://github.com/deepmap/oapi-codegen) / ⭐ 8165 - This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.
 * [typeregistry](https://github.com/xiaoxin01/typeregistry) / ⭐ 23 - A library to create type dynamically.
 
 ---
@@ -1003,16 +1003,16 @@ Geographic tools and servers
 * [geoserver](https://github.com/hishamkaram/geoserver) / ⭐ 91 - geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API.
 * [gismanager](https://github.com/hishamkaram/gismanager) / ⭐ 54 - Publish Your GIS Data(Vector Data) to PostGIS and Geoserver.
 * [godal](https://github.com/airbusgeo/godal) / ⭐ 174 - Go wrapper for GDAL.
-* [H3](https://github.com/uber/h3-go) / ⭐ 410 - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
+* [H3](https://github.com/uber/h3-go) / ⭐ 412 - Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
 * [H3 GeoJSON](https://github.com/mmadfox/go-geojson2h3) / ⭐ 6 - Conversion utilities between H3 indexes and GeoJSON.
 * [H3GeoDist](https://github.com/mmadfox/go-h3geo-dist) / ⭐ 2 - Distribution of Uber H3geo cells by virtual nodes.
 * [mbtileserver](https://github.com/consbio/mbtileserver) / ⭐ 777 - A simple Go-based server for map tiles stored in mbtiles format.
 * [osm](https://github.com/paulmach/osm) / ⭐ 447 - Library for reading, writing and working with OpenStreetMap data and APIs.
 * [pbf](https://github.com/maguro/pbf) / ⭐ 54 - OpenStreetMap PBF golang encoder/decoder.
 * [S2 geojson](https://github.com/pantrif/s2-geojson) / ⭐ 37 - Convert geojson to s2 cells & demonstrating some S2 geometry features on map.
-* [S2 geometry](https://github.com/golang/geo) / ⭐ 1824 - S2 geometry library in Go.
+* [S2 geometry](https://github.com/golang/geo) / ⭐ 1825 - S2 geometry library in Go.
 * [simplefeatures](https://github.com/peterstace/simplefeatures) / ⭐ 170 - simplesfeatures is a 2D geometry library that provides Go types that model geometries, as well as algorithms that operate on them.
-* [Tile38](https://github.com/tidwall/tile38) / ⭐ 9599 - Geolocation DB with spatial index and realtime geofencing.
+* [Tile38](https://github.com/tidwall/tile38) / ⭐ 9596 - Geolocation DB with spatial index and realtime geofencing.
 * [Web-Mercator-Projection](https://github.com/jorelosorio/web-mercator-projection) / ⭐ 9 - 
 * [WGS84](https://github.com/wroge/wgs84) / ⭐ 141 - Library for Coordinate Conversion and Transformation (ETRS89, OSGB36, NAD83, RGF93, Web Mercator, UTM).
 
@@ -1026,14 +1026,14 @@ Tools for compiling Go to other languages and vice-versa.
 * [esp32](https://github.com/andygeiss/esp32-transpiler) / ⭐ 97 - Transpile Go into Arduino code.
 * [f4go](https://github.com/Konstantin8105/f4go) / ⭐ 49 - Transpile FORTRAN 77 code to Go code.
 * [go2hx](https://github.com/go2hx/go2hx) / ⭐ 150 - Compiler from Go to Haxe to Javascript/C++/Java/C#.
-* [gopherjs](https://github.com/gopherjs/gopherjs) / ⭐ 13131 - Compiler from Go to JavaScript.
+* [gopherjs](https://github.com/gopherjs/gopherjs) / ⭐ 13128 - Compiler from Go to JavaScript.
 
 ---
 ## Goroutines
 Tools for managing and working with Goroutines.
 
 * [anchor](https://github.com/kyuff/anchor) / ⭐ 2 - Library to manage component lifecycle in microservice architectures.
-* [ants](https://github.com/panjf2000/ants) / ⭐ 14364 - A high-performance and low-cost goroutine pool in Go.
+* [ants](https://github.com/panjf2000/ants) / ⭐ 14362 - A high-performance and low-cost goroutine pool in Go.
 * [artifex](https://github.com/borderstech/artifex) / ⭐ 214 - Simple in-memory job queue for Golang using worker-based dispatching.
 * [async](https://github.com/yaitoo/async) / ⭐ 15 - An asynchronous task package with async/await style for Go.
 * [async](https://github.com/reugn/async) / ⭐ 300 - An alternative sync library for Go (Future, Promise, Locks).
@@ -1041,7 +1041,7 @@ Tools for managing and working with Goroutines.
 * [async-job](https://github.com/lab210-dev/async-job) / ⭐ 12 - AsyncJob is an asynchronous queue job manager with light code, clear and speed.
 * [breaker](https://github.com/kamilsk/breaker) / ⭐ 20 - Flexible mechanism to make execution flow interruptible.
 * [channelify](https://github.com/ddelizia/channelify) / ⭐ 33 - Transform your function to return channels for easy and powerful parallel processing.
-* [conc](https://github.com/sourcegraph/conc) / ⭐ 10331 - conc is your toolbelt for structured concurrency in go, making common tasks easier and safer.
+* [conc](https://github.com/sourcegraph/conc) / ⭐ 10332 - conc is your toolbelt for structured concurrency in go, making common tasks easier and safer.
 * [concurrency-limiter](https://github.com/vivek-ng/concurrency-limiter) / ⭐ 18 - Concurrency limiter with support for timeouts, dynamic priority and context cancellation of goroutines.
 * [conexec](https://github.com/ITcathyh/conexec) / ⭐ 17 - A concurrent toolkit to help execute funcs concurrently in an efficient and safe way. It supports specifying the overall timeout to avoid blocking and uses goroutine pool to improve efficiency.
 * [cyclicbarrier](https://github.com/marusama/cyclicbarrier) / ⭐ 160 - CyclicBarrier for golang.
@@ -1060,7 +1060,7 @@ Tools for managing and working with Goroutines.
 * [gollback](https://github.com/vardius/gollback) / ⭐ 123 - asynchronous simple function utilities, for managing execution of closures and callbacks.
 * [gowl](https://github.com/hamed-yousefi/gowl) / ⭐ 71 - Gowl is a process management and process monitoring tool at once. An infinite worker pool gives you the ability to control the pool and processes and monitor their status.
 * [goworker](https://github.com/benmanns/goworker) / ⭐ 2850 - goworker is a Go-based background worker.
-* [gowp](https://github.com/xxjwxc/gowp) / ⭐ 522 - gowp is concurrency limiting goroutine pool.
+* [gowp](https://github.com/xxjwxc/gowp) / ⭐ 520 - gowp is concurrency limiting goroutine pool.
 * [gpool](https://github.com/Sherifabdlnaby/gpool) / ⭐ 91 - manages a resizeable pool of context-aware goroutines to bound concurrency.
 * [grpool](https://github.com/ivpusic/grpool) / ⭐ 739 - Lightweight Goroutine pool.
 * [hands](https://github.com/duanckham/hands) / ⭐ 10 - A process controller used to control the execution and return strategies of multiple goroutines.
@@ -1070,7 +1070,7 @@ Tools for managing and working with Goroutines.
 * [nursery](https://github.com/arunsworld/nursery) / ⭐ 70 - Structured concurrency in Go.
 * [oversight](https://pkg.go.dev/cirello.io/oversight) - Oversight is a complete implementation of the Erlang supervision trees.
 * [parallel-fn](https://github.com/rafaeljesus/parallel-fn) / ⭐ 37 - Run functions in parallel.
-* [pond](https://github.com/alitto/pond) / ⭐ 2118 - Minimalistic and High-performance goroutine worker pool written in Go.
+* [pond](https://github.com/alitto/pond) / ⭐ 2121 - Minimalistic and High-performance goroutine worker pool written in Go.
 * [pool](https://github.com/go-playground/pool) / ⭐ 728 - Limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation.
 * [rill](https://github.com/destel/rill) / ⭐ 1803 - Go toolkit for clean, composable, channel-based concurrency.
 * [routine](https://github.com/timandy/routine) / ⭐ 287 - routine is a ThreadLocal for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance goroutine context access interfaces, which can help you access coroutine context information more gracefully.
