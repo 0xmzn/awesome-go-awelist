@@ -859,13 +859,13 @@ Libraries for handling errors.
 Libraries for handling files and file systems.
 
 * [afero](https://github.com/spf13/afero) / ⭐ 6602 - FileSystem Abstraction System for Go.
-* [afs](https://github.com/viant/afs) / ⭐ 380 - Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go.
+* [afs](https://github.com/viant/afs) / ⭐ 381 - Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go.
 * [baraka](https://github.com/xis/baraka) / ⭐ 64 - A library to process http file uploads easily.
 * [checksum](https://github.com/codingsince1985/checksum) / ⭐ 115 - Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files.
 * [copy](https://github.com/otiai10/copy) / ⭐ 771 - Copy directory recursively.
 * [fastwalk](https://github.com/charlievieth/fastwalk) / ⭐ 126 - Fast parallel directory traversal library (used by fzf).
 * [flop](https://github.com/homedepot/flop) / ⭐ 35 - File operations library which aims to mirror feature parity with GNU cp.
-* [gdu](https://github.com/dundee/gdu) / ⭐ 5442 - Disk usage analyzer with console interface.
+* [gdu](https://github.com/dundee/gdu) / ⭐ 5447 - Disk usage analyzer with console interface.
 * [go-csv-tag](https://github.com/artonge/go-csv-tag) / ⭐ 130 - Load csv file using tag.
 * [go-decent-copy](https://github.com/hugocarreira/go-decent-copy) / ⭐ 22 - Copy files for humans.
 * [go-exiftool](https://github.com/barasher/go-exiftool) / ⭐ 294 - Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...).
@@ -1089,8 +1089,8 @@ Interaction
 
 * [app](https://github.com/murlokswarm/app) / ⭐ 8867 - Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress.
 * [cimgui-go](https://github.com/AllenDang/cimgui-go) / ⭐ 506 - Auto generated Go wrapper for Dear ImGui via cimgui.
-* [Cogent Core](https://github.com/cogentcore/core) / ⭐ 2310 - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
-* [DarwinKit](https://github.com/progrium/darwinkit) / ⭐ 5407 - Build native macOS applications using Go.
+* [Cogent Core](https://github.com/cogentcore/core) / ⭐ 2311 - A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
+* [DarwinKit](https://github.com/progrium/darwinkit) / ⭐ 5408 - Build native macOS applications using Go.
 * [energy](https://github.com/energye/energy) / ⭐ 579 - Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux)
 * [fyne](https://github.com/fyne-io/fyne) / ⭐ 28040 - Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android.
 * [gio](https://gioui.org) - Gio is a library for writing cross-platform immediate mode GUI-s in Go. Gio supports all the major platforms: Linux, macOS, Windows, Android, iOS, FreeBSD, OpenBSD and WebAssembly.
@@ -1100,19 +1100,19 @@ Interaction
 * [goradd/html5tag](https://github.com/goradd/html5tag) / ⭐ 13 - Library for outputting HTML5 tags.
 * [gotk3](https://github.com/gotk3/gotk3) / ⭐ 2204 - Go bindings for GTK3.
 * [gowd](https://github.com/dtylman/gowd) / ⭐ 437 - Rapid and simple desktop UI development with GO, HTML, CSS and NW.js. Cross platform.
-* [qt](https://github.com/therecipe/qt) / ⭐ 10779 - Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi).
+* [qt](https://github.com/therecipe/qt) / ⭐ 10778 - Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi).
 * [Spot](https://github.com/roblillack/spot) / ⭐ 1260 - Reactive, cross-platform desktop GUI toolkit.
 * [ui](https://github.com/andlabs/ui) / ⭐ 8356 - Platform-native GUI library for Go. Cross platform.
 * [unison](https://github.com/richardwilkes/unison) / ⭐ 320 - A unified graphical user experience toolkit for Go desktop applications. macOS, Windows, and Linux are supported.
 * [Wails](https://wails.io) - Mac, Windows, Linux desktop apps with HTML UI using built-in OS HTML renderer.
-* [walk](https://github.com/lxn/walk) / ⭐ 7063 - Windows application library kit for Go.
-* [webview](https://github.com/zserge/webview) / ⭐ 13964 - Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux).
+* [walk](https://github.com/lxn/walk) / ⭐ 7064 - Windows application library kit for Go.
+* [webview](https://github.com/zserge/webview) / ⭐ 13967 - Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux).
 * [AppIndicator Go](https://github.com/gopherlibs/appindicator) / ⭐ 5 - Go bindings for libappindicator3 C library.
 * [gosx-notifier](https://github.com/deckarep/gosx-notifier) / ⭐ 590 - OSX Desktop Notifications library for Go.
 * [mac-activity-tracker](https://github.com/prashantgupta24/activity-tracker) / ⭐ 31 - OSX library to notify about any (pluggable) activity on your machine.
 * [mac-sleep-notifier](https://github.com/prashantgupta24/mac-sleep-notifier) / ⭐ 39 - OSX Sleep/Wake notifications in golang.
 * [robotgo](https://github.com/go-vgo/robotgo) / ⭐ 10657 - Go Native cross-platform GUI system automation. Control the mouse, keyboard and other.
-* [systray](https://github.com/getlantern/systray) / ⭐ 3676 - Cross platform Go library to place an icon and menu in the notification area.
+* [systray](https://github.com/getlantern/systray) / ⭐ 3677 - Cross platform Go library to place an icon and menu in the notification area.
 * [trayhost](https://github.com/shurcooL/trayhost) / ⭐ 258 - Cross-platform Go library to place an icon in the host operating system's taskbar.
 * [zenity](https://github.com/ncruces/zenity) / ⭐ 897 - Cross-platform Go library and CLI to create simple dialogs that interact graphically with the user.
 
@@ -1120,11 +1120,11 @@ Interaction
 ## Hardware
 Libraries, tools, and tutorials for interacting with hardware.
 
-* [arduino-cli](https://github.com/arduino/arduino-cli) / ⭐ 4833 - Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects.
+* [arduino-cli](https://github.com/arduino/arduino-cli) / ⭐ 4836 - Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects.
 * [emgo](https://github.com/ziutek/emgo) / ⭐ 1099 - Go-like language for programming embedded systems (e.g. STM32 MCU).
 * [ghw](https://github.com/jaypipes/ghw) / ⭐ 1828 - Golang hardware discovery/inspection library.
 * [go-osc](https://github.com/hypebeast/go-osc) / ⭐ 225 - Open Sound Control (OSC) bindings for Go.
-* [go-rpio](https://github.com/stianeikeland/go-rpio) / ⭐ 2285 - GPIO for Go, doesn't require cgo.
+* [go-rpio](https://github.com/stianeikeland/go-rpio) / ⭐ 2286 - GPIO for Go, doesn't require cgo.
 * [goroslib](https://github.com/aler9/goroslib) / ⭐ 366 - Robot Operating System (ROS) library for Go.
 * [joystick](https://github.com/0xcafed00d/joystick) / ⭐ 75 - a polled API to read the state of an attached joystick.
 * [sysinfo](https://github.com/zcalusic/sysinfo) / ⭐ 576 - A pure Go library providing Linux OS / kernel / hardware system information.
@@ -1134,13 +1134,13 @@ Libraries, tools, and tutorials for interacting with hardware.
 Libraries for manipulating images.
 
 * [bild](https://github.com/anthonynsimon/bild) / ⭐ 4186 - Collection of image processing algorithms in pure Go.
-* [bimg](https://github.com/h2non/bimg) / ⭐ 2995 - Small package for fast and efficient image processing using libvips.
+* [bimg](https://github.com/h2non/bimg) / ⭐ 2996 - Small package for fast and efficient image processing using libvips.
 * [cameron](https://github.com/aofei/cameron) / ⭐ 131 - An avatar generator for Go.
 * [canvas](https://github.com/tdewolff/canvas) / ⭐ 1794 - Vector graphics to PDF, SVG or rasterized image.
 * [color-extractor](https://github.com/marekm4/color-extractor) / ⭐ 131 - Dominant color extractor with no external dependencies.
 * [darkroom](https://github.com/gojek/darkroom) / ⭐ 236 - An image proxy with changeable storage backends and image processing engines with focus on speed and resiliency.
 * [geopattern](https://github.com/pravj/geopattern) / ⭐ 1284 - Create beautiful generative image patterns from a string.
-* [gg](https://github.com/fogleman/gg) / ⭐ 4751 - 2D rendering in pure Go.
+* [gg](https://github.com/fogleman/gg) / ⭐ 4752 - 2D rendering in pure Go.
 * [gift](https://github.com/disintegration/gift) / ⭐ 1792 - Package of image processing filters.
 * [gltf](https://github.com/qmuntal/gltf) / ⭐ 277 - Efficient and robust glTF 2.0 reader, writer and validator.
 * [go-cairo](https://github.com/ungerik/go-cairo) / ⭐ 151 - Go binding for the cairo graphics library.
@@ -1149,24 +1149,24 @@ Libraries for manipulating images.
 * [go-qrcode](https://github.com/yeqown/go-qrcode) / ⭐ 820 - Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons.
 * [go-webcolors](https://github.com/jyotiska/go-webcolors) / ⭐ 29 - Port of webcolors library from Python to Go.
 * [go-webp](https://github.com/kolesa-team/go-webp) / ⭐ 303 - Library for encode and decode webp pictures, using libwebp.
-* [gocv](https://github.com/hybridgroup/gocv) / ⭐ 7403 - Go package for computer vision using OpenCV 3.3+.
+* [gocv](https://github.com/hybridgroup/gocv) / ⭐ 7404 - Go package for computer vision using OpenCV 3.3+.
 * [goimagehash](https://github.com/corona10/goimagehash) / ⭐ 830 - Go Perceptual image hashing package.
 * [goimghdr](https://github.com/corona10/goimghdr) / ⭐ 40 - The imghdr module determines the type of image contained in a file for Go.
 * [govatar](https://github.com/o1egl/govatar) / ⭐ 607 - Library and CMD tool for generating funny avatars.
 * [govips](https://github.com/davidbyttow/govips) / ⭐ 1546 - A lightning fast image processing and resizing library for Go.
-* [gowitness](https://github.com/sensepost/gowitness) / ⭐ 4198 - Screenshoting webpages using go and headless chrome on command line.
+* [gowitness](https://github.com/sensepost/gowitness) / ⭐ 4197 - Screenshoting webpages using go and headless chrome on command line.
 * [gridder](https://github.com/shomali11/gridder) / ⭐ 81 - A Grid based 2D Graphics library.
-* [image2ascii](https://github.com/qeesung/image2ascii) / ⭐ 965 - Convert image to ASCII.
+* [image2ascii](https://github.com/qeesung/image2ascii) / ⭐ 967 - Convert image to ASCII.
 * [imagick](https://github.com/gographics/imagick) / ⭐ 1866 - Go binding to ImageMagick's MagickWand C API.
-* [imaginary](https://github.com/h2non/imaginary) / ⭐ 6027 - Fast and simple HTTP microservice for image resizing.
-* [imaging](https://github.com/disintegration/imaging) / ⭐ 5694 - Simple Go image processing package.
+* [imaginary](https://github.com/h2non/imaginary) / ⭐ 6028 - Fast and simple HTTP microservice for image resizing.
+* [imaging](https://github.com/disintegration/imaging) / ⭐ 5695 - Simple Go image processing package.
 * [imagor](https://github.com/cshum/imagor) / ⭐ 3920 - Fast, secure image processing server and Go library, using libvips.
 * [img](https://github.com/hawx/img) / ⭐ 158 - Selection of image manipulation tools.
-* [ln](https://github.com/fogleman/ln) / ⭐ 3360 - 3D line art rendering in Go.
+* [ln](https://github.com/fogleman/ln) / ⭐ 3359 - 3D line art rendering in Go.
 * [mergi](https://github.com/noelyahan/mergi) / ⭐ 243 - Tool & Go library for image manipulation (Merge, Crop, Resize, Watermark, Animate).
 * [mort](https://github.com/aldor007/mort) / ⭐ 520 - Storage and image processing server written in Go.
 * [mpo](https://github.com/donatj/mpo) / ⭐ 24 - Decoder and conversion tool for MPO 3D Photos.
-* [nativewebp](https://github.com/HugoSmits86/nativewebp) / ⭐ 401 - Go native WebP encoder with zero external dependencies.
+* [nativewebp](https://github.com/HugoSmits86/nativewebp) / ⭐ 403 - Go native WebP encoder with zero external dependencies.
 * [picfit](https://github.com/thoas/picfit) / ⭐ 2329 - An image resizing server written in Go.
 * [pt](https://github.com/fogleman/pt) / ⭐ 2102 - Path tracing engine written in Go.
 * [scout](https://github.com/jonoton/scout) / ⭐ 26 - Scout is a standalone open source software solution for DIY video security.
@@ -1186,8 +1186,8 @@ Libraries for programming devices of the IoT.
 * [ekuiper](https://github.com/lf-edge/ekuiper) / ⭐ 1685 - Lightweight data stream processing engine for IoT edge.
 * [eywa](https://github.com/xcodersun/eywa) / ⭐ 65 - Project Eywa is essentially a connection manager that keeps track of connected devices.
 * [flogo](https://github.com/tibcosoftware/flogo) / ⭐ 2493 - Project Flogo is an Open Source Framework for IoT Edge Apps & Integration.
-* [gatt](https://github.com/paypal/gatt) / ⭐ 1167 - Gatt is a Go package for building Bluetooth Low Energy peripherals.
-* [gobot](https://github.com/hybridgroup/gobot/) / ⭐ 9384 - Gobot is a framework for robotics, physical computing, and the Internet of Things.
+* [gatt](https://github.com/paypal/gatt) / ⭐ 1166 - Gatt is a Go package for building Bluetooth Low Energy peripherals.
+* [gobot](https://github.com/hybridgroup/gobot/) / ⭐ 9385 - Gobot is a framework for robotics, physical computing, and the Internet of Things.
 * [huego](https://github.com/amimof/huego) / ⭐ 262 - An extensive Philips Hue client library for Go.
 * [iot](https://github.com/vaelen/iot/) / ⭐ 68 - IoT is a simple framework for implementing a Google IoT Core device.
 * [periph](https://periph.io/) - Peripherals I/O to interface with low-level board facilities.
