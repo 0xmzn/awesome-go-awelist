@@ -352,8 +352,8 @@ Frameworks for performing ELT / ETL
 ### Data Structure and Algorithm Collections
 
 * [algorithms](https://github.com/shady831213/algorithms) / ⭐ 841 - Algorithms and data structures.CLRS study.
-* [go-datastructures](https://github.com/Workiva/go-datastructures) / ⭐ 7911 - Collection of useful, performant, and thread-safe data structures.
-* [gods](https://github.com/emirpasic/gods) / ⭐ 17411 - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
+* [go-datastructures](https://github.com/Workiva/go-datastructures) / ⭐ 7910 - Collection of useful, performant, and thread-safe data structures.
+* [gods](https://github.com/emirpasic/gods) / ⭐ 17410 - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
 * [gostl](https://github.com/liyue201/gostl) / ⭐ 1138 - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
 ### Iterators
 
@@ -384,7 +384,7 @@ additional ordered map implementations.
 * [go18ds](https://github.com/daichi-m/go18ds) / ⭐ 46 - Go Data Structures using Go 1.18 generics.
 * [gofal](https://github.com/xxjwxc/gofal) / ⭐ 19 - fractional api for Go.
 * [gogu](https://github.com/esimov/gogu) / ⭐ 108 - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
-* [gota](https://github.com/kniren/gota) / ⭐ 3271 - Implementation of dataframes, series, and data wrangling methods for Go.
+* [gota](https://github.com/kniren/gota) / ⭐ 3272 - Implementation of dataframes, series, and data wrangling methods for Go.
 * [hide](https://github.com/emvi/hide) / ⭐ 73 - ID type with marshalling to/from hash to prevent sending IDs to clients.
 * [hyperloglog](https://github.com/axiomhq/hyperloglog) / ⭐ 1032 - HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction.
 * [quadtree](https://github.com/s0rg/quadtree) / ⭐ 41 - Generic, zero-alloc, 100%-test covered quadtree.
@@ -412,7 +412,7 @@ additional ordered map implementations.
 * [set](https://github.com/StudioSol/set) / ⭐ 29 - Simple set data structure implementation in Go using LinkedHashMap.
 ### Text Analysis
 
-* [bleve](https://github.com/blevesearch/bleve) / ⭐ 11009 - Modern text indexing library for go.
+* [bleve](https://github.com/blevesearch/bleve) / ⭐ 11011 - Modern text indexing library for go.
 * [go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) / ⭐ 412 - Go implementation of Adaptive Radix Tree.
 * [go-edlib](https://github.com/hbollon/go-edlib) / ⭐ 598 - Go string comparison and edit distance algorithms library (Levenshtein, LCS, Hamming, Damerau levenshtein, Jaro-Winkler, etc.) compatible with Unicode.
 * [levenshtein](https://github.com/agext/levenshtein) / ⭐ 90 - Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix.
