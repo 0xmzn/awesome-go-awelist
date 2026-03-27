@@ -338,7 +338,7 @@ Frameworks for performing ELT / ETL
 ### Bit Sets
 
 * [bitmap](https://github.com/kelindar/bitmap) / ⭐ 371 - Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go.
-* [bitset](https://github.com/bits-and-blooms/bitset) / ⭐ 1489 - Go package implementing bitsets.
+* [bitset](https://github.com/bits-and-blooms/bitset) / ⭐ 1491 - Go package implementing bitsets.
 ### Bloom and Cuckoo Filters
 
 * [bloom](https://github.com/bits-and-blooms/bloom) / ⭐ 2762 - Go package implementing Bloom filters.
@@ -346,14 +346,14 @@ Frameworks for performing ELT / ETL
 * [bloom](https://github.com/yourbasic/bloom) / ⭐ 88 - Golang Bloom filter implementation.
 * [bloomfilter](https://github.com/OldPanda/bloomfilter) / ⭐ 20 - Yet another Bloomfilter implementation in Go, compatible with Java's Guava library.
 * [boomfilters](https://github.com/tylertreat/BoomFilters) / ⭐ 1646 - Probabilistic data structures for processing continuous, unbounded streams.
-* [cuckoo-filter](https://github.com/linvon/cuckoo-filter) / ⭐ 306 - Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper are available.
+* [cuckoo-filter](https://github.com/linvon/cuckoo-filter) / ⭐ 307 - Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper are available.
 * [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) / ⭐ 1222 - Cuckoo filter: a good alternative to a counting bloom filter implemented in Go.
 * [ring](https://github.com/TheTannerRyan/ring) / ⭐ 144 - Go implementation of a high performance, thread safe bloom filter.
 ### Data Structure and Algorithm Collections
 
 * [algorithms](https://github.com/shady831213/algorithms) / ⭐ 841 - Algorithms and data structures.CLRS study.
 * [go-datastructures](https://github.com/Workiva/go-datastructures) / ⭐ 7910 - Collection of useful, performant, and thread-safe data structures.
-* [gods](https://github.com/emirpasic/gods) / ⭐ 17410 - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
+* [gods](https://github.com/emirpasic/gods) / ⭐ 17411 - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
 * [gostl](https://github.com/liyue201/gostl) / ⭐ 1138 - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
 ### Iterators
 
@@ -386,7 +386,7 @@ additional ordered map implementations.
 * [gogu](https://github.com/esimov/gogu) / ⭐ 108 - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
 * [gota](https://github.com/kniren/gota) / ⭐ 3272 - Implementation of dataframes, series, and data wrangling methods for Go.
 * [hide](https://github.com/emvi/hide) / ⭐ 73 - ID type with marshalling to/from hash to prevent sending IDs to clients.
-* [hyperloglog](https://github.com/axiomhq/hyperloglog) / ⭐ 1032 - HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction.
+* [hyperloglog](https://github.com/axiomhq/hyperloglog) / ⭐ 1033 - HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction.
 * [quadtree](https://github.com/s0rg/quadtree) / ⭐ 41 - Generic, zero-alloc, 100%-test covered quadtree.
 * [slices](https://github.com/twharmon/slices) / ⭐ 22 - Pure, generic functions for slices.
 ### Nullable Types
@@ -396,18 +396,18 @@ additional ordered map implementations.
 * [typ](https://github.com/gurukami/typ) / ⭐ 46 - Null Types, Safe primitive type conversion and fetching value from complex structures.
 ### Queues
 
-* [deque](https://github.com/edwingeng/deque) / ⭐ 204 - A highly optimized double-ended queue.
+* [deque](https://github.com/edwingeng/deque) / ⭐ 205 - A highly optimized double-ended queue.
 * [deque](https://github.com/gammazero/deque) / ⭐ 769 - Fast ring-buffer deque (double-ended queue).
 * [dqueue](https://github.com/vodolaz095/dqueue) / ⭐ 2 - Simple, in memory, zero dependency and battle tested, thread-safe deferred queue.
 * [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) / ⭐ 435 - Concurrent FIFO queue.
-* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 6757 - Distributed, Fault-tolerant task queue.
+* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 6761 - Distributed, Fault-tolerant task queue.
 * [list](https://github.com/koss-null/list) / ⭐ 11 - A generic, thread-safe doubly linked list with full iterator support and an intrusive singly linked list for embedded use; a feature-rich replacement for container/list.
 * [memlog](https://github.com/embano1/memlog) / ⭐ 138 - An easy to use, lightweight, thread-safe and append-only in-memory data structure inspired by Apache Kafka.
 * [queue](https://github.com/adrianbrad/queue) / ⭐ 332 - Multiple thread-safe, generic queue implementations for Go.
 ### Sets
 
 * [dsu](https://github.com/ihebu/dsu) / ⭐ 16 - Disjoint Set data structure implementation in Go.
-* [golang-set](https://github.com/deckarep/golang-set) / ⭐ 4655 - Thread-Safe and Non-Thread-Safe high-performance sets for Go.
+* [golang-set](https://github.com/deckarep/golang-set) / ⭐ 4656 - Thread-Safe and Non-Thread-Safe high-performance sets for Go.
 * [goset](https://github.com/zoumo/goset) / ⭐ 52 - A useful Set collection implementation for Go.
 * [set](https://github.com/StudioSol/set) / ⭐ 29 - Simple set data structure implementation in Go using LinkedHashMap.
 ### Text Analysis
@@ -442,7 +442,7 @@ additional ordered map implementations.
 Data stores with expiring records, in-memory distributed data stores, or in-memory subsets of file-based databases.
 
 * [bcache](https://github.com/iwanbk/bcache) / ⭐ 162 - Eventually consistent distributed in-memory cache Go library.
-* [BigCache](https://github.com/allegro/bigcache) / ⭐ 8111 - Efficient key/value cache for gigabytes of data.
+* [BigCache](https://github.com/allegro/bigcache) / ⭐ 8112 - Efficient key/value cache for gigabytes of data.
 * [cache2go](https://github.com/muesli/cache2go) / ⭐ 2161 - In-memory key:value cache which supports automatic invalidation based on timeouts.
 * [cachego](https://github.com/faabiosr/cachego) / ⭐ 371 - Golang Cache component for multiple drivers.
 * [clusteredBigCache](https://github.com/oaStuff/clusteredBigCache) / ⭐ 45 - BigCache with clustering support and individual item expiration.
