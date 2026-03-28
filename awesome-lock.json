@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-03-28T08:35:23.510460382Z",
+    "updated_at": "2026-03-28T10:28:26.535788003Z",
     "provider_metrics": [
       {
         "provider": "gitlab-provider",
@@ -10,8 +10,8 @@
       },
       {
         "provider": "github-provider",
-        "attempted": 91,
-        "successful": 84,
+        "attempted": 7,
+        "successful": 0,
         "failed": 7
       }
     ],
