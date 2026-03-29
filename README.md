@@ -341,7 +341,7 @@ Frameworks for performing ELT / ETL
 * [bitset](https://github.com/bits-and-blooms/bitset) / ⭐ 1491 - Go package implementing bitsets.
 ### Bloom and Cuckoo Filters
 
-* [bloom](https://github.com/bits-and-blooms/bloom) / ⭐ 2763 - Go package implementing Bloom filters.
+* [bloom](https://github.com/bits-and-blooms/bloom) / ⭐ 2762 - Go package implementing Bloom filters.
 * [bloom](https://github.com/zhenjl/bloom) / ⭐ 147 - Bloom filters implemented in Go.
 * [bloom](https://github.com/yourbasic/bloom) / ⭐ 88 - Golang Bloom filter implementation.
 * [bloomfilter](https://github.com/OldPanda/bloomfilter) / ⭐ 20 - Yet another Bloomfilter implementation in Go, compatible with Java's Guava library.
@@ -352,9 +352,9 @@ Frameworks for performing ELT / ETL
 ### Data Structure and Algorithm Collections
 
 * [algorithms](https://github.com/shady831213/algorithms) / ⭐ 841 - Algorithms and data structures.CLRS study.
-* [go-datastructures](https://github.com/Workiva/go-datastructures) / ⭐ 7911 - Collection of useful, performant, and thread-safe data structures.
-* [gods](https://github.com/emirpasic/gods) / ⭐ 17411 - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
-* [gostl](https://github.com/liyue201/gostl) / ⭐ 1138 - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
+* [go-datastructures](https://github.com/Workiva/go-datastructures) / ⭐ 7912 - Collection of useful, performant, and thread-safe data structures.
+* [gods](https://github.com/emirpasic/gods) / ⭐ 17412 - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
+* [gostl](https://github.com/liyue201/gostl) / ⭐ 1137 - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
 ### Iterators
 
 * [gloop](https://github.com/alvii147/gloop) / ⭐ 27 - Convenient looping using Go's range-over-func feature.
@@ -400,23 +400,23 @@ additional ordered map implementations.
 * [deque](https://github.com/gammazero/deque) / ⭐ 769 - Fast ring-buffer deque (double-ended queue).
 * [dqueue](https://github.com/vodolaz095/dqueue) / ⭐ 2 - Simple, in memory, zero dependency and battle tested, thread-safe deferred queue.
 * [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) / ⭐ 435 - Concurrent FIFO queue.
-* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 6766 - Distributed, Fault-tolerant task queue.
+* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 6770 - Distributed, Fault-tolerant task queue.
 * [list](https://github.com/koss-null/list) / ⭐ 11 - A generic, thread-safe doubly linked list with full iterator support and an intrusive singly linked list for embedded use; a feature-rich replacement for container/list.
 * [memlog](https://github.com/embano1/memlog) / ⭐ 138 - An easy to use, lightweight, thread-safe and append-only in-memory data structure inspired by Apache Kafka.
 * [queue](https://github.com/adrianbrad/queue) / ⭐ 332 - Multiple thread-safe, generic queue implementations for Go.
 ### Sets
 
 * [dsu](https://github.com/ihebu/dsu) / ⭐ 16 - Disjoint Set data structure implementation in Go.
-* [golang-set](https://github.com/deckarep/golang-set) / ⭐ 4656 - Thread-Safe and Non-Thread-Safe high-performance sets for Go.
+* [golang-set](https://github.com/deckarep/golang-set) / ⭐ 4655 - Thread-Safe and Non-Thread-Safe high-performance sets for Go.
 * [goset](https://github.com/zoumo/goset) / ⭐ 52 - A useful Set collection implementation for Go.
 * [set](https://github.com/StudioSol/set) / ⭐ 29 - Simple set data structure implementation in Go using LinkedHashMap.
 ### Text Analysis
 
-* [bleve](https://github.com/blevesearch/bleve) / ⭐ 11012 - Modern text indexing library for go.
+* [bleve](https://github.com/blevesearch/bleve) / ⭐ 11014 - Modern text indexing library for go.
 * [go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) / ⭐ 412 - Go implementation of Adaptive Radix Tree.
 * [go-edlib](https://github.com/hbollon/go-edlib) / ⭐ 598 - Go string comparison and edit distance algorithms library (Levenshtein, LCS, Hamming, Damerau levenshtein, Jaro-Winkler, etc.) compatible with Unicode.
 * [levenshtein](https://github.com/agext/levenshtein) / ⭐ 90 - Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix.
-* [levenshtein](https://github.com/agnivade/levenshtein) / ⭐ 462 - Implementation to calculate levenshtein distance in Go.
+* [levenshtein](https://github.com/agnivade/levenshtein) / ⭐ 463 - Implementation to calculate levenshtein distance in Go.
 * [mspm](https://github.com/BlackRabbitt/mspm) / ⭐ 28 - Multi-String Pattern Matching Algorithm for information retrieval.
 * [parsefields](https://github.com/MonaxGT/parsefields) / ⭐ 7 - Tools for parse JSON-like logs for collecting unique fields and events.
 * [ptrie](https://github.com/viant/ptrie) / ⭐ 45 - An implementation of prefix tree.
@@ -442,7 +442,7 @@ additional ordered map implementations.
 Data stores with expiring records, in-memory distributed data stores, or in-memory subsets of file-based databases.
 
 * [bcache](https://github.com/iwanbk/bcache) / ⭐ 162 - Eventually consistent distributed in-memory cache Go library.
-* [BigCache](https://github.com/allegro/bigcache) / ⭐ 8112 - Efficient key/value cache for gigabytes of data.
+* [BigCache](https://github.com/allegro/bigcache) / ⭐ 8111 - Efficient key/value cache for gigabytes of data.
 * [cache2go](https://github.com/muesli/cache2go) / ⭐ 2161 - In-memory key:value cache which supports automatic invalidation based on timeouts.
 * [cachego](https://github.com/faabiosr/cachego) / ⭐ 371 - Golang Cache component for multiple drivers.
 * [clusteredBigCache](https://github.com/oaStuff/clusteredBigCache) / ⭐ 45 - BigCache with clustering support and individual item expiration.
