@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "updated_at": "2026-03-31T07:08:45.111238145Z",
+    "updated_at": "2026-03-31T08:55:40.345759427Z",
     "provider_metrics": [
+      {
+        "provider": "github-provider",
+        "attempted": 179,
+        "successful": 171,
+        "failed": 8
+      },
       {
         "provider": "gitlab-provider",
         "attempted": 4,
         "successful": 0,
         "failed": 4
-      },
-      {
-        "provider": "github-provider",
-        "attempted": 8,
-        "successful": 0,
-        "failed": 8
       }
     ],
     "failed_links": {
@@ -46,10 +46,10 @@
           "description": "An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.",
           "url": "https://github.com/ergo-services/ergo",
           "repo_metadata": {
-            "stars": 4477,
+            "stars": 4478,
             "is_archived": false,
-            "last_update": "2026-03-29T20:50:33Z",
-            "enriched_at": "2026-03-30T07:28:37.898221145Z"
+            "last_update": "2026-03-30T17:10:08Z",
+            "enriched_at": "2026-03-31T08:54:43.56970297Z"
           }
         },
         {
@@ -59,8 +59,8 @@
           "repo_metadata": {
             "stars": 333,
             "is_archived": false,
-            "last_update": "2026-03-29T21:06:48Z",
-            "enriched_at": "2026-03-30T07:28:38.074997531Z"
+            "last_update": "2026-03-31T08:34:26Z",
+            "enriched_at": "2026-03-31T08:54:43.867285731Z"
           }
         },
         {
@@ -71,7 +71,7 @@
             "stars": 2204,
             "is_archived": false,
             "last_update": "2026-01-16T00:18:22Z",
-            "enriched_at": "2026-03-30T07:28:38.296888923Z"
+            "enriched_at": "2026-03-31T08:54:44.1409376Z"
           }
         },
         {
@@ -82,7 +82,7 @@
             "stars": 5438,
             "is_archived": false,
             "last_update": "2026-03-20T17:31:40Z",
-            "enriched_at": "2026-03-30T07:28:38.512065039Z"
+            "enriched_at": "2026-03-31T08:54:44.395466047Z"
           }
         }
       ]
@@ -97,10 +97,10 @@
           "description": "Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.",
           "url": "https://github.com/philippgille/chromem-go",
           "repo_metadata": {
-            "stars": 902,
+            "stars": 903,
             "is_archived": false,
             "last_update": "2025-10-10T09:16:01Z",
-            "enriched_at": "2026-03-30T07:28:38.697438421Z"
+            "enriched_at": "2026-03-31T08:54:44.806792784Z"
           }
         },
         {
@@ -113,10 +113,10 @@
           "description": "LangChainGo is a framework for developing applications powered by language models.",
           "url": "https://github.com/tmc/langchaingo",
           "repo_metadata": {
-            "stars": 8970,
+            "stars": 8973,
             "is_archived": false,
             "last_update": "2026-01-11T16:59:56Z",
-            "enriched_at": "2026-03-30T07:28:38.915553747Z"
+            "enriched_at": "2026-03-31T08:54:45.09555375Z"
           }
         },
         {
@@ -124,10 +124,10 @@
           "description": "Open Source OpenAI alternative, self-host AI models.",
           "url": "https://github.com/mudler/LocalAI",
           "repo_metadata": {
-            "stars": 44581,
+            "stars": 44616,
             "is_archived": false,
-            "last_update": "2026-03-30T06:27:27Z",
-            "enriched_at": "2026-03-30T07:28:39.078110848Z"
+            "last_update": "2026-03-31T08:48:21Z",
+            "enriched_at": "2026-03-31T08:54:45.31391581Z"
           }
         },
         {
@@ -135,10 +135,10 @@
           "description": "Run large language models locally.",
           "url": "https://github.com/jmorganca/ollama",
           "repo_metadata": {
-            "stars": 166439,
+            "stars": 166553,
             "is_archived": false,
-            "last_update": "2026-03-30T02:25:00Z",
-            "enriched_at": "2026-03-30T07:28:39.386248645Z"
+            "last_update": "2026-03-30T21:35:28Z",
+            "enriched_at": "2026-03-31T08:54:45.837317653Z"
           }
         },
         {
@@ -149,7 +149,7 @@
             "stars": 96,
             "is_archived": false,
             "last_update": "2025-02-01T20:48:05Z",
-            "enriched_at": "2026-03-30T07:28:39.574519905Z"
+            "enriched_at": "2026-03-31T08:54:46.112847828Z"
           }
         }
       ]
@@ -167,7 +167,7 @@
             "stars": 551,
             "is_archived": false,
             "last_update": "2025-07-16T20:38:10Z",
-            "enriched_at": "2026-03-30T07:28:39.778749943Z"
+            "enriched_at": "2026-03-31T08:54:46.39965348Z"
           }
         },
         {
@@ -175,10 +175,10 @@
           "description": "Native Go FLAC encoder/decoder with support for FLAC streams.",
           "url": "https://github.com/mewkiz/flac",
           "repo_metadata": {
-            "stars": 351,
+            "stars": 352,
             "is_archived": false,
             "last_update": "2025-08-18T16:48:55Z",
-            "enriched_at": "2026-03-30T07:28:39.980126506Z"
+            "enriched_at": "2026-03-31T08:54:46.649257129Z"
           }
         },
         {
@@ -189,7 +189,7 @@
             "stars": 135,
             "is_archived": false,
             "last_update": "2023-01-27T22:41:30Z",
-            "enriched_at": "2026-03-30T07:28:40.205560237Z"
+            "enriched_at": "2026-03-31T08:54:46.926425984Z"
           }
         },
         {
@@ -200,7 +200,7 @@
             "stars": 19,
             "is_archived": false,
             "last_update": "2024-11-02T16:31:44Z",
-            "enriched_at": "2026-03-30T07:28:40.38146169Z"
+            "enriched_at": "2026-03-31T08:54:47.177734792Z"
           }
         },
         {
@@ -211,7 +211,7 @@
             "stars": 410,
             "is_archived": false,
             "last_update": "2024-04-23T13:32:58Z",
-            "enriched_at": "2026-03-30T07:28:40.555566909Z"
+            "enriched_at": "2026-03-31T08:54:47.690975269Z"
           }
         },
         {
@@ -222,7 +222,7 @@
             "stars": 38,
             "is_archived": false,
             "last_update": "2024-01-28T01:50:34Z",
-            "enriched_at": "2026-03-30T07:28:40.721340142Z"
+            "enriched_at": "2026-03-31T08:54:47.929010616Z"
           }
         },
         {
@@ -233,7 +233,7 @@
             "stars": 361,
             "is_archived": false,
             "last_update": "2023-10-28T15:04:52Z",
-            "enriched_at": "2026-03-30T07:28:41.016697042Z"
+            "enriched_at": "2026-03-31T08:54:48.399946014Z"
           }
         },
         {
@@ -244,7 +244,7 @@
             "stars": 396,
             "is_archived": false,
             "last_update": "2025-11-20T10:28:19Z",
-            "enriched_at": "2026-03-30T07:28:41.211925148Z"
+            "enriched_at": "2026-03-31T08:54:48.700910897Z"
           }
         },
         {
@@ -255,7 +255,7 @@
             "stars": 133,
             "is_archived": false,
             "last_update": "2025-07-09T13:22:47Z",
-            "enriched_at": "2026-03-30T07:28:41.41596954Z"
+            "enriched_at": "2026-03-31T08:54:49.006369097Z"
           }
         },
         {
@@ -263,10 +263,10 @@
           "description": "A low-level library to play sound on multiple platforms.",
           "url": "https://github.com/hajimehoshi/oto",
           "repo_metadata": {
-            "stars": 1891,
+            "stars": 1893,
             "is_archived": false,
             "last_update": "2026-02-26T15:35:44Z",
-            "enriched_at": "2026-03-30T07:28:41.724306747Z"
+            "enriched_at": "2026-03-31T08:54:49.397722887Z"
           }
         },
         {
@@ -274,10 +274,10 @@
           "description": "Go bindings for the PortAudio audio I/O library.",
           "url": "https://github.com/gordonklaus/portaudio",
           "repo_metadata": {
-            "stars": 834,
+            "stars": 833,
             "is_archived": false,
             "last_update": "2026-02-03T16:44:31Z",
-            "enriched_at": "2026-03-30T07:28:41.938314737Z"
+            "enriched_at": "2026-03-31T08:54:49.66359781Z"
           }
         }
       ]
@@ -295,7 +295,7 @@
             "stars": 4168,
             "is_archived": false,
             "last_update": "2025-11-25T03:17:19Z",
-            "enriched_at": "2026-03-30T07:28:42.234097334Z"
+            "enriched_at": "2026-03-31T08:54:50.292553122Z"
           }
         },
         {
@@ -306,7 +306,7 @@
             "stars": 96,
             "is_archived": false,
             "last_update": "2026-03-12T03:03:34Z",
-            "enriched_at": "2026-03-30T07:28:42.433474048Z"
+            "enriched_at": "2026-03-31T08:54:50.57072952Z"
           }
         },
         {
@@ -314,10 +314,10 @@
           "description": "Authorization library that supports access control models like ACL, RBAC, and ABAC.",
           "url": "https://github.com/hsluoyz/casbin",
           "repo_metadata": {
-            "stars": 19962,
+            "stars": 19969,
             "is_archived": false,
             "last_update": "2026-03-23T12:21:37Z",
-            "enriched_at": "2026-03-30T07:28:42.739410916Z"
+            "enriched_at": "2026-03-31T08:54:51.056821804Z"
           }
         },
         {
@@ -328,7 +328,7 @@
             "stars": 22,
             "is_archived": false,
             "last_update": "2026-01-12T10:30:47Z",
-            "enriched_at": "2026-03-30T07:28:42.924362317Z"
+            "enriched_at": "2026-03-31T08:54:51.34152931Z"
           }
         },
         {
@@ -338,8 +338,8 @@
           "repo_metadata": {
             "stars": 28,
             "is_archived": false,
-            "last_update": "2026-03-17T14:45:09Z",
-            "enriched_at": "2026-03-30T07:28:43.101157822Z"
+            "last_update": "2026-03-30T21:03:52Z",
+            "enriched_at": "2026-03-31T08:54:51.602370403Z"
           }
         },
         {
@@ -350,7 +350,7 @@
             "stars": 610,
             "is_archived": false,
             "last_update": "2024-07-25T18:04:35Z",
-            "enriched_at": "2026-03-30T07:28:43.259076455Z"
+            "enriched_at": "2026-03-31T08:54:51.886990147Z"
           }
         },
         {
@@ -361,7 +361,7 @@
             "stars": 36,
             "is_archived": false,
             "last_update": "2025-11-11T10:25:25Z",
-            "enriched_at": "2026-03-30T07:28:43.458063216Z"
+            "enriched_at": "2026-03-31T08:54:52.15207754Z"
           }
         },
         {
@@ -372,7 +372,7 @@
             "stars": 492,
             "is_archived": false,
             "last_update": "2026-01-22T19:02:25Z",
-            "enriched_at": "2026-03-30T07:28:43.643396719Z"
+            "enriched_at": "2026-03-31T08:54:52.456445828Z"
           }
         },
         {
@@ -383,7 +383,7 @@
             "stars": 17,
             "is_archived": false,
             "last_update": "2026-02-16T08:32:24Z",
-            "enriched_at": "2026-03-30T07:28:43.81902384Z"
+            "enriched_at": "2026-03-31T08:54:52.670240961Z"
           }
         },
         {
@@ -394,7 +394,7 @@
             "stars": 187,
             "is_archived": false,
             "last_update": "2026-02-20T18:39:06Z",
-            "enriched_at": "2026-03-30T07:28:43.997820411Z"
+            "enriched_at": "2026-03-31T08:54:52.928328314Z"
           }
         },
         {
@@ -405,7 +405,7 @@
             "stars": 1948,
             "is_archived": false,
             "last_update": "2026-03-26T02:02:52Z",
-            "enriched_at": "2026-03-30T07:28:44.159680282Z"
+            "enriched_at": "2026-03-31T08:54:53.16428773Z"
           }
         },
         {
@@ -413,10 +413,10 @@
           "description": "provides a lightweight role-based access control (RBAC) implementation in Golang.",
           "url": "https://github.com/mikespook/gorbac",
           "repo_metadata": {
-            "stars": 1664,
+            "stars": 1665,
             "is_archived": false,
             "last_update": "2025-08-28T10:53:16Z",
-            "enriched_at": "2026-03-30T07:28:44.365199444Z"
+            "enriched_at": "2026-03-31T08:54:53.917879948Z"
           }
         },
         {
@@ -427,7 +427,7 @@
             "stars": 257,
             "is_archived": false,
             "last_update": "2024-07-31T19:15:59Z",
-            "enriched_at": "2026-03-30T07:28:44.574052495Z"
+            "enriched_at": "2026-03-31T08:54:54.300339504Z"
           }
         },
         {
@@ -435,10 +435,10 @@
           "description": "provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box.",
           "url": "https://github.com/markbates/goth",
           "repo_metadata": {
-            "stars": 6493,
+            "stars": 6494,
             "is_archived": false,
             "last_update": "2026-02-11T05:06:29Z",
-            "enriched_at": "2026-03-30T07:28:44.754285198Z"
+            "enriched_at": "2026-03-31T08:54:54.526590151Z"
           }
         },
         {
@@ -449,7 +449,7 @@
             "stars": 271,
             "is_archived": false,
             "last_update": "2025-01-23T02:09:23Z",
-            "enriched_at": "2026-03-30T07:28:44.938161651Z"
+            "enriched_at": "2026-03-31T08:54:54.7878886Z"
           }
         },
         {
@@ -460,7 +460,7 @@
             "stars": 361,
             "is_archived": false,
             "last_update": "2023-04-29T11:29:18Z",
-            "enriched_at": "2026-03-30T07:28:45.121236389Z"
+            "enriched_at": "2026-03-31T08:54:55.038254951Z"
           }
         },
         {
@@ -471,7 +471,7 @@
             "stars": 688,
             "is_archived": false,
             "last_update": "2025-06-22T11:29:01Z",
-            "enriched_at": "2026-03-30T07:28:45.306029339Z"
+            "enriched_at": "2026-03-31T08:54:55.350272376Z"
           }
         },
         {
@@ -482,7 +482,7 @@
             "stars": 236,
             "is_archived": false,
             "last_update": "2021-08-01T23:03:58Z",
-            "enriched_at": "2026-03-30T07:28:45.478865324Z"
+            "enriched_at": "2026-03-31T08:54:55.629579534Z"
           }
         },
         {
@@ -490,10 +490,10 @@
           "description": "A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs.",
           "url": "https://github.com/golang-jwt/jwt",
           "repo_metadata": {
-            "stars": 8991,
+            "stars": 8994,
             "is_archived": false,
             "last_update": "2026-03-13T18:08:15Z",
-            "enriched_at": "2026-03-30T07:28:45.693583191Z"
+            "enriched_at": "2026-03-31T08:54:55.883953698Z"
           }
         },
         {
@@ -501,10 +501,10 @@
           "description": "Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies.",
           "url": "https://github.com/lestrrat-go/jwx",
           "repo_metadata": {
-            "stars": 2342,
+            "stars": 2343,
             "is_archived": false,
-            "last_update": "2026-03-30T00:05:18Z",
-            "enriched_at": "2026-03-30T07:28:45.875836614Z"
+            "last_update": "2026-03-31T00:30:03Z",
+            "enriched_at": "2026-03-31T08:54:56.158405045Z"
           }
         },
         {
@@ -514,8 +514,8 @@
           "repo_metadata": {
             "stars": 5291,
             "is_archived": false,
-            "last_update": "2026-03-27T08:52:01Z",
-            "enriched_at": "2026-03-30T07:28:46.073757939Z"
+            "last_update": "2026-03-30T20:39:25Z",
+            "enriched_at": "2026-03-31T08:54:56.432519998Z"
           }
         },
         {
@@ -526,7 +526,7 @@
             "stars": 1929,
             "is_archived": false,
             "last_update": "2021-02-27T06:20:06Z",
-            "enriched_at": "2026-03-30T07:28:46.394874596Z"
+            "enriched_at": "2026-03-31T08:54:57.017495485Z"
           }
         },
         {
@@ -537,7 +537,7 @@
             "stars": 5830,
             "is_archived": false,
             "last_update": "2026-03-08T12:01:22Z",
-            "enriched_at": "2026-03-30T07:28:46.592496438Z"
+            "enriched_at": "2026-03-31T08:54:57.27274149Z"
           }
         },
         {
@@ -545,10 +545,10 @@
           "description": "Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation.",
           "url": "https://github.com/zitadel/oidc",
           "repo_metadata": {
-            "stars": 1795,
+            "stars": 1797,
             "is_archived": false,
-            "last_update": "2026-03-30T06:53:08Z",
-            "enriched_at": "2026-03-30T07:28:46.784912857Z"
+            "last_update": "2026-03-31T06:33:47Z",
+            "enriched_at": "2026-03-31T08:54:57.606784904Z"
           }
         },
         {
@@ -556,10 +556,10 @@
           "description": "Implementation of fine-grained authorization based on the \"Zanzibar: Google's Consistent, Global Authorization System\" paper. Backed by CNCF.",
           "url": "https://github.com/openfga/openfga",
           "repo_metadata": {
-            "stars": 4945,
+            "stars": 4949,
             "is_archived": false,
-            "last_update": "2026-03-30T00:50:37Z",
-            "enriched_at": "2026-03-30T07:28:46.987718016Z"
+            "last_update": "2026-03-31T02:01:11Z",
+            "enriched_at": "2026-03-31T08:54:57.949020893Z"
           }
         },
         {
@@ -570,7 +570,7 @@
             "stars": 1935,
             "is_archived": false,
             "last_update": "2026-02-13T13:06:15Z",
-            "enriched_at": "2026-03-30T07:28:47.175960754Z"
+            "enriched_at": "2026-03-31T08:54:58.192061342Z"
           }
         },
         {
@@ -581,7 +581,7 @@
             "stars": 142,
             "is_archived": false,
             "last_update": "2024-01-17T05:55:45Z",
-            "enriched_at": "2026-03-30T07:28:47.484411052Z"
+            "enriched_at": "2026-03-31T08:54:58.771060478Z"
           }
         },
         {
@@ -592,7 +592,7 @@
             "stars": 77,
             "is_archived": false,
             "last_update": "2021-02-27T19:43:16Z",
-            "enriched_at": "2026-03-30T07:28:47.70047965Z"
+            "enriched_at": "2026-03-31T08:54:59.022896198Z"
           }
         },
         {
@@ -603,7 +603,7 @@
             "stars": 933,
             "is_archived": false,
             "last_update": "2023-02-25T01:40:23Z",
-            "enriched_at": "2026-03-30T07:28:47.896523515Z"
+            "enriched_at": "2026-03-31T08:54:59.260947072Z"
           }
         },
         {
@@ -614,7 +614,7 @@
             "stars": 12,
             "is_archived": false,
             "last_update": "2026-01-19T11:32:49Z",
-            "enriched_at": "2026-03-30T07:28:48.075783691Z"
+            "enriched_at": "2026-03-31T08:54:59.496196716Z"
           }
         },
         {
@@ -625,7 +625,7 @@
             "stars": 42,
             "is_archived": false,
             "last_update": "2021-05-25T13:48:05Z",
-            "enriched_at": "2026-03-30T07:28:48.382386524Z"
+            "enriched_at": "2026-03-31T08:54:59.988034804Z"
           }
         },
         {
@@ -633,10 +633,10 @@
           "description": "Session Manager for HTTP servers.",
           "url": "https://github.com/alexedwards/scs",
           "repo_metadata": {
-            "stars": 2535,
+            "stars": 2534,
             "is_archived": false,
             "last_update": "2025-11-20T02:36:46Z",
-            "enriched_at": "2026-03-30T07:28:48.566313442Z"
+            "enriched_at": "2026-03-31T08:55:00.256517808Z"
           }
         },
         {
@@ -647,7 +647,7 @@
             "stars": 85,
             "is_archived": false,
             "last_update": "2023-02-18T15:24:33Z",
-            "enriched_at": "2026-03-30T07:28:48.744973499Z"
+            "enriched_at": "2026-03-31T08:55:00.56227324Z"
           }
         },
         {
@@ -658,7 +658,7 @@
             "stars": 118,
             "is_archived": false,
             "last_update": "2024-08-24T18:45:01Z",
-            "enriched_at": "2026-03-30T07:28:48.937756766Z"
+            "enriched_at": "2026-03-31T08:55:00.857452688Z"
           }
         },
         {
@@ -669,7 +669,7 @@
             "stars": 79,
             "is_archived": false,
             "last_update": "2023-07-17T20:28:46Z",
-            "enriched_at": "2026-03-30T07:28:49.10579132Z"
+            "enriched_at": "2026-03-31T08:55:01.103773001Z"
           }
         },
         {
@@ -680,7 +680,7 @@
             "stars": 131,
             "is_archived": false,
             "last_update": "2025-03-20T17:04:35Z",
-            "enriched_at": "2026-03-30T07:28:49.427965652Z"
+            "enriched_at": "2026-03-31T08:55:01.61268009Z"
           }
         },
         {
@@ -691,7 +691,7 @@
             "stars": 122,
             "is_archived": false,
             "last_update": "2025-11-10T00:50:54Z",
-            "enriched_at": "2026-03-30T07:28:49.599048895Z"
+            "enriched_at": "2026-03-31T08:55:01.889803938Z"
           }
         },
         {
@@ -699,10 +699,10 @@
           "description": "A Zanzibar-inspired database that enables fine-grained authorization.",
           "url": "https://github.com/authzed/spicedb",
           "repo_metadata": {
-            "stars": 6547,
+            "stars": 6552,
             "is_archived": false,
-            "last_update": "2026-03-28T04:29:15Z",
-            "enriched_at": "2026-03-30T07:28:49.831862214Z"
+            "last_update": "2026-03-31T03:52:15Z",
+            "enriched_at": "2026-03-31T08:55:02.169670011Z"
           }
         },
         {
@@ -713,7 +713,7 @@
             "stars": 7,
             "is_archived": false,
             "last_update": "2025-01-19T19:03:35Z",
-            "enriched_at": "2026-03-30T07:28:50.018731659Z"
+            "enriched_at": "2026-03-31T08:55:02.406644156Z"
           }
         }
       ]
@@ -730,8 +730,8 @@
           "repo_metadata": {
             "stars": 874,
             "is_archived": false,
-            "last_update": "2026-03-30T04:37:37Z",
-            "enriched_at": "2026-03-30T07:28:50.197229375Z"
+            "last_update": "2026-03-30T20:56:21Z",
+            "enriched_at": "2026-03-31T08:55:02.723658277Z"
           }
         },
         {
@@ -739,10 +739,10 @@
           "description": "A Framework for Building Public Blockchains in the Cosmos Ecosystem.",
           "url": "https://github.com/cosmos/cosmos-sdk",
           "repo_metadata": {
-            "stars": 6964,
+            "stars": 6968,
             "is_archived": false,
-            "last_update": "2026-03-30T01:13:58Z",
-            "enriched_at": "2026-03-30T07:28:50.42101673Z"
+            "last_update": "2026-03-31T02:55:59Z",
+            "enriched_at": "2026-03-31T08:55:03.038736451Z"
           }
         },
         {
@@ -750,10 +750,10 @@
           "description": "A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains.",
           "url": "https://github.com/gnolang/gno",
           "repo_metadata": {
-            "stars": 1059,
+            "stars": 1060,
             "is_archived": false,
-            "last_update": "2026-03-30T02:59:37Z",
-            "enriched_at": "2026-03-30T07:28:50.613572096Z"
+            "last_update": "2026-03-31T04:40:15Z",
+            "enriched_at": "2026-03-31T08:55:03.330283549Z"
           }
         },
         {
@@ -761,10 +761,10 @@
           "description": "Official Go implementation of the Ethereum protocol.",
           "url": "https://github.com/ethereum/go-ethereum",
           "repo_metadata": {
-            "stars": 50966,
+            "stars": 50963,
             "is_archived": false,
-            "last_update": "2026-03-28T10:46:10Z",
-            "enriched_at": "2026-03-30T07:28:50.828547355Z"
+            "last_update": "2026-03-31T07:05:32Z",
+            "enriched_at": "2026-03-31T08:55:03.587625315Z"
           }
         },
         {
@@ -775,7 +775,7 @@
             "stars": 14,
             "is_archived": false,
             "last_update": "2025-03-10T00:23:58Z",
-            "enriched_at": "2026-03-30T07:28:51.013005474Z"
+            "enriched_at": "2026-03-31T08:55:03.869292743Z"
           }
         },
         {
@@ -786,7 +786,7 @@
             "stars": 455,
             "is_archived": false,
             "last_update": "2025-11-20T02:30:38Z",
-            "enriched_at": "2026-03-30T07:28:51.192244545Z"
+            "enriched_at": "2026-03-31T08:55:04.109654688Z"
           }
         },
         {
@@ -794,10 +794,10 @@
           "description": "An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.",
           "url": "https://github.com/ipfs/kubo",
           "repo_metadata": {
-            "stars": 16978,
+            "stars": 16979,
             "is_archived": false,
-            "last_update": "2026-03-29T22:50:54Z",
-            "enriched_at": "2026-03-30T07:28:51.419210915Z"
+            "last_update": "2026-03-30T15:06:35Z",
+            "enriched_at": "2026-03-31T08:55:04.409136107Z"
           }
         },
         {
@@ -805,10 +805,10 @@
           "description": "A complete implementation of a Lightning Network node.",
           "url": "https://github.com/lightningnetwork/lnd",
           "repo_metadata": {
-            "stars": 8121,
+            "stars": 8123,
             "is_archived": false,
-            "last_update": "2026-03-27T23:17:44Z",
-            "enriched_at": "2026-03-30T07:28:51.631493807Z"
+            "last_update": "2026-03-30T16:45:07Z",
+            "enriched_at": "2026-03-31T08:55:04.701385644Z"
           }
         },
         {
@@ -819,7 +819,7 @@
             "stars": 39,
             "is_archived": false,
             "last_update": "2026-03-24T11:53:03Z",
-            "enriched_at": "2026-03-30T07:28:51.825785555Z"
+            "enriched_at": "2026-03-31T08:55:05.307621363Z"
           }
         },
         {
@@ -830,7 +830,7 @@
             "stars": 1527,
             "is_archived": false,
             "last_update": "2025-09-27T15:02:40Z",
-            "enriched_at": "2026-03-30T07:28:51.989248469Z"
+            "enriched_at": "2026-03-31T08:55:05.617283013Z"
           }
         },
         {
@@ -841,7 +841,7 @@
             "stars": 5863,
             "is_archived": false,
             "last_update": "2026-03-27T23:28:56Z",
-            "enriched_at": "2026-03-30T07:28:52.170034778Z"
+            "enriched_at": "2026-03-31T08:55:06.128788942Z"
           }
         }
       ]
@@ -856,10 +856,10 @@
           "description": "A library and framework for the Discord API.",
           "url": "https://github.com/diamondburned/arikawa",
           "repo_metadata": {
-            "stars": 585,
+            "stars": 586,
             "is_archived": false,
             "last_update": "2026-03-12T18:42:52Z",
-            "enriched_at": "2026-03-30T07:28:52.376878185Z"
+            "enriched_at": "2026-03-31T08:55:06.552800029Z"
           }
         },
         {
@@ -870,7 +870,7 @@
             "stars": 1652,
             "is_archived": false,
             "last_update": "2026-03-19T15:05:30Z",
-            "enriched_at": "2026-03-30T07:28:52.581868444Z"
+            "enriched_at": "2026-03-31T08:55:06.86055652Z"
           }
         },
         {
@@ -878,10 +878,10 @@
           "description": "An elegant and concurrent library for Telegram Bots in Go.",
           "url": "https://github.com/NicoNex/echotron",
           "repo_metadata": {
-            "stars": 429,
+            "stars": 430,
             "is_archived": false,
             "last_update": "2026-03-07T15:12:01Z",
-            "enriched_at": "2026-03-30T07:28:52.753319305Z"
+            "enriched_at": "2026-03-31T08:55:07.151085702Z"
           }
         },
         {
@@ -897,7 +897,7 @@
             "stars": 267,
             "is_archived": false,
             "last_update": "2026-02-15T04:40:36Z",
-            "enriched_at": "2026-03-30T07:28:52.918678798Z"
+            "enriched_at": "2026-03-31T08:55:07.459851998Z"
           }
         },
         {
@@ -908,7 +908,7 @@
             "stars": 130,
             "is_archived": false,
             "last_update": "2026-03-26T20:52:38Z",
-            "enriched_at": "2026-03-30T07:28:53.076345865Z"
+            "enriched_at": "2026-03-31T08:55:07.783784235Z"
           }
         },
         {
@@ -919,7 +919,7 @@
             "stars": 394,
             "is_archived": false,
             "last_update": "2026-03-11T19:52:35Z",
-            "enriched_at": "2026-03-30T07:28:53.258202793Z"
+            "enriched_at": "2026-03-31T08:55:08.034998367Z"
           }
         },
         {
@@ -930,7 +930,7 @@
             "stars": 33,
             "is_archived": false,
             "last_update": "2026-03-19T09:50:00Z",
-            "enriched_at": "2026-03-30T07:28:53.508707892Z"
+            "enriched_at": "2026-03-31T08:55:08.333505788Z"
           }
         },
         {
@@ -941,7 +941,7 @@
             "stars": 207,
             "is_archived": false,
             "last_update": "2026-03-12T12:02:07Z",
-            "enriched_at": "2026-03-30T07:28:53.717459153Z"
+            "enriched_at": "2026-03-31T08:55:08.694452755Z"
           }
         },
         {
@@ -952,7 +952,7 @@
             "stars": 59,
             "is_archived": false,
             "last_update": "2024-11-16T01:17:00Z",
-            "enriched_at": "2026-03-30T07:28:53.898794771Z"
+            "enriched_at": "2026-03-31T08:55:09.114368977Z"
           }
         },
         {
@@ -963,7 +963,7 @@
             "stars": 4581,
             "is_archived": false,
             "last_update": "2025-11-11T00:06:35Z",
-            "enriched_at": "2026-03-30T07:28:54.076234975Z"
+            "enriched_at": "2026-03-31T08:55:09.396718371Z"
           }
         },
         {
@@ -971,10 +971,10 @@
           "description": "Telegram Bot API library for Golang with full one-to-one API implementation.",
           "url": "https://github.com/mymmrac/telego",
           "repo_metadata": {
-            "stars": 974,
+            "stars": 976,
             "is_archived": false,
             "last_update": "2026-03-17T11:16:16Z",
-            "enriched_at": "2026-03-30T07:28:54.235687319Z"
+            "enriched_at": "2026-03-31T08:55:09.672598339Z"
           }
         },
         {
@@ -985,7 +985,7 @@
             "stars": 6401,
             "is_archived": false,
             "last_update": "2024-08-14T05:51:15Z",
-            "enriched_at": "2026-03-30T07:28:54.432363401Z"
+            "enriched_at": "2026-03-31T08:55:10.019510687Z"
           }
         },
         {
@@ -995,8 +995,8 @@
           "repo_metadata": {
             "stars": 2170,
             "is_archived": false,
-            "last_update": "2026-03-27T00:52:29Z",
-            "enriched_at": "2026-03-30T07:28:54.630208181Z"
+            "last_update": "2026-03-30T20:30:27Z",
+            "enriched_at": "2026-03-31T08:55:10.315583429Z"
           }
         }
       ]
@@ -1014,7 +1014,7 @@
             "stars": 243,
             "is_archived": false,
             "last_update": "2026-03-12T04:03:25Z",
-            "enriched_at": "2026-03-30T07:28:54.793603572Z"
+            "enriched_at": "2026-03-31T08:55:10.620409675Z"
           }
         },
         {
@@ -1022,10 +1022,10 @@
           "description": "Air - Live reload for Go apps.",
           "url": "https://github.com/cosmtrek/air",
           "repo_metadata": {
-            "stars": 23234,
+            "stars": 23243,
             "is_archived": false,
             "last_update": "2026-03-15T00:08:59Z",
-            "enriched_at": "2026-03-30T07:28:55.103480666Z"
+            "enriched_at": "2026-03-31T08:55:11.336972672Z"
           }
         },
         {
@@ -1036,7 +1036,7 @@
             "stars": 43,
             "is_archived": false,
             "last_update": "2021-03-28T15:09:08Z",
-            "enriched_at": "2026-03-30T07:28:55.290160479Z"
+            "enriched_at": "2026-03-31T08:55:11.579152145Z"
           }
         },
         {
@@ -1047,7 +1047,7 @@
             "stars": 83,
             "is_archived": false,
             "last_update": "2023-08-08T12:25:52Z",
-            "enriched_at": "2026-03-30T07:28:55.58902842Z"
+            "enriched_at": "2026-03-31T08:55:11.997378893Z"
           }
         },
         {
@@ -1063,7 +1063,7 @@
             "stars": 14,
             "is_archived": false,
             "last_update": "2025-02-18T01:48:45Z",
-            "enriched_at": "2026-03-30T07:28:55.795807059Z"
+            "enriched_at": "2026-03-31T08:55:12.258371195Z"
           }
         },
         {
@@ -1074,7 +1074,7 @@
             "stars": 682,
             "is_archived": false,
             "last_update": "2026-03-30T05:06:19Z",
-            "enriched_at": "2026-03-30T07:28:56.06791051Z"
+            "enriched_at": "2026-03-31T08:55:12.695396621Z"
           }
         },
         {
@@ -1082,10 +1082,10 @@
           "description": "Mage is a make/rake-like build tool using Go.",
           "url": "https://github.com/magefile/mage",
           "repo_metadata": {
-            "stars": 4616,
+            "stars": 4618,
             "is_archived": false,
             "last_update": "2026-03-29T14:12:03Z",
-            "enriched_at": "2026-03-30T07:28:56.255338274Z"
+            "enriched_at": "2026-03-31T08:55:13.050585983Z"
           }
         },
         {
@@ -1096,7 +1096,7 @@
             "stars": 1740,
             "is_archived": false,
             "last_update": "2023-07-01T08:07:40Z",
-            "enriched_at": "2026-03-30T07:28:56.445696454Z"
+            "enriched_at": "2026-03-31T08:55:13.334734072Z"
           }
         },
         {
@@ -1107,7 +1107,7 @@
             "stars": 4451,
             "is_archived": false,
             "last_update": "2021-05-14T21:47:38Z",
-            "enriched_at": "2026-03-30T07:28:56.783837816Z"
+            "enriched_at": "2026-03-31T08:55:13.825889005Z"
           }
         },
         {
@@ -1115,10 +1115,10 @@
           "description": "simple \"Make\" alternative.",
           "url": "https://github.com/go-task/task",
           "repo_metadata": {
-            "stars": 15223,
+            "stars": 15231,
             "is_archived": false,
-            "last_update": "2026-03-30T01:18:18Z",
-            "enriched_at": "2026-03-30T07:28:56.984191664Z"
+            "last_update": "2026-03-31T00:37:26Z",
+            "enriched_at": "2026-03-31T08:55:14.101733786Z"
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "stars": 319,
             "is_archived": false,
             "last_update": "2026-03-27T08:09:01Z",
-            "enriched_at": "2026-03-30T07:28:57.193274423Z"
+            "enriched_at": "2026-03-31T08:55:14.424708017Z"
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "stars": 1375,
             "is_archived": false,
             "last_update": "2026-02-06T15:45:00Z",
-            "enriched_at": "2026-03-30T07:28:57.352808178Z"
+            "enriched_at": "2026-03-31T08:55:14.677277145Z"
           }
         }
       ]
@@ -1162,7 +1162,7 @@
                 "stars": 2991,
                 "is_archived": false,
                 "last_update": "2026-03-28T11:38:27Z",
-                "enriched_at": "2026-03-30T07:28:57.530378776Z"
+                "enriched_at": "2026-03-31T08:55:14.950117205Z"
               }
             },
             {
@@ -1173,7 +1173,7 @@
                 "stars": 1481,
                 "is_archived": false,
                 "last_update": "2025-01-07T06:05:32Z",
-                "enriched_at": "2026-03-30T07:28:57.685189297Z"
+                "enriched_at": "2026-03-31T08:55:15.217997132Z"
               }
             },
             {
@@ -1184,7 +1184,7 @@
                 "stars": 620,
                 "is_archived": false,
                 "last_update": "2026-03-03T09:15:54Z",
-                "enriched_at": "2026-03-30T07:28:57.974298876Z"
+                "enriched_at": "2026-03-31T08:55:15.630941016Z"
               }
             },
             {
@@ -1192,10 +1192,10 @@
               "description": "An interactive table component for bubbletea.",
               "url": "https://github.com/Evertras/bubble-table",
               "repo_metadata": {
-                "stars": 564,
+                "stars": 565,
                 "is_archived": false,
                 "last_update": "2025-09-06T14:26:56Z",
-                "enriched_at": "2026-03-30T07:28:58.162068111Z"
+                "enriched_at": "2026-03-31T08:55:15.848529188Z"
               }
             },
             {
@@ -1203,10 +1203,10 @@
               "description": "TUI components for bubbletea.",
               "url": "https://github.com/charmbracelet/bubbles",
               "repo_metadata": {
-                "stars": 8093,
+                "stars": 8100,
                 "is_archived": false,
-                "last_update": "2026-03-29T00:19:53Z",
-                "enriched_at": "2026-03-30T07:28:58.362173961Z"
+                "last_update": "2026-03-30T12:41:06Z",
+                "enriched_at": "2026-03-31T08:55:16.166245811Z"
               }
             },
             {
@@ -1214,10 +1214,10 @@
               "description": "Go framework to build terminal apps, based on The Elm Architecture.",
               "url": "https://github.com/charmbracelet/bubbletea",
               "repo_metadata": {
-                "stars": 41051,
+                "stars": 41082,
                 "is_archived": false,
-                "last_update": "2026-03-26T19:09:45Z",
-                "enriched_at": "2026-03-30T07:28:58.541971928Z"
+                "last_update": "2026-03-30T09:11:33Z",
+                "enriched_at": "2026-03-31T08:55:16.392823135Z"
               }
             },
             {
@@ -1228,7 +1228,7 @@
                 "stars": 8,
                 "is_archived": false,
                 "last_update": "2022-07-21T13:48:31Z",
-                "enriched_at": "2026-03-30T07:28:58.724910278Z"
+                "enriched_at": "2026-03-31T08:55:16.689711782Z"
               }
             },
             {
@@ -1239,7 +1239,7 @@
                 "stars": 52,
                 "is_archived": false,
                 "last_update": "2023-02-25T04:42:50Z",
-                "enriched_at": "2026-03-30T07:28:58.891322888Z"
+                "enriched_at": "2026-03-31T08:55:16.931160063Z"
               }
             },
             {
@@ -1247,10 +1247,10 @@
               "description": "Terminal JSON viewer \u0026 processor.",
               "url": "https://github.com/antonmedv/fx",
               "repo_metadata": {
-                "stars": 20370,
+                "stars": 20371,
                 "is_archived": false,
                 "last_update": "2026-03-28T13:22:52Z",
-                "enriched_at": "2026-03-30T07:28:59.046123932Z"
+                "enriched_at": "2026-03-31T08:55:17.188474339Z"
               }
             },
             {
@@ -1261,7 +1261,7 @@
                 "stars": 20,
                 "is_archived": false,
                 "last_update": "2020-12-23T05:36:05Z",
-                "enriched_at": "2026-03-30T07:28:59.20955414Z"
+                "enriched_at": "2026-03-31T08:55:17.469362415Z"
               }
             },
             {
@@ -1272,7 +1272,7 @@
                 "stars": 805,
                 "is_archived": false,
                 "last_update": "2025-01-10T08:33:50Z",
-                "enriched_at": "2026-03-30T07:28:59.385928415Z"
+                "enriched_at": "2026-03-31T08:55:17.816798313Z"
               }
             },
             {
@@ -1283,7 +1283,7 @@
                 "stars": 215,
                 "is_archived": false,
                 "last_update": "2020-03-29T21:12:20Z",
-                "enriched_at": "2026-03-30T07:28:59.570974667Z"
+                "enriched_at": "2026-03-31T08:55:18.053275726Z"
               }
             },
             {
@@ -1294,7 +1294,7 @@
                 "stars": 898,
                 "is_archived": false,
                 "last_update": "2024-08-03T07:07:53Z",
-                "enriched_at": "2026-03-30T07:28:59.767432528Z"
+                "enriched_at": "2026-03-31T08:55:18.308037941Z"
               }
             },
             {
@@ -1305,7 +1305,7 @@
                 "stars": 20,
                 "is_archived": false,
                 "last_update": "2023-03-09T13:54:57Z",
-                "enriched_at": "2026-03-30T07:28:59.925993291Z"
+                "enriched_at": "2026-03-31T08:55:18.963263414Z"
               }
             },
             {
@@ -1316,7 +1316,7 @@
                 "stars": 5465,
                 "is_archived": false,
                 "last_update": "2025-08-12T09:07:32Z",
-                "enriched_at": "2026-03-30T07:29:00.11275605Z"
+                "enriched_at": "2026-03-31T08:55:19.309065288Z"
               }
             },
             {
@@ -1327,7 +1327,7 @@
                 "stars": 10536,
                 "is_archived": false,
                 "last_update": "2025-05-01T12:16:55Z",
-                "enriched_at": "2026-03-30T07:29:00.312793852Z"
+                "enriched_at": "2026-03-31T08:55:19.725700702Z"
               }
             },
             {
@@ -1343,7 +1343,7 @@
                 "stars": 1578,
                 "is_archived": false,
                 "last_update": "2026-02-09T16:17:23Z",
-                "enriched_at": "2026-03-30T07:29:00.578610118Z"
+                "enriched_at": "2026-03-31T08:55:20.046996035Z"
               }
             },
             {
@@ -1351,10 +1351,10 @@
               "description": "Declaratively define styles for color, format and layout in the terminal.",
               "url": "https://github.com/charmbracelet/lipgloss",
               "repo_metadata": {
-                "stars": 10938,
+                "stars": 10944,
                 "is_archived": false,
-                "last_update": "2026-03-20T12:40:10Z",
-                "enriched_at": "2026-03-30T07:29:00.786072306Z"
+                "last_update": "2026-03-30T09:08:48Z",
+                "enriched_at": "2026-03-31T08:55:20.402456152Z"
               }
             },
             {
@@ -1365,7 +1365,7 @@
                 "stars": 53,
                 "is_archived": false,
                 "last_update": "2023-10-03T23:50:04Z",
-                "enriched_at": "2026-03-30T07:29:00.967726468Z"
+                "enriched_at": "2026-03-31T08:55:20.665611679Z"
               }
             },
             {
@@ -1376,7 +1376,7 @@
                 "stars": 2486,
                 "is_archived": false,
                 "last_update": "2026-03-13T18:02:11Z",
-                "enriched_at": "2026-03-30T07:29:01.16815273Z"
+                "enriched_at": "2026-03-31T08:55:20.918092859Z"
               }
             },
             {
@@ -1387,7 +1387,7 @@
                 "stars": 4657,
                 "is_archived": false,
                 "last_update": "2026-01-21T03:14:44Z",
-                "enriched_at": "2026-03-30T07:29:01.379162968Z"
+                "enriched_at": "2026-03-31T08:55:21.134555753Z"
               }
             },
             {
@@ -1395,10 +1395,10 @@
               "description": "A library to beautify console output on every platform with many combinable components.",
               "url": "https://github.com/pterm/pterm",
               "repo_metadata": {
-                "stars": 5398,
+                "stars": 5397,
                 "is_archived": false,
                 "last_update": "2026-03-12T01:52:23Z",
-                "enriched_at": "2026-03-30T07:29:01.607457858Z"
+                "enriched_at": "2026-03-31T08:55:21.439976111Z"
               }
             },
             {
@@ -1409,7 +1409,7 @@
                 "stars": 548,
                 "is_archived": false,
                 "last_update": "2021-04-23T14:55:10Z",
-                "enriched_at": "2026-03-30T07:29:01.888915409Z"
+                "enriched_at": "2026-03-31T08:55:21.887031968Z"
               }
             },
             {
@@ -1420,7 +1420,7 @@
                 "stars": 2521,
                 "is_archived": false,
                 "last_update": "2025-01-20T04:30:31Z",
-                "enriched_at": "2026-03-30T07:29:02.053463855Z"
+                "enriched_at": "2026-03-31T08:55:22.091036304Z"
               }
             },
             {
@@ -1431,7 +1431,7 @@
                 "stars": 368,
                 "is_archived": false,
                 "last_update": "2020-12-23T01:20:33Z",
-                "enriched_at": "2026-03-30T07:29:02.229931402Z"
+                "enriched_at": "2026-03-31T08:55:22.337750616Z"
               }
             },
             {
@@ -1442,7 +1442,7 @@
                 "stars": 50,
                 "is_archived": false,
                 "last_update": "2023-05-19T15:58:46Z",
-                "enriched_at": "2026-03-30T07:29:02.419725777Z"
+                "enriched_at": "2026-03-31T08:55:22.774877005Z"
               }
             },
             {
@@ -1450,10 +1450,10 @@
               "description": "Termbox is a library for creating cross-platform text-based interfaces.",
               "url": "https://github.com/nsf/termbox-go",
               "repo_metadata": {
-                "stars": 4762,
+                "stars": 4763,
                 "is_archived": false,
                 "last_update": "2025-10-20T05:58:12Z",
-                "enriched_at": "2026-03-30T07:29:02.589171362Z"
+                "enriched_at": "2026-03-31T08:55:23.011085841Z"
               }
             },
             {
@@ -1464,7 +1464,7 @@
                 "stars": 2984,
                 "is_archived": false,
                 "last_update": "2025-09-28T22:50:16Z",
-                "enriched_at": "2026-03-30T07:29:02.778065931Z"
+                "enriched_at": "2026-03-31T08:55:23.280094398Z"
               }
             },
             {
@@ -1475,7 +1475,7 @@
                 "stars": 1975,
                 "is_archived": false,
                 "last_update": "2025-11-21T08:05:07Z",
-                "enriched_at": "2026-03-30T07:29:02.986290639Z"
+                "enriched_at": "2026-03-31T08:55:23.564008449Z"
               }
             },
             {
@@ -1483,10 +1483,10 @@
               "description": "Go terminal dashboard based on termbox-go and inspired by blessed-contrib.",
               "url": "https://github.com/gizak/termui",
               "repo_metadata": {
-                "stars": 13524,
+                "stars": 13526,
                 "is_archived": false,
                 "last_update": "2025-07-10T06:33:40Z",
-                "enriched_at": "2026-03-30T07:29:03.192614528Z"
+                "enriched_at": "2026-03-31T08:55:23.922243857Z"
               }
             },
             {
@@ -1497,7 +1497,7 @@
                 "stars": 1716,
                 "is_archived": false,
                 "last_update": "2023-07-22T11:29:29Z",
-                "enriched_at": "2026-03-30T07:29:03.4058476Z"
+                "enriched_at": "2026-03-31T08:55:24.186383292Z"
               }
             },
             {
@@ -1508,7 +1508,7 @@
                 "stars": 2140,
                 "is_archived": false,
                 "last_update": "2024-02-29T11:06:26Z",
-                "enriched_at": "2026-03-30T07:29:03.598439543Z"
+                "enriched_at": "2026-03-31T08:55:24.469734182Z"
               }
             },
             {
@@ -1519,7 +1519,7 @@
                 "stars": 742,
                 "is_archived": false,
                 "last_update": "2022-10-18T07:02:33Z",
-                "enriched_at": "2026-03-30T07:29:03.785260785Z"
+                "enriched_at": "2026-03-31T08:55:24.769848305Z"
               }
             },
             {
@@ -1530,7 +1530,7 @@
                 "stars": 456,
                 "is_archived": false,
                 "last_update": "2022-01-03T06:35:23Z",
-                "enriched_at": "2026-03-30T07:29:03.971814972Z"
+                "enriched_at": "2026-03-31T08:55:25.037378074Z"
               }
             }
           ]
@@ -1548,7 +1548,7 @@
                 "stars": 138,
                 "is_archived": false,
                 "last_update": "2024-04-26T21:41:31Z",
-                "enriched_at": "2026-03-30T07:29:04.184922817Z"
+                "enriched_at": "2026-03-31T08:55:25.324624327Z"
               }
             },
             {
@@ -1559,7 +1559,7 @@
                 "stars": 637,
                 "is_archived": false,
                 "last_update": "2022-10-31T14:00:31Z",
-                "enriched_at": "2026-03-30T07:29:04.388510975Z"
+                "enriched_at": "2026-03-31T08:55:25.616672516Z"
               }
             },
             {
@@ -1570,7 +1570,7 @@
                 "stars": 42,
                 "is_archived": false,
                 "last_update": "2020-04-16T04:13:15Z",
-                "enriched_at": "2026-03-30T07:29:04.596745545Z"
+                "enriched_at": "2026-03-31T08:55:25.835418566Z"
               }
             },
             {
@@ -1578,10 +1578,10 @@
               "description": "Command argument completion generator for spf13/cobra.",
               "url": "https://github.com/rsteube/carapace",
               "repo_metadata": {
-                "stars": 1221,
+                "stars": 1224,
                 "is_archived": false,
                 "last_update": "2026-03-25T08:20:24Z",
-                "enriched_at": "2026-03-30T07:29:04.884856412Z"
+                "enriched_at": "2026-03-31T08:55:26.301163929Z"
               }
             },
             {
@@ -1589,10 +1589,10 @@
               "description": "Multi-shell multi-command argument completer.",
               "url": "https://github.com/rsteube/carapace-bin",
               "repo_metadata": {
-                "stars": 1757,
+                "stars": 1759,
                 "is_archived": false,
-                "last_update": "2026-03-28T11:20:36Z",
-                "enriched_at": "2026-03-30T07:29:05.204682232Z"
+                "last_update": "2026-03-30T13:43:16Z",
+                "enriched_at": "2026-03-31T08:55:26.882662154Z"
               }
             },
             {
@@ -1603,7 +1603,7 @@
                 "stars": 29,
                 "is_archived": false,
                 "last_update": "2026-03-26T03:54:08Z",
-                "enriched_at": "2026-03-30T07:29:05.521263655Z"
+                "enriched_at": "2026-03-31T08:55:27.376533927Z"
               }
             },
             {
@@ -1614,7 +1614,7 @@
                 "stars": 217,
                 "is_archived": false,
                 "last_update": "2020-09-05T07:02:16Z",
-                "enriched_at": "2026-03-30T07:29:05.711692422Z"
+                "enriched_at": "2026-03-31T08:55:27.597381175Z"
               }
             },
             {
@@ -1625,7 +1625,7 @@
                 "stars": 198,
                 "is_archived": false,
                 "last_update": "2024-06-10T21:26:38Z",
-                "enriched_at": "2026-03-30T07:29:05.913318126Z"
+                "enriched_at": "2026-03-31T08:55:27.914030772Z"
               }
             },
             {
@@ -1636,7 +1636,7 @@
                 "stars": 47,
                 "is_archived": false,
                 "last_update": "2020-09-27T14:26:26Z",
-                "enriched_at": "2026-03-30T07:29:06.106386676Z"
+                "enriched_at": "2026-03-31T08:55:28.17823728Z"
               }
             },
             {
@@ -1647,7 +1647,7 @@
                 "stars": 141,
                 "is_archived": false,
                 "last_update": "2026-03-23T22:30:38Z",
-                "enriched_at": "2026-03-30T07:29:06.304953994Z"
+                "enriched_at": "2026-03-31T08:55:28.421811338Z"
               }
             },
             {
@@ -1655,10 +1655,10 @@
               "description": "Commander for modern Go CLI interactions.",
               "url": "https://github.com/spf13/cobra",
               "repo_metadata": {
-                "stars": 43532,
+                "stars": 43542,
                 "is_archived": false,
                 "last_update": "2025-12-10T02:18:50Z",
-                "enriched_at": "2026-03-30T07:29:06.464654025Z"
+                "enriched_at": "2026-03-31T08:55:28.657075574Z"
               }
             },
             {
@@ -1669,7 +1669,7 @@
                 "stars": 70,
                 "is_archived": false,
                 "last_update": "2025-07-19T14:49:45Z",
-                "enriched_at": "2026-03-30T07:29:06.652552164Z"
+                "enriched_at": "2026-03-31T08:55:28.899565546Z"
               }
             },
             {
@@ -1680,7 +1680,7 @@
                 "stars": 175,
                 "is_archived": false,
                 "last_update": "2022-09-20T17:55:00Z",
-                "enriched_at": "2026-03-30T07:29:06.852357265Z"
+                "enriched_at": "2026-03-31T08:55:29.1588014Z"
               }
             },
             {
@@ -1691,7 +1691,7 @@
                 "stars": 952,
                 "is_archived": false,
                 "last_update": "2025-03-06T00:35:19Z",
-                "enriched_at": "2026-03-30T07:29:07.034762401Z"
+                "enriched_at": "2026-03-31T08:55:29.391943511Z"
               }
             },
             {
@@ -1699,10 +1699,10 @@
               "description": "",
               "url": "https://github.com/reeflective/console",
               "repo_metadata": {
-                "stars": 107,
+                "stars": 106,
                 "is_archived": false,
                 "last_update": "2026-01-15T22:00:04Z",
-                "enriched_at": "2026-03-30T07:29:07.26958727Z"
+                "enriched_at": "2026-03-31T08:55:29.662747871Z"
               }
             },
             {
@@ -1713,7 +1713,7 @@
                 "stars": 3019,
                 "is_archived": false,
                 "last_update": "2026-03-26T03:35:14Z",
-                "enriched_at": "2026-03-30T07:29:07.460336968Z"
+                "enriched_at": "2026-03-31T08:55:29.995661467Z"
               }
             },
             {
@@ -1721,10 +1721,10 @@
               "description": "An expressive programming language and a versatile interactive shell.",
               "url": "https://github.com/elves/elvish",
               "repo_metadata": {
-                "stars": 6267,
+                "stars": 6268,
                 "is_archived": false,
                 "last_update": "2026-01-25T15:59:02Z",
-                "enriched_at": "2026-03-30T07:29:07.687038882Z"
+                "enriched_at": "2026-03-31T08:55:30.267954575Z"
               }
             },
             {
@@ -1735,7 +1735,7 @@
                 "stars": 126,
                 "is_archived": false,
                 "last_update": "2024-06-18T13:34:07Z",
-                "enriched_at": "2026-03-30T07:29:07.862052443Z"
+                "enriched_at": "2026-03-31T08:55:30.659455147Z"
               }
             },
             {
@@ -1746,7 +1746,7 @@
                 "stars": 948,
                 "is_archived": false,
                 "last_update": "2025-10-04T05:56:31Z",
-                "enriched_at": "2026-03-30T07:29:08.177919353Z"
+                "enriched_at": "2026-03-31T08:55:30.904984573Z"
               }
             },
             {
@@ -1757,7 +1757,7 @@
                 "stars": 48,
                 "is_archived": false,
                 "last_update": "2024-09-26T12:57:43Z",
-                "enriched_at": "2026-03-30T07:29:08.36493826Z"
+                "enriched_at": "2026-03-31T08:55:31.353625326Z"
               }
             },
             {
@@ -1768,7 +1768,7 @@
                 "stars": 10,
                 "is_archived": false,
                 "last_update": "2026-01-07T09:02:52Z",
-                "enriched_at": "2026-03-30T07:29:08.563241885Z"
+                "enriched_at": "2026-03-31T08:55:31.618352546Z"
               }
             },
             {
@@ -1779,7 +1779,7 @@
                 "stars": 8,
                 "is_archived": false,
                 "last_update": "2026-02-18T22:50:25Z",
-                "enriched_at": "2026-03-30T07:29:08.865062813Z"
+                "enriched_at": "2026-03-31T08:55:32.076879974Z"
               }
             },
             {
@@ -1787,10 +1787,10 @@
               "description": "Struct-based argument parsing in Go.",
               "url": "https://github.com/alexflint/go-arg",
               "repo_metadata": {
-                "stars": 2246,
+                "stars": 2245,
                 "is_archived": false,
                 "last_update": "2025-12-27T22:04:21Z",
-                "enriched_at": "2026-03-30T07:29:09.056082588Z"
+                "enriched_at": "2026-03-31T08:55:32.36245574Z"
               }
             },
             {
@@ -1801,7 +1801,7 @@
                 "stars": 2695,
                 "is_archived": false,
                 "last_update": "2024-07-26T07:31:57Z",
-                "enriched_at": "2026-03-30T07:29:09.246408717Z"
+                "enriched_at": "2026-03-31T08:55:32.590669267Z"
               }
             },
             {
@@ -1812,7 +1812,7 @@
                 "stars": 61,
                 "is_archived": false,
                 "last_update": "2025-04-15T03:57:47Z",
-                "enriched_at": "2026-03-30T07:29:09.421482971Z"
+                "enriched_at": "2026-03-31T08:55:32.813703802Z"
               }
             },
             {
@@ -1823,7 +1823,7 @@
                 "stars": 34,
                 "is_archived": false,
                 "last_update": "2026-02-21T00:27:00Z",
-                "enriched_at": "2026-03-30T07:29:09.637184567Z"
+                "enriched_at": "2026-03-31T08:55:33.045213947Z"
               }
             },
             {
@@ -1834,7 +1834,7 @@
                 "stars": 67,
                 "is_archived": false,
                 "last_update": "2023-04-04T21:43:27Z",
-                "enriched_at": "2026-03-30T07:29:09.882247203Z"
+                "enriched_at": "2026-03-31T08:55:33.31775515Z"
               }
             },
             {
@@ -1845,7 +1845,7 @@
                 "stars": 5,
                 "is_archived": false,
                 "last_update": "2026-01-26T17:15:25Z",
-                "enriched_at": "2026-03-30T07:29:10.073152453Z"
+                "enriched_at": "2026-03-31T08:55:33.57453159Z"
               }
             },
             {
@@ -1856,7 +1856,7 @@
                 "stars": 36,
                 "is_archived": false,
                 "last_update": "2025-11-02T12:40:26Z",
-                "enriched_at": "2026-03-30T07:29:10.343875111Z"
+                "enriched_at": "2026-03-31T08:55:33.935147938Z"
               }
             },
             {
@@ -1872,7 +1872,7 @@
                 "stars": 149,
                 "is_archived": false,
                 "last_update": "2020-06-30T10:17:38Z",
-                "enriched_at": "2026-03-30T07:29:10.536018373Z"
+                "enriched_at": "2026-03-31T08:55:34.213054696Z"
               }
             },
             {
@@ -1883,7 +1883,7 @@
                 "stars": 3559,
                 "is_archived": false,
                 "last_update": "2026-03-22T00:38:18Z",
-                "enriched_at": "2026-03-30T07:29:10.699561355Z"
+                "enriched_at": "2026-03-31T08:55:34.487458335Z"
               }
             },
             {
@@ -1891,10 +1891,10 @@
               "description": "Go readline-like library for command-line interfaces.",
               "url": "https://github.com/peterh/liner",
               "repo_metadata": {
-                "stars": 1090,
+                "stars": 1091,
                 "is_archived": false,
                 "last_update": "2023-06-23T14:09:49Z",
-                "enriched_at": "2026-03-30T07:29:10.883677342Z"
+                "enriched_at": "2026-03-31T08:55:34.742246194Z"
               }
             },
             {
@@ -1905,7 +1905,7 @@
                 "stars": 45,
                 "is_archived": false,
                 "last_update": "2026-01-28T13:15:42Z",
-                "enriched_at": "2026-03-30T07:29:11.074109462Z"
+                "enriched_at": "2026-03-31T08:55:35.008473009Z"
               }
             },
             {
@@ -1916,7 +1916,7 @@
                 "stars": 726,
                 "is_archived": false,
                 "last_update": "2024-02-04T08:43:26Z",
-                "enriched_at": "2026-03-30T07:29:11.246993421Z"
+                "enriched_at": "2026-03-31T08:55:35.399332529Z"
               }
             },
             {
@@ -1927,7 +1927,7 @@
                 "stars": 883,
                 "is_archived": false,
                 "last_update": "2024-03-07T13:04:06Z",
-                "enriched_at": "2026-03-30T07:29:11.406848365Z"
+                "enriched_at": "2026-03-31T08:55:35.729316873Z"
               }
             },
             {
@@ -1938,7 +1938,7 @@
                 "stars": 1478,
                 "is_archived": false,
                 "last_update": "2026-03-22T15:46:04Z",
-                "enriched_at": "2026-03-30T07:29:11.580298912Z"
+                "enriched_at": "2026-03-31T08:55:36.034398882Z"
               }
             },
             {
@@ -1949,7 +1949,7 @@
                 "stars": 28,
                 "is_archived": false,
                 "last_update": "2026-01-13T19:08:44Z",
-                "enriched_at": "2026-03-30T07:29:11.7379994Z"
+                "enriched_at": "2026-03-31T08:55:36.380219007Z"
               }
             },
             {
@@ -1957,10 +1957,10 @@
               "description": "Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.",
               "url": "https://github.com/spf13/pflag",
               "repo_metadata": {
-                "stars": 2720,
+                "stars": 2721,
                 "is_archived": false,
                 "last_update": "2026-03-05T10:20:58Z",
-                "enriched_at": "2026-03-30T07:29:12.002633837Z"
+                "enriched_at": "2026-03-31T08:55:36.683470831Z"
               }
             },
             {
@@ -1971,7 +1971,7 @@
                 "stars": 136,
                 "is_archived": false,
                 "last_update": "2026-01-15T21:53:18Z",
-                "enriched_at": "2026-03-30T07:29:12.234920367Z"
+                "enriched_at": "2026-03-31T08:55:36.965712609Z"
               }
             },
             {
@@ -1982,7 +1982,7 @@
                 "stars": 167,
                 "is_archived": false,
                 "last_update": "2026-01-06T14:15:39Z",
-                "enriched_at": "2026-03-30T07:29:12.533778379Z"
+                "enriched_at": "2026-03-31T08:55:37.452504916Z"
               }
             },
             {
@@ -1992,8 +1992,8 @@
               "repo_metadata": {
                 "stars": 9,
                 "is_archived": false,
-                "last_update": "2026-03-29T21:42:32Z",
-                "enriched_at": "2026-03-30T07:29:12.713206863Z"
+                "last_update": "2026-03-31T08:39:16Z",
+                "enriched_at": "2026-03-31T08:55:37.714570628Z"
               }
             },
             {
@@ -2004,7 +2004,7 @@
                 "stars": 62,
                 "is_archived": false,
                 "last_update": "2025-11-12T14:13:26Z",
-                "enriched_at": "2026-03-30T07:29:12.900700042Z"
+                "enriched_at": "2026-03-31T08:55:38.034805866Z"
               }
             },
             {
