@@ -1773,7 +1773,7 @@ Libraries that implement Object-Relational Mapping or datamapping techniques.
 * [bun](https://github.com/uptrace/bun) / ⭐ 4730 - SQL-first Golang ORM. Successor of go-pg.
 * [cacheme](https://github.com/Yiling-J/cacheme-go) / ⭐ 25 - Schema based, typed Redis caching/memoize framework for Go.
 * [CQL](https://github.com/FrancoLiberali/cql) / ⭐ 17 - Built on top of GORM, adds compile-time verified queries based on auto-generated code.
-* [ent](https://github.com/facebook/ent) / ⭐ 17002 - An entity framework for Go. Simple, yet powerful ORM for modeling and querying data.
+* [ent](https://github.com/facebook/ent) / ⭐ 17003 - An entity framework for Go. Simple, yet powerful ORM for modeling and querying data.
 * [go-dbw](https://github.com/hashicorp/go-dbw) / ⭐ 17 - A simple package that encapsulates database operations.
 * [go-firestorm](https://github.com/jschoedt/go-firestorm) / ⭐ 53 - A simple ORM for Google/Firebase Cloud Firestore.
 * [go-sql](https://github.com/rushteam/gosql) / ⭐ 178 - A easy ORM for mysql.
@@ -1790,7 +1790,7 @@ Libraries that implement Object-Relational Mapping or datamapping techniques.
 * [Prisma](https://github.com/prisma/prisma-client-go) / ⭐ 2286 - Prisma Client Go, Typesafe database access for Go.
 * [reform](https://github.com/go-reform/reform) / ⭐ 1456 - Better ORM for Go, based on non-empty interfaces and code generation.
 * [rel](https://github.com/go-rel/rel) / ⭐ 781 - Modern Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API.
-* [SQLBoiler](https://github.com/volatiletech/sqlboiler) / ⭐ 6978 - ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema.
+* [SQLBoiler](https://github.com/volatiletech/sqlboiler) / ⭐ 6981 - ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema.
 * [upper.io/db](https://github.com/upper/db) / ⭐ 3648 - Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers.
 * [XORM](https://gitea.com/xorm/xorm) - Simple and powerful ORM for Go. (Support: MySQL, MyMysql, PostgreSQL, Tidb, SQLite3, MsSql and Oracle).
 * [Zoom](https://github.com/albrow/zoom) / ⭐ 311 - Blazing-fast datastore and querying engine built on Redis.
