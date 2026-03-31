@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-03-31T18:58:49.223111955Z",
+    "updated_at": "2026-03-31T20:40:07.28335739Z",
     "provider_metrics": [
       {
         "provider": "gitlab-provider",
@@ -10,8 +10,8 @@
       },
       {
         "provider": "github-provider",
-        "attempted": 494,
-        "successful": 486,
+        "attempted": 28,
+        "successful": 20,
         "failed": 8
       }
     ],
@@ -16560,7 +16560,7 @@
             "stars": 17,
             "is_archived": false,
             "last_update": "2026-02-19T20:02:03Z",
-            "enriched_at": "2026-03-30T18:57:22.788483338Z"
+            "enriched_at": "2026-03-31T20:40:02.356904829Z"
           }
         },
         {
@@ -16568,10 +16568,10 @@
           "description": "An entity framework for Go. Simple, yet powerful ORM for modeling and querying data.",
           "url": "https://github.com/facebook/ent",
           "repo_metadata": {
-            "stars": 17002,
+            "stars": 17003,
             "is_archived": false,
             "last_update": "2026-03-23T19:56:45Z",
-            "enriched_at": "2026-03-30T18:57:23.114592778Z"
+            "enriched_at": "2026-03-31T20:40:02.66584235Z"
           }
         },
         {
@@ -16582,7 +16582,7 @@
             "stars": 17,
             "is_archived": false,
             "last_update": "2026-03-18T19:23:46Z",
-            "enriched_at": "2026-03-30T18:57:23.327955746Z"
+            "enriched_at": "2026-03-31T20:40:02.915320536Z"
           }
         },
         {
@@ -16593,7 +16593,7 @@
             "stars": 53,
             "is_archived": false,
             "last_update": "2021-12-13T23:52:18Z",
-            "enriched_at": "2026-03-30T18:57:23.488765031Z"
+            "enriched_at": "2026-03-31T20:40:03.14313675Z"
           }
         },
         {
@@ -16604,7 +16604,7 @@
             "stars": 178,
             "is_archived": false,
             "last_update": "2022-06-17T09:34:11Z",
-            "enriched_at": "2026-03-30T18:57:23.687389085Z"
+            "enriched_at": "2026-03-31T20:40:03.489143326Z"
           }
         },
         {
@@ -16615,7 +16615,7 @@
             "stars": 1687,
             "is_archived": false,
             "last_update": "2026-03-20T12:44:33Z",
-            "enriched_at": "2026-03-30T18:57:23.848866828Z"
+            "enriched_at": "2026-03-31T20:40:03.635113615Z"
           }
         },
         {
@@ -16626,7 +16626,7 @@
             "stars": 113,
             "is_archived": false,
             "last_update": "2017-02-23T15:11:42Z",
-            "enriched_at": "2026-03-30T18:57:24.022762044Z"
+            "enriched_at": "2026-03-31T20:40:03.821001612Z"
           }
         },
         {
@@ -16637,7 +16637,7 @@
             "stars": 162,
             "is_archived": false,
             "last_update": "2025-10-30T15:51:13Z",
-            "enriched_at": "2026-03-30T18:57:24.214847463Z"
+            "enriched_at": "2026-03-31T20:40:03.995592677Z"
           }
         },
         {
@@ -16648,7 +16648,7 @@
             "stars": 39631,
             "is_archived": false,
             "last_update": "2026-03-23T10:05:06Z",
-            "enriched_at": "2026-03-30T18:57:24.428533278Z"
+            "enriched_at": "2026-03-31T20:40:04.18916537Z"
           }
         },
         {
@@ -16659,7 +16659,7 @@
             "stars": 2436,
             "is_archived": false,
             "last_update": "2026-02-12T08:34:04Z",
-            "enriched_at": "2026-03-30T18:57:24.584145731Z"
+            "enriched_at": "2026-03-31T20:40:04.336348387Z"
           }
         },
         {
@@ -16670,7 +16670,7 @@
             "stars": 3755,
             "is_archived": false,
             "last_update": "2024-11-19T16:27:48Z",
-            "enriched_at": "2026-03-30T18:57:24.776442645Z"
+            "enriched_at": "2026-03-31T20:40:04.534792032Z"
           }
         },
         {
@@ -16681,7 +16681,7 @@
             "stars": 161,
             "is_archived": false,
             "last_update": "2021-10-25T23:52:11Z",
-            "enriched_at": "2026-03-30T18:57:24.934832078Z"
+            "enriched_at": "2026-03-31T20:40:04.745639579Z"
           }
         },
         {
@@ -16692,7 +16692,7 @@
             "stars": 14,
             "is_archived": false,
             "last_update": "2017-10-21T18:26:41Z",
-            "enriched_at": "2026-03-30T18:57:25.143513979Z"
+            "enriched_at": "2026-03-31T20:40:04.975007742Z"
           }
         },
         {
@@ -16703,7 +16703,7 @@
             "stars": 12,
             "is_archived": false,
             "last_update": "2020-08-18T14:06:35Z",
-            "enriched_at": "2026-03-30T18:57:25.343423977Z"
+            "enriched_at": "2026-03-31T20:40:05.184791851Z"
           }
         },
         {
@@ -16713,8 +16713,8 @@
           "repo_metadata": {
             "stars": 1498,
             "is_archived": false,
-            "last_update": "2026-03-27T17:07:17Z",
-            "enriched_at": "2026-03-30T18:57:25.586453177Z"
+            "last_update": "2026-03-30T20:51:21Z",
+            "enriched_at": "2026-03-31T20:40:05.377636237Z"
           }
         },
         {
@@ -16725,7 +16725,7 @@
             "stars": 2286,
             "is_archived": true,
             "last_update": "2025-07-28T18:07:34Z",
-            "enriched_at": "2026-03-30T18:57:25.862161684Z"
+            "enriched_at": "2026-03-31T20:40:05.677632424Z"
           }
         },
         {
@@ -16736,7 +16736,7 @@
             "stars": 1456,
             "is_archived": false,
             "last_update": "2025-12-15T13:01:05Z",
-            "enriched_at": "2026-03-30T18:57:26.039294863Z"
+            "enriched_at": "2026-03-31T20:40:05.86979836Z"
           }
         },
         {
@@ -16747,7 +16747,7 @@
             "stars": 781,
             "is_archived": false,
             "last_update": "2026-03-01T14:11:36Z",
-            "enriched_at": "2026-03-30T18:57:26.255482773Z"
+            "enriched_at": "2026-03-31T20:40:06.101304499Z"
           }
         },
         {
@@ -16755,10 +16755,10 @@
           "description": "ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema.",
           "url": "https://github.com/volatiletech/sqlboiler",
           "repo_metadata": {
-            "stars": 6978,
+            "stars": 6981,
             "is_archived": false,
             "last_update": "2026-02-28T15:54:36Z",
-            "enriched_at": "2026-03-30T18:57:26.502416337Z"
+            "enriched_at": "2026-03-31T20:40:06.358864328Z"
           }
         },
         {
@@ -16769,7 +16769,7 @@
             "stars": 3648,
             "is_archived": false,
             "last_update": "2025-12-06T13:39:47Z",
-            "enriched_at": "2026-03-30T18:57:26.715874835Z"
+            "enriched_at": "2026-03-31T20:40:06.632427325Z"
           }
         },
         {
