@@ -334,7 +334,7 @@ Frameworks for performing ELT / ETL
 * [bit](https://github.com/yourbasic/bit) / ⭐ 169 - Golang set data structure with bonus bit-twiddling functions.
 * [crunch](https://github.com/superwhiskers/crunch) / ⭐ 99 - Go package implementing buffers for handling various datatypes easily.
 * [go-ef](https://github.com/amallia/go-ef) / ⭐ 41 - A Go implementation of the Elias-Fano encoding.
-* [roaring](https://github.com/RoaringBitmap/roaring) / ⭐ 2863 - Go package implementing compressed bitsets.
+* [roaring](https://github.com/RoaringBitmap/roaring) / ⭐ 2865 - Go package implementing compressed bitsets.
 ### Bit Sets
 
 * [bitmap](https://github.com/kelindar/bitmap) / ⭐ 372 - Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go.
@@ -352,9 +352,9 @@ Frameworks for performing ELT / ETL
 ### Data Structure and Algorithm Collections
 
 * [algorithms](https://github.com/shady831213/algorithms) / ⭐ 837 - Algorithms and data structures.CLRS study.
-* [go-datastructures](https://github.com/Workiva/go-datastructures) / ⭐ 7912 - Collection of useful, performant, and thread-safe data structures.
+* [go-datastructures](https://github.com/Workiva/go-datastructures) / ⭐ 7913 - Collection of useful, performant, and thread-safe data structures.
 * [gods](https://github.com/emirpasic/gods) / ⭐ 17412 - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
-* [gostl](https://github.com/liyue201/gostl) / ⭐ 1137 - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
+* [gostl](https://github.com/liyue201/gostl) / ⭐ 1136 - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
 ### Iterators
 
 * [gloop](https://github.com/alvii147/gloop) / ⭐ 27 - Convenient looping using Go's range-over-func feature.
@@ -400,7 +400,7 @@ additional ordered map implementations.
 * [deque](https://github.com/gammazero/deque) / ⭐ 770 - Fast ring-buffer deque (double-ended queue).
 * [dqueue](https://github.com/vodolaz095/dqueue) / ⭐ 2 - Simple, in memory, zero dependency and battle tested, thread-safe deferred queue.
 * [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) / ⭐ 435 - Concurrent FIFO queue.
-* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 6794 - Distributed, Fault-tolerant task queue.
+* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 6797 - Distributed, Fault-tolerant task queue.
 * [list](https://github.com/koss-null/list) / ⭐ 11 - A generic, thread-safe doubly linked list with full iterator support and an intrusive singly linked list for embedded use; a feature-rich replacement for container/list.
 * [memlog](https://github.com/embano1/memlog) / ⭐ 138 - An easy to use, lightweight, thread-safe and append-only in-memory data structure inspired by Apache Kafka.
 * [queue](https://github.com/adrianbrad/queue) / ⭐ 332 - Multiple thread-safe, generic queue implementations for Go.
@@ -412,7 +412,7 @@ additional ordered map implementations.
 * [set](https://github.com/StudioSol/set) / ⭐ 29 - Simple set data structure implementation in Go using LinkedHashMap.
 ### Text Analysis
 
-* [bleve](https://github.com/blevesearch/bleve) / ⭐ 11034 - Modern text indexing library for go.
+* [bleve](https://github.com/blevesearch/bleve) / ⭐ 11035 - Modern text indexing library for go.
 * [go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) / ⭐ 412 - Go implementation of Adaptive Radix Tree.
 * [go-edlib](https://github.com/hbollon/go-edlib) / ⭐ 598 - Go string comparison and edit distance algorithms library (Levenshtein, LCS, Hamming, Damerau levenshtein, Jaro-Winkler, etc.) compatible with Unicode.
 * [levenshtein](https://github.com/agext/levenshtein) / ⭐ 90 - Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix.
