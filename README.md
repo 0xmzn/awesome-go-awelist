@@ -3003,19 +3003,19 @@ Where to discover new Go libraries.
 * [Leaps](https://github.com/jeffail/leaps) / ⭐ 757 - Pair programming service using Operational Transforms.
 * [lgo](https://github.com/yunabe/lgo) / ⭐ 2455 - Interactive Go programming with Jupyter. It supports code completion, code inspection and 100% Go compatibility.
 * [limetext](https://limetext.github.io) - Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.
-* [LiteIDE](https://github.com/visualfc/liteide) / ⭐ 7754 - LiteIDE is a simple, open source, cross-platform Go IDE.
-* [mockingjay](https://github.com/quii/mockingjay-server) / ⭐ 569 - Fake HTTP servers and consumer driven contracts from one configuration file. You can also make the server randomly misbehave to help do more realistic performance tests.
-* [myLG](https://github.com/mehrdadrad/mylg) / ⭐ 2715 - Command Line Network Diagnostic tool written in Go.
+* [LiteIDE](https://github.com/visualfc/liteide) / ⭐ 7755 - LiteIDE is a simple, open source, cross-platform Go IDE.
+* [mockingjay](https://github.com/quii/mockingjay-server) / ⭐ 570 - Fake HTTP servers and consumer driven contracts from one configuration file. You can also make the server randomly misbehave to help do more realistic performance tests.
+* [myLG](https://github.com/mehrdadrad/mylg) / ⭐ 2716 - Command Line Network Diagnostic tool written in Go.
 * [naclpipe](https://github.com/unix4fun/naclpipe) / ⭐ 23 - Simple NaCL EC25519 based crypto pipe tool written in Go.
 * [Neo-cowsay](https://github.com/Code-Hex/Neo-cowsay) / ⭐ 343 - 🐮 cowsay is reborn. for a New Era.
 * [nes](https://github.com/fogleman/nes) / ⭐ 5644 - Nintendo Entertainment System (NES) emulator written in Go.
 * [Orbit](https://github.com/gulien/orbit) / ⭐ 187 - A simple tool for running commands and generating files from templates.
 * [peg](https://github.com/pointlander/peg) / ⭐ 1105 - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 * [Plik](https://github.com/root-gg/plik) / ⭐ 1734 - Plik is a temporary file upload system (Wetransfer like) in Go.
-* [portal](https://github.com/SpatiumPortae/portal) / ⭐ 1747 - Portal is a quick and easy command-line file transfer utility from any computer to another.
-* [restic](https://github.com/restic/restic) / ⭐ 32971 - De-duplicating backup program.
+* [portal](https://github.com/SpatiumPortae/portal) / ⭐ 1748 - Portal is a quick and easy command-line file transfer utility from any computer to another.
+* [restic](https://github.com/restic/restic) / ⭐ 32982 - De-duplicating backup program.
 * [sake](https://github.com/alajmo/sake) / ⭐ 741 - sake is a command runner for local and remote hosts.
-* [scc](https://github.com/boyter/scc) / ⭐ 8261 - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
+* [scc](https://github.com/boyter/scc) / ⭐ 8264 - Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 * [Seaweed File System](https://github.com/chrislusf/seaweedfs) / ⭐ 19 - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 * [shell2http](https://github.com/msoap/shell2http) / ⭐ 1482 - Executing shell commands via http server (for prototyping or remote control).
 * [Snitch](https://github.com/lucasgomide/snitch) / ⭐ 16 - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
@@ -3025,7 +3025,7 @@ Where to discover new Go libraries.
 * [syncthing](https://syncthing.net/) - Open, decentralized file synchronization tool and protocol.
 * [tcpdog](https://github.com/mehrdadrad/tcpdog) / ⭐ 260 - eBPF based TCP observability.
 * [tinycare-tui](https://github.com/DMcP89/tinycare-tui) / ⭐ 19 - Small terminal app that shows git commits from the last 24 hours and week, current weather, some self care advice, a joke, and you current todo list tasks.
-* [toxiproxy](https://github.com/shopify/toxiproxy) / ⭐ 11928 - Proxy to simulate network and system conditions for automated tests.
+* [toxiproxy](https://github.com/shopify/toxiproxy) / ⭐ 11930 - Proxy to simulate network and system conditions for automated tests.
 * [tsuru](https://tsuru.io/) - Extensible and open source Platform as a Service software.
 * [vaku](https://github.com/lingrino/vaku) / ⭐ 159 - CLI & API for folder-based functions in Vault like copy, move, and search.
 * [vFlow](https://github.com/VerizonDigital/vflow) / ⭐ 1152 - High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.
@@ -3044,7 +3044,7 @@ Where to discover new Go libraries.
 * [go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) / ⭐ 1669 - Go HTTP request router benchmark and comparison.
 * [go-json-benchmark](https://github.com/zerosnake0/go-json-benchmark) / ⭐ 11 - Go JSON benchmark.
 * [go-ml-benchmarks](https://github.com/nikolaydubina/go-ml-benchmarks) / ⭐ 32 - benchmarks for machine learning inference in Go.
-* [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) / ⭐ 2137 - Go web framework benchmark.
+* [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) / ⭐ 2138 - Go web framework benchmark.
 * [go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) / ⭐ 1626 - Benchmarks of Go serialization methods.
 * [gocostmodel](https://github.com/PuerkitoBio/gocostmodel) / ⭐ 62 - Benchmarks of common basic operations for the Go language.
 * [golang-benchmarks](https://github.com/SimonWaldherr/golang-benchmarks) / ⭐ 142 - a collection of golang benchmarks.
@@ -3104,7 +3104,7 @@ Where to discover new Go libraries.
 * [Go Faster](https://leanpub.com/gofaster) - This book seeks to shorten your learning curve and help you become a proficient Go programmer, faster.
 * [Go Succinctly](https://github.com/thedevsir/gosuccinctly) / ⭐ 23 - in Persian.
 * [Go with the domain](https://threedots.tech/go-with-the-domain/) - A book showing how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
-* [GoBooks](https://github.com/dariubs/GoBooks) / ⭐ 19301 - A curated list of Go books.
+* [GoBooks](https://github.com/dariubs/GoBooks) / ⭐ 19304 - A curated list of Go books.
 * [How To Code in Go eBook](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - A 600 page introduction to Go aimed at first time developers.
 * [Learning Go](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf) - 
 * [Network Programming With Go](https://jan.newmarch.name/golang/) - 
@@ -3118,14 +3118,14 @@ Where to discover new Go libraries.
 ---
 ## Gophers
 
-* [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) / ⭐ 3916 - Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster.
+* [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) / ⭐ 3917 - Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster.
 * [Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) / ⭐ 75 - Go gopher Vector Data [.ai, .svg].
 * [gopher-logos](https://github.com/GolangUA/gopher-logos) / ⭐ 140 - adorable gopher logos.
 * [gopher-stickers](https://github.com/tenntenn/gopher-stickers) / ⭐ 606 - 
 * [gophericons](https://github.com/shalakhin/gophericons) / ⭐ 629 - 
 * [gopherize.me](https://github.com/matryer/gopherize.me) / ⭐ 753 - Gopherize yourself.
 * [gophers](https://github.com/ashleymcnamara/gophers) / ⭐ 3077 - Gopher artworks by Ashley McNamara.
-* [gophers](https://github.com/egonelbre/gophers) / ⭐ 3791 - Free gophers.
+* [gophers](https://github.com/egonelbre/gophers) / ⭐ 3790 - Free gophers.
 * [gophers](https://github.com/rogeralsing/gophers) / ⭐ 58 - random gopher graphics.
 * [gophers](https://github.com/sillecelik/go-gopher) / ⭐ 162 - Gopher amigurumi toy pattern.
 * [gophers](https://github.com/scraly/gophers) / ⭐ 36 - Gophers by Aurélie Vache.
@@ -3230,8 +3230,8 @@ Add the group of your city/country here (send PR)
 
 * [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
 * [Awesome Golang Workshops](https://github.com/amit-davidson/awesome-golang-workshops) / ⭐ 525 - A curated list of awesome golang workshops.
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) / ⭐ 44827 - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) / ⭐ 33329 - List of other amazingly awesome lists.
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) / ⭐ 44883 - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) / ⭐ 33337 - List of other amazingly awesome lists.
 * [awesome-go-extra](https://github.com/xwjdsh/awesome-go-extra) / ⭐ 27 - Parse awesome-go README file and generate a new README file with repo info.
 * [Code with Mukesh](https://codewithmukesh.com/categories/golang) - Software Engineer and Blogs @ codewithmukesh.com.
 * [Coding Mystery](https://codingmystery.com) - Solve exciting escape-room-inspired programming challenges using Go.
@@ -3278,14 +3278,14 @@ Add the group of your city/country here (send PR)
 * [Design Patterns in Go](https://github.com/shubhamzanwar/design-patterns) / ⭐ 131 - Collection of programming design patterns implemented in Go.
 * [Games With Go](https://www.youtube.com/watch?v=9D4yH7e_ea8&list=PLDZujg-VgQlZUy1iCqBbe5faZLMkA3g2x) - A video series teaching programming and game development.
 * [Go By Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs.
-* [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) / ⭐ 8789 - Go's reference card.
+* [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) / ⭐ 8790 - Go's reference card.
 * [Go database/sql tutorial](http://go-database-sql.org/) - Introduction to database/sql.
 * [Go in 7 days](https://github.com/harrytran103/7_days_of_go) / ⭐ 161 - Learn everything about Go in 7 days (from a Nodejs developer).
 * [Go Language Tutorial](https://www.javatpoint.com/go-tutorial) - Learn Go language Tutorial.
 * [Go Tutorial](https://www.tutorialspoint.com/go/index.htm) - Learn Go programming.
 * [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/) - Building a Simple Calculator
-* [go-clean-template](https://github.com/evrone/go-clean-template) / ⭐ 7531 - Clean Architecture template for Golang services.
-* [go-patterns](https://github.com/tmrts/go-patterns) / ⭐ 27857 - Curated list of Go design patterns, recipes and idioms.
+* [go-clean-template](https://github.com/evrone/go-clean-template) / ⭐ 7535 - Clean Architecture template for Golang services.
+* [go-patterns](https://github.com/tmrts/go-patterns) / ⭐ 27859 - Curated list of Go design patterns, recipes and idioms.
 * [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) / ⭐ 4766 - Examples of Golang compared to Node.js for learning.
 * [Golang Tutorial Guide](https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/) - A List of Free Courses to Learn the Go Programming Language.
 * [golang-examples](https://github.com/SimonWaldherr/golang-examples) / ⭐ 1680 - Many examples to learn Golang.
@@ -3300,8 +3300,8 @@ Add the group of your city/country here (send PR)
 * [How To Deploy a Go Web Application with Docker](https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker) - Learn how to use Docker for Go development and how to build production Docker images.
 * [How to Implement Role-Based Access Control (RBAC) Authorization in Golang](https://www.permit.io/blog/role-based-access-control-rbac-authorization-in-golang) - A guide to implementing Role-Based Access Control (RBAC) in Golang, including code examples, covering various methods to secure app endpoints with role-based authorization.
 * [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go) - Get started with Godog - a Behavior-driven development framework for building and testing Go applications.
-* [Learn Go with 1000+ Exercises](https://github.com/inancgumus/learngo) / ⭐ 19937 - Learn Go with thousands of examples, exercises, and quizzes.
-* [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) / ⭐ 23578 - Learn Go with test-driven development.
+* [Learn Go with 1000+ Exercises](https://github.com/inancgumus/learngo) / ⭐ 19936 - Learn Go with thousands of examples, exercises, and quizzes.
+* [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) / ⭐ 23577 - Learn Go with test-driven development.
 * [Learning Go by examples](https://dev.to/aurelievache/learning-go-by-examples-introduction-448n) - Series of articles in order to learn Golang language by concrete applications as example.
 * [Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - Dive deep into building microservices using Go, including gRPC.
 * [package main](https://www.youtube.com/packagemain) - YouTube channel about Programming in Go.
@@ -3314,7 +3314,7 @@ Add the group of your city/country here (send PR)
 ### Guided Learning
 
 * [The Go Developer Roadmap](https://roadmap.sh/golang) - A visual roadmap that new Go developers can follow through to help them learn Go.
-* [The Go Interview Practice](https://github.com/RezaSi/go-interview-practice) / ⭐ 1962 - A GitHub repository offering coding challenges for Go technical interview preparation.
+* [The Go Interview Practice](https://github.com/RezaSi/go-interview-practice) / ⭐ 1964 - A GitHub repository offering coding challenges for Go technical interview preparation.
 * [The Go Learning Path](https://tutorialedge.net/paths/golang/) - A guided learning path containing a mix of free and premium resources.
 * [The Go Skill Tree](https://labex.io/skilltrees/go) - A structured learning path that combines both free and premium resources.
 
