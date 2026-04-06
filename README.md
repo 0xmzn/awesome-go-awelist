@@ -353,7 +353,7 @@ Frameworks for performing ELT / ETL
 
 * [algorithms](https://github.com/shady831213/algorithms) / ⭐ 837 - Algorithms and data structures.CLRS study.
 * [go-datastructures](https://github.com/Workiva/go-datastructures) / ⭐ 7913 - Collection of useful, performant, and thread-safe data structures.
-* [gods](https://github.com/emirpasic/gods) / ⭐ 17413 - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
+* [gods](https://github.com/emirpasic/gods) / ⭐ 17412 - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
 * [gostl](https://github.com/liyue201/gostl) / ⭐ 1137 - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
 ### Iterators
 
@@ -386,7 +386,7 @@ additional ordered map implementations.
 * [gogu](https://github.com/esimov/gogu) / ⭐ 108 - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
 * [gota](https://github.com/kniren/gota) / ⭐ 3268 - Implementation of dataframes, series, and data wrangling methods for Go.
 * [hide](https://github.com/emvi/hide) / ⭐ 73 - ID type with marshalling to/from hash to prevent sending IDs to clients.
-* [hyperloglog](https://github.com/axiomhq/hyperloglog) / ⭐ 1033 - HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction.
+* [hyperloglog](https://github.com/axiomhq/hyperloglog) / ⭐ 1034 - HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction.
 * [quadtree](https://github.com/s0rg/quadtree) / ⭐ 41 - Generic, zero-alloc, 100%-test covered quadtree.
 * [slices](https://github.com/twharmon/slices) / ⭐ 22 - Pure, generic functions for slices.
 ### Nullable Types
@@ -400,7 +400,7 @@ additional ordered map implementations.
 * [deque](https://github.com/gammazero/deque) / ⭐ 770 - Fast ring-buffer deque (double-ended queue).
 * [dqueue](https://github.com/vodolaz095/dqueue) / ⭐ 2 - Simple, in memory, zero dependency and battle tested, thread-safe deferred queue.
 * [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) / ⭐ 435 - Concurrent FIFO queue.
-* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 6800 - Distributed, Fault-tolerant task queue.
+* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 6801 - Distributed, Fault-tolerant task queue.
 * [list](https://github.com/koss-null/list) / ⭐ 11 - A generic, thread-safe doubly linked list with full iterator support and an intrusive singly linked list for embedded use; a feature-rich replacement for container/list.
 * [memlog](https://github.com/embano1/memlog) / ⭐ 138 - An easy to use, lightweight, thread-safe and append-only in-memory data structure inspired by Apache Kafka.
 * [queue](https://github.com/adrianbrad/queue) / ⭐ 332 - Multiple thread-safe, generic queue implementations for Go.
@@ -442,7 +442,7 @@ additional ordered map implementations.
 Data stores with expiring records, in-memory distributed data stores, or in-memory subsets of file-based databases.
 
 * [bcache](https://github.com/iwanbk/bcache) / ⭐ 162 - Eventually consistent distributed in-memory cache Go library.
-* [BigCache](https://github.com/allegro/bigcache) / ⭐ 8115 - Efficient key/value cache for gigabytes of data.
+* [BigCache](https://github.com/allegro/bigcache) / ⭐ 8116 - Efficient key/value cache for gigabytes of data.
 * [cache2go](https://github.com/muesli/cache2go) / ⭐ 2161 - In-memory key:value cache which supports automatic invalidation based on timeouts.
 * [cachego](https://github.com/faabiosr/cachego) / ⭐ 371 - Golang Cache component for multiple drivers.
 * [clusteredBigCache](https://github.com/oaStuff/clusteredBigCache) / ⭐ 45 - BigCache with clustering support and individual item expiration.
