@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-04-06T20:35:12.477115261Z",
+    "updated_at": "2026-04-06T22:32:58.713209947Z",
     "provider_metrics": [
       {
         "provider": "gitlab-provider",
@@ -10,8 +10,8 @@
       },
       {
         "provider": "github-provider",
-        "attempted": 93,
-        "successful": 85,
+        "attempted": 72,
+        "successful": 64,
         "failed": 8
       }
     ],
@@ -4015,7 +4015,7 @@
                 "stars": 530,
                 "is_archived": false,
                 "last_update": "2025-04-24T01:10:00Z",
-                "enriched_at": "2026-04-05T22:27:27.86095789Z"
+                "enriched_at": "2026-04-06T22:32:48.335636146Z"
               }
             },
             {
@@ -4026,7 +4026,7 @@
                 "stars": 2345,
                 "is_archived": false,
                 "last_update": "2026-02-18T13:21:14Z",
-                "enriched_at": "2026-04-05T22:27:28.049290546Z"
+                "enriched_at": "2026-04-06T22:32:48.493802434Z"
               }
             },
             {
@@ -4037,7 +4037,7 @@
                 "stars": 2730,
                 "is_archived": false,
                 "last_update": "2024-03-01T12:49:21Z",
-                "enriched_at": "2026-04-05T22:27:28.223475681Z"
+                "enriched_at": "2026-04-06T22:32:48.62944126Z"
               }
             },
             {
@@ -4048,7 +4048,7 @@
                 "stars": 13,
                 "is_archived": false,
                 "last_update": "2021-10-14T17:31:29Z",
-                "enriched_at": "2026-04-05T22:27:28.413552872Z"
+                "enriched_at": "2026-04-06T22:32:48.7808644Z"
               }
             },
             {
@@ -4059,7 +4059,7 @@
                 "stars": 160,
                 "is_archived": false,
                 "last_update": "2023-08-30T13:59:10Z",
-                "enriched_at": "2026-04-05T22:27:28.580788338Z"
+                "enriched_at": "2026-04-06T22:32:48.934702093Z"
               }
             },
             {
@@ -4070,7 +4070,7 @@
                 "stars": 264,
                 "is_archived": false,
                 "last_update": "2026-03-30T05:47:32Z",
-                "enriched_at": "2026-04-05T22:27:28.768606455Z"
+                "enriched_at": "2026-04-06T22:32:49.107125173Z"
               }
             },
             {
@@ -4081,7 +4081,7 @@
                 "stars": 12,
                 "is_archived": false,
                 "last_update": "2025-05-26T07:50:20Z",
-                "enriched_at": "2026-04-05T22:27:29.02914722Z"
+                "enriched_at": "2026-04-06T22:32:49.290331866Z"
               }
             },
             {
@@ -4092,7 +4092,7 @@
                 "stars": 103,
                 "is_archived": false,
                 "last_update": "2026-03-22T17:47:59Z",
-                "enriched_at": "2026-04-05T22:27:29.204655715Z"
+                "enriched_at": "2026-04-06T22:32:49.43251132Z"
               }
             },
             {
@@ -4100,10 +4100,10 @@
               "description": "A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.",
               "url": "https://github.com/eko/gocache",
               "repo_metadata": {
-                "stars": 2847,
+                "stars": 2848,
                 "is_archived": false,
                 "last_update": "2025-12-10T13:20:34Z",
-                "enriched_at": "2026-04-05T22:27:29.401304032Z"
+                "enriched_at": "2026-04-06T22:32:49.564802365Z"
               }
             },
             {
@@ -4114,7 +4114,7 @@
                 "stars": 19,
                 "is_archived": false,
                 "last_update": "2025-12-18T15:58:46Z",
-                "enriched_at": "2026-04-05T22:27:29.596429332Z"
+                "enriched_at": "2026-04-06T22:32:49.685564936Z"
               }
             },
             {
@@ -4122,10 +4122,10 @@
               "description": "Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.",
               "url": "https://github.com/golang/groupcache",
               "repo_metadata": {
-                "stars": 13342,
+                "stars": 13343,
                 "is_archived": false,
                 "last_update": "2024-11-29T21:07:26Z",
-                "enriched_at": "2026-04-05T22:27:29.779029995Z"
+                "enriched_at": "2026-04-06T22:32:49.820797753Z"
               }
             },
             {
@@ -4136,7 +4136,7 @@
                 "stars": 23,
                 "is_archived": false,
                 "last_update": "2025-01-09T07:46:10Z",
-                "enriched_at": "2026-04-05T22:27:29.952394852Z"
+                "enriched_at": "2026-04-06T22:32:49.956832038Z"
               }
             },
             {
@@ -4147,7 +4147,7 @@
                 "stars": 123,
                 "is_archived": false,
                 "last_update": "2024-12-14T18:02:47Z",
-                "enriched_at": "2026-04-05T22:27:30.131396432Z"
+                "enriched_at": "2026-04-06T22:32:50.082466028Z"
               }
             },
             {
@@ -4158,7 +4158,7 @@
                 "stars": 528,
                 "is_archived": false,
                 "last_update": "2026-02-24T08:04:09Z",
-                "enriched_at": "2026-04-05T22:27:30.356087002Z"
+                "enriched_at": "2026-04-06T22:32:50.226219635Z"
               }
             },
             {
@@ -4169,7 +4169,7 @@
                 "stars": 14,
                 "is_archived": false,
                 "last_update": "2026-04-01T20:13:22Z",
-                "enriched_at": "2026-04-05T22:27:30.575546347Z"
+                "enriched_at": "2026-04-06T22:32:50.393750255Z"
               }
             },
             {
@@ -4177,10 +4177,10 @@
               "description": "A high performance lockless cache for Go. Many times faster than Ristretto and friends.",
               "url": "https://github.com/maypok86/otter",
               "repo_metadata": {
-                "stars": 2571,
+                "stars": 2575,
                 "is_archived": false,
                 "last_update": "2026-03-30T06:37:36Z",
-                "enriched_at": "2026-04-05T22:27:30.779190678Z"
+                "enriched_at": "2026-04-06T22:32:50.524691068Z"
               }
             },
             {
@@ -4191,7 +4191,7 @@
                 "stars": 235,
                 "is_archived": false,
                 "last_update": "2025-09-23T09:40:17Z",
-                "enriched_at": "2026-04-05T22:27:31.020740484Z"
+                "enriched_at": "2026-04-06T22:32:50.684370195Z"
               }
             },
             {
@@ -4199,10 +4199,10 @@
               "description": "A high performance memory-bound Go cache.",
               "url": "https://github.com/dgraph-io/ristretto",
               "repo_metadata": {
-                "stars": 6848,
+                "stars": 6849,
                 "is_archived": false,
                 "last_update": "2026-01-21T22:05:50Z",
-                "enriched_at": "2026-04-05T22:27:31.214803264Z"
+                "enriched_at": "2026-04-06T22:32:50.838791833Z"
               }
             },
             {
@@ -4213,7 +4213,7 @@
                 "stars": 1249,
                 "is_archived": false,
                 "last_update": "2025-04-04T21:02:59Z",
-                "enriched_at": "2026-04-05T22:27:31.374571467Z"
+                "enriched_at": "2026-04-06T22:32:51.012487953Z"
               }
             },
             {
@@ -4224,7 +4224,7 @@
                 "stars": 366,
                 "is_archived": false,
                 "last_update": "2025-09-18T13:52:41Z",
-                "enriched_at": "2026-04-05T22:27:31.591238664Z"
+                "enriched_at": "2026-04-06T22:32:51.142081745Z"
               }
             },
             {
@@ -4235,7 +4235,7 @@
                 "stars": 74,
                 "is_archived": false,
                 "last_update": "2024-05-05T09:33:30Z",
-                "enriched_at": "2026-04-05T22:27:31.774070468Z"
+                "enriched_at": "2026-04-06T22:32:51.260064351Z"
               }
             },
             {
@@ -4246,7 +4246,7 @@
                 "stars": 1239,
                 "is_archived": false,
                 "last_update": "2026-02-25T16:02:50Z",
-                "enriched_at": "2026-04-05T22:27:31.967283739Z"
+                "enriched_at": "2026-04-06T22:32:51.429575926Z"
               }
             },
             {
@@ -4257,7 +4257,7 @@
                 "stars": 10,
                 "is_archived": false,
                 "last_update": "2022-10-02T17:36:34Z",
-                "enriched_at": "2026-04-05T22:27:32.142587904Z"
+                "enriched_at": "2026-04-06T22:32:51.60007205Z"
               }
             }
           ]
@@ -4271,10 +4271,10 @@
               "description": "Fast key-value store in Go.",
               "url": "https://github.com/dgraph-io/badger",
               "repo_metadata": {
-                "stars": 15548,
+                "stars": 15550,
                 "is_archived": false,
-                "last_update": "2026-04-01T22:53:49Z",
-                "enriched_at": "2026-04-05T22:27:32.378739353Z"
+                "last_update": "2026-04-06T09:44:07Z",
+                "enriched_at": "2026-04-06T22:32:51.729854332Z"
               }
             },
             {
@@ -4282,10 +4282,10 @@
               "description": "An embedded key/value database for Go.",
               "url": "https://github.com/etcd-io/bbolt",
               "repo_metadata": {
-                "stars": 9446,
+                "stars": 9448,
                 "is_archived": false,
-                "last_update": "2026-04-05T20:57:01Z",
-                "enriched_at": "2026-04-05T22:27:32.570791803Z"
+                "last_update": "2026-04-06T13:03:26Z",
+                "enriched_at": "2026-04-06T22:32:51.9019843Z"
               }
             },
             {
@@ -4301,7 +4301,7 @@
                 "stars": 4842,
                 "is_archived": false,
                 "last_update": "2024-09-10T03:42:04Z",
-                "enriched_at": "2026-04-05T22:27:32.760188793Z"
+                "enriched_at": "2026-04-06T22:32:52.086897466Z"
               }
             },
             {
@@ -4309,10 +4309,10 @@
               "description": "A lightweight document-oriented NoSQL database written in pure Golang.",
               "url": "https://github.com/ostafen/clover",
               "repo_metadata": {
-                "stars": 817,
+                "stars": 815,
                 "is_archived": false,
                 "last_update": "2025-09-09T06:13:01Z",
-                "enriched_at": "2026-04-05T22:27:32.929715923Z"
+                "enriched_at": "2026-04-06T22:32:52.222429266Z"
               }
             },
             {
@@ -4320,10 +4320,10 @@
               "description": "Scalable, Geo-Replicated, Transactional Datastore.",
               "url": "https://github.com/cockroachdb/cockroach",
               "repo_metadata": {
-                "stars": 31992,
+                "stars": 31993,
                 "is_archived": false,
-                "last_update": "2026-04-05T21:16:18Z",
-                "enriched_at": "2026-04-05T22:27:33.142875506Z"
+                "last_update": "2026-04-06T22:28:45Z",
+                "enriched_at": "2026-04-06T22:32:52.394016353Z"
               }
             },
             {
@@ -4334,7 +4334,7 @@
                 "stars": 39,
                 "is_archived": false,
                 "last_update": "2026-01-23T20:49:39Z",
-                "enriched_at": "2026-04-05T22:27:33.313804472Z"
+                "enriched_at": "2026-04-06T22:32:52.522903432Z"
               }
             },
             {
@@ -4345,7 +4345,7 @@
                 "stars": 1509,
                 "is_archived": false,
                 "last_update": "2025-06-28T09:16:05Z",
-                "enriched_at": "2026-04-05T22:27:33.50620346Z"
+                "enriched_at": "2026-04-06T22:32:52.657493176Z"
               }
             },
             {
@@ -4356,7 +4356,7 @@
                 "stars": 1531,
                 "is_archived": false,
                 "last_update": "2023-02-25T09:40:53Z",
-                "enriched_at": "2026-04-05T22:27:33.706254246Z"
+                "enriched_at": "2026-04-06T22:32:52.7996665Z"
               }
             },
             {
@@ -4367,7 +4367,7 @@
                 "stars": 1400,
                 "is_archived": false,
                 "last_update": "2026-03-30T16:30:05Z",
-                "enriched_at": "2026-04-05T22:27:34.025270636Z"
+                "enriched_at": "2026-04-06T22:32:53.001641375Z"
               }
             },
             {
@@ -4377,8 +4377,8 @@
               "repo_metadata": {
                 "stars": 21624,
                 "is_archived": false,
-                "last_update": "2026-04-04T21:05:05Z",
-                "enriched_at": "2026-04-05T22:27:34.215711555Z"
+                "last_update": "2026-04-06T03:45:17Z",
+                "enriched_at": "2026-04-06T22:32:53.163534516Z"
               }
             },
             {
@@ -4389,7 +4389,7 @@
                 "stars": 10727,
                 "is_archived": false,
                 "last_update": "2026-04-02T04:46:44Z",
-                "enriched_at": "2026-04-05T22:27:34.576264081Z"
+                "enriched_at": "2026-04-06T22:32:53.417439961Z"
               }
             },
             {
@@ -4400,7 +4400,7 @@
                 "stars": 1460,
                 "is_archived": false,
                 "last_update": "2021-11-10T01:12:08Z",
-                "enriched_at": "2026-04-05T22:27:34.746171167Z"
+                "enriched_at": "2026-04-06T22:32:53.578866259Z"
               }
             },
             {
@@ -4408,10 +4408,10 @@
               "description": "Dolt – It's Git for Data.",
               "url": "https://github.com/dolthub/dolt",
               "repo_metadata": {
-                "stars": 21949,
+                "stars": 21989,
                 "is_archived": false,
-                "last_update": "2026-04-03T23:02:04Z",
-                "enriched_at": "2026-04-05T22:27:34.947461734Z"
+                "last_update": "2026-04-06T22:24:36Z",
+                "enriched_at": "2026-04-06T22:32:53.741761454Z"
               }
             },
             {
@@ -4419,10 +4419,10 @@
               "description": "Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.",
               "url": "https://github.com/krotik/eliasdb",
               "repo_metadata": {
-                "stars": 1032,
+                "stars": 1033,
                 "is_archived": false,
                 "last_update": "2022-08-14T09:04:27Z",
-                "enriched_at": "2026-04-05T22:27:35.121084849Z"
+                "enriched_at": "2026-04-06T22:32:53.855311714Z"
               }
             },
             {
@@ -4430,10 +4430,10 @@
               "description": "A Golang implemented high-performance Redis server and cluster.",
               "url": "https://github.com/hdt3213/godis",
               "repo_metadata": {
-                "stars": 3829,
+                "stars": 3828,
                 "is_archived": false,
                 "last_update": "2025-09-14T08:05:30Z",
-                "enriched_at": "2026-04-05T22:27:35.289939578Z"
+                "enriched_at": "2026-04-06T22:32:53.969090386Z"
               }
             },
             {
@@ -4444,7 +4444,7 @@
                 "stars": 6323,
                 "is_archived": false,
                 "last_update": "2024-05-14T20:40:52Z",
-                "enriched_at": "2026-04-05T22:27:35.559361229Z"
+                "enriched_at": "2026-04-06T22:32:54.101377692Z"
               }
             },
             {
@@ -4455,7 +4455,7 @@
                 "stars": 97,
                 "is_archived": false,
                 "last_update": "2021-02-25T00:05:34Z",
-                "enriched_at": "2026-04-05T22:27:35.738499934Z"
+                "enriched_at": "2026-04-06T22:32:54.234424687Z"
               }
             },
             {
@@ -4463,10 +4463,10 @@
               "description": "immudb is a lightweight, high-speed immutable database for systems and applications written in Go.",
               "url": "https://github.com/codenotary/immudb",
               "repo_metadata": {
-                "stars": 8951,
+                "stars": 8953,
                 "is_archived": false,
                 "last_update": "2026-02-12T17:00:50Z",
-                "enriched_at": "2026-04-05T22:27:35.961519802Z"
+                "enriched_at": "2026-04-06T22:32:54.423568826Z"
               }
             },
             {
@@ -4477,7 +4477,7 @@
                 "stars": 31370,
                 "is_archived": false,
                 "last_update": "2026-04-02T12:16:51Z",
-                "enriched_at": "2026-04-05T22:27:36.317826973Z"
+                "enriched_at": "2026-04-06T22:32:54.654044762Z"
               }
             },
             {
@@ -4485,10 +4485,10 @@
               "description": "Ledisdb is a high performance NoSQL like Redis based on LevelDB.",
               "url": "https://github.com/siddontang/ledisdb",
               "repo_metadata": {
-                "stars": 4122,
+                "stars": 4121,
                 "is_archived": false,
                 "last_update": "2023-10-22T02:24:37Z",
-                "enriched_at": "2026-04-05T22:27:36.621390928Z"
+                "enriched_at": "2026-04-06T22:32:54.874108866Z"
               }
             },
             {
@@ -4499,7 +4499,7 @@
                 "stars": 420,
                 "is_archived": false,
                 "last_update": "2022-03-07T12:05:55Z",
-                "enriched_at": "2026-04-05T22:27:36.783052979Z"
+                "enriched_at": "2026-04-06T22:32:55.008402036Z"
               }
             },
             {
@@ -4510,7 +4510,7 @@
                 "stars": 201,
                 "is_archived": false,
                 "last_update": "2024-04-11T18:39:36Z",
-                "enriched_at": "2026-04-05T22:27:36.964046559Z"
+                "enriched_at": "2026-04-06T22:32:55.161530453Z"
               }
             },
             {
@@ -4521,7 +4521,7 @@
                 "stars": 3059,
                 "is_archived": false,
                 "last_update": "2026-03-06T02:18:06Z",
-                "enriched_at": "2026-04-05T22:27:37.14767354Z"
+                "enriched_at": "2026-04-06T22:32:55.334264798Z"
               }
             },
             {
@@ -4532,7 +4532,7 @@
                 "stars": 2251,
                 "is_archived": false,
                 "last_update": "2025-02-18T08:07:46Z",
-                "enriched_at": "2026-04-05T22:27:37.474223843Z"
+                "enriched_at": "2026-04-06T22:32:55.572467755Z"
               }
             },
             {
@@ -4540,10 +4540,10 @@
               "description": "Milvus is a vector database for embedding management, analytics and search.",
               "url": "https://github.com/milvus-io/milvus",
               "repo_metadata": {
-                "stars": 43609,
+                "stars": 43621,
                 "is_archived": false,
-                "last_update": "2026-04-04T21:27:05Z",
-                "enriched_at": "2026-04-05T22:27:37.659143153Z"
+                "last_update": "2026-04-06T06:17:37Z",
+                "enriched_at": "2026-04-06T22:32:55.710320418Z"
               }
             },
             {
@@ -4554,7 +4554,7 @@
                 "stars": 1017,
                 "is_archived": false,
                 "last_update": "2024-12-17T02:07:29Z",
-                "enriched_at": "2026-04-05T22:27:37.872039768Z"
+                "enriched_at": "2026-04-06T22:32:55.849165602Z"
               }
             },
             {
@@ -4562,10 +4562,10 @@
               "description": "High-performance distributed KV storage based on LSM Tree.",
               "url": "https://github.com/feichai0017/NoKV",
               "repo_metadata": {
-                "stars": 259,
+                "stars": 261,
                 "is_archived": false,
-                "last_update": "2026-04-05T15:23:30Z",
-                "enriched_at": "2026-04-05T22:27:38.103760172Z"
+                "last_update": "2026-04-06T14:08:11Z",
+                "enriched_at": "2026-04-06T22:32:56.011463735Z"
               }
             },
             {
@@ -4573,10 +4573,10 @@
               "description": "Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.",
               "url": "https://github.com/xujiajun/nutsdb",
               "repo_metadata": {
-                "stars": 3562,
+                "stars": 3563,
                 "is_archived": false,
                 "last_update": "2026-02-08T02:02:28Z",
-                "enriched_at": "2026-04-05T22:27:38.414754804Z"
+                "enriched_at": "2026-04-06T22:32:56.274360652Z"
               }
             },
             {
@@ -4587,7 +4587,7 @@
                 "stars": 1260,
                 "is_archived": false,
                 "last_update": "2025-03-12T13:34:35Z",
-                "enriched_at": "2026-04-05T22:27:38.614730945Z"
+                "enriched_at": "2026-04-06T22:32:56.436856427Z"
               }
             },
             {
@@ -4595,10 +4595,10 @@
               "description": "RocksDB/LevelDB inspired key-value database in Go.",
               "url": "https://github.com/cockroachdb/pebble",
               "repo_metadata": {
-                "stars": 5834,
+                "stars": 5833,
                 "is_archived": false,
-                "last_update": "2026-04-05T15:38:32Z",
-                "enriched_at": "2026-04-05T22:27:38.836154524Z"
+                "last_update": "2026-04-06T21:47:16Z",
+                "enriched_at": "2026-04-06T22:32:56.576251812Z"
               }
             },
             {
@@ -4609,7 +4609,7 @@
                 "stars": 206,
                 "is_archived": false,
                 "last_update": "2025-12-05T17:19:16Z",
-                "enriched_at": "2026-04-05T22:27:39.017652673Z"
+                "enriched_at": "2026-04-06T22:32:56.712468157Z"
               }
             },
             {
@@ -4617,10 +4617,10 @@
               "description": "Embedded key-value store for read-heavy workloads.",
               "url": "https://github.com/akrylysov/pogreb",
               "repo_metadata": {
-                "stars": 1349,
+                "stars": 1348,
                 "is_archived": false,
                 "last_update": "2025-10-21T12:49:14Z",
-                "enriched_at": "2026-04-05T22:27:39.192283281Z"
+                "enriched_at": "2026-04-06T22:32:56.842642736Z"
               }
             },
             {
@@ -4628,10 +4628,10 @@
               "description": "Monitoring system and time series database.",
               "url": "https://github.com/prometheus/prometheus",
               "repo_metadata": {
-                "stars": 63392,
+                "stars": 63422,
                 "is_archived": false,
-                "last_update": "2026-04-03T12:11:07Z",
-                "enriched_at": "2026-04-05T22:27:39.380018133Z"
+                "last_update": "2026-04-06T19:48:10Z",
+                "enriched_at": "2026-04-06T22:32:56.970776798Z"
               }
             },
             {
@@ -4642,7 +4642,7 @@
                 "stars": 369,
                 "is_archived": false,
                 "last_update": "2021-07-04T02:08:38Z",
-                "enriched_at": "2026-04-05T22:27:39.557684519Z"
+                "enriched_at": "2026-04-06T22:32:57.124299211Z"
               }
             },
             {
@@ -4653,7 +4653,7 @@
                 "stars": 4535,
                 "is_archived": false,
                 "last_update": "2026-02-04T15:47:32Z",
-                "enriched_at": "2026-04-05T22:27:39.742248588Z"
+                "enriched_at": "2026-04-06T22:32:57.272775428Z"
               }
             },
             {
@@ -4664,7 +4664,7 @@
                 "stars": 4882,
                 "is_archived": false,
                 "last_update": "2026-02-10T03:41:42Z",
-                "enriched_at": "2026-04-05T22:27:40.10504358Z"
+                "enriched_at": "2026-04-06T22:32:57.490347435Z"
               }
             },
             {
@@ -4675,7 +4675,7 @@
                 "stars": 40,
                 "is_archived": false,
                 "last_update": "2024-12-15T06:46:00Z",
-                "enriched_at": "2026-04-05T22:27:40.281705095Z"
+                "enriched_at": "2026-04-06T22:32:57.64432775Z"
               }
             },
             {
@@ -4683,10 +4683,10 @@
               "description": "The lightweight, distributed, relational database built on SQLite.",
               "url": "https://github.com/rqlite/rqlite",
               "repo_metadata": {
-                "stars": 17402,
+                "stars": 17403,
                 "is_archived": false,
                 "last_update": "2026-03-29T17:16:19Z",
-                "enriched_at": "2026-04-05T22:27:40.459896476Z"
+                "enriched_at": "2026-04-06T22:32:57.786253875Z"
               }
             },
             {
@@ -4697,7 +4697,7 @@
                 "stars": 19,
                 "is_archived": false,
                 "last_update": "2018-02-14T19:03:13Z",
-                "enriched_at": "2026-04-05T22:27:40.634137763Z"
+                "enriched_at": "2026-04-06T22:32:57.914516887Z"
               }
             },
             {
@@ -4705,10 +4705,10 @@
               "description": "TiDB is a distributed SQL database. Inspired by the design of Google F1.",
               "url": "https://github.com/pingcap/tidb",
               "repo_metadata": {
-                "stars": 39905,
+                "stars": 39907,
                 "is_archived": false,
                 "last_update": "2026-04-05T09:19:38Z",
-                "enriched_at": "2026-04-05T22:27:40.833478398Z"
+                "enriched_at": "2026-04-06T22:32:58.089784259Z"
               }
             },
             {
@@ -4719,7 +4719,7 @@
                 "stars": 2730,
                 "is_archived": false,
                 "last_update": "2021-09-05T17:47:27Z",
-                "enriched_at": "2026-04-05T22:27:41.008426985Z"
+                "enriched_at": "2026-04-06T22:32:58.257564437Z"
               }
             },
             {
