@@ -372,21 +372,21 @@ additional ordered map implementations.
 * [hmap](https://github.com/lyonnee/hmap) / ⭐ 0 - HMap is a concurrent and secure, generic support Map implementation designed to provide an easy-to-use API.
 ### Miscellaneous Data Structures and Algorithms
 
-* [concurrent-writer](https://github.com/free/concurrent-writer) / ⭐ 58 - Highly concurrent drop-in replacement for bufio.Writer.
+* [concurrent-writer](https://github.com/free/concurrent-writer) / ⭐ 59 - Highly concurrent drop-in replacement for bufio.Writer.
 * [count-min-log](https://github.com/seiflotfy/count-min-log) / ⭐ 69 - Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but using less memory).
 * [fsm](https://github.com/cocoonspace/fsm) / ⭐ 89 - Finite-State Machine package.
 * [genfuncs](https://github.com/nwillc/genfuncs) / ⭐ 51 - Go 1.18+ generics package inspired by Kotlin's Sequence and Map.
-* [go-generics](https://github.com/bobg/go-generics) / ⭐ 85 - Generic slice, map, set, iterator, and goroutine utilities.
+* [go-generics](https://github.com/bobg/go-generics) / ⭐ 86 - Generic slice, map, set, iterator, and goroutine utilities.
 * [go-geoindex](https://github.com/hailocab/go-geoindex) / ⭐ 360 - In-memory geo index.
 * [go-rampart](https://github.com/francesconi/go-rampart) / ⭐ 106 - Determine how intervals relate to each other.
 * [go-rquad](https://github.com/aurelien-rainone/go-rquad) / ⭐ 140 - Region quadtrees with efficient point location and neighbour finding.
-* [go-tuple](https://github.com/barweiss/go-tuple) / ⭐ 99 - Generic tuple implementation for Go 1.18+.
-* [go18ds](https://github.com/daichi-m/go18ds) / ⭐ 46 - Go Data Structures using Go 1.18 generics.
+* [go-tuple](https://github.com/barweiss/go-tuple) / ⭐ 100 - Generic tuple implementation for Go 1.18+.
+* [go18ds](https://github.com/daichi-m/go18ds) / ⭐ 47 - Go Data Structures using Go 1.18 generics.
 * [gofal](https://github.com/xxjwxc/gofal) / ⭐ 19 - fractional api for Go.
-* [gogu](https://github.com/esimov/gogu) / ⭐ 108 - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
-* [gota](https://github.com/kniren/gota) / ⭐ 3269 - Implementation of dataframes, series, and data wrangling methods for Go.
+* [gogu](https://github.com/esimov/gogu) / ⭐ 109 - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
+* [gota](https://github.com/kniren/gota) / ⭐ 3268 - Implementation of dataframes, series, and data wrangling methods for Go.
 * [hide](https://github.com/emvi/hide) / ⭐ 73 - ID type with marshalling to/from hash to prevent sending IDs to clients.
-* [hyperloglog](https://github.com/axiomhq/hyperloglog) / ⭐ 1033 - HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction.
+* [hyperloglog](https://github.com/axiomhq/hyperloglog) / ⭐ 1034 - HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction.
 * [quadtree](https://github.com/s0rg/quadtree) / ⭐ 41 - Generic, zero-alloc, 100%-test covered quadtree.
 * [slices](https://github.com/twharmon/slices) / ⭐ 22 - Pure, generic functions for slices.
 ### Nullable Types
@@ -400,32 +400,32 @@ additional ordered map implementations.
 * [deque](https://github.com/gammazero/deque) / ⭐ 770 - Fast ring-buffer deque (double-ended queue).
 * [dqueue](https://github.com/vodolaz095/dqueue) / ⭐ 2 - Simple, in memory, zero dependency and battle tested, thread-safe deferred queue.
 * [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) / ⭐ 435 - Concurrent FIFO queue.
-* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 6805 - Distributed, Fault-tolerant task queue.
+* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 6809 - Distributed, Fault-tolerant task queue.
 * [list](https://github.com/koss-null/list) / ⭐ 11 - A generic, thread-safe doubly linked list with full iterator support and an intrusive singly linked list for embedded use; a feature-rich replacement for container/list.
 * [memlog](https://github.com/embano1/memlog) / ⭐ 138 - An easy to use, lightweight, thread-safe and append-only in-memory data structure inspired by Apache Kafka.
 * [queue](https://github.com/adrianbrad/queue) / ⭐ 332 - Multiple thread-safe, generic queue implementations for Go.
 ### Sets
 
 * [dsu](https://github.com/ihebu/dsu) / ⭐ 16 - Disjoint Set data structure implementation in Go.
-* [golang-set](https://github.com/deckarep/golang-set) / ⭐ 4658 - Thread-Safe and Non-Thread-Safe high-performance sets for Go.
+* [golang-set](https://github.com/deckarep/golang-set) / ⭐ 4659 - Thread-Safe and Non-Thread-Safe high-performance sets for Go.
 * [goset](https://github.com/zoumo/goset) / ⭐ 52 - A useful Set collection implementation for Go.
-* [set](https://github.com/StudioSol/set) / ⭐ 29 - Simple set data structure implementation in Go using LinkedHashMap.
+* [set](https://github.com/StudioSol/set) / ⭐ 30 - Simple set data structure implementation in Go using LinkedHashMap.
 ### Text Analysis
 
-* [bleve](https://github.com/blevesearch/bleve) / ⭐ 11037 - Modern text indexing library for go.
-* [go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) / ⭐ 413 - Go implementation of Adaptive Radix Tree.
+* [bleve](https://github.com/blevesearch/bleve) / ⭐ 11019 - Modern text indexing library for go.
+* [go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) / ⭐ 414 - Go implementation of Adaptive Radix Tree.
 * [go-edlib](https://github.com/hbollon/go-edlib) / ⭐ 598 - Go string comparison and edit distance algorithms library (Levenshtein, LCS, Hamming, Damerau levenshtein, Jaro-Winkler, etc.) compatible with Unicode.
 * [levenshtein](https://github.com/agext/levenshtein) / ⭐ 90 - Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix.
 * [levenshtein](https://github.com/agnivade/levenshtein) / ⭐ 463 - Implementation to calculate levenshtein distance in Go.
 * [mspm](https://github.com/BlackRabbitt/mspm) / ⭐ 28 - Multi-String Pattern Matching Algorithm for information retrieval.
 * [parsefields](https://github.com/MonaxGT/parsefields) / ⭐ 7 - Tools for parse JSON-like logs for collecting unique fields and events.
-* [ptrie](https://github.com/viant/ptrie) / ⭐ 45 - An implementation of prefix tree.
-* [trie](https://github.com/derekparker/trie) / ⭐ 788 - Trie implementation in Go.
+* [ptrie](https://github.com/viant/ptrie) / ⭐ 46 - An implementation of prefix tree.
+* [trie](https://github.com/derekparker/trie) / ⭐ 789 - Trie implementation in Go.
 ### Trees
 
 * [graphlib](https://github.com/aio-arch/graphlib) / ⭐ 3 - Topological sort lib,Sorting and pruning of DAG graphs.
 * [hashsplit](http://github.com/bobg/hashsplit) / ⭐ 32 - Split byte streams into chunks, and arrange chunks into trees, with boundaries determined by content, not position.
-* [merkle](https://github.com/bobg/merkle) / ⭐ 21 - Space-efficient computation of Merkle root hashes and inclusion proofs.
+* [merkle](https://github.com/bobg/merkle) / ⭐ 22 - Space-efficient computation of Merkle root hashes and inclusion proofs.
 * [skiplist](https://github.com/MauriceGit/skiplist) / ⭐ 294 - Very fast Go Skiplist implementation.
 * [skiplist](https://github.com/gansidui/skiplist) / ⭐ 84 - Skiplist implementation in Go.
 * [treemap](https://github.com/igrmk/treemap) / ⭐ 66 - Generic key-sorted map using a red-black tree under the hood.
@@ -442,7 +442,7 @@ additional ordered map implementations.
 Data stores with expiring records, in-memory distributed data stores, or in-memory subsets of file-based databases.
 
 * [bcache](https://github.com/iwanbk/bcache) / ⭐ 162 - Eventually consistent distributed in-memory cache Go library.
-* [BigCache](https://github.com/allegro/bigcache) / ⭐ 8119 - Efficient key/value cache for gigabytes of data.
+* [BigCache](https://github.com/allegro/bigcache) / ⭐ 8118 - Efficient key/value cache for gigabytes of data.
 * [cache2go](https://github.com/muesli/cache2go) / ⭐ 2160 - In-memory key:value cache which supports automatic invalidation based on timeouts.
 * [cachego](https://github.com/faabiosr/cachego) / ⭐ 371 - Golang Cache component for multiple drivers.
 * [clusteredBigCache](https://github.com/oaStuff/clusteredBigCache) / ⭐ 45 - BigCache with clustering support and individual item expiration.
@@ -453,67 +453,67 @@ Data stores with expiring records, in-memory distributed data stores, or in-memo
 * [GCache](https://github.com/bluele/gcache) / ⭐ 2729 - Cache library with support for expirable Cache, LFU, LRU and ARC.
 * [gdcache](https://github.com/ulovecode/gdcache) / ⭐ 13 - A pure non-intrusive cache library implemented by golang, you can use it to implement your own distributed cache.
 * [go-cache](https://github.com/viney-shih/go-cache) / ⭐ 160 - A flexible multi-layer Go caching library to deal with in-memory and shared cache by adopting Cache-Aside pattern.
-* [go-freelru](https://github.com/elastic/go-freelru) / ⭐ 262 - 
+* [go-freelru](https://github.com/elastic/go-freelru) / ⭐ 263 - 
 * [go-gcache](https://github.com/szyhf/go-gcache) / ⭐ 12 - The generic version of GCache, cache support for expirable Cache, LFU, LRU and ARC.
-* [go-mcache](https://github.com/OrlovEvgeny/go-mcache) / ⭐ 103 - Fast in-memory key:value store/cache library. Pointer caches.
-* [gocache](https://github.com/eko/gocache) / ⭐ 2848 - A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
+* [go-mcache](https://github.com/OrlovEvgeny/go-mcache) / ⭐ 104 - Fast in-memory key:value store/cache library. Pointer caches.
+* [gocache](https://github.com/eko/gocache) / ⭐ 2847 - A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
 * [gocache](https://github.com/yuseferi/gocache) / ⭐ 19 - A data race free Go ache library with high performance and auto pruge functionality
-* [groupcache](https://github.com/golang/groupcache) / ⭐ 13343 - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+* [groupcache](https://github.com/golang/groupcache) / ⭐ 13340 - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [icache](https://github.com/mdaliyan/icache) / ⭐ 23 - A High Performance, Generic, thread-safe, zero-dependency cache package.
 * [imcache](https://github.com/erni27/imcache) / ⭐ 123 - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
-* [jetcache-go](https://github.com/mgtv-tech/jetcache-go) / ⭐ 528 - Unified Go cache library supporting multi-level caching.
+* [jetcache-go](https://github.com/mgtv-tech/jetcache-go) / ⭐ 527 - Unified Go cache library supporting multi-level caching.
 * [nscache](https://github.com/no-src/nscache) / ⭐ 14 - A Go caching framework that supports multiple data source drivers.
-* [otter](https://github.com/maypok86/otter) / ⭐ 2578 - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
+* [otter](https://github.com/maypok86/otter) / ⭐ 2581 - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
 * [pocache](https://github.com/naughtygopher/pocache) / ⭐ 235 - Pocache is a minimal cache package which focuses on a preemptive optimistic caching strategy.
 * [ristretto](https://github.com/dgraph-io/ristretto) / ⭐ 6852 - A high performance memory-bound Go cache.
-* [sturdyc](https://github.com/viccon/sturdyc) / ⭐ 1248 - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant.
+* [sturdyc](https://github.com/viccon/sturdyc) / ⭐ 1247 - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant.
 * [theine](https://github.com/Yiling-J/theine-go) / ⭐ 366 - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
 * [timedmap](https://github.com/zekroTJA/timedmap) / ⭐ 74 - Map with expiring key-value pairs.
 * [ttlcache](https://github.com/jellydator/ttlcache) / ⭐ 1239 - An in-memory cache with item expiration and generics.
 * [ttlcache](https://github.com/cheshir/ttlcache) / ⭐ 10 - In-memory key value storage with TTL for each record.
 ### Databases Implemented in Go
 
-* [badger](https://github.com/dgraph-io/badger) / ⭐ 15554 - Fast key-value store in Go.
-* [bbolt](https://github.com/etcd-io/bbolt) / ⭐ 9452 - An embedded key/value database for Go.
+* [badger](https://github.com/dgraph-io/badger) / ⭐ 15555 - Fast key-value store in Go.
+* [bbolt](https://github.com/etcd-io/bbolt) / ⭐ 9453 - An embedded key/value database for Go.
 * [Bitcask](https://git.mills.io/prologic/bitcask) - Bitcask is an embeddable, persistent and fast key-value (KV) database written in pure Go with predictable read/write performance, low latency and high throughput thanks to the bitcask on-disk layout (LSM+WAL).
 * [buntdb](https://github.com/tidwall/buntdb) / ⭐ 4840 - Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.
 * [clover](https://github.com/ostafen/clover) / ⭐ 815 - A lightweight document-oriented NoSQL database written in pure Golang.
-* [cockroach](https://github.com/cockroachdb/cockroach) / ⭐ 32014 - Scalable, Geo-Replicated, Transactional Datastore.
+* [cockroach](https://github.com/cockroachdb/cockroach) / ⭐ 32021 - Scalable, Geo-Replicated, Transactional Datastore.
 * [Coffer](https://github.com/claygod/coffer) / ⭐ 39 - Simple ACID key-value database that supports transactions.
 * [column](https://github.com/kelindar/column) / ⭐ 1510 - High-performance, columnar, embeddable in-memory store with bitmap indexing and transactions.
 * [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) / ⭐ 1530 - CovenantSQL is a SQL database on blockchain.
-* [Databunker](https://github.com/paranoidguy/databunker) / ⭐ 1403 - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA.
-* [dgraph](https://github.com/dgraph-io/dgraph) / ⭐ 21642 - Scalable, Distributed, Low Latency, High Throughput Graph Database.
-* [DiceDB](https://github.com/DiceDB/dice) / ⭐ 10727 - An open-source, fast, reactive, in-memory database optimized for modern hardware. Higher throughput and lower median latencies, making it ideal for modern workloads.
-* [diskv](https://github.com/peterbourgon/diskv) / ⭐ 1459 - Home-grown disk-backed key-value store.
-* [dolt](https://github.com/dolthub/dolt) / ⭐ 22031 - Dolt – It's Git for Data.
+* [Databunker](https://github.com/paranoidguy/databunker) / ⭐ 1404 - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA.
+* [dgraph](https://github.com/dgraph-io/dgraph) / ⭐ 21651 - Scalable, Distributed, Low Latency, High Throughput Graph Database.
+* [DiceDB](https://github.com/DiceDB/dice) / ⭐ 10724 - An open-source, fast, reactive, in-memory database optimized for modern hardware. Higher throughput and lower median latencies, making it ideal for modern workloads.
+* [diskv](https://github.com/peterbourgon/diskv) / ⭐ 1458 - Home-grown disk-backed key-value store.
+* [dolt](https://github.com/dolthub/dolt) / ⭐ 22045 - Dolt – It's Git for Data.
 * [eliasdb](https://github.com/krotik/eliasdb) / ⭐ 1033 - Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.
-* [godis](https://github.com/hdt3213/godis) / ⭐ 3828 - A Golang implemented high-performance Redis server and cluster.
-* [goleveldb](https://github.com/syndtr/goleveldb) / ⭐ 6324 - Implementation of the LevelDB key/value database in Go.
+* [godis](https://github.com/hdt3213/godis) / ⭐ 3827 - A Golang implemented high-performance Redis server and cluster.
+* [goleveldb](https://github.com/syndtr/goleveldb) / ⭐ 6325 - Implementation of the LevelDB key/value database in Go.
 * [hare](https://github.com/jameycribbs/hare) / ⭐ 97 - A simple database management system that stores each table as a text file of line-delimited JSON.
-* [immudb](https://github.com/codenotary/immudb) / ⭐ 8952 - immudb is a lightweight, high-speed immutable database for systems and applications written in Go.
-* [influxdb](https://github.com/influxdb/influxdb) / ⭐ 31394 - Scalable datastore for metrics, events, and real-time analytics.
+* [immudb](https://github.com/codenotary/immudb) / ⭐ 8953 - immudb is a lightweight, high-speed immutable database for systems and applications written in Go.
+* [influxdb](https://github.com/influxdb/influxdb) / ⭐ 31413 - Scalable datastore for metrics, events, and real-time analytics.
 * [ledisdb](https://github.com/siddontang/ledisdb) / ⭐ 4122 - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
 * [levigo](https://github.com/jmhodges/levigo) / ⭐ 420 - Levigo is a Go wrapper for LevelDB.
 * [libradb](https://github.com/amit-davidson/LibraDB) / ⭐ 201 - LibraDB is a simple database with less than 1000 lines of code for learning.
 * [LinDB](https://github.com/lindb/lindb) / ⭐ 3060 - LinDB is a scalable, high performance, high availability distributed time series database.
 * [lotusdb](https://github.com/flower-corp/lotusdb) / ⭐ 2253 - Fast k/v database compatible with lsm and b+tree.
-* [Milvus](https://github.com/milvus-io/milvus) / ⭐ 43677 - Milvus is a vector database for embedding management, analytics and search.
+* [Milvus](https://github.com/milvus-io/milvus) / ⭐ 43704 - Milvus is a vector database for embedding management, analytics and search.
 * [moss](https://github.com/couchbase/moss) / ⭐ 1017 - Moss is a simple LSM key-value storage engine written in 100% Go.
-* [NoKV](https://github.com/feichai0017/NoKV) / ⭐ 285 - High-performance distributed KV storage based on LSM Tree.
+* [NoKV](https://github.com/feichai0017/NoKV) / ⭐ 286 - High-performance distributed KV storage based on LSM Tree.
 * [nutsdb](https://github.com/xujiajun/nutsdb) / ⭐ 3563 - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
 * [objectbox-go](https://github.com/objectbox/objectbox-go) / ⭐ 1260 - High-performance embedded Object Database (NoSQL) with Go API.
-* [pebble](https://github.com/cockroachdb/pebble) / ⭐ 5839 - RocksDB/LevelDB inspired key-value database in Go.
-* [piladb](https://github.com/fern4lvarez/piladb) / ⭐ 206 - Lightweight RESTful database engine based on stack data structures.
+* [pebble](https://github.com/cockroachdb/pebble) / ⭐ 5842 - RocksDB/LevelDB inspired key-value database in Go.
+* [piladb](https://github.com/fern4lvarez/piladb) / ⭐ 205 - Lightweight RESTful database engine based on stack data structures.
 * [pogreb](https://github.com/akrylysov/pogreb) / ⭐ 1350 - Embedded key-value store for read-heavy workloads.
-* [prometheus](https://github.com/prometheus/prometheus) / ⭐ 63468 - Monitoring system and time series database.
+* [prometheus](https://github.com/prometheus/prometheus) / ⭐ 63509 - Monitoring system and time series database.
 * [pudge](https://github.com/recoilme/pudge) / ⭐ 369 - Fast and simple key/value store written using Go's standard library.
 * [redka](https://github.com/nalgeon/redka) / ⭐ 4537 - Redis re-implemented with SQLite.
-* [rosedb](https://github.com/roseduan/rosedb) / ⭐ 4883 - An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset.
+* [rosedb](https://github.com/roseduan/rosedb) / ⭐ 4882 - An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset.
 * [rotom](https://github.com/xgzlucario/rotom) / ⭐ 40 - A tiny Redis server built with Golang, compatible with RESP protocols.
-* [rqlite](https://github.com/rqlite/rqlite) / ⭐ 17405 - The lightweight, distributed, relational database built on SQLite.
+* [rqlite](https://github.com/rqlite/rqlite) / ⭐ 17410 - The lightweight, distributed, relational database built on SQLite.
 * [tempdb](https://github.com/rafaeljesus/tempdb) / ⭐ 19 - Key-value store for temporary items.
-* [tidb](https://github.com/pingcap/tidb) / ⭐ 39925 - TiDB is a distributed SQL database. Inspired by the design of Google F1.
+* [tidb](https://github.com/pingcap/tidb) / ⭐ 39939 - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 * [tiedot](https://github.com/HouzuoGuo/tiedot) / ⭐ 2731 - Your NoSQL database powered by Golang.
 * [unitdb](https://github.com/unit-io/unitdb) / ⭐ 124 - Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
 * [Vasto](https://github.com/chrislusf/vasto) / ⭐ 263 - A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption.
