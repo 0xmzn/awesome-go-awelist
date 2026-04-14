@@ -1826,13 +1826,13 @@ Unofficial libraries for package and dependency management.
 * [gqlgen](https://github.com/99designs/gqlgen) / ⭐ 10708 - go generate based graphql server library.
 * [grapher](https://github.com/reaganiwadha/grapher) / ⭐ 3 - A GraphQL field builder utilizing Go generics with extra utilities and features.
 * [graphql](https://github.com/neelance/graphql-go) / ⭐ 4748 - GraphQL server with a focus on ease of use.
-* [graphql-go](https://github.com/graphql-go/graphql) / ⭐ 10154 - Implementation of GraphQL for Go.
+* [graphql-go](https://github.com/graphql-go/graphql) / ⭐ 10153 - Implementation of GraphQL for Go.
 * [gws](https://github.com/Zaba505/gws) / ⭐ 6 - Apollos' "GraphQL over Websocket" client and server implementation.
 * [jsonpath](https://github.com/AsaiYusuke/jsonpath) / ⭐ 30 - A query library for retrieving part of JSON based on JSONPath syntax.
 * [jsonql](https://github.com/elgs/jsonql) / ⭐ 279 - JSON query expression library in Golang.
 * [jsonslice](https://github.com/bhmj/jsonslice) / ⭐ 92 - Jsonpath queries with advanced filters.
 * [mql](https://github.com/hashicorp/mql) / ⭐ 65 - Model Query Language (mql) is a query language for your database models.
-* [play](https://github.com/paololazzari/play) / ⭐ 553 - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq.
+* [play](https://github.com/paololazzari/play) / ⭐ 554 - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq.
 * [rql](https://github.com/a8m/rql) / ⭐ 366 - Resource Query Language for REST API.
 * [rqp](https://github.com/timsolov/rest-query-parser) / ⭐ 91 - Query Parser for REST API. Filtering, validations, both AND, OR operations are supported directly in the query.
 * [straf](https://github.com/SonicRoshan/straf) / ⭐ 40 - Easily Convert Golang structs to GraphQL objects.
@@ -1842,7 +1842,7 @@ Unofficial libraries for package and dependency management.
 
 * [copy](https://github.com/gotidy/copy) / ⭐ 52 - Package for fast copying structs of different types.
 * [Deepcopier](https://github.com/ulule/deepcopier) / ⭐ 460 - Simple struct copying for Go.
-* [go-deepcopy](https://github.com/tiendc/go-deepcopy) / ⭐ 127 - Fast deep copy library.
+* [go-deepcopy](https://github.com/tiendc/go-deepcopy) / ⭐ 128 - Fast deep copy library.
 * [goenum](https://github.com/lvyahui8/goenum) / ⭐ 16 - A common enumeration struct based on generics and reflection that allows you to quickly define enumerations and use a set of useful default methods.
 * [gotype](https://github.com/wzshiming/gotype) / ⭐ 64 - Golang source code parsing, usage like reflect package.
 * [gpath](https://github.com/tenntenn/gpath) / ⭐ 41 - Library to simplify access struct fields with Go's expression in reflection.
@@ -1877,8 +1877,8 @@ Libraries for scientific computing and data analyzing.
 * [go-hep](https://github.com/go-hep/hep) / ⭐ 252 - A set of libraries and tools for performing High Energy Physics analyses with ease.
 * [godesim](https://github.com/soypat/godesim) / ⭐ 23 - Extended/multivariable ODE solver framework for event-based simulations with simple API.
 * [goent](https://github.com/kzahedi/goent) / ⭐ 36 - GO Implementation of Entropy Measures.
-* [gograph](https://github.com/hmdsefi/gograph) / ⭐ 110 - A golang generic graph library that provides mathematical graph-theory and algorithms.
-* [gonum](https://github.com/gonum/gonum) / ⭐ 8347 - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more.
+* [gograph](https://github.com/hmdsefi/gograph) / ⭐ 111 - A golang generic graph library that provides mathematical graph-theory and algorithms.
+* [gonum](https://github.com/gonum/gonum) / ⭐ 8353 - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more.
 * [gonum/plot](https://github.com/gonum/plot) / ⭐ 2948 - gonum/plot provides an API for building and drawing plots in Go.
 * [goraph](https://github.com/gyuho/goraph) / ⭐ 747 - Pure Go graph theory library(data structure, algorithm visualization).
 * [gosl](https://github.com/cpmech/gosl) / ⭐ 1872 - Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more.
@@ -1893,7 +1893,7 @@ Libraries for scientific computing and data analyzing.
 * [Poly](https://github.com/bebop/poly) / ⭐ 723 - A Go package for engineering organisms.
 * [rootfinding](https://github.com/khezen/rootfinding) / ⭐ 12 - root-finding algorithms library for finding roots of quadratic functions.
 * [sparse](https://github.com/james-bowman/sparse) / ⭐ 167 - Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries.
-* [stats](https://github.com/montanaflynn/stats) / ⭐ 3002 - Statistics package with common functions missing from the Golang standard library.
+* [stats](https://github.com/montanaflynn/stats) / ⭐ 3003 - Statistics package with common functions missing from the Golang standard library.
 * [streamtools](https://github.com/nytlabs/streamtools) / ⭐ 1310 - general purpose, graphical tool for dealing with streams of data.
 * [TextRank](https://github.com/DavidBelicza/TextRank) / ⭐ 223 - TextRank implementation in Golang with extendable features (summarization, weighting, phrase extraction) and multithreading (goroutine) support.
 * [topk](https://github.com/keilerkonzept/topk) / ⭐ 17 - Sliding-window and regular top-K sketches, based on the HeavyKeeper algorithm.
@@ -1906,16 +1906,16 @@ Libraries that are used to help make your application more secure.
 * [acmetool](https://github.com/hlandau/acme) / ⭐ 2088 - ACME (Let's Encrypt) client tool with automatic renewal.
 * [acopw-go](https://sr.ht/~jamesponddotco/acopw-go/) - Small cryptographically secure password generator package for Go.
 * [acra](https://github.com/cossacklabs/acra) / ⭐ 1467 - Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system.
-* [age](https://github.com/FiloSottile/age) / ⭐ 21959 - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+* [age](https://github.com/FiloSottile/age) / ⭐ 21970 - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 * [argon2-hashing](https://github.com/andskur/argon2-hashing) / ⭐ 25 - light wrapper around Go's argon2 package that closely mirrors with Go's standard library Bcrypt and simple-scrypt package.
 * [autocert](https://pkg.go.dev/golang.org/x/crypto/acme/autocert) - Auto provision Let's Encrypt certificates and start a TLS server.
 * [BadActor](https://github.com/jaredfolkins/badactor) / ⭐ 324 - In-memory, application-driven jailer built in the spirit of fail2ban.
-* [beelzebub](https://github.com/mariocandela/beelzebub) / ⭐ 1947 - A secure low code honeypot framework, leveraging AI for System Virtualization.
+* [beelzebub](https://github.com/mariocandela/beelzebub) / ⭐ 1949 - A secure low code honeypot framework, leveraging AI for System Virtualization.
 * [booster](https://github.com/anatol/booster) / ⭐ 624 - Fast initramfs generator with full-disk encryption support.
-* [Cameradar](https://github.com/Ullaakut/cameradar) / ⭐ 4986 - Tool and library to remotely hack RTSP streams from surveillance cameras.
+* [Cameradar](https://github.com/Ullaakut/cameradar) / ⭐ 4989 - Tool and library to remotely hack RTSP streams from surveillance cameras.
 * [certificates](https://github.com/mvmaasakkers/certificates) / ⭐ 38 - An opinionated tool for generating tls certificates.
 * [CertMagic](https://github.com/caddyserver/certmagic) / ⭐ 5528 - Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal.
-* [Coraza](https://github.com/corazawaf/coraza) / ⭐ 3407 - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
+* [Coraza](https://github.com/corazawaf/coraza) / ⭐ 3410 - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
 * [dongle](https://github.com/golang-module/dongle) / ⭐ 1100 - A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption.
 * [encid](https://github.com/bobg/encid) / ⭐ 6 - Encode and decode encrypted integer IDs.
 * [entpassgen](https://github.com/andreimerlescu/entpassgen) / ⭐ 6 - Entropy Password Generator with extensive command line arguments to generate random strings securely including digits, passwords, and passwords built using obscure dictionary words mixed with symbols and digits.
@@ -1924,25 +1924,25 @@ Libraries that are used to help make your application more secure.
 * [go-htpasswd](https://github.com/tg123/go-htpasswd) / ⭐ 47 - Apache htpasswd Parser for Go.
 * [go-password-validator](https://github.com/lane-c-wagner/go-password-validator) / ⭐ 576 - Password validator based on raw cryptographic entropy values.
 * [go-peer](https://github.com/number571/go-peer) / ⭐ 320 - A software library for creating secure and anonymous decentralized systems.
-* [go-yara](https://github.com/hillu/go-yara) / ⭐ 387 - Go Bindings for YARA, the "pattern matching swiss knife for malware researchers (and everyone else)".
+* [go-yara](https://github.com/hillu/go-yara) / ⭐ 388 - Go Bindings for YARA, the "pattern matching swiss knife for malware researchers (and everyone else)".
 * [goArgonPass](https://github.com/dwin/goArgonPass) / ⭐ 20 - Argon2 password hash and verification designed to be compatible with existing Python and PHP implementations.
 * [goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) / ⭐ 60 - A probably paranoid package for securely hashing and encrypting passwords.
 * [Interpol](https://github.com/avahidi/interpol) / ⭐ 7 - Rule-based data generator for fuzzing and penetration testing.
-* [lego](https://github.com/go-acme/lego) / ⭐ 9469 - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
+* [lego](https://github.com/go-acme/lego) / ⭐ 9475 - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
 * [luks.go](https://github.com/anatol/luks.go) / ⭐ 96 - Pure Golang library to manage LUKS partitions.
-* [memguard](https://github.com/awnumar/memguard) / ⭐ 2724 - A pure Go library for handling sensitive values in memory.
+* [memguard](https://github.com/awnumar/memguard) / ⭐ 2726 - A pure Go library for handling sensitive values in memory.
 * [multikey](https://github.com/adrianosela/multikey) / ⭐ 12 - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
 * [nacl](https://github.com/kevinburke/nacl) / ⭐ 552 - Go implementation of the NaCL set of API's.
 * [optimus-go](https://github.com/pjebs/optimus-go) / ⭐ 368 - ID hashing and Obfuscation using Knuth's Algorithm.
 * [passlib](https://github.com/hlandau/passlib) / ⭐ 291 - Futureproof password hashing library.
 * [passwap](https://github.com/zitadel/passwap) / ⭐ 74 - Provides a unified implementation between different password hashing algorithms
 * [qrand](https://github.com/bitfield/qrand) / ⭐ 17 - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
-* [SafeDep/vet](https://github.com/safedep/vet) / ⭐ 1009 - Protect against malicious open source packages.
+* [SafeDep/vet](https://github.com/safedep/vet) / ⭐ 1012 - Protect against malicious open source packages.
 * [secret](https://github.com/rsjethani/secret) / ⭐ 33 - Prevent your secrets from leaking into logs, std* etc.
 * [secure](https://github.com/unrolled/secure) / ⭐ 2338 - HTTP middleware for Go that facilitates some quick security wins.
 * [secureio](https://github.com/xaionaro-go/secureio) / ⭐ 33 - An keyexchanging+authenticating+encrypting wrapper and multiplexer for io.ReadWriteCloser based on XChaCha20-poly1305, ECDH and ED25519.
 * [simple-scrypt](https://github.com/elithrar/simple-scrypt) / ⭐ 202 - Scrypt package with a simple, obvious API and automatic cost calibration built-in.
-* [ssh-vault](https://github.com/ssh-vault/ssh-vault) / ⭐ 502 - encrypt/decrypt using ssh keys.
+* [ssh-vault](https://github.com/ssh-vault/ssh-vault) / ⭐ 503 - encrypt/decrypt using ssh keys.
 * [sslmgr](https://github.com/adrianosela/sslmgr) / ⭐ 31 - SSL certificates made easy with a high level wrapper around acme/autocert.
 * [teler-waf](https://github.com/kitabisa/teler-waf) / ⭐ 400 - teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications.
 * [themis](https://github.com/cossacklabs/themis) / ⭐ 1958 - high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps.
@@ -1976,24 +1976,24 @@ Libraries and tools for binary serialization.
 ## Server Applications
 
 * [algernon](https://github.com/xyproto/algernon) / ⭐ 2999 - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
-* [Caddy](https://github.com/caddyserver/caddy) / ⭐ 71497 - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
+* [Caddy](https://github.com/caddyserver/caddy) / ⭐ 71520 - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
 * [consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 * [cortex-tenant](https://github.com/blind-oracle/cortex-tenant) / ⭐ 136 - Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels.
 * [devd](https://github.com/cortesi/devd) / ⭐ 3467 - Local webserver for developers.
 * [discovery](https://github.com/Bilibili/discovery) / ⭐ 1804 - A registry for resilient mid-tier load balancing and failover.
 * [dudeldu](https://github.com/krotik/dudeldu) / ⭐ 147 - A simple SHOUTcast server.
-* [Easegress](https://github.com/megaease/easegress) / ⭐ 5871 - A cloud native high availability/performance traffic orchestration system with observability and extensibility.
+* [Easegress](https://github.com/megaease/easegress) / ⭐ 5872 - A cloud native high availability/performance traffic orchestration system with observability and extensibility.
 * [Engity's Bifröst](https://bifroest.engity.org/) - Highly customizable SSH server with several ways to authorize a user how to execute its session (local or in containers).
-* [etcd](https://github.com/etcd-io/etcd) / ⭐ 51618 - Highly-available key value store for shared configuration and service discovery.
+* [etcd](https://github.com/etcd-io/etcd) / ⭐ 51623 - Highly-available key value store for shared configuration and service discovery.
 * [Euterpe](https://github.com/ironsmile/euterpe) / ⭐ 572 - Self-hosted music streaming server with built-in web UI and REST API.
-* [Fider](https://github.com/getfider/fider) / ⭐ 4208 - Fider is an open platform to collect and organize customer feedback.
+* [Fider](https://github.com/getfider/fider) / ⭐ 4210 - Fider is an open platform to collect and organize customer feedback.
 * [Flagr](https://github.com/checkr/flagr) / ⭐ 2585 - Flagr is an open-source feature flagging and A/B testing service.
-* [flipt](https://github.com/markphelps/flipt) / ⭐ 4766 - A self contained feature flag solution written in Go and Vue.js
-* [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) / ⭐ 1987 - A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
+* [flipt](https://github.com/markphelps/flipt) / ⭐ 4769 - A self contained feature flag solution written in Go and Vue.js
+* [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) / ⭐ 1989 - A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
 * [go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) / ⭐ 150 - Simple Reverse Proxy with Caching, written in Go, using Redis.
 * [gondola](https://github.com/bmf-san/gondola) / ⭐ 10 - A YAML based golang reverse proxy.
 * [lets-proxy2](https://github.com/rekby/lets-proxy2) / ⭐ 103 - Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
-* [minio](https://github.com/minio/minio) / ⭐ 60686 - Minio is a distributed object storage server.
+* [minio](https://github.com/minio/minio) / ⭐ 60701 - Minio is a distributed object storage server.
 * [Moxy](https://github.com/sinhashubham95/moxy) / ⭐ 16 - Moxy is a simple mocker and proxy application server, you can create mock endpoints as well as proxy requests in case no mock exists for the endpoint.
 * [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) / ⭐ 43 - Nginx log parser and exporter to Prometheus.
 * [nsq](https://nsq.io/) - A realtime distributed messaging platform.
