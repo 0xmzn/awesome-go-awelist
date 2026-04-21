@@ -1998,15 +1998,15 @@ Libraries and tools for binary serialization.
 * [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) / ⭐ 43 - Nginx log parser and exporter to Prometheus.
 * [nsq](https://nsq.io/) - A realtime distributed messaging platform.
 * [OpenRun](https://github.com/openrundev/openrun) / ⭐ 823 - Open-source alternative to Google Cloud Run and AWS App Runner. Easily deploy internal tools across a team.
-* [pocketbase](https://github.com/pocketbase/pocketbase) / ⭐ 57730 - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
+* [pocketbase](https://github.com/pocketbase/pocketbase) / ⭐ 57756 - PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
 * [protoxy](https://github.com/camgraff/protoxy) / ⭐ 35 - A proxy server that converts JSON request bodies to Protocol Buffers.
 * [psql-streamer](https://github.com/blind-oracle/psql-streamer) / ⭐ 61 - Stream database events from PostgreSQL to Kafka.
 * [riemann-relay](https://github.com/blind-oracle/riemann-relay) / ⭐ 2 - Relay to load-balance Riemann events and/or convert them to Carbon.
-* [RoadRunner](https://github.com/spiral/roadrunner) / ⭐ 8441 - High-performance PHP application server, load-balancer and process manager.
-* [SFTPGo](https://github.com/drakkan/sftpgo) / ⭐ 11944 - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
+* [RoadRunner](https://github.com/spiral/roadrunner) / ⭐ 8442 - High-performance PHP application server, load-balancer and process manager.
+* [SFTPGo](https://github.com/drakkan/sftpgo) / ⭐ 11951 - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
 * [Trickster](https://github.com/tricksterproxy/trickster) / ⭐ 2073 - HTTP reverse proxy cache and time series accelerator.
 * [wd-41](https://github.com/baalimago/wd-41) / ⭐ 151 - A (w)eb (d)evelopment server with automatic live-reload on file changes.
-* [Wish](https://github.com/charmbracelet/wish) / ⭐ 5136 - Make SSH apps, just like that!
+* [Wish](https://github.com/charmbracelet/wish) / ⭐ 5139 - Make SSH apps, just like that!
 
 ---
 ## Stream Processing
@@ -2042,7 +2042,7 @@ Libraries and tools for templating and lexing.
 * [Soy](https://github.com/robfig/soy) / ⭐ 177 - Closure templates (aka Soy templates) for Go, following the official spec.
 * [sprout](https://github.com/go-sprout/sprout) / ⭐ 214 - Useful template functions for Go templates.
 * [tbd](https://github.com/lucasepe/tbd) / ⭐ 27 - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
-* [templ](https://github.com/a-h/templ) / ⭐ 10232 - A HTML templating language that has great developer tooling.
+* [templ](https://github.com/a-h/templ) / ⭐ 10236 - A HTML templating language that has great developer tooling.
 * [templator](https://github.com/alesr/templator) / ⭐ 8 - A type-safe HTML template rendering engine for Go.
 
 ---
@@ -2062,7 +2062,7 @@ Libraries for testing codebases and generating test data.
 * [dbcleaner](https://github.com/khaiql/dbcleaner) / ⭐ 163 - Clean database for testing purpose, inspired by database_cleaner in Ruby.
 * [dft](https://github.com/abecodes/dft) / ⭐ 19 - Lightweight, zero dependency docker containers for testing (or more).
 * [dsunit](https://github.com/viant/dsunit) / ⭐ 45 - Datastore testing for SQL, NoSQL, structured files.
-* [embedded-postgres](https://github.com/fergusstrange/embedded-postgres) / ⭐ 1164 - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
+* [embedded-postgres](https://github.com/fergusstrange/embedded-postgres) / ⭐ 1165 - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
 * [endly](https://github.com/viant/endly) / ⭐ 267 - Declarative end to end functional testing.
 * [envite](https://github.com/PerimeterX/envite) / ⭐ 4 - Dev and testing environment management framework.
 * [fixenv](https://github.com/rekby/fixenv) / ⭐ 33 - Fixture manage engine, inspired by pytest fixtures.
@@ -2072,13 +2072,13 @@ Libraries for testing codebases and generating test data.
 * [ginkgo](https://onsi.github.io/ginkgo/) - BDD Testing Framework for Go.
 * [gnomock](https://github.com/orlangure/gnomock) / ⭐ 1485 - integration testing with real dependencies (database, cache, even Kubernetes or AWS) running in Docker, without mocks.
 * [go-carpet](https://github.com/msoap/go-carpet) / ⭐ 251 - Tool for viewing test coverage in terminal.
-* [go-cmp](https://github.com/google/go-cmp) / ⭐ 4616 - Package for comparing Go values in tests.
+* [go-cmp](https://github.com/google/go-cmp) / ⭐ 4617 - Package for comparing Go values in tests.
 * [go-hit](https://github.com/Eun/go-hit) / ⭐ 257 - Hit is an http integration test framework written in golang.
-* [go-httpbin](https://github.com/mccutchen/go-httpbin) / ⭐ 834 - HTTP testing and debugging tool with various endpoints for client testing.
+* [go-httpbin](https://github.com/mccutchen/go-httpbin) / ⭐ 836 - HTTP testing and debugging tool with various endpoints for client testing.
 * [go-mutesting](https://github.com/zimmski/go-mutesting) / ⭐ 667 - Mutation testing for Go source code.
 * [go-mysql-test-container](https://github.com/arikama/go-mysql-test-container) / ⭐ 3 - Golang MySQL testcontainer to help with MySQL integration testing.
 * [go-snaps](http://github.com/gkampitakis/go-snaps) / ⭐ 256 - Jest-like snapshot testing in Golang.
-* [go-test-coverage](https://github.com/vladopajic/go-test-coverage) / ⭐ 225 - Tool that reports coverage of files below set threshold.
+* [go-test-coverage](https://github.com/vladopajic/go-test-coverage) / ⭐ 226 - Tool that reports coverage of files below set threshold.
 * [go-testdeep](https://github.com/maxatome/go-testdeep) / ⭐ 462 - Extremely flexible golang deep comparison, extends the go testing package.
 * [go-testpredicate](https://github.com/maargenton/go-testpredicate) / ⭐ 5 - Test predicate style assertions library with extensive diagnostics output.
 * [go-vcr](https://github.com/dnaeon/go-vcr) / ⭐ 1372 - Record and replay your HTTP interactions for fast, deterministic and accurate tests.
@@ -2101,16 +2101,16 @@ Libraries for testing codebases and generating test data.
 * [httpexpect](https://github.com/gavv/httpexpect) / ⭐ 2716 - Concise, declarative, and easy to use end-to-end HTTP and REST API testing.
 * [is](https://github.com/matryer/is) / ⭐ 1955 - Professional lightweight testing mini-framework for Go.
 * [jsonassert](https://github.com/kinbiko/jsonassert) / ⭐ 141 - Package for verifying that your JSON payloads are serialized correctly.
-* [keploy](https://github.com/keploy/keploy) / ⭐ 17088 - Generate Testcase and Data Mocks from API calls automatically.
+* [keploy](https://github.com/keploy/keploy) / ⭐ 17089 - Generate Testcase and Data Mocks from API calls automatically.
 * [omg.testingtools](https://github.com/dedalqq/omg.testingtools) / ⭐ 1 - The simple library for change a values of private fields for testing.
 * [restit](https://github.com/yookoala/restit) / ⭐ 55 - Go micro framework to help writing RESTful API integration test.
 * [schema](https://github.com/jgroeneveld/schema) / ⭐ 20 - Quick and easy expression matching for JSON schemas used in requests and responses.
 * [stop-and-go](https://github.com/elgohr/stop-and-go) / ⭐ 12 - Testing helper for concurrency.
 * [testcase](https://github.com/adamluzsi/testcase) / ⭐ 127 - Idiomatic testing framework for Behavior Driven Development.
 * [testcerts](https://github.com/madflojo/testcerts) / ⭐ 84 - Dynamically generate self-signed certificates and certificate authorities within your test functions.
-* [testcontainers-go](https://github.com/testcontainers/testcontainers-go) / ⭐ 4791 - A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
+* [testcontainers-go](https://github.com/testcontainers/testcontainers-go) / ⭐ 4793 - A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
 * [testfixtures](https://github.com/go-testfixtures/testfixtures) / ⭐ 1226 - A helper for Rails' like test fixtures to test database applications.
-* [Testify](https://github.com/stretchr/testify) / ⭐ 25939 - Sacred extension to the standard go testing package.
+* [Testify](https://github.com/stretchr/testify) / ⭐ 25938 - Sacred extension to the standard go testing package.
 * [testsql](https://github.com/zhulongcheng/testsql) / ⭐ 17 - Generate test data from SQL files before testing and clear it after finished.
 * [testza](https://github.com/MarvinJWendt/testza) / ⭐ 419 - Full-featured test framework with nice colorized output.
 * [trial](https://github.com/jgroeneveld/trial) / ⭐ 6 - Quick and easy extendable assertions without introducing much boilerplate.
@@ -2123,9 +2123,9 @@ Libraries for testing codebases and generating test data.
 * [genmock](https://gitlab.com/so_literate/genmock) / ⭐ 1 - Go mocking system with code generator for building calls of the interface methods.
 * [go-localstack](https://github.com/elgohr/go-localstack) / ⭐ 87 - Tool for using localstack in AWS testing.
 * [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) / ⭐ 6544 - Mock SQL driver for testing database interactions.
-* [go-txdb](https://github.com/DATA-DOG/go-txdb) / ⭐ 749 - Single transaction based database driver mainly for testing purposes.
+* [go-txdb](https://github.com/DATA-DOG/go-txdb) / ⭐ 750 - Single transaction based database driver mainly for testing purposes.
 * [gock](https://github.com/h2non/gock) / ⭐ 2218 - Versatile HTTP mocking made easy.
-* [gomock](https://github.com/uber-go/mock) / ⭐ 3311 - Mocking framework for the Go programming language.
+* [gomock](https://github.com/uber-go/mock) / ⭐ 3313 - Mocking framework for the Go programming language.
 * [govcr](https://github.com/seborama/govcr) / ⭐ 197 - HTTP mock for Golang: record and replay HTTP interactions for offline testing.
 * [hoverfly](https://github.com/SpectoLabs/hoverfly) / ⭐ 2482 - HTTP(S) proxy for recording and simulating REST/SOAP APIs with extensible middleware and easy-to-use CLI.
 * [httpmock](https://github.com/jarcoal/httpmock) / ⭐ 2075 - Easy mocking of HTTP responses from external resources.
@@ -2146,9 +2146,9 @@ Libraries for testing codebases and generating test data.
 ### Selenium and browser control tools
 
 * [cdp](https://github.com/mafredri/cdp) / ⭐ 790 - Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.
-* [chromedp](https://github.com/knq/chromedp) / ⭐ 12965 - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
-* [playwright-go](https://github.com/mxschmitt/playwright-go) / ⭐ 3306 - browser automation library to control Chromium, Firefox and WebKit with a single API.
-* [rod](https://github.com/go-rod/rod) / ⭐ 6872 - A Devtools driver to make web automation and scraping easy.
+* [chromedp](https://github.com/knq/chromedp) / ⭐ 12968 - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
+* [playwright-go](https://github.com/mxschmitt/playwright-go) / ⭐ 3307 - browser automation library to control Chromium, Firefox and WebKit with a single API.
+* [rod](https://github.com/go-rod/rod) / ⭐ 6873 - A Devtools driver to make web automation and scraping easy.
 ### Fail injection
 
 * [failpoint](https://github.com/pingcap/failpoint) / ⭐ 880 - An implementation of failpoints for Golang.
@@ -2162,7 +2162,7 @@ See also Natural Language Processing and Text Analysis.
 * [align](https://github.com/Guitarbum722/align) / ⭐ 84 - A general purpose application that aligns text.
 * [bytes](https://github.com/labstack/gommon/tree/master/bytes) - Formats and parses numeric byte values (10K, 2M, 3G, etc.).
 * [go-fixedwidth](https://github.com/ianlopshire/go-fixedwidth) / ⭐ 88 - Fixed-width text formatting (encoder/decoder with reflection).
-* [go-humanize](https://github.com/dustin/go-humanize) / ⭐ 4787 - Formatters for time, numbers, and memory size to human readable format.
+* [go-humanize](https://github.com/dustin/go-humanize) / ⭐ 4789 - Formatters for time, numbers, and memory size to human readable format.
 * [gotabulate](https://github.com/bndr/gotabulate) / ⭐ 340 - Easily pretty-print your tabular data with Go.
 * [sq](https://github.com/neilotoole/sq) / ⭐ 2465 - Convert data from SQL databases or document formats like CSV or Excel into formats such as JSON, Excel, CSV, HTML, Markdown, XML, and YAML.
 * [textwrap](https://github.com/isbm/textwrap) / ⭐ 7 - Wraps text at end of lines. Implementation of textwrap module from Python.
@@ -2170,17 +2170,17 @@ See also Natural Language Processing and Text Analysis.
 
 * [bafi](https://github.com/mmalcek/bafi) / ⭐ 114 - Universal JSON, BSON, YAML, XML translator to ANY format using templates.
 * [bbConvert](https://github.com/CalebQ42/bbConvert) / ⭐ 12 - Converts bbCode to HTML that allows you to add support for custom bbCode tags.
-* [blackfriday](https://github.com/russross/blackfriday) / ⭐ 5618 - Markdown processor in Go.
+* [blackfriday](https://github.com/russross/blackfriday) / ⭐ 5619 - Markdown processor in Go.
 * [go-output-format](https://github.com/drewstinnett/go-output-format) / ⭐ 18 - Output go structures into multiple formats (YAML/JSON/etc) in your command line app.
 * [go-toml](https://github.com/pelletier/go-toml) / ⭐ 1926 - Go library for the TOML format with query support and handy cli tools.
 * [goldmark](https://github.com/yuin/goldmark) / ⭐ 4721 - A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured.
 * [goq](https://github.com/andrewstuart/goq) / ⭐ 270 - Declarative unmarshalling of HTML using struct tags with jQuery syntax (uses GoQuery).
-* [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) / ⭐ 3574 - Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
+* [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) / ⭐ 3582 - Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 * [htmlquery](https://github.com/antchfx/htmlquery) / ⭐ 781 - An XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression.
 * [htmlyaml](https://github.com/nikolaydubina/htmlyaml) / ⭐ 5 - Rich rendering of YAML as HTML in Go.
 * [htree](https://github.com/bobg/htree) / ⭐ 4 - Traverse, navigate, filter, and otherwise process trees of html.Node objects.
 * [mxj](https://github.com/clbanning/mxj) / ⭐ 633 - Encode / decode XML as JSON or map[string]interface{}; extract values with dot-notation paths and wildcards. Replaces x2j and j2x packages.
-* [toml](https://github.com/BurntSushi/toml) / ⭐ 4935 - TOML configuration format (encoder/decoder with reflection).
+* [toml](https://github.com/BurntSushi/toml) / ⭐ 4936 - TOML configuration format (encoder/decoder with reflection).
 ### Parsers/Encoders/Decoders
 
 * [allot](https://github.com/sbstjn/allot) / ⭐ 60 - Placeholder and wildcard text parsing for CLI tools and bots.
@@ -2195,8 +2195,8 @@ See also Natural Language Processing and Text Analysis.
 * [go-querystring](https://github.com/google/go-querystring) / ⭐ 2135 - Go library for encoding structs into URL query parameters.
 * [go-vcard](https://github.com/emersion/go-vcard) / ⭐ 125 - Parse and format vCard.
 * [godump](https://github.com/yassinebenaid/godump) / ⭐ 223 - Pretty print any GO variable with ease, an alternative to Go's fmt.Printf("%#v").
-* [godump (goforj)](https://github.com/goforj/godump) / ⭐ 1736 - Pretty-print Go structs with Laravel/Symfony-style dumps, full type info, colorized CLI output, cycle detection, and private field access.
-* [gofeed](https://github.com/mmcdole/gofeed) / ⭐ 2832 - Parse RSS and Atom feeds in Go.
+* [godump (goforj)](https://github.com/goforj/godump) / ⭐ 1735 - Pretty-print Go structs with Laravel/Symfony-style dumps, full type info, colorized CLI output, cycle detection, and private field access.
+* [gofeed](https://github.com/mmcdole/gofeed) / ⭐ 2833 - Parse RSS and Atom feeds in Go.
 * [gographviz](https://github.com/awalterschulze/gographviz) / ⭐ 567 - Parses the Graphviz DOT language.
 * [gonameparts](https://github.com/polera/gonameparts) / ⭐ 43 - Parses human names into individual name parts.
 * [ltsv](https://github.com/Wing924/ltsv) / ⭐ 9 - High performance LTSV (Labeled Tab Separated Value) reader for Go.
