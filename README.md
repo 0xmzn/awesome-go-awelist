@@ -221,7 +221,7 @@ Libraries for building standard or basic Command Line applications.
 * [strumt](https://github.com/antham/strumt) / ⭐ 62 - Library to create prompt chain.
 * [subcmd](https://github.com/bobg/subcmd) / ⭐ 9 - Another approach to parsing and running subcommands. Works alongside the standard flag package.
 * [teris-io/cli](https://github.com/teris-io/cli) / ⭐ 132 - Simple and complete API for building command line interfaces in Go.
-* [urfave/cli](https://github.com/urfave/cli) / ⭐ 23985 - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).
+* [urfave/cli](https://github.com/urfave/cli) / ⭐ 23989 - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).
 * [version](https://github.com/mszostok/version) / ⭐ 111 - Collects and displays CLI version information in multiple formats along with upgrade notice.
 * [wlog](https://github.com/dixonwille/wlog) / ⭐ 67 - Simple logging interface that supports cross-platform color and concurrency.
 * [wmenu](https://github.com/dixonwille/wmenu) / ⭐ 229 - Easy to use menu structure for cli applications that prompt users to make choices.
@@ -240,16 +240,16 @@ Libraries for configuration parsing.
 * [configuration](https://github.com/BoRuDar/configuration) / ⭐ 108 - Library for initializing configuration structs from env variables, files, flags and 'default' tag.
 * [configuro](https://github.com/sherifabdlnaby/configuro) / ⭐ 93 - opinionated configuration loading & validation framework from ENV and Files focused towards 12-Factor compliant applications.
 * [confiq](https://github.com/greencoda/confiq) / ⭐ 39 - Structured data format to config struct decoder library for Go - supporting multiple data formats.
-* [confita](https://github.com/heetch/confita) / ⭐ 508 - Load configuration in cascade from multiple backends into a struct.
+* [confita](https://github.com/heetch/confita) / ⭐ 507 - Load configuration in cascade from multiple backends into a struct.
 * [conflate](https://github.com/the4thamigo-uk/conflate) / ⭐ 36 - Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema.
 * [enflag](https://github.com/atelpis/enflag) / ⭐ 38 - Container-oriented, zero-dependency configuration library that unifies Env variable and Flag parsing. Uses generics for type safety, without reflection or struct tags.
-* [env](https://github.com/caarlos0/env) / ⭐ 6113 - Parse environment variables to Go structs (with defaults).
+* [env](https://github.com/caarlos0/env) / ⭐ 6115 - Parse environment variables to Go structs (with defaults).
 * [env](https://github.com/junk1tm/env) / ⭐ 80 - A lightweight package for loading environment variables into structs.
 * [env](https://github.com/syntaqx/env) / ⭐ 7 - An environment utility package with support for unmarshaling into structs.
 * [envconfig](https://github.com/vrischmann/envconfig) / ⭐ 250 - Read your configuration from environment variables.
 * [envh](https://github.com/antham/envh) / ⭐ 100 - Helpers to manage environment variables.
 * [envyaml](https://github.com/yuseferi/envyaml) / ⭐ 19 - Yaml with environment variables reader. it helps to have secrets as environment variable but load them configs as structured Yaml.
-* [fig](https://github.com/kkyr/fig) / ⭐ 385 - Tiny library for reading configuration from a file and from environment variables (with validation & defaults).
+* [fig](https://github.com/kkyr/fig) / ⭐ 384 - Tiny library for reading configuration from a file and from environment variables (with validation & defaults).
 * [genv](https://github.com/sakirsensoy/genv) / ⭐ 43 - Read environment variables easily with dotenv support.
 * [go-array](https://github.com/deatil/go-array) / ⭐ 22 - A Go package that read or set data from map, slice or json.
 * [go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) / ⭐ 63 - Go package that fetches parameters from AWS System Manager - Parameter Store.
@@ -272,19 +272,19 @@ Libraries for configuration parsing.
 * [ini](https://github.com/go-ini/ini) / ⭐ 3536 - Go package to read and write INI files.
 * [ini](https://github.com/wlevene/ini) / ⭐ 18 - INI Parser & Write Library, Unmarshal to Struct, Marshal to Json, Write File, watch file.
 * [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) / ⭐ 5428 - Go library for managing configuration data from environment variables.
-* [koanf](https://github.com/knadh/koanf) / ⭐ 3977 - Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line.
+* [koanf](https://github.com/knadh/koanf) / ⭐ 3980 - Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line.
 * [konf](https://github.com/nil-go/konf) / ⭐ 379 - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
 * [konfig](https://github.com/lalamove/konfig) / ⭐ 646 - Composable, observable and performant config handling for Go for the distributed processing era.
-* [kong](https://github.com/alecthomas/kong) / ⭐ 3038 - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to kingpin).
+* [kong](https://github.com/alecthomas/kong) / ⭐ 3039 - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to kingpin).
 * [nasermirzaei89/env](https://github.com/nasermirzaei89/env) / ⭐ 22 - Simple useful package for read environment variables.
 * [nfigure](https://github.com/muir/nfigure) / ⭐ 11 - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
 * [onion](https://github.com/goraz/onion) / ⭐ 119 - Layer based configuration for Go, Supports JSON, TOML, YAML, properties, etcd, env, and encryption using PGP.
 * [piper](https://github.com/Yiling-J/piper) / ⭐ 10 - Viper wrapper with config inheritance and key generation.
-* [sonic](https://github.com/bytedance/sonic) / ⭐ 9350 - A blazingly fast JSON serializing & deserializing library.
+* [sonic](https://github.com/bytedance/sonic) / ⭐ 9354 - A blazingly fast JSON serializing & deserializing library.
 * [swap](https://github.com/oblq/swap) / ⭐ 8 - Instantiate/configure structs recursively, based on build environment. (YAML, TOML, JSON and env).
 * [typenv](https://github.com/diegomarangoni/typenv) / ⭐ 12 - Minimalistic, zero dependency, typed environment variables library.
 * [uConfig](https://github.com/omeid/uconfig) / ⭐ 73 - Lightweight, zero-dependency, and extendable configuration management.
-* [viper](https://github.com/spf13/viper) / ⭐ 30213 - Go configuration with fangs.
+* [viper](https://github.com/spf13/viper) / ⭐ 30214 - Go configuration with fangs.
 * [xdg](https://github.com/adrg/xdg) / ⭐ 983 - Go implementation of the XDG Base Directory Specification and XDG user directories.
 * [yamagiconf](https://github.com/romshark/yamagiconf) / ⭐ 18 - The "safe subset" of YAML for Go configs.
 * [zerocfg](https://github.com/chaindead/zerocfg) / ⭐ 200 - Zero-effort, concise configuration management that avoids boilerplate and repetitive code, supports multiple sources with priority overrides.
@@ -295,9 +295,9 @@ Tools for help with continuous integration.
 
 * [abstruse](https://github.com/bleenco/abstruse) / ⭐ 956 - Abstruse is a distributed CI platform.
 * [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
-* [CDS](https://github.com/ovh/cds) / ⭐ 4808 - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
+* [CDS](https://github.com/ovh/cds) / ⭐ 4809 - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
 * [dot](https://github.com/opnlabs/dot) / ⭐ 35 - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
-* [drone](https://github.com/drone/drone) / ⭐ 35155 - Drone is a Continuous Integration platform built on Docker, written in Go.
+* [drone](https://github.com/drone/drone) / ⭐ 35162 - Drone is a Continuous Integration platform built on Docker, written in Go.
 * [go-beautiful-html-coverage](https://github.com/gha-common/go-beautiful-html-coverage) / ⭐ 23 - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
 * [go-fuzz-action](https://github.com/jidicula/go-fuzz-action) / ⭐ 19 - Use Go 1.18's built-in fuzz testing in GitHub Actions.
 * [go-semver-release](https://github.com/s0ders/go-semver-release) / ⭐ 21 - Automate the semantic versioning of Git repositories.
@@ -308,7 +308,7 @@ Tools for help with continuous integration.
 * [muffet](https://github.com/raviqqe/muffet) / ⭐ 2597 - Fast website link checker in Go, see alternatives.
 * [overalls](https://github.com/go-playground/overalls) / ⭐ 116 - Multi-Package go project coverprofile for tools like goveralls.
 * [roveralls](https://github.com/LawrenceWoodman/roveralls) / ⭐ 20 - Recursive coverage testing tool.
-* [woodpecker](https://github.com/woodpecker-ci/woodpecker) / ⭐ 6845 - Woodpecker is a community fork of the Drone CI system.
+* [woodpecker](https://github.com/woodpecker-ci/woodpecker) / ⭐ 6850 - Woodpecker is a community fork of the Drone CI system.
 
 ---
 ## CSS Preprocessors
@@ -321,9 +321,9 @@ Libraries for preprocessing CSS files.
 ## Data Integration Frameworks
 Frameworks for performing ELT / ETL
 
-* [Benthos](https://github.com/benthosdev/benthos) / ⭐ 8643 - A message streaming bridge between a range of protocols.
-* [CloudQuery](http://github.com/cloudquery/cloudquery) / ⭐ 6378 - A high-performance ELT data integration framework with pluggable architecture.
-* [omniparser](https://github.com/jf-tech/omniparser) / ⭐ 1083 - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
+* [Benthos](https://github.com/benthosdev/benthos) / ⭐ 8644 - A message streaming bridge between a range of protocols.
+* [CloudQuery](http://github.com/cloudquery/cloudquery) / ⭐ 6382 - A high-performance ELT data integration framework with pluggable architecture.
+* [omniparser](https://github.com/jf-tech/omniparser) / ⭐ 1082 - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
 
 ---
 ## Data Structures and Algorithms
