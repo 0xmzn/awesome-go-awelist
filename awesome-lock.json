@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-04-25T18:44:44.396399546Z",
+    "updated_at": "2026-04-25T20:35:11.293121925Z",
     "provider_metrics": [
       {
         "provider": "gitlab-provider",
@@ -10,8 +10,8 @@
       },
       {
         "provider": "github-provider",
-        "attempted": 132,
-        "successful": 123,
+        "attempted": 35,
+        "successful": 26,
         "failed": 9
       }
     ],
@@ -4445,7 +4445,7 @@
                 "stars": 6326,
                 "is_archived": false,
                 "last_update": "2024-05-14T20:40:52Z",
-                "enriched_at": "2026-04-24T18:44:17.269133947Z"
+                "enriched_at": "2026-04-25T20:35:06.624980395Z"
               }
             },
             {
@@ -4456,7 +4456,7 @@
                 "stars": 97,
                 "is_archived": false,
                 "last_update": "2021-02-25T00:05:34Z",
-                "enriched_at": "2026-04-24T18:44:17.612621478Z"
+                "enriched_at": "2026-04-25T20:35:06.757352752Z"
               }
             },
             {
@@ -4464,10 +4464,10 @@
               "description": "immudb is a lightweight, high-speed immutable database for systems and applications written in Go.",
               "url": "https://github.com/codenotary/immudb",
               "repo_metadata": {
-                "stars": 8957,
+                "stars": 8958,
                 "is_archived": false,
                 "last_update": "2026-04-24T07:47:24Z",
-                "enriched_at": "2026-04-24T18:44:17.888826948Z"
+                "enriched_at": "2026-04-25T20:35:06.970795233Z"
               }
             },
             {
@@ -4475,10 +4475,10 @@
               "description": "Scalable datastore for metrics, events, and real-time analytics.",
               "url": "https://github.com/influxdb/influxdb",
               "repo_metadata": {
-                "stars": 31459,
+                "stars": 31463,
                 "is_archived": false,
-                "last_update": "2026-04-24T18:18:28Z",
-                "enriched_at": "2026-04-24T18:44:18.404614137Z"
+                "last_update": "2026-04-25T00:04:08Z",
+                "enriched_at": "2026-04-25T20:35:07.194916322Z"
               }
             },
             {
@@ -4489,7 +4489,7 @@
                 "stars": 4120,
                 "is_archived": false,
                 "last_update": "2023-10-22T02:24:37Z",
-                "enriched_at": "2026-04-24T18:44:18.93781321Z"
+                "enriched_at": "2026-04-25T20:35:07.45022593Z"
               }
             },
             {
@@ -4500,7 +4500,7 @@
                 "stars": 420,
                 "is_archived": false,
                 "last_update": "2022-03-07T12:05:55Z",
-                "enriched_at": "2026-04-24T18:44:19.203564595Z"
+                "enriched_at": "2026-04-25T20:35:07.581388906Z"
               }
             },
             {
@@ -4511,7 +4511,7 @@
                 "stars": 201,
                 "is_archived": false,
                 "last_update": "2024-04-11T18:39:36Z",
-                "enriched_at": "2026-04-24T18:44:19.503873886Z"
+                "enriched_at": "2026-04-25T20:35:07.732664269Z"
               }
             },
             {
@@ -4522,7 +4522,7 @@
                 "stars": 3059,
                 "is_archived": false,
                 "last_update": "2026-03-06T02:18:06Z",
-                "enriched_at": "2026-04-24T18:44:19.818403501Z"
+                "enriched_at": "2026-04-25T20:35:07.944107073Z"
               }
             },
             {
@@ -4533,7 +4533,7 @@
                 "stars": 2254,
                 "is_archived": false,
                 "last_update": "2025-02-18T08:07:46Z",
-                "enriched_at": "2026-04-24T18:44:20.355621305Z"
+                "enriched_at": "2026-04-25T20:35:08.17681921Z"
               }
             },
             {
@@ -4541,10 +4541,10 @@
               "description": "Milvus is a vector database for embedding management, analytics and search.",
               "url": "https://github.com/milvus-io/milvus",
               "repo_metadata": {
-                "stars": 43964,
+                "stars": 43980,
                 "is_archived": false,
-                "last_update": "2026-04-24T11:19:45Z",
-                "enriched_at": "2026-04-24T18:44:20.677652278Z"
+                "last_update": "2026-04-25T18:15:48Z",
+                "enriched_at": "2026-04-25T20:35:08.319095669Z"
               }
             },
             {
@@ -4555,7 +4555,7 @@
                 "stars": 1017,
                 "is_archived": false,
                 "last_update": "2024-12-17T02:07:29Z",
-                "enriched_at": "2026-04-24T18:44:20.972673239Z"
+                "enriched_at": "2026-04-25T20:35:08.463275718Z"
               }
             },
             {
@@ -4565,8 +4565,8 @@
               "repo_metadata": {
                 "stars": 374,
                 "is_archived": false,
-                "last_update": "2026-04-23T16:50:56Z",
-                "enriched_at": "2026-04-24T18:44:21.26548714Z"
+                "last_update": "2026-04-25T20:09:27Z",
+                "enriched_at": "2026-04-25T20:35:08.592578893Z"
               }
             },
             {
@@ -4577,7 +4577,7 @@
                 "stars": 3563,
                 "is_archived": false,
                 "last_update": "2026-02-08T02:02:28Z",
-                "enriched_at": "2026-04-24T18:44:21.786653893Z"
+                "enriched_at": "2026-04-25T20:35:08.794822505Z"
               }
             },
             {
@@ -4588,7 +4588,7 @@
                 "stars": 1263,
                 "is_archived": false,
                 "last_update": "2025-03-12T13:34:35Z",
-                "enriched_at": "2026-04-24T18:44:22.07618413Z"
+                "enriched_at": "2026-04-25T20:35:08.934664899Z"
               }
             },
             {
@@ -4596,10 +4596,10 @@
               "description": "RocksDB/LevelDB inspired key-value database in Go.",
               "url": "https://github.com/cockroachdb/pebble",
               "repo_metadata": {
-                "stars": 5863,
+                "stars": 5865,
                 "is_archived": false,
-                "last_update": "2026-04-24T17:19:05Z",
-                "enriched_at": "2026-04-24T18:44:22.374657898Z"
+                "last_update": "2026-04-25T14:08:34Z",
+                "enriched_at": "2026-04-25T20:35:09.072218673Z"
               }
             },
             {
@@ -4610,7 +4610,7 @@
                 "stars": 205,
                 "is_archived": false,
                 "last_update": "2025-12-05T17:19:16Z",
-                "enriched_at": "2026-04-24T18:44:22.653969001Z"
+                "enriched_at": "2026-04-25T20:35:09.203316135Z"
               }
             },
             {
@@ -4621,7 +4621,7 @@
                 "stars": 1350,
                 "is_archived": false,
                 "last_update": "2026-04-06T23:31:53Z",
-                "enriched_at": "2026-04-24T18:44:22.933822838Z"
+                "enriched_at": "2026-04-25T20:35:09.328129257Z"
               }
             },
             {
@@ -4629,10 +4629,10 @@
               "description": "Monitoring system and time series database.",
               "url": "https://github.com/prometheus/prometheus",
               "repo_metadata": {
-                "stars": 63764,
+                "stars": 63775,
                 "is_archived": false,
                 "last_update": "2026-04-24T17:42:26Z",
-                "enriched_at": "2026-04-24T18:44:23.257182587Z"
+                "enriched_at": "2026-04-25T20:35:09.473239904Z"
               }
             },
             {
@@ -4643,7 +4643,7 @@
                 "stars": 369,
                 "is_archived": false,
                 "last_update": "2021-07-04T02:08:38Z",
-                "enriched_at": "2026-04-24T18:44:23.543327629Z"
+                "enriched_at": "2026-04-25T20:35:09.598282041Z"
               }
             },
             {
@@ -4654,7 +4654,7 @@
                 "stars": 4543,
                 "is_archived": false,
                 "last_update": "2026-02-04T15:47:32Z",
-                "enriched_at": "2026-04-24T18:44:23.857899256Z"
+                "enriched_at": "2026-04-25T20:35:09.753016689Z"
               }
             },
             {
@@ -4665,7 +4665,7 @@
                 "stars": 4881,
                 "is_archived": false,
                 "last_update": "2026-02-10T03:41:42Z",
-                "enriched_at": "2026-04-24T18:44:24.36797554Z"
+                "enriched_at": "2026-04-25T20:35:09.987651223Z"
               }
             },
             {
@@ -4676,7 +4676,7 @@
                 "stars": 41,
                 "is_archived": false,
                 "last_update": "2024-12-15T06:46:00Z",
-                "enriched_at": "2026-04-24T18:44:24.643556397Z"
+                "enriched_at": "2026-04-25T20:35:10.127550652Z"
               }
             },
             {
@@ -4684,10 +4684,10 @@
               "description": "The lightweight, distributed, relational database built on SQLite.",
               "url": "https://github.com/rqlite/rqlite",
               "repo_metadata": {
-                "stars": 17440,
+                "stars": 17445,
                 "is_archived": false,
-                "last_update": "2026-04-21T10:33:37Z",
-                "enriched_at": "2026-04-24T18:44:24.946399148Z"
+                "last_update": "2026-04-25T18:38:36Z",
+                "enriched_at": "2026-04-25T20:35:10.291056512Z"
               }
             },
             {
@@ -4698,7 +4698,7 @@
                 "stars": 19,
                 "is_archived": false,
                 "last_update": "2018-02-14T19:03:13Z",
-                "enriched_at": "2026-04-24T18:44:25.202810667Z"
+                "enriched_at": "2026-04-25T20:35:10.420231518Z"
               }
             },
             {
@@ -4706,10 +4706,10 @@
               "description": "TiDB is a distributed SQL database. Inspired by the design of Google F1.",
               "url": "https://github.com/pingcap/tidb",
               "repo_metadata": {
-                "stars": 40024,
+                "stars": 40028,
                 "is_archived": false,
-                "last_update": "2026-04-24T15:13:42Z",
-                "enriched_at": "2026-04-24T18:44:25.493874203Z"
+                "last_update": "2026-04-25T14:17:40Z",
+                "enriched_at": "2026-04-25T20:35:10.567662904Z"
               }
             },
             {
@@ -4720,7 +4720,7 @@
                 "stars": 2731,
                 "is_archived": false,
                 "last_update": "2021-09-05T17:47:27Z",
-                "enriched_at": "2026-04-24T18:44:25.751604111Z"
+                "enriched_at": "2026-04-25T20:35:10.715973855Z"
               }
             },
             {
