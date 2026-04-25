@@ -334,7 +334,7 @@ Frameworks for performing ELT / ETL
 * [bit](https://github.com/yourbasic/bit) / ⭐ 168 - Golang set data structure with bonus bit-twiddling functions.
 * [crunch](https://github.com/superwhiskers/crunch) / ⭐ 99 - Go package implementing buffers for handling various datatypes easily.
 * [go-ef](https://github.com/amallia/go-ef) / ⭐ 41 - A Go implementation of the Elias-Fano encoding.
-* [roaring](https://github.com/RoaringBitmap/roaring) / ⭐ 2871 - Go package implementing compressed bitsets.
+* [roaring](https://github.com/RoaringBitmap/roaring) / ⭐ 2872 - Go package implementing compressed bitsets.
 ### Bit Sets
 
 * [bitmap](https://github.com/kelindar/bitmap) / ⭐ 373 - Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go.
@@ -400,14 +400,14 @@ additional ordered map implementations.
 * [deque](https://github.com/gammazero/deque) / ⭐ 773 - Fast ring-buffer deque (double-ended queue).
 * [dqueue](https://github.com/vodolaz095/dqueue) / ⭐ 2 - Simple, in memory, zero dependency and battle tested, thread-safe deferred queue.
 * [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) / ⭐ 434 - Concurrent FIFO queue.
-* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 6966 - Distributed, Fault-tolerant task queue.
+* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 6981 - Distributed, Fault-tolerant task queue.
 * [list](https://github.com/koss-null/list) / ⭐ 11 - A generic, thread-safe doubly linked list with full iterator support and an intrusive singly linked list for embedded use; a feature-rich replacement for container/list.
 * [memlog](https://github.com/embano1/memlog) / ⭐ 138 - An easy to use, lightweight, thread-safe and append-only in-memory data structure inspired by Apache Kafka.
-* [queue](https://github.com/adrianbrad/queue) / ⭐ 337 - Multiple thread-safe, generic queue implementations for Go.
+* [queue](https://github.com/adrianbrad/queue) / ⭐ 338 - Multiple thread-safe, generic queue implementations for Go.
 ### Sets
 
 * [dsu](https://github.com/ihebu/dsu) / ⭐ 16 - Disjoint Set data structure implementation in Go.
-* [golang-set](https://github.com/deckarep/golang-set) / ⭐ 4664 - Thread-Safe and Non-Thread-Safe high-performance sets for Go.
+* [golang-set](https://github.com/deckarep/golang-set) / ⭐ 4665 - Thread-Safe and Non-Thread-Safe high-performance sets for Go.
 * [goset](https://github.com/zoumo/goset) / ⭐ 52 - A useful Set collection implementation for Go.
 * [set](https://github.com/StudioSol/set) / ⭐ 30 - Simple set data structure implementation in Go using LinkedHashMap.
 ### Text Analysis
@@ -442,7 +442,7 @@ additional ordered map implementations.
 Data stores with expiring records, in-memory distributed data stores, or in-memory subsets of file-based databases.
 
 * [bcache](https://github.com/iwanbk/bcache) / ⭐ 163 - Eventually consistent distributed in-memory cache Go library.
-* [BigCache](https://github.com/allegro/bigcache) / ⭐ 8121 - Efficient key/value cache for gigabytes of data.
+* [BigCache](https://github.com/allegro/bigcache) / ⭐ 8120 - Efficient key/value cache for gigabytes of data.
 * [cache2go](https://github.com/muesli/cache2go) / ⭐ 2160 - In-memory key:value cache which supports automatic invalidation based on timeouts.
 * [cachego](https://github.com/faabiosr/cachego) / ⭐ 371 - Golang Cache component for multiple drivers.
 * [clusteredBigCache](https://github.com/oaStuff/clusteredBigCache) / ⭐ 45 - BigCache with clustering support and individual item expiration.
@@ -463,9 +463,9 @@ Data stores with expiring records, in-memory distributed data stores, or in-memo
 * [imcache](https://github.com/erni27/imcache) / ⭐ 123 - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
 * [jetcache-go](https://github.com/mgtv-tech/jetcache-go) / ⭐ 527 - Unified Go cache library supporting multi-level caching.
 * [nscache](https://github.com/no-src/nscache) / ⭐ 14 - A Go caching framework that supports multiple data source drivers.
-* [otter](https://github.com/maypok86/otter) / ⭐ 2593 - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
+* [otter](https://github.com/maypok86/otter) / ⭐ 2594 - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
 * [pocache](https://github.com/naughtygopher/pocache) / ⭐ 235 - Pocache is a minimal cache package which focuses on a preemptive optimistic caching strategy.
-* [ristretto](https://github.com/dgraph-io/ristretto) / ⭐ 6874 - A high performance memory-bound Go cache.
+* [ristretto](https://github.com/dgraph-io/ristretto) / ⭐ 6875 - A high performance memory-bound Go cache.
 * [sturdyc](https://github.com/viccon/sturdyc) / ⭐ 1247 - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant.
 * [theine](https://github.com/Yiling-J/theine-go) / ⭐ 369 - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
 * [timedmap](https://github.com/zekroTJA/timedmap) / ⭐ 74 - Map with expiring key-value pairs.
@@ -473,22 +473,22 @@ Data stores with expiring records, in-memory distributed data stores, or in-memo
 * [ttlcache](https://github.com/cheshir/ttlcache) / ⭐ 10 - In-memory key value storage with TTL for each record.
 ### Databases Implemented in Go
 
-* [badger](https://github.com/dgraph-io/badger) / ⭐ 15583 - Fast key-value store in Go.
-* [bbolt](https://github.com/etcd-io/bbolt) / ⭐ 9473 - An embedded key/value database for Go.
+* [badger](https://github.com/dgraph-io/badger) / ⭐ 15584 - Fast key-value store in Go.
+* [bbolt](https://github.com/etcd-io/bbolt) / ⭐ 9475 - An embedded key/value database for Go.
 * [Bitcask](https://git.mills.io/prologic/bitcask) - Bitcask is an embeddable, persistent and fast key-value (KV) database written in pure Go with predictable read/write performance, low latency and high throughput thanks to the bitcask on-disk layout (LSM+WAL).
 * [buntdb](https://github.com/tidwall/buntdb) / ⭐ 4843 - Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.
 * [clover](https://github.com/ostafen/clover) / ⭐ 816 - A lightweight document-oriented NoSQL database written in pure Golang.
-* [cockroach](https://github.com/cockroachdb/cockroach) / ⭐ 32093 - Scalable, Geo-Replicated, Transactional Datastore.
+* [cockroach](https://github.com/cockroachdb/cockroach) / ⭐ 32100 - Scalable, Geo-Replicated, Transactional Datastore.
 * [Coffer](https://github.com/claygod/coffer) / ⭐ 39 - Simple ACID key-value database that supports transactions.
 * [column](https://github.com/kelindar/column) / ⭐ 1512 - High-performance, columnar, embeddable in-memory store with bitmap indexing and transactions.
 * [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) / ⭐ 1530 - CovenantSQL is a SQL database on blockchain.
 * [Databunker](https://github.com/paranoidguy/databunker) / ⭐ 1413 - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA.
 * [dgraph](https://github.com/dgraph-io/dgraph) / ⭐ 21670 - Scalable, Distributed, Low Latency, High Throughput Graph Database.
-* [DiceDB](https://github.com/DiceDB/dice) / ⭐ 10737 - An open-source, fast, reactive, in-memory database optimized for modern hardware. Higher throughput and lower median latencies, making it ideal for modern workloads.
+* [DiceDB](https://github.com/DiceDB/dice) / ⭐ 10739 - An open-source, fast, reactive, in-memory database optimized for modern hardware. Higher throughput and lower median latencies, making it ideal for modern workloads.
 * [diskv](https://github.com/peterbourgon/diskv) / ⭐ 1457 - Home-grown disk-backed key-value store.
-* [dolt](https://github.com/dolthub/dolt) / ⭐ 22309 - Dolt – It's Git for Data.
+* [dolt](https://github.com/dolthub/dolt) / ⭐ 22339 - Dolt – It's Git for Data.
 * [eliasdb](https://github.com/krotik/eliasdb) / ⭐ 1033 - Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.
-* [godis](https://github.com/hdt3213/godis) / ⭐ 3831 - A Golang implemented high-performance Redis server and cluster.
+* [godis](https://github.com/hdt3213/godis) / ⭐ 3832 - A Golang implemented high-performance Redis server and cluster.
 * [goleveldb](https://github.com/syndtr/goleveldb) / ⭐ 6326 - Implementation of the LevelDB key/value database in Go.
 * [hare](https://github.com/jameycribbs/hare) / ⭐ 97 - A simple database management system that stores each table as a text file of line-delimited JSON.
 * [immudb](https://github.com/codenotary/immudb) / ⭐ 8957 - immudb is a lightweight, high-speed immutable database for systems and applications written in Go.
