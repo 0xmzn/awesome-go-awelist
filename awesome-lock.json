@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-04-27T20:58:50.758288748Z",
+    "updated_at": "2026-04-27T22:49:01.623882966Z",
     "provider_metrics": [
       {
         "provider": "gitlab-provider",
@@ -10,8 +10,8 @@
       },
       {
         "provider": "github-provider",
-        "attempted": 9,
-        "successful": 0,
+        "attempted": 35,
+        "successful": 26,
         "failed": 9
       }
     ],
@@ -4445,7 +4445,7 @@
                 "stars": 6327,
                 "is_archived": false,
                 "last_update": "2024-05-14T20:40:52Z",
-                "enriched_at": "2026-04-26T22:34:38.0658236Z"
+                "enriched_at": "2026-04-27T22:48:54.935154771Z"
               }
             },
             {
@@ -4456,7 +4456,7 @@
                 "stars": 97,
                 "is_archived": false,
                 "last_update": "2021-02-25T00:05:34Z",
-                "enriched_at": "2026-04-26T22:34:38.223982669Z"
+                "enriched_at": "2026-04-27T22:48:55.143257225Z"
               }
             },
             {
@@ -4467,7 +4467,7 @@
                 "stars": 8959,
                 "is_archived": false,
                 "last_update": "2026-04-24T07:47:24Z",
-                "enriched_at": "2026-04-26T22:34:38.40776908Z"
+                "enriched_at": "2026-04-27T22:48:55.338322742Z"
               }
             },
             {
@@ -4475,10 +4475,10 @@
               "description": "Scalable datastore for metrics, events, and real-time analytics.",
               "url": "https://github.com/influxdb/influxdb",
               "repo_metadata": {
-                "stars": 31464,
+                "stars": 31470,
                 "is_archived": false,
-                "last_update": "2026-04-25T00:04:08Z",
-                "enriched_at": "2026-04-26T22:34:38.68736016Z"
+                "last_update": "2026-04-27T22:19:33Z",
+                "enriched_at": "2026-04-27T22:48:55.689422249Z"
               }
             },
             {
@@ -4489,7 +4489,7 @@
                 "stars": 4120,
                 "is_archived": false,
                 "last_update": "2023-10-22T02:24:37Z",
-                "enriched_at": "2026-04-26T22:34:38.966118058Z"
+                "enriched_at": "2026-04-27T22:48:56.037576947Z"
               }
             },
             {
@@ -4500,7 +4500,7 @@
                 "stars": 420,
                 "is_archived": false,
                 "last_update": "2022-03-07T12:05:55Z",
-                "enriched_at": "2026-04-26T22:34:39.122566595Z"
+                "enriched_at": "2026-04-27T22:48:56.233811153Z"
               }
             },
             {
@@ -4511,7 +4511,7 @@
                 "stars": 201,
                 "is_archived": false,
                 "last_update": "2024-04-11T18:39:36Z",
-                "enriched_at": "2026-04-26T22:34:39.287400836Z"
+                "enriched_at": "2026-04-27T22:48:56.420520304Z"
               }
             },
             {
@@ -4522,7 +4522,7 @@
                 "stars": 3059,
                 "is_archived": false,
                 "last_update": "2026-03-06T02:18:06Z",
-                "enriched_at": "2026-04-26T22:34:39.487729043Z"
+                "enriched_at": "2026-04-27T22:48:56.630510263Z"
               }
             },
             {
@@ -4533,7 +4533,7 @@
                 "stars": 2254,
                 "is_archived": false,
                 "last_update": "2025-02-18T08:07:46Z",
-                "enriched_at": "2026-04-26T22:34:39.755051864Z"
+                "enriched_at": "2026-04-27T22:48:56.970690671Z"
               }
             },
             {
@@ -4541,10 +4541,10 @@
               "description": "Milvus is a vector database for embedding management, analytics and search.",
               "url": "https://github.com/milvus-io/milvus",
               "repo_metadata": {
-                "stars": 43998,
+                "stars": 44012,
                 "is_archived": false,
-                "last_update": "2026-04-26T12:55:46Z",
-                "enriched_at": "2026-04-26T22:34:39.933183413Z"
+                "last_update": "2026-04-27T21:15:53Z",
+                "enriched_at": "2026-04-27T22:48:57.169117819Z"
               }
             },
             {
@@ -4555,7 +4555,7 @@
                 "stars": 1017,
                 "is_archived": false,
                 "last_update": "2024-12-17T02:07:29Z",
-                "enriched_at": "2026-04-26T22:34:40.089244918Z"
+                "enriched_at": "2026-04-27T22:48:57.364358755Z"
               }
             },
             {
@@ -4563,10 +4563,10 @@
               "description": "High-performance distributed KV storage based on LSM Tree.",
               "url": "https://github.com/feichai0017/NoKV",
               "repo_metadata": {
-                "stars": 375,
+                "stars": 379,
                 "is_archived": false,
-                "last_update": "2026-04-26T18:18:04Z",
-                "enriched_at": "2026-04-26T22:34:40.251498075Z"
+                "last_update": "2026-04-27T17:50:30Z",
+                "enriched_at": "2026-04-27T22:48:57.555024945Z"
               }
             },
             {
@@ -4577,7 +4577,7 @@
                 "stars": 3563,
                 "is_archived": false,
                 "last_update": "2026-02-08T02:02:28Z",
-                "enriched_at": "2026-04-26T22:34:40.54510819Z"
+                "enriched_at": "2026-04-27T22:48:57.88273696Z"
               }
             },
             {
@@ -4588,7 +4588,7 @@
                 "stars": 1263,
                 "is_archived": false,
                 "last_update": "2025-03-12T13:34:35Z",
-                "enriched_at": "2026-04-26T22:34:40.733262471Z"
+                "enriched_at": "2026-04-27T22:48:58.098754394Z"
               }
             },
             {
@@ -4596,10 +4596,10 @@
               "description": "RocksDB/LevelDB inspired key-value database in Go.",
               "url": "https://github.com/cockroachdb/pebble",
               "repo_metadata": {
-                "stars": 5865,
+                "stars": 5866,
                 "is_archived": false,
-                "last_update": "2026-04-26T20:17:22Z",
-                "enriched_at": "2026-04-26T22:34:40.910708293Z"
+                "last_update": "2026-04-27T20:14:42Z",
+                "enriched_at": "2026-04-27T22:48:58.317888895Z"
               }
             },
             {
@@ -4610,7 +4610,7 @@
                 "stars": 205,
                 "is_archived": false,
                 "last_update": "2025-12-05T17:19:16Z",
-                "enriched_at": "2026-04-26T22:34:41.065170427Z"
+                "enriched_at": "2026-04-27T22:48:58.501077726Z"
               }
             },
             {
@@ -4621,7 +4621,7 @@
                 "stars": 1350,
                 "is_archived": false,
                 "last_update": "2026-04-06T23:31:53Z",
-                "enriched_at": "2026-04-26T22:34:41.225287955Z"
+                "enriched_at": "2026-04-27T22:48:58.685972861Z"
               }
             },
             {
@@ -4629,10 +4629,10 @@
               "description": "Monitoring system and time series database.",
               "url": "https://github.com/prometheus/prometheus",
               "repo_metadata": {
-                "stars": 63791,
+                "stars": 63813,
                 "is_archived": false,
-                "last_update": "2026-04-26T21:54:00Z",
-                "enriched_at": "2026-04-26T22:34:41.41139865Z"
+                "last_update": "2026-04-27T14:43:31Z",
+                "enriched_at": "2026-04-27T22:48:58.911402873Z"
               }
             },
             {
@@ -4643,7 +4643,7 @@
                 "stars": 369,
                 "is_archived": false,
                 "last_update": "2021-07-04T02:08:38Z",
-                "enriched_at": "2026-04-26T22:34:41.564865496Z"
+                "enriched_at": "2026-04-27T22:48:59.103022814Z"
               }
             },
             {
@@ -4651,10 +4651,10 @@
               "description": "Redis re-implemented with SQLite.",
               "url": "https://github.com/nalgeon/redka",
               "repo_metadata": {
-                "stars": 4543,
+                "stars": 4544,
                 "is_archived": false,
                 "last_update": "2026-02-04T15:47:32Z",
-                "enriched_at": "2026-04-26T22:34:41.732312082Z"
+                "enriched_at": "2026-04-27T22:48:59.283206661Z"
               }
             },
             {
@@ -4665,7 +4665,7 @@
                 "stars": 4882,
                 "is_archived": false,
                 "last_update": "2026-02-10T03:41:42Z",
-                "enriched_at": "2026-04-26T22:34:42.008063319Z"
+                "enriched_at": "2026-04-27T22:48:59.610738107Z"
               }
             },
             {
@@ -4676,7 +4676,7 @@
                 "stars": 41,
                 "is_archived": false,
                 "last_update": "2024-12-15T06:46:00Z",
-                "enriched_at": "2026-04-26T22:34:42.18103513Z"
+                "enriched_at": "2026-04-27T22:48:59.832953317Z"
               }
             },
             {
@@ -4684,10 +4684,10 @@
               "description": "The lightweight, distributed, relational database built on SQLite.",
               "url": "https://github.com/rqlite/rqlite",
               "repo_metadata": {
-                "stars": 17448,
+                "stars": 17450,
                 "is_archived": false,
-                "last_update": "2026-04-26T18:33:27Z",
-                "enriched_at": "2026-04-26T22:34:42.370371642Z"
+                "last_update": "2026-04-27T14:20:24Z",
+                "enriched_at": "2026-04-27T22:49:00.043115096Z"
               }
             },
             {
@@ -4698,7 +4698,7 @@
                 "stars": 19,
                 "is_archived": false,
                 "last_update": "2018-02-14T19:03:13Z",
-                "enriched_at": "2026-04-26T22:34:42.523652388Z"
+                "enriched_at": "2026-04-27T22:49:00.233503295Z"
               }
             },
             {
@@ -4706,10 +4706,10 @@
               "description": "TiDB is a distributed SQL database. Inspired by the design of Google F1.",
               "url": "https://github.com/pingcap/tidb",
               "repo_metadata": {
-                "stars": 40030,
+                "stars": 40032,
                 "is_archived": false,
-                "last_update": "2026-04-25T14:17:40Z",
-                "enriched_at": "2026-04-26T22:34:42.709889828Z"
+                "last_update": "2026-04-27T18:20:01Z",
+                "enriched_at": "2026-04-27T22:49:00.448004482Z"
               }
             },
             {
@@ -4720,7 +4720,7 @@
                 "stars": 2731,
                 "is_archived": false,
                 "last_update": "2021-09-05T17:47:27Z",
-                "enriched_at": "2026-04-26T22:34:42.842048776Z"
+                "enriched_at": "2026-04-27T22:49:00.647680661Z"
               }
             },
             {
