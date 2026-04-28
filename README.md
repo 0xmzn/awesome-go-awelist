@@ -493,27 +493,27 @@ Data stores with expiring records, in-memory distributed data stores, or in-memo
 * [hare](https://github.com/jameycribbs/hare) / ⭐ 97 - A simple database management system that stores each table as a text file of line-delimited JSON.
 * [immudb](https://github.com/codenotary/immudb) / ⭐ 8959 - immudb is a lightweight, high-speed immutable database for systems and applications written in Go.
 * [influxdb](https://github.com/influxdb/influxdb) / ⭐ 31470 - Scalable datastore for metrics, events, and real-time analytics.
-* [ledisdb](https://github.com/siddontang/ledisdb) / ⭐ 4120 - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
+* [ledisdb](https://github.com/siddontang/ledisdb) / ⭐ 4121 - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
 * [levigo](https://github.com/jmhodges/levigo) / ⭐ 420 - Levigo is a Go wrapper for LevelDB.
 * [libradb](https://github.com/amit-davidson/LibraDB) / ⭐ 201 - LibraDB is a simple database with less than 1000 lines of code for learning.
 * [LinDB](https://github.com/lindb/lindb) / ⭐ 3059 - LinDB is a scalable, high performance, high availability distributed time series database.
 * [lotusdb](https://github.com/flower-corp/lotusdb) / ⭐ 2254 - Fast k/v database compatible with lsm and b+tree.
-* [Milvus](https://github.com/milvus-io/milvus) / ⭐ 44012 - Milvus is a vector database for embedding management, analytics and search.
+* [Milvus](https://github.com/milvus-io/milvus) / ⭐ 44031 - Milvus is a vector database for embedding management, analytics and search.
 * [moss](https://github.com/couchbase/moss) / ⭐ 1017 - Moss is a simple LSM key-value storage engine written in 100% Go.
 * [NoKV](https://github.com/feichai0017/NoKV) / ⭐ 379 - High-performance distributed KV storage based on LSM Tree.
-* [nutsdb](https://github.com/xujiajun/nutsdb) / ⭐ 3563 - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
+* [nutsdb](https://github.com/xujiajun/nutsdb) / ⭐ 3564 - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
 * [objectbox-go](https://github.com/objectbox/objectbox-go) / ⭐ 1263 - High-performance embedded Object Database (NoSQL) with Go API.
-* [pebble](https://github.com/cockroachdb/pebble) / ⭐ 5866 - RocksDB/LevelDB inspired key-value database in Go.
+* [pebble](https://github.com/cockroachdb/pebble) / ⭐ 5867 - RocksDB/LevelDB inspired key-value database in Go.
 * [piladb](https://github.com/fern4lvarez/piladb) / ⭐ 205 - Lightweight RESTful database engine based on stack data structures.
 * [pogreb](https://github.com/akrylysov/pogreb) / ⭐ 1350 - Embedded key-value store for read-heavy workloads.
-* [prometheus](https://github.com/prometheus/prometheus) / ⭐ 63813 - Monitoring system and time series database.
+* [prometheus](https://github.com/prometheus/prometheus) / ⭐ 63832 - Monitoring system and time series database.
 * [pudge](https://github.com/recoilme/pudge) / ⭐ 369 - Fast and simple key/value store written using Go's standard library.
-* [redka](https://github.com/nalgeon/redka) / ⭐ 4544 - Redis re-implemented with SQLite.
-* [rosedb](https://github.com/roseduan/rosedb) / ⭐ 4882 - An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset.
+* [redka](https://github.com/nalgeon/redka) / ⭐ 4546 - Redis re-implemented with SQLite.
+* [rosedb](https://github.com/roseduan/rosedb) / ⭐ 4883 - An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset.
 * [rotom](https://github.com/xgzlucario/rotom) / ⭐ 41 - A tiny Redis server built with Golang, compatible with RESP protocols.
-* [rqlite](https://github.com/rqlite/rqlite) / ⭐ 17450 - The lightweight, distributed, relational database built on SQLite.
+* [rqlite](https://github.com/rqlite/rqlite) / ⭐ 17455 - The lightweight, distributed, relational database built on SQLite.
 * [tempdb](https://github.com/rafaeljesus/tempdb) / ⭐ 19 - Key-value store for temporary items.
-* [tidb](https://github.com/pingcap/tidb) / ⭐ 40032 - TiDB is a distributed SQL database. Inspired by the design of Google F1.
+* [tidb](https://github.com/pingcap/tidb) / ⭐ 40035 - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 * [tiedot](https://github.com/HouzuoGuo/tiedot) / ⭐ 2731 - Your NoSQL database powered by Golang.
 * [unitdb](https://github.com/unit-io/unitdb) / ⭐ 124 - Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
 * [Vasto](https://github.com/chrislusf/vasto) / ⭐ 263 - A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption.
