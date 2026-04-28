@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-04-28T02:38:21.652430536Z",
+    "updated_at": "2026-04-28T06:27:55.889508463Z",
     "provider_metrics": [
       {
         "provider": "gitlab-provider",
@@ -10,8 +10,8 @@
       },
       {
         "provider": "github-provider",
-        "attempted": 580,
-        "successful": 571,
+        "attempted": 363,
+        "successful": 354,
         "failed": 9
       }
     ],
@@ -11344,7 +11344,7 @@
             "stars": 16,
             "is_archived": false,
             "last_update": "2019-10-09T11:56:05Z",
-            "enriched_at": "2026-04-27T06:25:29.717403853Z"
+            "enriched_at": "2026-04-28T06:26:49.996916534Z"
           }
         },
         {
@@ -11355,7 +11355,7 @@
             "stars": 56,
             "is_archived": false,
             "last_update": "2021-09-24T20:08:26Z",
-            "enriched_at": "2026-04-27T06:25:29.916278189Z"
+            "enriched_at": "2026-04-28T06:26:50.179302379Z"
           }
         },
         {
@@ -11366,7 +11366,7 @@
             "stars": 22,
             "is_archived": false,
             "last_update": "2023-06-21T02:59:07Z",
-            "enriched_at": "2026-04-27T06:25:30.123163772Z"
+            "enriched_at": "2026-04-28T06:26:50.349930806Z"
           }
         },
         {
@@ -11377,7 +11377,7 @@
             "stars": 190,
             "is_archived": false,
             "last_update": "2023-06-28T21:48:30Z",
-            "enriched_at": "2026-04-27T06:25:30.318317343Z"
+            "enriched_at": "2026-04-28T06:26:50.518714829Z"
           }
         },
         {
@@ -11388,7 +11388,7 @@
             "stars": 2687,
             "is_archived": false,
             "last_update": "2021-07-30T03:02:50Z",
-            "enriched_at": "2026-04-27T06:25:30.507850188Z"
+            "enriched_at": "2026-04-28T06:26:50.684784649Z"
           }
         },
         {
@@ -11399,7 +11399,7 @@
             "stars": 9,
             "is_archived": false,
             "last_update": "2026-03-26T10:21:17Z",
-            "enriched_at": "2026-04-27T06:25:30.724119366Z"
+            "enriched_at": "2026-04-28T06:26:50.84793424Z"
           }
         },
         {
@@ -11410,7 +11410,7 @@
             "stars": 110,
             "is_archived": false,
             "last_update": "2026-04-21T08:12:04Z",
-            "enriched_at": "2026-04-27T06:25:30.951177274Z"
+            "enriched_at": "2026-04-28T06:26:51.039449475Z"
           }
         },
         {
@@ -11421,7 +11421,7 @@
             "stars": 180,
             "is_archived": false,
             "last_update": "2023-07-28T09:54:40Z",
-            "enriched_at": "2026-04-27T06:25:31.150103541Z"
+            "enriched_at": "2026-04-28T06:26:51.169965569Z"
           }
         },
         {
@@ -11432,7 +11432,7 @@
             "stars": 101,
             "is_archived": false,
             "last_update": "2024-02-02T18:24:10Z",
-            "enriched_at": "2026-04-27T06:25:31.385112242Z"
+            "enriched_at": "2026-04-28T06:26:51.382165142Z"
           }
         },
         {
@@ -11453,7 +11453,7 @@
             "stars": 141,
             "is_archived": false,
             "last_update": "2026-04-06T21:33:08Z",
-            "enriched_at": "2026-04-27T06:25:31.599449592Z"
+            "enriched_at": "2026-04-28T06:26:51.547470841Z"
           }
         },
         {
@@ -11464,7 +11464,7 @@
             "stars": 13,
             "is_archived": false,
             "last_update": "2016-11-17T16:02:12Z",
-            "enriched_at": "2026-04-27T06:25:31.815505488Z"
+            "enriched_at": "2026-04-28T06:26:51.745600584Z"
           }
         },
         {
@@ -11475,7 +11475,7 @@
             "stars": 52,
             "is_archived": false,
             "last_update": "2026-04-17T03:16:38Z",
-            "enriched_at": "2026-04-27T06:25:32.042314455Z"
+            "enriched_at": "2026-04-28T06:26:51.92350064Z"
           }
         },
         {
@@ -11486,7 +11486,7 @@
             "stars": 623,
             "is_archived": false,
             "last_update": "2026-04-01T15:24:38Z",
-            "enriched_at": "2026-04-27T06:25:32.242446984Z"
+            "enriched_at": "2026-04-28T06:26:52.102491103Z"
           }
         },
         {
@@ -11497,7 +11497,7 @@
             "stars": 64,
             "is_archived": false,
             "last_update": "2020-12-13T21:45:56Z",
-            "enriched_at": "2026-04-27T06:25:32.446989439Z"
+            "enriched_at": "2026-04-28T06:26:52.240030863Z"
           }
         },
         {
@@ -11508,7 +11508,7 @@
             "stars": 108,
             "is_archived": false,
             "last_update": "2021-10-04T03:26:13Z",
-            "enriched_at": "2026-04-27T06:25:32.653457884Z"
+            "enriched_at": "2026-04-28T06:26:52.401148167Z"
           }
         },
         {
@@ -11519,7 +11519,7 @@
             "stars": 13,
             "is_archived": false,
             "last_update": "2020-03-24T12:17:52Z",
-            "enriched_at": "2026-04-27T06:25:32.939057501Z"
+            "enriched_at": "2026-04-28T06:26:52.69906274Z"
           }
         },
         {
@@ -11530,7 +11530,7 @@
             "stars": 2,
             "is_archived": false,
             "last_update": "2023-03-09T15:44:29Z",
-            "enriched_at": "2026-04-27T06:25:33.144229339Z"
+            "enriched_at": "2026-04-28T06:26:52.849346255Z"
           }
         },
         {
@@ -11541,7 +11541,7 @@
             "stars": 11,
             "is_archived": false,
             "last_update": "2021-01-15T08:00:58Z",
-            "enriched_at": "2026-04-27T06:25:33.334178755Z"
+            "enriched_at": "2026-04-28T06:26:53.014254763Z"
           }
         },
         {
@@ -11552,7 +11552,7 @@
             "stars": 202,
             "is_archived": false,
             "last_update": "2026-03-05T08:49:27Z",
-            "enriched_at": "2026-04-27T06:25:33.548287337Z"
+            "enriched_at": "2026-04-28T06:26:53.178957219Z"
           }
         },
         {
@@ -11563,7 +11563,7 @@
             "stars": 11,
             "is_archived": false,
             "last_update": "2024-10-30T04:17:43Z",
-            "enriched_at": "2026-04-27T06:25:33.756240998Z"
+            "enriched_at": "2026-04-28T06:26:53.36307938Z"
           }
         },
         {
@@ -11574,7 +11574,7 @@
             "stars": 293,
             "is_archived": false,
             "last_update": "2022-06-06T06:01:18Z",
-            "enriched_at": "2026-04-27T06:25:34.000879092Z"
+            "enriched_at": "2026-04-28T06:26:53.551876781Z"
           }
         },
         {
@@ -11585,7 +11585,7 @@
             "stars": 20,
             "is_archived": false,
             "last_update": "2024-03-08T08:51:37Z",
-            "enriched_at": "2026-04-27T06:25:34.345228053Z"
+            "enriched_at": "2026-04-28T06:26:53.822632163Z"
           }
         },
         {
@@ -11596,7 +11596,7 @@
             "stars": 392,
             "is_archived": false,
             "last_update": "2023-07-03T07:05:49Z",
-            "enriched_at": "2026-04-27T06:25:34.743301019Z"
+            "enriched_at": "2026-04-28T06:26:54.105155207Z"
           }
         },
         {
@@ -11607,7 +11607,7 @@
             "stars": 47,
             "is_archived": false,
             "last_update": "2016-05-11T19:40:58Z",
-            "enriched_at": "2026-04-27T06:25:34.955929233Z"
+            "enriched_at": "2026-04-28T06:26:54.286434402Z"
           }
         },
         {
@@ -11618,7 +11618,7 @@
             "stars": 943,
             "is_archived": false,
             "last_update": "2026-03-17T00:39:02Z",
-            "enriched_at": "2026-04-27T06:25:35.167689629Z"
+            "enriched_at": "2026-04-28T06:26:54.447197296Z"
           }
         },
         {
@@ -11629,7 +11629,7 @@
             "stars": 6,
             "is_archived": false,
             "last_update": "2021-10-12T12:34:19Z",
-            "enriched_at": "2026-04-27T06:25:35.383795113Z"
+            "enriched_at": "2026-04-28T06:26:54.631589445Z"
           }
         },
         {
@@ -11640,7 +11640,7 @@
             "stars": 2705,
             "is_archived": false,
             "last_update": "2025-11-03T17:56:03Z",
-            "enriched_at": "2026-04-27T06:25:35.5953066Z"
+            "enriched_at": "2026-04-28T06:26:54.818597631Z"
           }
         },
         {
@@ -11651,7 +11651,7 @@
             "stars": 85,
             "is_archived": false,
             "last_update": "2025-01-04T04:18:17Z",
-            "enriched_at": "2026-04-27T06:25:35.933322146Z"
+            "enriched_at": "2026-04-28T06:26:55.091327026Z"
           }
         },
         {
@@ -11662,7 +11662,7 @@
             "stars": 41,
             "is_archived": false,
             "last_update": "2025-07-31T20:02:44Z",
-            "enriched_at": "2026-04-27T06:25:36.15665388Z"
+            "enriched_at": "2026-04-28T06:26:55.265110606Z"
           }
         }
       ]
@@ -11680,7 +11680,7 @@
             "stars": 31,
             "is_archived": false,
             "last_update": "2018-07-26T23:35:13Z",
-            "enriched_at": "2026-04-27T06:25:36.353070505Z"
+            "enriched_at": "2026-04-28T06:26:55.454708822Z"
           }
         },
         {
@@ -11691,7 +11691,7 @@
             "stars": 192,
             "is_archived": false,
             "last_update": "2026-01-14T00:58:35Z",
-            "enriched_at": "2026-04-27T06:25:36.549362817Z"
+            "enriched_at": "2026-04-28T06:26:55.64955504Z"
           }
         },
         {
@@ -11702,7 +11702,7 @@
             "stars": 16,
             "is_archived": false,
             "last_update": "2019-01-23T11:35:10Z",
-            "enriched_at": "2026-04-27T06:25:36.773334567Z"
+            "enriched_at": "2026-04-28T06:26:55.819545056Z"
           }
         },
         {
@@ -11713,7 +11713,7 @@
             "stars": 3604,
             "is_archived": false,
             "last_update": "2025-04-29T08:47:46Z",
-            "enriched_at": "2026-04-27T06:25:37.030298728Z"
+            "enriched_at": "2026-04-28T06:26:55.966654616Z"
           }
         },
         {
@@ -11724,7 +11724,7 @@
             "stars": 56,
             "is_archived": false,
             "last_update": "2021-03-16T17:25:35Z",
-            "enriched_at": "2026-04-27T06:25:37.221681279Z"
+            "enriched_at": "2026-04-28T06:26:56.133265895Z"
           }
         },
         {
@@ -11735,7 +11735,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2026-04-07T07:55:58Z",
-            "enriched_at": "2026-04-27T06:25:37.433274881Z"
+            "enriched_at": "2026-04-28T06:26:56.297350824Z"
           }
         },
         {
@@ -11746,7 +11746,7 @@
             "stars": 14,
             "is_archived": false,
             "last_update": "2018-05-19T08:03:37Z",
-            "enriched_at": "2026-04-27T06:25:37.61444055Z"
+            "enriched_at": "2026-04-28T06:26:56.522850938Z"
           }
         },
         {
@@ -11757,7 +11757,7 @@
             "stars": 38,
             "is_archived": false,
             "last_update": "2019-02-21T02:24:31Z",
-            "enriched_at": "2026-04-27T06:25:37.83153683Z"
+            "enriched_at": "2026-04-28T06:26:56.666738838Z"
           }
         },
         {
@@ -11768,7 +11768,7 @@
             "stars": 42,
             "is_archived": false,
             "last_update": "2018-03-31T02:06:55Z",
-            "enriched_at": "2026-04-27T06:25:38.034155504Z"
+            "enriched_at": "2026-04-28T06:26:56.825077975Z"
           }
         },
         {
@@ -11779,7 +11779,7 @@
             "stars": 288,
             "is_archived": false,
             "last_update": "2019-05-15T21:27:11Z",
-            "enriched_at": "2026-04-27T06:25:38.212507065Z"
+            "enriched_at": "2026-04-28T06:26:57.004063223Z"
           }
         },
         {
@@ -11795,7 +11795,7 @@
             "stars": 413,
             "is_archived": false,
             "last_update": "2025-11-24T12:17:51Z",
-            "enriched_at": "2026-04-27T06:25:38.420648522Z"
+            "enriched_at": "2026-04-28T06:26:57.15257736Z"
           }
         },
         {
@@ -11806,7 +11806,7 @@
             "stars": 46,
             "is_archived": false,
             "last_update": "2021-03-05T18:33:46Z",
-            "enriched_at": "2026-04-27T06:25:38.630602473Z"
+            "enriched_at": "2026-04-28T06:26:57.334782802Z"
           }
         },
         {
@@ -11817,7 +11817,7 @@
             "stars": 17,
             "is_archived": false,
             "last_update": "2026-04-07T20:53:28Z",
-            "enriched_at": "2026-04-27T06:25:38.830382907Z"
+            "enriched_at": "2026-04-28T06:26:57.523806784Z"
           }
         },
         {
@@ -11825,10 +11825,10 @@
           "description": "A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods.",
           "url": "https://github.com/Lifailon/lazyjournal",
           "repo_metadata": {
-            "stars": 1239,
+            "stars": 1240,
             "is_archived": false,
             "last_update": "2026-04-02T00:14:22Z",
-            "enriched_at": "2026-04-27T06:25:39.02934178Z"
+            "enriched_at": "2026-04-28T06:26:57.670876844Z"
           }
         },
         {
@@ -11839,7 +11839,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2019-10-26T04:19:45Z",
-            "enriched_at": "2026-04-27T06:25:39.25949217Z"
+            "enriched_at": "2026-04-28T06:26:57.882166643Z"
           }
         },
         {
@@ -11850,7 +11850,7 @@
             "stars": 1373,
             "is_archived": false,
             "last_update": "2023-11-03T18:30:34Z",
-            "enriched_at": "2026-04-27T06:25:39.475525226Z"
+            "enriched_at": "2026-04-28T06:26:58.074617135Z"
           }
         },
         {
@@ -11861,7 +11861,7 @@
             "stars": 293,
             "is_archived": false,
             "last_update": "2023-08-17T00:21:03Z",
-            "enriched_at": "2026-04-27T06:25:39.701967998Z"
+            "enriched_at": "2026-04-28T06:26:58.269942527Z"
           }
         },
         {
@@ -11872,7 +11872,7 @@
             "stars": 25,
             "is_archived": false,
             "last_update": "2017-12-04T18:53:45Z",
-            "enriched_at": "2026-04-27T06:25:39.896578406Z"
+            "enriched_at": "2026-04-28T06:26:58.493983009Z"
           }
         },
         {
@@ -11883,7 +11883,7 @@
             "stars": 17,
             "is_archived": false,
             "last_update": "2022-12-06T14:24:16Z",
-            "enriched_at": "2026-04-27T06:25:40.095434673Z"
+            "enriched_at": "2026-04-28T06:26:58.675112796Z"
           }
         },
         {
@@ -11894,7 +11894,7 @@
             "stars": 3,
             "is_archived": false,
             "last_update": "2026-03-30T04:53:58Z",
-            "enriched_at": "2026-04-27T06:25:40.32797864Z"
+            "enriched_at": "2026-04-28T06:26:58.875687565Z"
           }
         },
         {
@@ -11905,7 +11905,7 @@
             "stars": 1102,
             "is_archived": false,
             "last_update": "2026-02-26T20:35:09Z",
-            "enriched_at": "2026-04-27T06:25:40.544002965Z"
+            "enriched_at": "2026-04-28T06:26:59.020652617Z"
           }
         },
         {
@@ -11916,7 +11916,7 @@
             "stars": 11,
             "is_archived": false,
             "last_update": "2018-04-02T00:28:16Z",
-            "enriched_at": "2026-04-27T06:25:40.736175639Z"
+            "enriched_at": "2026-04-28T06:26:59.184450094Z"
           }
         },
         {
@@ -11927,7 +11927,7 @@
             "stars": 42,
             "is_archived": false,
             "last_update": "2024-04-02T15:49:33Z",
-            "enriched_at": "2026-04-27T06:25:40.929441708Z"
+            "enriched_at": "2026-04-28T06:26:59.390442558Z"
           }
         },
         {
@@ -11938,7 +11938,7 @@
             "stars": 158,
             "is_archived": false,
             "last_update": "2026-01-29T12:41:25Z",
-            "enriched_at": "2026-04-27T06:25:41.160787378Z"
+            "enriched_at": "2026-04-28T06:26:59.544225966Z"
           }
         },
         {
@@ -11949,7 +11949,7 @@
             "stars": 12,
             "is_archived": false,
             "last_update": "2020-12-27T10:33:21Z",
-            "enriched_at": "2026-04-27T06:25:41.378339953Z"
+            "enriched_at": "2026-04-28T06:26:59.747454899Z"
           }
         },
         {
@@ -11957,10 +11957,10 @@
           "description": "Structured logger for Go.",
           "url": "https://github.com/Sirupsen/logrus",
           "repo_metadata": {
-            "stars": 25714,
+            "stars": 25715,
             "is_archived": false,
             "last_update": "2026-04-26T20:35:57Z",
-            "enriched_at": "2026-04-27T06:25:41.606154859Z"
+            "enriched_at": "2026-04-28T06:26:59.915860882Z"
           }
         },
         {
@@ -11971,7 +11971,7 @@
             "stars": 16,
             "is_archived": false,
             "last_update": "2024-10-09T09:10:03Z",
-            "enriched_at": "2026-04-27T06:25:41.845541023Z"
+            "enriched_at": "2026-04-28T06:27:00.115645873Z"
           }
         },
         {
@@ -11982,7 +11982,7 @@
             "stars": 29,
             "is_archived": false,
             "last_update": "2021-07-27T21:32:29Z",
-            "enriched_at": "2026-04-27T06:25:42.075058958Z"
+            "enriched_at": "2026-04-28T06:27:00.305329091Z"
           }
         },
         {
@@ -11993,7 +11993,7 @@
             "stars": 372,
             "is_archived": false,
             "last_update": "2026-03-13T08:31:00Z",
-            "enriched_at": "2026-04-27T06:25:42.308123539Z"
+            "enriched_at": "2026-04-28T06:27:00.497713496Z"
           }
         },
         {
@@ -12004,7 +12004,7 @@
             "stars": 357,
             "is_archived": false,
             "last_update": "2020-04-14T15:56:24Z",
-            "enriched_at": "2026-04-27T06:25:42.505062788Z"
+            "enriched_at": "2026-04-28T06:27:00.696256884Z"
           }
         },
         {
@@ -12012,10 +12012,10 @@
           "description": "Simple rolling logger, implements io.WriteCloser.",
           "url": "https://github.com/natefinch/lumberjack",
           "repo_metadata": {
-            "stars": 5411,
+            "stars": 5414,
             "is_archived": false,
             "last_update": "2024-08-05T20:55:26Z",
-            "enriched_at": "2026-04-27T06:25:42.715851885Z"
+            "enriched_at": "2026-04-28T06:27:00.860106556Z"
           }
         },
         {
@@ -12026,7 +12026,7 @@
             "stars": 33,
             "is_archived": false,
             "last_update": "2018-08-05T17:35:46Z",
-            "enriched_at": "2026-04-27T06:25:42.91918704Z"
+            "enriched_at": "2026-04-28T06:27:01.024969509Z"
           }
         },
         {
@@ -12037,7 +12037,7 @@
             "stars": 44,
             "is_archived": false,
             "last_update": "2023-04-19T15:17:58Z",
-            "enriched_at": "2026-04-27T06:25:43.17256487Z"
+            "enriched_at": "2026-04-28T06:27:01.194775586Z"
           }
         },
         {
@@ -12048,7 +12048,7 @@
             "stars": 415,
             "is_archived": false,
             "last_update": "2019-03-06T04:37:07Z",
-            "enriched_at": "2026-04-27T06:25:43.367936325Z"
+            "enriched_at": "2026-04-28T06:27:01.406105198Z"
           }
         },
         {
@@ -12059,7 +12059,7 @@
             "stars": 123,
             "is_archived": false,
             "last_update": "2021-01-07T10:03:10Z",
-            "enriched_at": "2026-04-27T06:25:43.607519469Z"
+            "enriched_at": "2026-04-28T06:27:01.579186704Z"
           }
         },
         {
@@ -12070,7 +12070,7 @@
             "stars": 845,
             "is_archived": false,
             "last_update": "2026-04-02T17:32:05Z",
-            "enriched_at": "2026-04-27T06:25:43.817792505Z"
+            "enriched_at": "2026-04-28T06:27:01.724496518Z"
           }
         },
         {
@@ -12081,7 +12081,7 @@
             "stars": 2039,
             "is_archived": false,
             "last_update": "2026-04-02T03:53:04Z",
-            "enriched_at": "2026-04-27T06:25:44.04724703Z"
+            "enriched_at": "2026-04-28T06:27:01.909351054Z"
           }
         },
         {
@@ -12092,7 +12092,7 @@
             "stars": 293,
             "is_archived": false,
             "last_update": "2023-10-16T06:38:26Z",
-            "enriched_at": "2026-04-27T06:25:44.230258224Z"
+            "enriched_at": "2026-04-28T06:27:02.069328445Z"
           }
         },
         {
@@ -12103,7 +12103,7 @@
             "stars": 1637,
             "is_archived": false,
             "last_update": "2019-03-04T07:03:16Z",
-            "enriched_at": "2026-04-27T06:25:44.427847212Z"
+            "enriched_at": "2026-04-28T06:27:02.241375878Z"
           }
         },
         {
@@ -12111,10 +12111,10 @@
           "description": "Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring.",
           "url": "https://github.com/getsentry/sentry-go",
           "repo_metadata": {
-            "stars": 1083,
+            "stars": 1084,
             "is_archived": false,
-            "last_update": "2026-04-24T11:05:32Z",
-            "enriched_at": "2026-04-27T06:25:44.70644712Z"
+            "last_update": "2026-04-27T14:20:03Z",
+            "enriched_at": "2026-04-28T06:27:02.447930968Z"
           }
         },
         {
@@ -12125,7 +12125,7 @@
             "stars": 5,
             "is_archived": false,
             "last_update": "2026-04-09T19:02:35Z",
-            "enriched_at": "2026-04-27T06:25:44.957566621Z"
+            "enriched_at": "2026-04-28T06:27:02.641662664Z"
           }
         },
         {
@@ -12136,7 +12136,7 @@
             "stars": 540,
             "is_archived": false,
             "last_update": "2026-04-14T06:44:32Z",
-            "enriched_at": "2026-04-27T06:25:45.192368548Z"
+            "enriched_at": "2026-04-28T06:27:02.838933697Z"
           }
         },
         {
@@ -12147,7 +12147,7 @@
             "stars": 216,
             "is_archived": false,
             "last_update": "2026-04-01T13:36:50Z",
-            "enriched_at": "2026-04-27T06:25:45.413140811Z"
+            "enriched_at": "2026-04-28T06:27:03.036566085Z"
           }
         },
         {
@@ -12155,10 +12155,10 @@
           "description": "Chain of slog.Handler (pipeline, fanout...).",
           "url": "https://github.com/samber/slog-multi",
           "repo_metadata": {
-            "stars": 618,
+            "stars": 619,
             "is_archived": false,
             "last_update": "2026-04-02T17:08:51Z",
-            "enriched_at": "2026-04-27T06:25:45.616050047Z"
+            "enriched_at": "2026-04-28T06:27:03.208497472Z"
           }
         },
         {
@@ -12180,7 +12180,7 @@
             "stars": 6389,
             "is_archived": false,
             "last_update": "2024-04-06T10:36:47Z",
-            "enriched_at": "2026-04-27T06:25:45.814021384Z"
+            "enriched_at": "2026-04-28T06:27:03.372139899Z"
           }
         },
         {
@@ -12191,7 +12191,7 @@
             "stars": 382,
             "is_archived": false,
             "last_update": "2025-12-05T02:32:41Z",
-            "enriched_at": "2026-04-27T06:25:46.024085586Z"
+            "enriched_at": "2026-04-28T06:27:03.563465285Z"
           }
         },
         {
@@ -12202,7 +12202,7 @@
             "stars": 48,
             "is_archived": false,
             "last_update": "2015-09-15T22:13:22Z",
-            "enriched_at": "2026-04-27T06:25:46.233064354Z"
+            "enriched_at": "2026-04-28T06:27:03.731123673Z"
           }
         },
         {
@@ -12213,7 +12213,7 @@
             "stars": 5,
             "is_archived": false,
             "last_update": "2022-01-27T05:03:58Z",
-            "enriched_at": "2026-04-27T06:25:46.474311441Z"
+            "enriched_at": "2026-04-28T06:27:03.900487312Z"
           }
         },
         {
@@ -12221,10 +12221,10 @@
           "description": "Go package striving to emulate the features of the BSD tail program.",
           "url": "https://github.com/hpcloud/tail",
           "repo_metadata": {
-            "stars": 2777,
+            "stars": 2778,
             "is_archived": false,
             "last_update": "2022-10-25T19:40:21Z",
-            "enriched_at": "2026-04-27T06:25:46.677314481Z"
+            "enriched_at": "2026-04-28T06:27:04.075485051Z"
           }
         },
         {
@@ -12235,7 +12235,7 @@
             "stars": 133,
             "is_archived": false,
             "last_update": "2026-04-27T05:57:09Z",
-            "enriched_at": "2026-04-27T06:25:46.870958913Z"
+            "enriched_at": "2026-04-28T06:27:04.228766101Z"
           }
         },
         {
@@ -12243,10 +12243,10 @@
           "description": "A slog.Handler that writes tinted logs.",
           "url": "https://github.com/lmittmann/tint",
           "repo_metadata": {
-            "stars": 1287,
+            "stars": 1288,
             "is_archived": false,
             "last_update": "2026-02-11T11:29:20Z",
-            "enriched_at": "2026-04-27T06:25:47.077490815Z"
+            "enriched_at": "2026-04-28T06:27:04.408911498Z"
           }
         },
         {
@@ -12257,7 +12257,7 @@
             "stars": 8,
             "is_archived": false,
             "last_update": "2019-01-15T10:17:30Z",
-            "enriched_at": "2026-04-27T06:25:47.259473375Z"
+            "enriched_at": "2026-04-28T06:27:04.562375562Z"
           }
         },
         {
@@ -12268,7 +12268,7 @@
             "stars": 141,
             "is_archived": false,
             "last_update": "2024-07-04T09:49:19Z",
-            "enriched_at": "2026-04-27T06:25:47.434894296Z"
+            "enriched_at": "2026-04-28T06:27:04.746654166Z"
           }
         },
         {
@@ -12279,7 +12279,7 @@
             "stars": 17,
             "is_archived": false,
             "last_update": "2023-04-24T13:25:46Z",
-            "enriched_at": "2026-04-27T06:25:47.747371062Z"
+            "enriched_at": "2026-04-28T06:27:04.922448443Z"
           }
         },
         {
@@ -12290,7 +12290,7 @@
             "stars": 1,
             "is_archived": false,
             "last_update": "2022-03-01T22:01:45Z",
-            "enriched_at": "2026-04-27T06:25:47.975195456Z"
+            "enriched_at": "2026-04-28T06:27:05.101569446Z"
           }
         },
         {
@@ -12300,8 +12300,8 @@
           "repo_metadata": {
             "stars": 24430,
             "is_archived": false,
-            "last_update": "2026-03-16T16:29:11Z",
-            "enriched_at": "2026-04-27T06:25:48.224569904Z"
+            "last_update": "2026-04-28T02:16:05Z",
+            "enriched_at": "2026-04-28T06:27:05.299623976Z"
           }
         },
         {
@@ -12309,10 +12309,10 @@
           "description": "Integrate Context with Zap logger, which leads to more flexibility in Go logging.",
           "url": "https://github.com/yuseferi/zax",
           "repo_metadata": {
-            "stars": 35,
+            "stars": 36,
             "is_archived": false,
             "last_update": "2026-04-04T22:46:46Z",
-            "enriched_at": "2026-04-27T06:25:48.427694027Z"
+            "enriched_at": "2026-04-28T06:27:05.482352859Z"
           }
         },
         {
@@ -12323,7 +12323,7 @@
             "stars": 12358,
             "is_archived": false,
             "last_update": "2026-04-20T23:18:25Z",
-            "enriched_at": "2026-04-27T06:25:48.642978743Z"
+            "enriched_at": "2026-04-28T06:27:05.636192846Z"
           }
         },
         {
@@ -12334,7 +12334,7 @@
             "stars": 28,
             "is_archived": false,
             "last_update": "2023-05-19T14:16:38Z",
-            "enriched_at": "2026-04-27T06:25:48.861889712Z"
+            "enriched_at": "2026-04-28T06:27:05.80146385Z"
           }
         },
         {
@@ -12345,7 +12345,7 @@
             "stars": 9,
             "is_archived": false,
             "last_update": "2026-04-03T11:36:36Z",
-            "enriched_at": "2026-04-27T06:25:49.115423Z"
+            "enriched_at": "2026-04-28T06:27:05.979786255Z"
           }
         }
       ]
@@ -12363,7 +12363,7 @@
             "stars": 812,
             "is_archived": false,
             "last_update": "2025-12-07T20:39:16Z",
-            "enriched_at": "2026-04-27T06:25:49.320444424Z"
+            "enriched_at": "2026-04-28T06:27:06.150736293Z"
           }
         },
         {
@@ -12373,8 +12373,8 @@
           "repo_metadata": {
             "stars": 25,
             "is_archived": false,
-            "last_update": "2026-04-17T11:34:08Z",
-            "enriched_at": "2026-04-27T06:25:49.556398202Z"
+            "last_update": "2026-04-27T13:42:23Z",
+            "enriched_at": "2026-04-28T06:27:06.335509823Z"
           }
         },
         {
@@ -12385,7 +12385,7 @@
             "stars": 748,
             "is_archived": false,
             "last_update": "2022-02-05T06:54:29Z",
-            "enriched_at": "2026-04-27T06:25:49.774235129Z"
+            "enriched_at": "2026-04-28T06:27:06.513104411Z"
           }
         },
         {
@@ -12396,7 +12396,7 @@
             "stars": 42,
             "is_archived": false,
             "last_update": "2021-02-22T12:47:34Z",
-            "enriched_at": "2026-04-27T06:25:49.983637223Z"
+            "enriched_at": "2026-04-28T06:27:06.693700299Z"
           }
         },
         {
@@ -12407,7 +12407,7 @@
             "stars": 907,
             "is_archived": false,
             "last_update": "2025-01-27T08:06:47Z",
-            "enriched_at": "2026-04-27T06:25:50.18657634Z"
+            "enriched_at": "2026-04-28T06:27:06.868935182Z"
           }
         },
         {
@@ -12418,7 +12418,7 @@
             "stars": 33,
             "is_archived": false,
             "last_update": "2021-10-27T10:26:23Z",
-            "enriched_at": "2026-04-27T06:25:50.382222158Z"
+            "enriched_at": "2026-04-28T06:27:07.069504901Z"
           }
         },
         {
@@ -12429,7 +12429,7 @@
             "stars": 86,
             "is_archived": false,
             "last_update": "2021-06-01T10:04:04Z",
-            "enriched_at": "2026-04-27T06:25:50.601458536Z"
+            "enriched_at": "2026-04-28T06:27:07.316117599Z"
           }
         },
         {
@@ -12440,7 +12440,7 @@
             "stars": 44,
             "is_archived": false,
             "last_update": "2022-11-29T13:37:05Z",
-            "enriched_at": "2026-04-27T06:25:50.840475719Z"
+            "enriched_at": "2026-04-28T06:27:07.518906414Z"
           }
         },
         {
@@ -12451,7 +12451,7 @@
             "stars": 555,
             "is_archived": false,
             "last_update": "2024-07-11T02:51:55Z",
-            "enriched_at": "2026-04-27T06:25:51.054370237Z"
+            "enriched_at": "2026-04-28T06:27:07.65925743Z"
           }
         },
         {
@@ -12462,7 +12462,7 @@
             "stars": 118,
             "is_archived": false,
             "last_update": "2015-02-03T21:53:31Z",
-            "enriched_at": "2026-04-27T06:25:51.394455267Z"
+            "enriched_at": "2026-04-28T06:27:07.943767854Z"
           }
         },
         {
@@ -12473,7 +12473,7 @@
             "stars": 202,
             "is_archived": false,
             "last_update": "2015-12-28T16:27:45Z",
-            "enriched_at": "2026-04-27T06:25:51.606502619Z"
+            "enriched_at": "2026-04-28T06:27:08.085690948Z"
           }
         },
         {
@@ -12484,7 +12484,7 @@
             "stars": 68,
             "is_archived": false,
             "last_update": "2013-06-08T10:17:05Z",
-            "enriched_at": "2026-04-27T06:25:51.819248221Z"
+            "enriched_at": "2026-04-28T06:27:08.287674201Z"
           }
         },
         {
@@ -12495,7 +12495,7 @@
             "stars": 565,
             "is_archived": false,
             "last_update": "2020-12-12T12:34:25Z",
-            "enriched_at": "2026-04-27T06:25:52.05189527Z"
+            "enriched_at": "2026-04-28T06:27:08.474175147Z"
           }
         },
         {
@@ -12506,7 +12506,7 @@
             "stars": 42,
             "is_archived": false,
             "last_update": "2015-05-11T10:38:48Z",
-            "enriched_at": "2026-04-27T06:25:52.270928352Z"
+            "enriched_at": "2026-04-28T06:27:08.656465871Z"
           }
         },
         {
@@ -12517,7 +12517,7 @@
             "stars": 222,
             "is_archived": false,
             "last_update": "2022-04-13T07:09:30Z",
-            "enriched_at": "2026-04-27T06:25:52.478001286Z"
+            "enriched_at": "2026-04-28T06:27:08.819318236Z"
           }
         },
         {
@@ -12525,10 +12525,10 @@
           "description": "General Machine Learning library for Go.",
           "url": "https://github.com/sjwhitworth/golearn",
           "repo_metadata": {
-            "stars": 9446,
+            "stars": 9447,
             "is_archived": false,
             "last_update": "2024-01-15T13:55:44Z",
-            "enriched_at": "2026-04-27T06:25:52.705817359Z"
+            "enriched_at": "2026-04-28T06:27:09.039137403Z"
           }
         },
         {
@@ -12539,7 +12539,7 @@
             "stars": 98,
             "is_archived": false,
             "last_update": "2022-05-08T21:10:38Z",
-            "enriched_at": "2026-04-27T06:25:52.901165857Z"
+            "enriched_at": "2026-04-28T06:27:09.22186739Z"
           }
         },
         {
@@ -12550,7 +12550,7 @@
             "stars": 1615,
             "is_archived": false,
             "last_update": "2022-07-15T00:13:54Z",
-            "enriched_at": "2026-04-27T06:25:53.113806674Z"
+            "enriched_at": "2026-04-28T06:27:09.401583503Z"
           }
         },
         {
@@ -12558,10 +12558,10 @@
           "description": "An accelerated Machine Learning framework for Go.",
           "url": "https://github.com/gomlx/gomlx",
           "repo_metadata": {
-            "stars": 1391,
+            "stars": 1392,
             "is_archived": false,
-            "last_update": "2026-04-26T11:06:58Z",
-            "enriched_at": "2026-04-27T06:25:53.333432076Z"
+            "last_update": "2026-04-27T09:40:50Z",
+            "enriched_at": "2026-04-28T06:27:09.590683789Z"
           }
         },
         {
@@ -12572,7 +12572,7 @@
             "stars": 82,
             "is_archived": false,
             "last_update": "2020-04-05T16:08:18Z",
-            "enriched_at": "2026-04-27T06:25:53.550698489Z"
+            "enriched_at": "2026-04-28T06:27:09.770587003Z"
           }
         },
         {
@@ -12583,7 +12583,7 @@
             "stars": 279,
             "is_archived": false,
             "last_update": "2025-08-12T14:50:33Z",
-            "enriched_at": "2026-04-27T06:25:53.760970208Z"
+            "enriched_at": "2026-04-28T06:27:10.013041674Z"
           }
         },
         {
@@ -12594,7 +12594,7 @@
             "stars": 205,
             "is_archived": false,
             "last_update": "2014-07-29T04:49:57Z",
-            "enriched_at": "2026-04-27T06:25:53.965249915Z"
+            "enriched_at": "2026-04-28T06:27:10.195351595Z"
           }
         },
         {
@@ -12602,10 +12602,10 @@
           "description": "graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.",
           "url": "https://github.com/gorgonia/gorgonia",
           "repo_metadata": {
-            "stars": 5915,
+            "stars": 5916,
             "is_archived": false,
             "last_update": "2024-08-12T04:53:17Z",
-            "enriched_at": "2026-04-27T06:25:54.207135416Z"
+            "enriched_at": "2026-04-28T06:27:10.42341184Z"
           }
         },
         {
@@ -12616,7 +12616,7 @@
             "stars": 9,
             "is_archived": false,
             "last_update": "2026-04-13T15:19:08Z",
-            "enriched_at": "2026-04-27T06:25:54.477284098Z"
+            "enriched_at": "2026-04-28T06:27:10.642588445Z"
           }
         },
         {
@@ -12627,7 +12627,7 @@
             "stars": 101,
             "is_archived": false,
             "last_update": "2019-08-23T11:21:08Z",
-            "enriched_at": "2026-04-27T06:25:54.67509647Z"
+            "enriched_at": "2026-04-28T06:27:10.827810976Z"
           }
         },
         {
@@ -12635,10 +12635,10 @@
           "description": "Go package for OCR (Optical Character Recognition), by using Tesseract C++ library.",
           "url": "https://github.com/otiai10/gosseract",
           "repo_metadata": {
-            "stars": 3095,
+            "stars": 3096,
             "is_archived": false,
             "last_update": "2026-01-16T16:26:55Z",
-            "enriched_at": "2026-04-27T06:25:54.879414241Z"
+            "enriched_at": "2026-04-28T06:27:11.007708141Z"
           }
         },
         {
@@ -12646,10 +12646,10 @@
           "description": "Huggingface transformer pipelines for golang with onnxruntime.",
           "url": "https://github.com/knights-analytics/hugot",
           "repo_metadata": {
-            "stars": 598,
+            "stars": 599,
             "is_archived": false,
             "last_update": "2026-04-22T21:03:51Z",
-            "enriched_at": "2026-04-27T06:25:55.11015805Z"
+            "enriched_at": "2026-04-28T06:27:11.207208355Z"
           }
         },
         {
@@ -12660,7 +12660,7 @@
             "stars": 72,
             "is_archived": false,
             "last_update": "2016-05-09T03:47:11Z",
-            "enriched_at": "2026-04-27T06:25:55.310797406Z"
+            "enriched_at": "2026-04-28T06:27:11.371661312Z"
           }
         },
         {
@@ -12668,10 +12668,10 @@
           "description": "A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support.",
           "url": "https://github.com/BayesWitnesses/m2cgen",
           "repo_metadata": {
-            "stars": 2976,
+            "stars": 2977,
             "is_archived": false,
             "last_update": "2024-08-03T17:30:36Z",
-            "enriched_at": "2026-04-27T06:25:55.525112048Z"
+            "enriched_at": "2026-04-28T06:27:11.534687423Z"
           }
         },
         {
@@ -12682,7 +12682,7 @@
             "stars": 73,
             "is_archived": false,
             "last_update": "2020-08-31T10:58:21Z",
-            "enriched_at": "2026-04-27T06:25:55.721067058Z"
+            "enriched_at": "2026-04-28T06:27:11.693954069Z"
           }
         },
         {
@@ -12693,7 +12693,7 @@
             "stars": 767,
             "is_archived": false,
             "last_update": "2021-08-05T08:20:24Z",
-            "enriched_at": "2026-04-27T06:25:55.98123504Z"
+            "enriched_at": "2026-04-28T06:27:11.862442109Z"
           }
         },
         {
@@ -12704,7 +12704,7 @@
             "stars": 893,
             "is_archived": false,
             "last_update": "2024-09-02T01:46:08Z",
-            "enriched_at": "2026-04-27T06:25:56.325521504Z"
+            "enriched_at": "2026-04-28T06:27:12.155705682Z"
           }
         },
         {
@@ -12715,7 +12715,7 @@
             "stars": 22,
             "is_archived": false,
             "last_update": "2015-09-14T12:08:34Z",
-            "enriched_at": "2026-04-27T06:25:56.553654666Z"
+            "enriched_at": "2026-04-28T06:27:12.315492084Z"
           }
         },
         {
@@ -12726,7 +12726,7 @@
             "stars": 60,
             "is_archived": false,
             "last_update": "2025-11-01T17:20:28Z",
-            "enriched_at": "2026-04-27T06:25:56.81547777Z"
+            "enriched_at": "2026-04-28T06:27:12.492967073Z"
           }
         },
         {
@@ -12737,7 +12737,7 @@
             "stars": 312,
             "is_archived": false,
             "last_update": "2019-08-07T04:55:12Z",
-            "enriched_at": "2026-04-27T06:25:57.047184614Z"
+            "enriched_at": "2026-04-28T06:27:12.662910098Z"
           }
         },
         {
@@ -12748,7 +12748,7 @@
             "stars": 160,
             "is_archived": false,
             "last_update": "2020-03-04T03:41:47Z",
-            "enriched_at": "2026-04-27T06:25:57.256098594Z"
+            "enriched_at": "2026-04-28T06:27:12.882545844Z"
           }
         },
         {
@@ -12759,7 +12759,7 @@
             "stars": 2494,
             "is_archived": false,
             "last_update": "2024-03-13T21:59:21Z",
-            "enriched_at": "2026-04-27T06:25:57.492256179Z"
+            "enriched_at": "2026-04-28T06:27:13.037125363Z"
           }
         },
         {
@@ -12770,7 +12770,7 @@
             "stars": 55,
             "is_archived": false,
             "last_update": "2018-08-02T13:47:14Z",
-            "enriched_at": "2026-04-27T06:25:57.697543344Z"
+            "enriched_at": "2026-04-28T06:27:13.230037926Z"
           }
         }
       ]
@@ -12788,7 +12788,7 @@
             "stars": 34,
             "is_archived": false,
             "last_update": "2020-04-02T22:56:51Z",
-            "enriched_at": "2026-04-27T06:25:57.908340294Z"
+            "enriched_at": "2026-04-28T06:27:13.396173654Z"
           }
         },
         {
@@ -12799,7 +12799,7 @@
             "stars": 1998,
             "is_archived": false,
             "last_update": "2026-04-21T12:19:19Z",
-            "enriched_at": "2026-04-27T06:25:58.150239963Z"
+            "enriched_at": "2026-04-28T06:27:13.580971652Z"
           }
         },
         {
@@ -12810,7 +12810,7 @@
             "stars": 3171,
             "is_archived": false,
             "last_update": "2025-07-22T04:03:10Z",
-            "enriched_at": "2026-04-27T06:25:58.393251926Z"
+            "enriched_at": "2026-04-28T06:27:13.748541271Z"
           }
         },
         {
@@ -12818,10 +12818,10 @@
           "description": "A simple, reliable, and efficient distributed task queue for Go built on top of Redis.",
           "url": "https://github.com/hibiken/asynq",
           "repo_metadata": {
-            "stars": 13196,
+            "stars": 13199,
             "is_archived": false,
             "last_update": "2026-04-13T23:45:25Z",
-            "enriched_at": "2026-04-27T06:25:58.600182273Z"
+            "enriched_at": "2026-04-28T06:27:13.910532894Z"
           }
         },
         {
@@ -12832,7 +12832,7 @@
             "stars": 143,
             "is_archived": false,
             "last_update": "2025-07-23T23:51:39Z",
-            "enriched_at": "2026-04-27T06:25:58.802062306Z"
+            "enriched_at": "2026-04-28T06:27:14.079969919Z"
           }
         },
         {
@@ -12843,7 +12843,7 @@
             "stars": 1584,
             "is_archived": false,
             "last_update": "2026-04-25T01:14:16Z",
-            "enriched_at": "2026-04-27T06:25:59.019051617Z"
+            "enriched_at": "2026-04-28T06:27:14.230059793Z"
           }
         },
         {
@@ -12854,7 +12854,7 @@
             "stars": 362,
             "is_archived": false,
             "last_update": "2023-05-14T03:59:03Z",
-            "enriched_at": "2026-04-27T06:25:59.228443191Z"
+            "enriched_at": "2026-04-28T06:27:14.408798345Z"
           }
         },
         {
@@ -12862,10 +12862,10 @@
           "description": "Real-time messaging (Websockets or SockJS) server in Go.",
           "url": "https://github.com/centrifugal/centrifugo",
           "repo_metadata": {
-            "stars": 10211,
+            "stars": 10215,
             "is_archived": false,
             "last_update": "2026-04-23T16:29:38Z",
-            "enriched_at": "2026-04-27T06:25:59.463319333Z"
+            "enriched_at": "2026-04-28T06:27:14.597909499Z"
           }
         },
         {
@@ -12873,10 +12873,10 @@
           "description": "A push notification server send message to your iOS devices.",
           "url": "https://github.com/chanify/chanify",
           "repo_metadata": {
-            "stars": 1326,
+            "stars": 1325,
             "is_archived": false,
             "last_update": "2023-06-01T20:31:42Z",
-            "enriched_at": "2026-04-27T06:25:59.683169791Z"
+            "enriched_at": "2026-04-28T06:27:14.809210627Z"
           }
         },
         {
@@ -12887,7 +12887,7 @@
             "stars": 67,
             "is_archived": false,
             "last_update": "2025-12-05T02:37:51Z",
-            "enriched_at": "2026-04-27T06:25:59.883362061Z"
+            "enriched_at": "2026-04-28T06:27:15.057173078Z"
           }
         },
         {
@@ -12897,8 +12897,8 @@
           "repo_metadata": {
             "stars": 5130,
             "is_archived": false,
-            "last_update": "2026-04-23T10:30:23Z",
-            "enriched_at": "2026-04-27T06:26:00.107253197Z"
+            "last_update": "2026-04-27T09:03:30Z",
+            "enriched_at": "2026-04-28T06:27:15.246535992Z"
           }
         },
         {
@@ -12909,7 +12909,7 @@
             "stars": 1162,
             "is_archived": false,
             "last_update": "2026-03-31T11:45:34Z",
-            "enriched_at": "2026-04-27T06:26:00.356527436Z"
+            "enriched_at": "2026-04-28T06:27:15.445830815Z"
           }
         },
         {
@@ -12920,7 +12920,7 @@
             "stars": 81,
             "is_archived": false,
             "last_update": "2023-02-25T01:10:05Z",
-            "enriched_at": "2026-04-27T06:26:00.560026258Z"
+            "enriched_at": "2026-04-28T06:27:15.670949425Z"
           }
         },
         {
@@ -12931,7 +12931,7 @@
             "stars": 531,
             "is_archived": false,
             "last_update": "2023-04-11T05:06:14Z",
-            "enriched_at": "2026-04-27T06:26:00.748088619Z"
+            "enriched_at": "2026-04-28T06:27:15.851055701Z"
           }
         },
         {
@@ -12942,7 +12942,7 @@
             "stars": 62,
             "is_archived": false,
             "last_update": "2018-02-19T12:11:32Z",
-            "enriched_at": "2026-04-27T06:26:00.96058399Z"
+            "enriched_at": "2026-04-28T06:27:16.0155007Z"
           }
         },
         {
@@ -12950,10 +12950,10 @@
           "description": "The lightweight event bus with async compatibility.",
           "url": "https://github.com/asaskevich/EventBus",
           "repo_metadata": {
-            "stars": 1972,
+            "stars": 1971,
             "is_archived": false,
             "last_update": "2024-06-19T06:33:20Z",
-            "enriched_at": "2026-04-27T06:26:01.177526573Z"
+            "enriched_at": "2026-04-28T06:27:16.190963928Z"
           }
         },
         {
@@ -12964,7 +12964,7 @@
             "stars": 11,
             "is_archived": false,
             "last_update": "2021-08-03T07:04:33Z",
-            "enriched_at": "2026-04-27T06:26:01.393307146Z"
+            "enriched_at": "2026-04-28T06:27:16.349214714Z"
           }
         },
         {
@@ -12975,7 +12975,7 @@
             "stars": 421,
             "is_archived": false,
             "last_update": "2020-05-20T06:46:44Z",
-            "enriched_at": "2026-04-27T06:26:01.613759943Z"
+            "enriched_at": "2026-04-28T06:27:16.530946913Z"
           }
         },
         {
@@ -12986,7 +12986,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2025-10-29T11:00:06Z",
-            "enriched_at": "2026-04-27T06:26:01.810477587Z"
+            "enriched_at": "2026-04-28T06:27:16.724863569Z"
           }
         },
         {
@@ -12997,7 +12997,7 @@
             "stars": 279,
             "is_archived": false,
             "last_update": "2025-05-08T22:33:35Z",
-            "enriched_at": "2026-04-27T06:26:02.021341537Z"
+            "enriched_at": "2026-04-28T06:27:16.897312528Z"
           }
         },
         {
@@ -13008,7 +13008,7 @@
             "stars": 91,
             "is_archived": false,
             "last_update": "2023-10-09T18:33:44Z",
-            "enriched_at": "2026-04-27T06:26:02.242892065Z"
+            "enriched_at": "2026-04-28T06:27:17.04652738Z"
           }
         },
         {
@@ -13019,7 +13019,7 @@
             "stars": 71,
             "is_archived": false,
             "last_update": "2020-12-11T18:09:42Z",
-            "enriched_at": "2026-04-27T06:26:02.545562178Z"
+            "enriched_at": "2026-04-28T06:27:17.232959706Z"
           }
         },
         {
@@ -13027,10 +13027,10 @@
           "description": "the official Go package for NSQ.",
           "url": "https://github.com/nsqio/go-nsq",
           "repo_metadata": {
-            "stars": 2653,
+            "stars": 2652,
             "is_archived": false,
             "last_update": "2025-07-23T16:46:59Z",
-            "enriched_at": "2026-04-27T06:26:02.796437323Z"
+            "enriched_at": "2026-04-28T06:27:17.433273734Z"
           }
         },
         {
@@ -13041,7 +13041,7 @@
             "stars": 68,
             "is_archived": false,
             "last_update": "2026-03-06T11:07:02Z",
-            "enriched_at": "2026-04-27T06:26:03.010909232Z"
+            "enriched_at": "2026-04-28T06:27:17.593366013Z"
           }
         },
         {
@@ -13052,7 +13052,7 @@
             "stars": 23,
             "is_archived": false,
             "last_update": "2025-11-21T22:05:02Z",
-            "enriched_at": "2026-04-27T06:26:03.208267098Z"
+            "enriched_at": "2026-04-28T06:27:17.749717453Z"
           }
         },
         {
@@ -13063,7 +13063,7 @@
             "stars": 61,
             "is_archived": false,
             "last_update": "2026-02-21T14:18:40Z",
-            "enriched_at": "2026-04-27T06:26:03.599933249Z"
+            "enriched_at": "2026-04-28T06:27:18.084139208Z"
           }
         },
         {
@@ -13074,7 +13074,7 @@
             "stars": 941,
             "is_archived": true,
             "last_update": "2025-10-02T08:50:45Z",
-            "enriched_at": "2026-04-27T06:26:03.846293477Z"
+            "enriched_at": "2026-04-28T06:27:18.2726894Z"
           }
         },
         {
@@ -13085,7 +13085,7 @@
             "stars": 668,
             "is_archived": false,
             "last_update": "2023-08-20T19:40:52Z",
-            "enriched_at": "2026-04-27T06:26:04.069797765Z"
+            "enriched_at": "2026-04-28T06:27:18.429906208Z"
           }
         },
         {
@@ -13096,7 +13096,7 @@
             "stars": 2072,
             "is_archived": false,
             "last_update": "2017-06-07T12:18:31Z",
-            "enriched_at": "2026-04-27T06:26:04.280522813Z"
+            "enriched_at": "2026-04-28T06:27:18.637802129Z"
           }
         },
         {
@@ -13104,10 +13104,10 @@
           "description": "Push notification server using APNs2 and google GCM.",
           "url": "https://github.com/appleboy/gorush",
           "repo_metadata": {
-            "stars": 8720,
+            "stars": 8718,
             "is_archived": false,
             "last_update": "2026-04-15T01:54:38Z",
-            "enriched_at": "2026-04-27T06:26:04.462849323Z"
+            "enriched_at": "2026-04-28T06:27:18.805767717Z"
           }
         },
         {
@@ -13118,7 +13118,7 @@
             "stars": 26,
             "is_archived": false,
             "last_update": "2022-08-17T01:47:34Z",
-            "enriched_at": "2026-04-27T06:26:04.672806414Z"
+            "enriched_at": "2026-04-28T06:27:18.994566821Z"
           }
         },
         {
@@ -13129,7 +13129,7 @@
             "stars": 161,
             "is_archived": false,
             "last_update": "2017-10-31T19:15:41Z",
-            "enriched_at": "2026-04-27T06:26:04.935318106Z"
+            "enriched_at": "2026-04-28T06:27:19.17350292Z"
           }
         },
         {
@@ -13140,7 +13140,7 @@
             "stars": 54,
             "is_archived": false,
             "last_update": "2022-08-31T14:57:08Z",
-            "enriched_at": "2026-04-27T06:26:05.146704995Z"
+            "enriched_at": "2026-04-28T06:27:19.346847047Z"
           }
         },
         {
@@ -13151,7 +13151,7 @@
             "stars": 149,
             "is_archived": false,
             "last_update": "2020-10-26T14:23:55Z",
-            "enriched_at": "2026-04-27T06:26:05.350320316Z"
+            "enriched_at": "2026-04-28T06:27:19.535846479Z"
           }
         },
         {
@@ -13162,7 +13162,7 @@
             "stars": 33,
             "is_archived": false,
             "last_update": "2026-02-19T13:56:02Z",
-            "enriched_at": "2026-04-27T06:26:05.741699421Z"
+            "enriched_at": "2026-04-28T06:27:19.820509594Z"
           }
         },
         {
@@ -13173,7 +13173,7 @@
             "stars": 18,
             "is_archived": false,
             "last_update": "2019-03-21T11:10:11Z",
-            "enriched_at": "2026-04-27T06:26:06.02288857Z"
+            "enriched_at": "2026-04-28T06:27:20.033058399Z"
           }
         },
         {
@@ -13181,10 +13181,10 @@
           "description": "Asynchronous task queue/job queue based on distributed message passing.",
           "url": "https://github.com/RichardKnop/machinery",
           "repo_metadata": {
-            "stars": 7956,
+            "stars": 7955,
             "is_archived": false,
             "last_update": "2025-11-15T04:07:03Z",
-            "enriched_at": "2026-04-27T06:26:06.213195236Z"
+            "enriched_at": "2026-04-28T06:27:20.706755834Z"
           }
         },
         {
@@ -13195,7 +13195,7 @@
             "stars": 753,
             "is_archived": false,
             "last_update": "2026-04-19T15:44:58Z",
-            "enriched_at": "2026-04-27T06:26:06.467856693Z"
+            "enriched_at": "2026-04-28T06:27:20.915011146Z"
           }
         },
         {
@@ -13203,10 +13203,10 @@
           "description": "Minimalist framework for dealing with websocket sessions, includes broadcasting and automatic ping/pong handling.",
           "url": "https://github.com/olahol/melody",
           "repo_metadata": {
-            "stars": 4069,
+            "stars": 4070,
             "is_archived": false,
             "last_update": "2025-10-28T18:41:28Z",
-            "enriched_at": "2026-04-27T06:26:06.671591009Z"
+            "enriched_at": "2026-04-28T06:27:21.071694124Z"
           }
         },
         {
@@ -13216,8 +13216,8 @@
           "repo_metadata": {
             "stars": 5236,
             "is_archived": false,
-            "last_update": "2026-04-27T03:05:55Z",
-            "enriched_at": "2026-04-27T06:26:06.866662306Z"
+            "last_update": "2026-04-28T04:58:44Z",
+            "enriched_at": "2026-04-28T06:27:21.248057892Z"
           }
         },
         {
@@ -13228,7 +13228,7 @@
             "stars": 287,
             "is_archived": false,
             "last_update": "2021-01-14T22:04:03Z",
-            "enriched_at": "2026-04-27T06:26:07.126194524Z"
+            "enriched_at": "2026-04-28T06:27:21.392940265Z"
           }
         },
         {
@@ -13239,7 +13239,7 @@
             "stars": 6569,
             "is_archived": false,
             "last_update": "2026-04-25T07:16:40Z",
-            "enriched_at": "2026-04-27T06:26:07.322026339Z"
+            "enriched_at": "2026-04-28T06:27:21.591652765Z"
           }
         },
         {
@@ -13250,7 +13250,7 @@
             "stars": 80,
             "is_archived": false,
             "last_update": "2018-02-15T22:30:14Z",
-            "enriched_at": "2026-04-27T06:26:07.54363392Z"
+            "enriched_at": "2026-04-28T06:27:21.80782963Z"
           }
         },
         {
@@ -13261,7 +13261,7 @@
             "stars": 111,
             "is_archived": false,
             "last_update": "2024-09-27T14:47:16Z",
-            "enriched_at": "2026-04-27T06:26:07.785517178Z"
+            "enriched_at": "2026-04-28T06:27:22.031012438Z"
           }
         },
         {
@@ -13272,7 +13272,7 @@
             "stars": 452,
             "is_archived": false,
             "last_update": "2024-05-22T03:06:12Z",
-            "enriched_at": "2026-04-27T06:26:08.131658509Z"
+            "enriched_at": "2026-04-28T06:27:22.290052165Z"
           }
         },
         {
@@ -13283,7 +13283,7 @@
             "stars": 492,
             "is_archived": false,
             "last_update": "2026-04-17T21:09:02Z",
-            "enriched_at": "2026-04-27T06:26:08.372824444Z"
+            "enriched_at": "2026-04-28T06:27:22.440796873Z"
           }
         },
         {
@@ -13294,7 +13294,7 @@
             "stars": 115,
             "is_archived": false,
             "last_update": "2024-03-03T12:23:30Z",
-            "enriched_at": "2026-04-27T06:26:08.58661592Z"
+            "enriched_at": "2026-04-28T06:27:22.614047497Z"
           }
         },
         {
@@ -13305,7 +13305,7 @@
             "stars": 98,
             "is_archived": false,
             "last_update": "2019-07-23T10:48:01Z",
-            "enriched_at": "2026-04-27T06:26:08.778499823Z"
+            "enriched_at": "2026-04-28T06:27:22.767785023Z"
           }
         },
         {
@@ -13315,8 +13315,8 @@
           "repo_metadata": {
             "stars": 281,
             "is_archived": false,
-            "last_update": "2026-04-24T16:48:31Z",
-            "enriched_at": "2026-04-27T06:26:08.998088853Z"
+            "last_update": "2026-04-28T02:01:27Z",
+            "enriched_at": "2026-04-28T06:27:22.952937803Z"
           }
         },
         {
@@ -13327,7 +13327,7 @@
             "stars": 70,
             "is_archived": false,
             "last_update": "2017-12-07T08:34:10Z",
-            "enriched_at": "2026-04-27T06:26:09.204028595Z"
+            "enriched_at": "2026-04-28T06:27:23.110844811Z"
           }
         },
         {
@@ -13338,7 +13338,7 @@
             "stars": 123,
             "is_archived": false,
             "last_update": "2025-11-20T18:04:19Z",
-            "enriched_at": "2026-04-27T06:26:09.43696473Z"
+            "enriched_at": "2026-04-28T06:27:23.303903661Z"
           }
         },
         {
@@ -13349,7 +13349,7 @@
             "stars": 139,
             "is_archived": false,
             "last_update": "2024-03-08T06:24:44Z",
-            "enriched_at": "2026-04-27T06:26:09.627234639Z"
+            "enriched_at": "2026-04-28T06:27:23.488580093Z"
           }
         },
         {
@@ -13360,7 +13360,7 @@
             "stars": 23,
             "is_archived": false,
             "last_update": "2020-01-27T09:57:25Z",
-            "enriched_at": "2026-04-27T06:26:09.84766586Z"
+            "enriched_at": "2026-04-28T06:27:23.684963429Z"
           }
         },
         {
@@ -13371,7 +13371,7 @@
             "stars": 12469,
             "is_archived": false,
             "last_update": "2026-04-23T23:46:32Z",
-            "enriched_at": "2026-04-27T06:26:10.225786059Z"
+            "enriched_at": "2026-04-28T06:27:23.972105752Z"
           }
         },
         {
@@ -13382,7 +13382,7 @@
             "stars": 1565,
             "is_archived": false,
             "last_update": "2020-04-09T17:28:55Z",
-            "enriched_at": "2026-04-27T06:26:10.455338709Z"
+            "enriched_at": "2026-04-28T06:27:24.151981742Z"
           }
         },
         {
@@ -13392,8 +13392,8 @@
           "repo_metadata": {
             "stars": 184,
             "is_archived": false,
-            "last_update": "2026-04-23T07:19:25Z",
-            "enriched_at": "2026-04-27T06:26:10.676965238Z"
+            "last_update": "2026-04-28T05:57:51Z",
+            "enriched_at": "2026-04-28T06:27:24.336416486Z"
           }
         },
         {
@@ -13401,10 +13401,10 @@
           "description": "Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.",
           "url": "https://github.com/ThreeDotsLabs/watermill",
           "repo_metadata": {
-            "stars": 9675,
+            "stars": 9678,
             "is_archived": false,
             "last_update": "2026-04-20T13:15:49Z",
-            "enriched_at": "2026-04-27T06:26:10.925745072Z"
+            "enriched_at": "2026-04-28T06:27:24.529843126Z"
           }
         },
         {
@@ -13415,7 +13415,7 @@
             "stars": 1251,
             "is_archived": false,
             "last_update": "2025-07-06T13:32:46Z",
-            "enriched_at": "2026-04-27T06:26:11.114689741Z"
+            "enriched_at": "2026-04-28T06:27:24.713174672Z"
           }
         }
       ]
@@ -13429,10 +13429,10 @@
           "description": "Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents.",
           "url": "https://github.com/unidoc/unioffice",
           "repo_metadata": {
-            "stars": 4838,
+            "stars": 4840,
             "is_archived": false,
             "last_update": "2026-04-22T17:28:46Z",
-            "enriched_at": "2026-04-27T06:26:11.361391962Z"
+            "enriched_at": "2026-04-28T06:27:24.906041652Z"
           }
         }
       ],
@@ -13450,7 +13450,7 @@
                 "stars": 3,
                 "is_archived": false,
                 "last_update": "2024-10-17T03:49:33Z",
-                "enriched_at": "2026-04-27T06:26:11.620403161Z"
+                "enriched_at": "2026-04-28T06:27:25.079110853Z"
               }
             },
             {
@@ -13458,10 +13458,10 @@
               "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
               "url": "https://github.com/xuri/excelize",
               "repo_metadata": {
-                "stars": 20517,
+                "stars": 20519,
                 "is_archived": false,
-                "last_update": "2026-04-22T06:19:23Z",
-                "enriched_at": "2026-04-27T06:26:11.951668682Z"
+                "last_update": "2026-04-28T01:46:49Z",
+                "enriched_at": "2026-04-28T06:27:25.368086796Z"
               }
             },
             {
@@ -13472,7 +13472,7 @@
                 "stars": 32,
                 "is_archived": false,
                 "last_update": "2025-10-16T02:37:50Z",
-                "enriched_at": "2026-04-27T06:26:12.178278084Z"
+                "enriched_at": "2026-04-28T06:27:25.596759168Z"
               }
             },
             {
@@ -13483,7 +13483,7 @@
                 "stars": 198,
                 "is_archived": false,
                 "last_update": "2025-10-01T07:39:55Z",
-                "enriched_at": "2026-04-27T06:26:12.401770791Z"
+                "enriched_at": "2026-04-28T06:27:25.770904626Z"
               }
             },
             {
@@ -13491,10 +13491,10 @@
               "description": "Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs.",
               "url": "https://github.com/tealeg/xlsx",
               "repo_metadata": {
-                "stars": 6003,
+                "stars": 6002,
                 "is_archived": true,
                 "last_update": "2025-08-13T13:58:41Z",
-                "enriched_at": "2026-04-27T06:26:12.609873543Z"
+                "enriched_at": "2026-04-28T06:27:25.983215923Z"
               }
             },
             {
@@ -13505,7 +13505,7 @@
                 "stars": 177,
                 "is_archived": false,
                 "last_update": "2020-11-04T15:00:26Z",
-                "enriched_at": "2026-04-27T06:26:12.832062001Z"
+                "enriched_at": "2026-04-28T06:27:26.145651296Z"
               }
             }
           ]
@@ -13523,7 +13523,7 @@
                 "stars": 255,
                 "is_archived": false,
                 "last_update": "2025-08-11T22:29:46Z",
-                "enriched_at": "2026-04-27T06:26:13.039156084Z"
+                "enriched_at": "2026-04-28T06:27:26.31033385Z"
               }
             }
           ]
@@ -13547,7 +13547,7 @@
                 "stars": 51,
                 "is_archived": false,
                 "last_update": "2017-04-26T06:08:23Z",
-                "enriched_at": "2026-04-27T06:26:13.262791506Z"
+                "enriched_at": "2026-04-28T06:27:26.461270461Z"
               }
             },
             {
@@ -13558,7 +13558,7 @@
                 "stars": 12,
                 "is_archived": false,
                 "last_update": "2024-09-11T11:02:17Z",
-                "enriched_at": "2026-04-27T06:26:13.470848053Z"
+                "enriched_at": "2026-04-28T06:27:26.620206659Z"
               }
             },
             {
@@ -13569,7 +13569,7 @@
                 "stars": 36,
                 "is_archived": false,
                 "last_update": "2024-01-29T00:43:43Z",
-                "enriched_at": "2026-04-27T06:26:13.70214898Z"
+                "enriched_at": "2026-04-28T06:27:26.800827548Z"
               }
             },
             {
@@ -13580,7 +13580,7 @@
                 "stars": 29,
                 "is_archived": false,
                 "last_update": "2024-09-29T03:58:01Z",
-                "enriched_at": "2026-04-27T06:26:13.934359299Z"
+                "enriched_at": "2026-04-28T06:27:27.010872814Z"
               }
             },
             {
@@ -13602,7 +13602,7 @@
                 "stars": 240,
                 "is_archived": false,
                 "last_update": "2023-12-16T19:46:52Z",
-                "enriched_at": "2026-04-27T06:26:14.274290499Z"
+                "enriched_at": "2026-04-28T06:27:27.28198071Z"
               }
             },
             {
@@ -13610,10 +13610,10 @@
               "description": "A reflection based dependency injection toolkit for Go.",
               "url": "https://github.com/uber-go/dig",
               "repo_metadata": {
-                "stars": 4459,
+                "stars": 4460,
                 "is_archived": false,
                 "last_update": "2025-05-13T20:09:41Z",
-                "enriched_at": "2026-04-27T06:26:14.508852206Z"
+                "enriched_at": "2026-04-28T06:27:27.491932397Z"
               }
             },
             {
@@ -13624,7 +13624,7 @@
                 "stars": 188,
                 "is_archived": false,
                 "last_update": "2026-04-21T20:45:45Z",
-                "enriched_at": "2026-04-27T06:26:14.73143929Z"
+                "enriched_at": "2026-04-28T06:27:27.66766382Z"
               }
             },
             {
@@ -13632,10 +13632,10 @@
               "description": "A dependency injection framework based on Generics.",
               "url": "https://github.com/samber/do",
               "repo_metadata": {
-                "stars": 2718,
+                "stars": 2720,
                 "is_archived": false,
                 "last_update": "2026-04-26T15:05:57Z",
-                "enriched_at": "2026-04-27T06:26:14.945926224Z"
+                "enriched_at": "2026-04-28T06:27:27.859001626Z"
               }
             },
             {
@@ -13643,10 +13643,10 @@
               "description": "A dependency injection based application framework for Go (built on top of dig).",
               "url": "https://github.com/uber-go/fx",
               "repo_metadata": {
-                "stars": 7476,
+                "stars": 7480,
                 "is_archived": false,
                 "last_update": "2025-12-27T14:09:36Z",
-                "enriched_at": "2026-04-27T06:26:15.18113728Z"
+                "enriched_at": "2026-04-28T06:27:28.041215646Z"
               }
             },
             {
@@ -13657,7 +13657,7 @@
                 "stars": 82,
                 "is_archived": false,
                 "last_update": "2026-03-30T13:53:46Z",
-                "enriched_at": "2026-04-27T06:26:15.406990508Z"
+                "enriched_at": "2026-04-28T06:27:28.271069414Z"
               }
             },
             {
@@ -13668,7 +13668,7 @@
                 "stars": 21,
                 "is_archived": false,
                 "last_update": "2020-03-23T09:12:06Z",
-                "enriched_at": "2026-04-27T06:26:15.620093289Z"
+                "enriched_at": "2026-04-28T06:27:28.442770408Z"
               }
             },
             {
@@ -13679,7 +13679,7 @@
                 "stars": 75,
                 "is_archived": false,
                 "last_update": "2026-04-13T04:53:24Z",
-                "enriched_at": "2026-04-27T06:26:15.839118043Z"
+                "enriched_at": "2026-04-28T06:27:28.635861661Z"
               }
             },
             {
@@ -13690,7 +13690,7 @@
                 "stars": 379,
                 "is_archived": false,
                 "last_update": "2026-01-16T04:02:39Z",
-                "enriched_at": "2026-04-27T06:26:16.100126111Z"
+                "enriched_at": "2026-04-28T06:27:28.838819717Z"
               }
             },
             {
@@ -13701,7 +13701,7 @@
                 "stars": 614,
                 "is_archived": false,
                 "last_update": "2025-08-28T13:37:55Z",
-                "enriched_at": "2026-04-27T06:26:16.327699103Z"
+                "enriched_at": "2026-04-28T06:27:29.033950308Z"
               }
             },
             {
@@ -13709,10 +13709,10 @@
               "description": "A dependency injection service container for Go projects.",
               "url": "https://github.com/NVIDIA/gontainer",
               "repo_metadata": {
-                "stars": 133,
+                "stars": 135,
                 "is_archived": false,
                 "last_update": "2026-04-21T00:07:47Z",
-                "enriched_at": "2026-04-27T06:26:16.544699303Z"
+                "enriched_at": "2026-04-28T06:27:29.228633009Z"
               }
             },
             {
@@ -13723,7 +13723,7 @@
                 "stars": 16,
                 "is_archived": false,
                 "last_update": "2024-08-05T08:06:44Z",
-                "enriched_at": "2026-04-27T06:26:16.792224529Z"
+                "enriched_at": "2026-04-28T06:27:29.435904791Z"
               }
             },
             {
@@ -13734,7 +13734,7 @@
                 "stars": 8,
                 "is_archived": false,
                 "last_update": "2025-11-30T14:19:34Z",
-                "enriched_at": "2026-04-27T06:26:16.992570161Z"
+                "enriched_at": "2026-04-28T06:27:29.598717814Z"
               }
             },
             {
@@ -13745,7 +13745,7 @@
                 "stars": 10,
                 "is_archived": false,
                 "last_update": "2021-06-12T14:27:19Z",
-                "enriched_at": "2026-04-27T06:26:17.245003964Z"
+                "enriched_at": "2026-04-28T06:27:29.795880216Z"
               }
             },
             {
@@ -13756,7 +13756,7 @@
                 "stars": 197,
                 "is_archived": false,
                 "last_update": "2026-03-30T13:06:55Z",
-                "enriched_at": "2026-04-27T06:26:17.472070671Z"
+                "enriched_at": "2026-04-28T06:27:30.010647697Z"
               }
             },
             {
@@ -13767,7 +13767,7 @@
                 "stars": 35,
                 "is_archived": false,
                 "last_update": "2025-01-09T05:20:37Z",
-                "enriched_at": "2026-04-27T06:26:17.700533916Z"
+                "enriched_at": "2026-04-28T06:27:30.228230108Z"
               }
             },
             {
@@ -13778,7 +13778,7 @@
                 "stars": 30,
                 "is_archived": false,
                 "last_update": "2026-04-20T20:26:55Z",
-                "enriched_at": "2026-04-27T06:26:17.955659222Z"
+                "enriched_at": "2026-04-28T06:27:30.412229866Z"
               }
             },
             {
@@ -13789,7 +13789,7 @@
                 "stars": 26,
                 "is_archived": false,
                 "last_update": "2026-03-07T16:52:29Z",
-                "enriched_at": "2026-04-27T06:26:18.15310371Z"
+                "enriched_at": "2026-04-28T06:27:30.593768868Z"
               }
             },
             {
@@ -13800,7 +13800,7 @@
                 "stars": 32,
                 "is_archived": false,
                 "last_update": "2026-04-22T23:20:49Z",
-                "enriched_at": "2026-04-27T06:26:18.349803656Z"
+                "enriched_at": "2026-04-28T06:27:30.875864289Z"
               }
             },
             {
@@ -13811,7 +13811,7 @@
                 "stars": 40,
                 "is_archived": false,
                 "last_update": "2021-08-22T07:00:18Z",
-                "enriched_at": "2026-04-27T06:26:18.554382921Z"
+                "enriched_at": "2026-04-28T06:27:31.026856601Z"
               }
             }
           ]
@@ -13826,10 +13826,10 @@
               "description": "A starter kit for building production grade scalable web service applications.",
               "url": "https://github.com/ardanlabs/service",
               "repo_metadata": {
-                "stars": 3964,
+                "stars": 3967,
                 "is_archived": false,
                 "last_update": "2026-04-23T01:34:42Z",
-                "enriched_at": "2026-04-27T06:26:18.769954445Z"
+                "enriched_at": "2026-04-28T06:27:31.222839316Z"
               }
             },
             {
@@ -13840,7 +13840,7 @@
                 "stars": 735,
                 "is_archived": false,
                 "last_update": "2026-04-13T16:45:50Z",
-                "enriched_at": "2026-04-27T06:26:18.995406544Z"
+                "enriched_at": "2026-04-28T06:27:31.389061049Z"
               }
             },
             {
@@ -13848,10 +13848,10 @@
               "description": "Allows users to spin up a quick Go project using a popular framework.",
               "url": "https://github.com/Melkeydev/go-blueprint",
               "repo_metadata": {
-                "stars": 8799,
+                "stars": 8802,
                 "is_archived": false,
                 "last_update": "2026-04-26T00:42:04Z",
-                "enriched_at": "2026-04-27T06:26:19.186293383Z"
+                "enriched_at": "2026-04-28T06:27:31.549806252Z"
               }
             },
             {
@@ -13862,7 +13862,7 @@
                 "stars": 38,
                 "is_archived": false,
                 "last_update": "2026-04-23T05:03:12Z",
-                "enriched_at": "2026-04-27T06:26:19.426861067Z"
+                "enriched_at": "2026-04-28T06:27:31.740489946Z"
               }
             },
             {
@@ -13873,7 +13873,7 @@
                 "stars": 139,
                 "is_archived": false,
                 "last_update": "2019-01-24T23:54:54Z",
-                "enriched_at": "2026-04-27T06:26:19.654387037Z"
+                "enriched_at": "2026-04-28T06:27:31.897641445Z"
               }
             },
             {
@@ -13881,10 +13881,10 @@
               "description": "An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers.",
               "url": "https://github.com/allaboutapps/go-starter",
               "repo_metadata": {
-                "stars": 606,
+                "stars": 607,
                 "is_archived": false,
                 "last_update": "2025-10-16T09:54:22Z",
-                "enriched_at": "2026-04-27T06:26:19.888791266Z"
+                "enriched_at": "2026-04-28T06:27:32.108530105Z"
               }
             },
             {
@@ -13895,7 +13895,7 @@
                 "stars": 335,
                 "is_archived": false,
                 "last_update": "2026-04-13T04:50:46Z",
-                "enriched_at": "2026-04-27T06:26:20.09685995Z"
+                "enriched_at": "2026-04-28T06:27:32.294813547Z"
               }
             },
             {
@@ -13906,7 +13906,7 @@
                 "stars": 1059,
                 "is_archived": false,
                 "last_update": "2025-09-23T09:42:00Z",
-                "enriched_at": "2026-04-27T06:26:20.427444368Z"
+                "enriched_at": "2026-04-28T06:27:32.489003983Z"
               }
             },
             {
@@ -13917,7 +13917,7 @@
                 "stars": 66,
                 "is_archived": false,
                 "last_update": "2023-06-21T15:14:39Z",
-                "enriched_at": "2026-04-27T06:26:20.656263939Z"
+                "enriched_at": "2026-04-28T06:27:32.666003677Z"
               }
             },
             {
@@ -13925,10 +13925,10 @@
               "description": "Set of common historical and emerging project layout patterns in the Go ecosystem. Note: despite the org-name they do not represent official golang standards, see this issue for more information. Nonetheless, some may find the layout useful.",
               "url": "https://github.com/golang-standards/project-layout",
               "repo_metadata": {
-                "stars": 55849,
+                "stars": 55858,
                 "is_archived": false,
                 "last_update": "2026-03-22T17:19:41Z",
-                "enriched_at": "2026-04-27T06:26:20.900027231Z"
+                "enriched_at": "2026-04-28T06:27:32.842245075Z"
               }
             },
             {
@@ -13939,7 +13939,7 @@
                 "stars": 558,
                 "is_archived": false,
                 "last_update": "2026-04-23T13:11:08Z",
-                "enriched_at": "2026-04-27T06:26:21.131144563Z"
+                "enriched_at": "2026-04-28T06:27:33.035770155Z"
               }
             },
             {
@@ -13947,10 +13947,10 @@
               "description": "Generate a modern Web project with Go and Angular, React, or Vue in seconds.",
               "url": "https://github.com/shpota/goxygen",
               "repo_metadata": {
-                "stars": 3597,
+                "stars": 3596,
                 "is_archived": false,
                 "last_update": "2024-12-18T21:02:02Z",
-                "enriched_at": "2026-04-27T06:26:21.33839715Z"
+                "enriched_at": "2026-04-28T06:27:33.202150349Z"
               }
             },
             {
@@ -13961,7 +13961,7 @@
                 "stars": 18,
                 "is_archived": false,
                 "last_update": "2023-03-17T11:18:15Z",
-                "enriched_at": "2026-04-27T06:26:21.613644134Z"
+                "enriched_at": "2026-04-28T06:27:33.378094953Z"
               }
             },
             {
@@ -13972,7 +13972,7 @@
                 "stars": 110,
                 "is_archived": false,
                 "last_update": "2026-04-10T18:31:35Z",
-                "enriched_at": "2026-04-27T06:26:21.806547546Z"
+                "enriched_at": "2026-04-28T06:27:33.54314317Z"
               }
             },
             {
@@ -13980,10 +13980,10 @@
               "description": "Go application boilerplate and example applying modern practices.",
               "url": "https://github.com/sagikazarmark/modern-go-application",
               "repo_metadata": {
-                "stars": 1941,
+                "stars": 1940,
                 "is_archived": false,
                 "last_update": "2024-11-01T10:29:52Z",
-                "enriched_at": "2026-04-27T06:26:22.010045779Z"
+                "enriched_at": "2026-04-28T06:27:33.719902163Z"
               }
             },
             {
@@ -13994,7 +13994,7 @@
                 "stars": 2557,
                 "is_archived": false,
                 "last_update": "2026-04-26T16:40:41Z",
-                "enriched_at": "2026-04-27T06:26:22.247383692Z"
+                "enriched_at": "2026-04-28T06:27:33.909363861Z"
               }
             },
             {
@@ -14005,7 +14005,7 @@
                 "stars": 2929,
                 "is_archived": false,
                 "last_update": "2025-12-14T15:10:09Z",
-                "enriched_at": "2026-04-27T06:26:22.451499036Z"
+                "enriched_at": "2026-04-28T06:27:34.100494753Z"
               }
             },
             {
@@ -14016,7 +14016,7 @@
                 "stars": 149,
                 "is_archived": false,
                 "last_update": "2019-01-10T04:00:20Z",
-                "enriched_at": "2026-04-27T06:26:22.674376858Z"
+                "enriched_at": "2026-04-28T06:27:34.317017274Z"
               }
             },
             {
@@ -14027,7 +14027,7 @@
                 "stars": 26,
                 "is_archived": false,
                 "last_update": "2025-01-28T17:30:11Z",
-                "enriched_at": "2026-04-27T06:26:22.862616783Z"
+                "enriched_at": "2026-04-28T06:27:34.467227141Z"
               }
             }
           ]
@@ -14050,7 +14050,7 @@
                 "stars": 61,
                 "is_archived": false,
                 "last_update": "2023-12-30T16:57:05Z",
-                "enriched_at": "2026-04-27T06:26:23.113046248Z"
+                "enriched_at": "2026-04-28T06:27:34.651902985Z"
               }
             },
             {
@@ -14072,7 +14072,7 @@
                 "stars": 251,
                 "is_archived": false,
                 "last_update": "2025-05-19T15:47:24Z",
-                "enriched_at": "2026-04-27T06:26:23.315512861Z"
+                "enriched_at": "2026-04-28T06:27:34.814757078Z"
               }
             },
             {
@@ -14083,7 +14083,7 @@
                 "stars": 14,
                 "is_archived": false,
                 "last_update": "2026-02-09T07:58:20Z",
-                "enriched_at": "2026-04-27T06:26:23.539371884Z"
+                "enriched_at": "2026-04-28T06:27:34.985970042Z"
               }
             },
             {
@@ -14094,7 +14094,7 @@
                 "stars": 206,
                 "is_archived": false,
                 "last_update": "2025-05-21T09:01:11Z",
-                "enriched_at": "2026-04-27T06:26:23.735361037Z"
+                "enriched_at": "2026-04-28T06:27:35.177662441Z"
               }
             },
             {
@@ -14105,7 +14105,7 @@
                 "stars": 1309,
                 "is_archived": false,
                 "last_update": "2025-12-25T11:11:01Z",
-                "enriched_at": "2026-04-27T06:26:23.95852383Z"
+                "enriched_at": "2026-04-28T06:27:35.33883505Z"
               }
             },
             {
@@ -14116,7 +14116,7 @@
                 "stars": 1418,
                 "is_archived": false,
                 "last_update": "2024-06-06T08:26:18Z",
-                "enriched_at": "2026-04-27T06:26:24.147655677Z"
+                "enriched_at": "2026-04-28T06:27:35.496596815Z"
               }
             }
           ]
@@ -14134,7 +14134,7 @@
                 "stars": 16,
                 "is_archived": false,
                 "last_update": "2018-08-12T17:51:33Z",
-                "enriched_at": "2026-04-27T06:26:24.35347618Z"
+                "enriched_at": "2026-04-28T06:27:35.662855924Z"
               }
             },
             {
@@ -14145,7 +14145,7 @@
                 "stars": 265,
                 "is_archived": false,
                 "last_update": "2020-05-31T15:12:21Z",
-                "enriched_at": "2026-04-27T06:26:24.591017352Z"
+                "enriched_at": "2026-04-28T06:27:35.876189172Z"
               }
             },
             {
@@ -14156,7 +14156,7 @@
                 "stars": 404,
                 "is_archived": false,
                 "last_update": "2025-12-10T21:19:34Z",
-                "enriched_at": "2026-04-27T06:26:24.798405276Z"
+                "enriched_at": "2026-04-28T06:27:36.043548586Z"
               }
             },
             {
@@ -14167,7 +14167,7 @@
                 "stars": 42,
                 "is_archived": false,
                 "last_update": "2022-06-11T19:21:34Z",
-                "enriched_at": "2026-04-27T06:26:24.999899439Z"
+                "enriched_at": "2026-04-28T06:27:36.204273268Z"
               }
             },
             {
@@ -14178,7 +14178,7 @@
                 "stars": 17,
                 "is_archived": false,
                 "last_update": "2017-08-05T19:37:44Z",
-                "enriched_at": "2026-04-27T06:26:25.192174467Z"
+                "enriched_at": "2026-04-28T06:27:36.372728984Z"
               }
             },
             {
@@ -14189,7 +14189,7 @@
                 "stars": 463,
                 "is_archived": false,
                 "last_update": "2021-01-04T09:25:38Z",
-                "enriched_at": "2026-04-27T06:26:25.415410487Z"
+                "enriched_at": "2026-04-28T06:27:36.546528364Z"
               }
             },
             {
@@ -14200,7 +14200,7 @@
                 "stars": 2356,
                 "is_archived": false,
                 "last_update": "2025-09-29T10:35:08Z",
-                "enriched_at": "2026-04-27T06:26:25.654886926Z"
+                "enriched_at": "2026-04-28T06:27:36.727913969Z"
               }
             },
             {
@@ -14211,7 +14211,7 @@
                 "stars": 6,
                 "is_archived": false,
                 "last_update": "2025-08-03T14:49:26Z",
-                "enriched_at": "2026-04-27T06:26:25.834676332Z"
+                "enriched_at": "2026-04-28T06:27:36.879243914Z"
               }
             },
             {
@@ -14222,7 +14222,7 @@
                 "stars": 272,
                 "is_archived": false,
                 "last_update": "2023-09-27T07:39:30Z",
-                "enriched_at": "2026-04-27T06:26:26.054011979Z"
+                "enriched_at": "2026-04-28T06:27:37.072261544Z"
               }
             },
             {
@@ -14233,7 +14233,7 @@
                 "stars": 257,
                 "is_archived": false,
                 "last_update": "2023-03-30T13:00:41Z",
-                "enriched_at": "2026-04-27T06:26:26.261186089Z"
+                "enriched_at": "2026-04-28T06:27:37.300285459Z"
               }
             },
             {
@@ -14244,7 +14244,7 @@
                 "stars": 49,
                 "is_archived": true,
                 "last_update": "2023-06-21T00:41:00Z",
-                "enriched_at": "2026-04-27T06:26:26.476948368Z"
+                "enriched_at": "2026-04-28T06:27:37.450184435Z"
               }
             },
             {
@@ -14255,7 +14255,7 @@
                 "stars": 162,
                 "is_archived": false,
                 "last_update": "2025-08-20T08:12:19Z",
-                "enriched_at": "2026-04-27T06:26:26.672875172Z"
+                "enriched_at": "2026-04-28T06:27:37.600863525Z"
               }
             },
             {
@@ -14266,7 +14266,7 @@
                 "stars": 4,
                 "is_archived": false,
                 "last_update": "2026-04-24T01:34:34Z",
-                "enriched_at": "2026-04-27T06:26:26.920938836Z"
+                "enriched_at": "2026-04-28T06:27:37.778285983Z"
               }
             },
             {
@@ -14277,7 +14277,7 @@
                 "stars": 382,
                 "is_archived": false,
                 "last_update": "2021-08-23T21:52:24Z",
-                "enriched_at": "2026-04-27T06:26:27.136861984Z"
+                "enriched_at": "2026-04-28T06:27:37.95390439Z"
               }
             },
             {
@@ -14288,7 +14288,7 @@
                 "stars": 50,
                 "is_archived": false,
                 "last_update": "2023-04-13T17:55:42Z",
-                "enriched_at": "2026-04-27T06:26:27.346760873Z"
+                "enriched_at": "2026-04-28T06:27:38.119270421Z"
               }
             },
             {
@@ -14299,7 +14299,7 @@
                 "stars": 16,
                 "is_archived": false,
                 "last_update": "2026-02-16T11:53:07Z",
-                "enriched_at": "2026-04-27T06:26:27.584848142Z"
+                "enriched_at": "2026-04-28T06:27:38.28380596Z"
               }
             },
             {
@@ -14310,7 +14310,7 @@
                 "stars": 100,
                 "is_archived": false,
                 "last_update": "2023-10-06T09:37:59Z",
-                "enriched_at": "2026-04-27T06:26:27.787871611Z"
+                "enriched_at": "2026-04-28T06:27:38.457794363Z"
               }
             },
             {
@@ -14321,7 +14321,7 @@
                 "stars": 315,
                 "is_archived": false,
                 "last_update": "2021-11-19T15:22:56Z",
-                "enriched_at": "2026-04-27T06:26:28.023929803Z"
+                "enriched_at": "2026-04-28T06:27:38.664680363Z"
               }
             },
             {
@@ -14329,10 +14329,10 @@
               "description": "Automated service health dashboard.",
               "url": "https://github.com/TwinProduction/gatus",
               "repo_metadata": {
-                "stars": 10779,
+                "stars": 10784,
                 "is_archived": false,
-                "last_update": "2026-04-27T01:39:09Z",
-                "enriched_at": "2026-04-27T06:26:28.355229852Z"
+                "last_update": "2026-04-28T06:23:09Z",
+                "enriched_at": "2026-04-28T06:27:38.911614696Z"
               }
             },
             {
@@ -14343,7 +14343,7 @@
                 "stars": 15,
                 "is_archived": false,
                 "last_update": "2022-01-26T15:20:42Z",
-                "enriched_at": "2026-04-27T06:26:28.610180102Z"
+                "enriched_at": "2026-04-28T06:27:39.104925065Z"
               }
             },
             {
@@ -14354,7 +14354,7 @@
                 "stars": 1241,
                 "is_archived": false,
                 "last_update": "2023-05-30T21:57:20Z",
-                "enriched_at": "2026-04-27T06:26:28.80403654Z"
+                "enriched_at": "2026-04-28T06:27:39.261966594Z"
               }
             },
             {
@@ -14370,7 +14370,7 @@
                 "stars": 2344,
                 "is_archived": false,
                 "last_update": "2025-02-23T20:11:08Z",
-                "enriched_at": "2026-04-27T06:26:29.098916121Z"
+                "enriched_at": "2026-04-28T06:27:39.477636578Z"
               }
             },
             {
@@ -14381,7 +14381,7 @@
                 "stars": 311,
                 "is_archived": false,
                 "last_update": "2024-10-22T17:24:48Z",
-                "enriched_at": "2026-04-27T06:26:29.373390857Z"
+                "enriched_at": "2026-04-28T06:27:39.638773171Z"
               }
             },
             {
@@ -14392,7 +14392,7 @@
                 "stars": 5341,
                 "is_archived": false,
                 "last_update": "2026-03-04T15:59:15Z",
-                "enriched_at": "2026-04-27T06:26:29.575456857Z"
+                "enriched_at": "2026-04-28T06:27:39.766828746Z"
               }
             },
             {
@@ -14403,7 +14403,7 @@
                 "stars": 115,
                 "is_archived": false,
                 "last_update": "2026-04-20T06:04:38Z",
-                "enriched_at": "2026-04-27T06:26:29.768444102Z"
+                "enriched_at": "2026-04-28T06:27:39.939776855Z"
               }
             },
             {
@@ -14411,10 +14411,10 @@
               "description": "Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc).",
               "url": "https://github.com/shirou/gopsutil",
               "repo_metadata": {
-                "stars": 11798,
+                "stars": 11800,
                 "is_archived": false,
-                "last_update": "2026-04-24T14:47:21Z",
-                "enriched_at": "2026-04-27T06:26:29.978101716Z"
+                "last_update": "2026-04-28T02:30:32Z",
+                "enriched_at": "2026-04-28T06:27:40.114616355Z"
               }
             },
             {
@@ -14425,7 +14425,7 @@
                 "stars": 37,
                 "is_archived": false,
                 "last_update": "2025-03-22T15:14:55Z",
-                "enriched_at": "2026-04-27T06:26:30.181138407Z"
+                "enriched_at": "2026-04-28T06:27:40.2887549Z"
               }
             },
             {
@@ -14436,7 +14436,7 @@
                 "stars": 1470,
                 "is_archived": false,
                 "last_update": "2021-02-05T19:15:02Z",
-                "enriched_at": "2026-04-27T06:26:30.407826577Z"
+                "enriched_at": "2026-04-28T06:27:40.474164321Z"
               }
             },
             {
@@ -14447,7 +14447,7 @@
                 "stars": 108,
                 "is_archived": false,
                 "last_update": "2024-10-09T08:10:16Z",
-                "enriched_at": "2026-04-27T06:26:30.621576485Z"
+                "enriched_at": "2026-04-28T06:27:40.655841317Z"
               }
             },
             {
@@ -14457,8 +14457,8 @@
               "repo_metadata": {
                 "stars": 431,
                 "is_archived": false,
-                "last_update": "2024-06-04T07:45:23Z",
-                "enriched_at": "2026-04-27T06:26:30.819963152Z"
+                "last_update": "2026-04-27T19:51:20Z",
+                "enriched_at": "2026-04-28T06:27:40.833982638Z"
               }
             },
             {
@@ -14469,7 +14469,7 @@
                 "stars": 332,
                 "is_archived": false,
                 "last_update": "2026-04-01T14:53:35Z",
-                "enriched_at": "2026-04-27T06:26:31.034764046Z"
+                "enriched_at": "2026-04-28T06:27:40.999224376Z"
               }
             },
             {
@@ -14480,7 +14480,7 @@
                 "stars": 831,
                 "is_archived": false,
                 "last_update": "2026-03-31T02:22:25Z",
-                "enriched_at": "2026-04-27T06:26:31.238650493Z"
+                "enriched_at": "2026-04-28T06:27:41.17525403Z"
               }
             },
             {
@@ -14491,7 +14491,7 @@
                 "stars": 449,
                 "is_archived": false,
                 "last_update": "2023-11-18T16:04:44Z",
-                "enriched_at": "2026-04-27T06:26:31.435399985Z"
+                "enriched_at": "2026-04-28T06:27:41.357241146Z"
               }
             },
             {
@@ -14502,7 +14502,7 @@
                 "stars": 276,
                 "is_archived": false,
                 "last_update": "2023-12-13T04:01:32Z",
-                "enriched_at": "2026-04-27T06:26:31.663820849Z"
+                "enriched_at": "2026-04-28T06:27:41.524691127Z"
               }
             },
             {
@@ -14513,7 +14513,7 @@
                 "stars": 13,
                 "is_archived": false,
                 "last_update": "2024-06-05T02:09:44Z",
-                "enriched_at": "2026-04-27T06:26:31.870338372Z"
+                "enriched_at": "2026-04-28T06:27:41.689190474Z"
               }
             },
             {
@@ -14524,7 +14524,7 @@
                 "stars": 112,
                 "is_archived": false,
                 "last_update": "2025-03-22T17:15:04Z",
-                "enriched_at": "2026-04-27T06:26:32.11045598Z"
+                "enriched_at": "2026-04-28T06:27:41.877283234Z"
               }
             },
             {
@@ -14535,7 +14535,7 @@
                 "stars": 413,
                 "is_archived": false,
                 "last_update": "2025-12-20T05:35:26Z",
-                "enriched_at": "2026-04-27T06:26:32.343538849Z"
+                "enriched_at": "2026-04-28T06:27:42.090003376Z"
               }
             },
             {
@@ -14546,7 +14546,7 @@
                 "stars": 1276,
                 "is_archived": false,
                 "last_update": "2024-12-06T18:03:01Z",
-                "enriched_at": "2026-04-27T06:26:32.594112196Z"
+                "enriched_at": "2026-04-28T06:27:42.270877248Z"
               }
             },
             {
@@ -14557,7 +14557,7 @@
                 "stars": 27,
                 "is_archived": false,
                 "last_update": "2023-03-22T15:58:38Z",
-                "enriched_at": "2026-04-27T06:26:32.796165474Z"
+                "enriched_at": "2026-04-28T06:27:42.432117554Z"
               }
             },
             {
@@ -14568,7 +14568,7 @@
                 "stars": 86,
                 "is_archived": false,
                 "last_update": "2022-08-30T10:12:15Z",
-                "enriched_at": "2026-04-27T06:26:33.006470794Z"
+                "enriched_at": "2026-04-28T06:27:42.620178062Z"
               }
             },
             {
@@ -14579,7 +14579,7 @@
                 "stars": 38,
                 "is_archived": false,
                 "last_update": "2024-10-31T07:14:27Z",
-                "enriched_at": "2026-04-27T06:26:33.218078833Z"
+                "enriched_at": "2026-04-28T06:27:42.828816745Z"
               }
             },
             {
@@ -14590,7 +14590,7 @@
                 "stars": 75,
                 "is_archived": false,
                 "last_update": "2018-02-19T15:49:42Z",
-                "enriched_at": "2026-04-27T06:26:33.429049376Z"
+                "enriched_at": "2026-04-28T06:27:43.036197319Z"
               }
             },
             {
@@ -14601,7 +14601,7 @@
                 "stars": 93,
                 "is_archived": false,
                 "last_update": "2024-01-28T18:52:29Z",
-                "enriched_at": "2026-04-27T06:26:33.66518808Z"
+                "enriched_at": "2026-04-28T06:27:43.233543427Z"
               }
             },
             {
@@ -14609,10 +14609,10 @@
               "description": "A library for calling C functions from Go without Cgo.",
               "url": "https://github.com/ebitengine/purego",
               "repo_metadata": {
-                "stars": 3558,
+                "stars": 3565,
                 "is_archived": false,
                 "last_update": "2026-04-21T01:26:52Z",
-                "enriched_at": "2026-04-27T06:26:33.916286992Z"
+                "enriched_at": "2026-04-28T06:27:43.428990588Z"
               }
             },
             {
@@ -14623,7 +14623,7 @@
                 "stars": 46,
                 "is_archived": true,
                 "last_update": "2025-05-17T14:32:33Z",
-                "enriched_at": "2026-04-27T06:26:34.115035896Z"
+                "enriched_at": "2026-04-28T06:27:43.619008194Z"
               }
             },
             {
@@ -14634,7 +14634,7 @@
                 "stars": 28,
                 "is_archived": false,
                 "last_update": "2023-04-20T06:25:14Z",
-                "enriched_at": "2026-04-27T06:26:34.302939809Z"
+                "enriched_at": "2026-04-28T06:27:43.771299271Z"
               }
             },
             {
@@ -14645,7 +14645,7 @@
                 "stars": 961,
                 "is_archived": false,
                 "last_update": "2022-06-17T16:11:02Z",
-                "enriched_at": "2026-04-27T06:26:34.535318377Z"
+                "enriched_at": "2026-04-28T06:27:43.947000717Z"
               }
             },
             {
@@ -14656,7 +14656,7 @@
                 "stars": 1563,
                 "is_archived": false,
                 "last_update": "2026-04-06T07:45:55Z",
-                "enriched_at": "2026-04-27T06:26:34.812570493Z"
+                "enriched_at": "2026-04-28T06:27:44.134755938Z"
               }
             },
             {
@@ -14667,7 +14667,7 @@
                 "stars": 6,
                 "is_archived": false,
                 "last_update": "2022-11-16T11:36:27Z",
-                "enriched_at": "2026-04-27T06:26:35.020284101Z"
+                "enriched_at": "2026-04-28T06:27:44.307024442Z"
               }
             },
             {
@@ -14678,7 +14678,7 @@
                 "stars": 1290,
                 "is_archived": false,
                 "last_update": "2026-02-10T14:11:58Z",
-                "enriched_at": "2026-04-27T06:26:35.256330994Z"
+                "enriched_at": "2026-04-28T06:27:44.469234512Z"
               }
             },
             {
@@ -14689,7 +14689,7 @@
                 "stars": 172,
                 "is_archived": false,
                 "last_update": "2016-09-07T12:51:16Z",
-                "enriched_at": "2026-04-27T06:26:35.478608983Z"
+                "enriched_at": "2026-04-28T06:27:44.651659321Z"
               }
             },
             {
@@ -14700,7 +14700,7 @@
                 "stars": 164,
                 "is_archived": false,
                 "last_update": "2021-10-04T08:23:47Z",
-                "enriched_at": "2026-04-27T06:26:35.702934466Z"
+                "enriched_at": "2026-04-28T06:27:44.815244804Z"
               }
             },
             {
@@ -14711,7 +14711,7 @@
                 "stars": 51,
                 "is_archived": false,
                 "last_update": "2023-02-06T10:28:56Z",
-                "enriched_at": "2026-04-27T06:26:35.891831626Z"
+                "enriched_at": "2026-04-28T06:27:44.971116658Z"
               }
             },
             {
@@ -14727,7 +14727,7 @@
                 "stars": 15,
                 "is_archived": false,
                 "last_update": "2023-10-07T07:59:10Z",
-                "enriched_at": "2026-04-27T06:26:36.091128875Z"
+                "enriched_at": "2026-04-28T06:27:45.156652413Z"
               }
             },
             {
@@ -14738,7 +14738,7 @@
                 "stars": 48,
                 "is_archived": false,
                 "last_update": "2025-12-28T20:42:53Z",
-                "enriched_at": "2026-04-27T06:26:36.29016306Z"
+                "enriched_at": "2026-04-28T06:27:45.318734055Z"
               }
             },
             {
@@ -14749,7 +14749,7 @@
                 "stars": 61,
                 "is_archived": false,
                 "last_update": "2015-01-08T04:01:03Z",
-                "enriched_at": "2026-04-27T06:26:36.512762205Z"
+                "enriched_at": "2026-04-28T06:27:45.52790515Z"
               }
             },
             {
@@ -14760,7 +14760,7 @@
                 "stars": 555,
                 "is_archived": false,
                 "last_update": "2025-12-30T09:40:37Z",
-                "enriched_at": "2026-04-27T06:26:36.737260131Z"
+                "enriched_at": "2026-04-28T06:27:45.684715844Z"
               }
             }
           ]
@@ -14784,7 +14784,7 @@
                 "stars": 26,
                 "is_archived": false,
                 "last_update": "2025-08-20T17:52:41Z",
-                "enriched_at": "2026-04-27T06:26:36.971917888Z"
+                "enriched_at": "2026-04-28T06:27:45.888010851Z"
               }
             },
             {
@@ -14795,7 +14795,7 @@
                 "stars": 175,
                 "is_archived": false,
                 "last_update": "2020-12-27T07:47:21Z",
-                "enriched_at": "2026-04-27T06:26:37.193252503Z"
+                "enriched_at": "2026-04-28T06:27:46.057351966Z"
               }
             },
             {
@@ -14806,7 +14806,7 @@
                 "stars": 58,
                 "is_archived": false,
                 "last_update": "2017-11-08T02:01:01Z",
-                "enriched_at": "2026-04-27T06:26:37.398160924Z"
+                "enriched_at": "2026-04-28T06:27:46.235857253Z"
               }
             },
             {
@@ -14814,10 +14814,10 @@
               "description": "An accurate natural language detection library, suitable for long and short text alike. Supports detecting multiple languages in mixed-language text.",
               "url": "https://github.com/pemistahl/lingua-go",
               "repo_metadata": {
-                "stars": 1338,
+                "stars": 1339,
                 "is_archived": false,
                 "last_update": "2025-02-06T14:21:57Z",
-                "enriched_at": "2026-04-27T06:26:37.574004158Z"
+                "enriched_at": "2026-04-28T06:27:46.39886218Z"
               }
             },
             {
@@ -14828,7 +14828,7 @@
                 "stars": 687,
                 "is_archived": false,
                 "last_update": "2023-03-28T08:08:05Z",
-                "enriched_at": "2026-04-27T06:26:37.795111067Z"
+                "enriched_at": "2026-04-28T06:27:46.588866979Z"
               }
             }
           ]
@@ -14845,7 +14845,7 @@
                 "stars": 81,
                 "is_archived": false,
                 "last_update": "2018-06-16T22:48:56Z",
-                "enriched_at": "2026-04-27T06:26:37.994019134Z"
+                "enriched_at": "2026-04-28T06:27:46.742571138Z"
               }
             },
             {
@@ -14856,7 +14856,7 @@
                 "stars": 58,
                 "is_archived": true,
                 "last_update": "2018-08-30T05:34:08Z",
-                "enriched_at": "2026-04-27T06:26:38.18179091Z"
+                "enriched_at": "2026-04-28T06:27:46.911990809Z"
               }
             },
             {
@@ -14867,7 +14867,7 @@
                 "stars": 21,
                 "is_archived": false,
                 "last_update": "2014-06-17T16:04:56Z",
-                "enriched_at": "2026-04-27T06:26:38.395675433Z"
+                "enriched_at": "2026-04-28T06:27:47.068899277Z"
               }
             },
             {
@@ -14878,7 +14878,7 @@
                 "stars": 11,
                 "is_archived": false,
                 "last_update": "2021-03-11T05:01:50Z",
-                "enriched_at": "2026-04-27T06:26:38.612380508Z"
+                "enriched_at": "2026-04-28T06:27:47.23426791Z"
               }
             },
             {
@@ -14889,7 +14889,7 @@
                 "stars": 54,
                 "is_archived": false,
                 "last_update": "2025-04-29T09:39:35Z",
-                "enriched_at": "2026-04-27T06:26:38.849843632Z"
+                "enriched_at": "2026-04-28T06:27:47.408463634Z"
               }
             },
             {
@@ -14900,7 +14900,7 @@
                 "stars": 6,
                 "is_archived": false,
                 "last_update": "2024-02-25T21:00:28Z",
-                "enriched_at": "2026-04-27T06:26:39.051947716Z"
+                "enriched_at": "2026-04-28T06:27:47.566917756Z"
               }
             },
             {
@@ -14910,8 +14910,8 @@
               "repo_metadata": {
                 "stars": 965,
                 "is_archived": false,
-                "last_update": "2026-04-21T00:16:35Z",
-                "enriched_at": "2026-04-27T06:26:39.249008938Z"
+                "last_update": "2026-04-28T02:01:52Z",
+                "enriched_at": "2026-04-28T06:27:47.74276851Z"
               }
             },
             {
@@ -14922,7 +14922,7 @@
                 "stars": 13,
                 "is_archived": false,
                 "last_update": "2012-12-27T17:23:35Z",
-                "enriched_at": "2026-04-27T06:26:39.475249249Z"
+                "enriched_at": "2026-04-28T06:27:47.913092569Z"
               }
             },
             {
@@ -14933,7 +14933,7 @@
                 "stars": 471,
                 "is_archived": false,
                 "last_update": "2021-05-11T12:03:06Z",
-                "enriched_at": "2026-04-27T06:26:39.668890561Z"
+                "enriched_at": "2026-04-28T06:27:48.075239294Z"
               }
             },
             {
@@ -14944,7 +14944,7 @@
                 "stars": 29,
                 "is_archived": false,
                 "last_update": "2013-12-16T12:45:11Z",
-                "enriched_at": "2026-04-27T06:26:39.915408424Z"
+                "enriched_at": "2026-04-28T06:27:48.263652508Z"
               }
             },
             {
@@ -14955,7 +14955,7 @@
                 "stars": 13,
                 "is_archived": false,
                 "last_update": "2026-02-09T09:20:10Z",
-                "enriched_at": "2026-04-27T06:26:40.113956243Z"
+                "enriched_at": "2026-04-28T06:27:48.444292226Z"
               }
             },
             {
@@ -14966,7 +14966,7 @@
                 "stars": 47,
                 "is_archived": false,
                 "last_update": "2020-10-07T17:10:59Z",
-                "enriched_at": "2026-04-27T06:26:40.488121416Z"
+                "enriched_at": "2026-04-28T06:27:48.712690042Z"
               }
             },
             {
@@ -14977,7 +14977,7 @@
                 "stars": 123,
                 "is_archived": false,
                 "last_update": "2025-06-12T06:07:36Z",
-                "enriched_at": "2026-04-27T06:26:40.68830191Z"
+                "enriched_at": "2026-04-28T06:27:48.862422081Z"
               }
             },
             {
@@ -14988,7 +14988,7 @@
                 "stars": 38,
                 "is_archived": false,
                 "last_update": "2017-06-27T08:13:41Z",
-                "enriched_at": "2026-04-27T06:26:40.903338981Z"
+                "enriched_at": "2026-04-28T06:27:49.036634773Z"
               }
             },
             {
@@ -14999,7 +14999,7 @@
                 "stars": 1850,
                 "is_archived": false,
                 "last_update": "2025-04-01T10:17:42Z",
-                "enriched_at": "2026-04-27T06:26:41.119781076Z"
+                "enriched_at": "2026-04-28T06:27:49.198154768Z"
               }
             },
             {
@@ -15010,7 +15010,7 @@
                 "stars": 2,
                 "is_archived": false,
                 "last_update": "2022-03-23T10:33:20Z",
-                "enriched_at": "2026-04-27T06:26:41.330338937Z"
+                "enriched_at": "2026-04-28T06:27:49.357131397Z"
               }
             }
           ]
@@ -15027,7 +15027,7 @@
                 "stars": 97,
                 "is_archived": false,
                 "last_update": "2020-05-13T18:54:09Z",
-                "enriched_at": "2026-04-27T06:26:41.527066406Z"
+                "enriched_at": "2026-04-28T06:27:49.503695493Z"
               }
             },
             {
@@ -15038,7 +15038,7 @@
                 "stars": 1325,
                 "is_archived": false,
                 "last_update": "2024-12-23T19:05:30Z",
-                "enriched_at": "2026-04-27T06:26:41.765475188Z"
+                "enriched_at": "2026-04-28T06:27:49.664632421Z"
               }
             },
             {
@@ -15049,7 +15049,7 @@
                 "stars": 35,
                 "is_archived": false,
                 "last_update": "2018-05-01T14:59:21Z",
-                "enriched_at": "2026-04-27T06:26:41.999991716Z"
+                "enriched_at": "2026-04-28T06:27:49.822307929Z"
               }
             }
           ]
@@ -15063,10 +15063,10 @@
               "description": "This is a Go implementation of jieba which a Chinese word splitting algorithm.",
               "url": "https://github.com/yanyiwu/gojieba",
               "repo_metadata": {
-                "stars": 2633,
+                "stars": 2634,
                 "is_archived": false,
-                "last_update": "2026-04-27T03:48:46Z",
-                "enriched_at": "2026-04-27T06:26:42.176388738Z"
+                "last_update": "2026-04-27T08:12:47Z",
+                "enriched_at": "2026-04-28T06:27:49.99527534Z"
               }
             },
             {
@@ -15077,7 +15077,7 @@
                 "stars": 21,
                 "is_archived": false,
                 "last_update": "2019-04-10T09:39:09Z",
-                "enriched_at": "2026-04-27T06:26:42.375064691Z"
+                "enriched_at": "2026-04-28T06:27:50.173283832Z"
               }
             },
             {
@@ -15085,10 +15085,10 @@
               "description": "Go efficient text segmentation; support english, chinese, japanese and other.",
               "url": "https://github.com/go-ego/gse",
               "repo_metadata": {
-                "stars": 2807,
+                "stars": 2808,
                 "is_archived": false,
                 "last_update": "2026-04-17T21:33:12Z",
-                "enriched_at": "2026-04-27T06:26:42.607840374Z"
+                "enriched_at": "2026-04-28T06:27:50.346433503Z"
               }
             },
             {
@@ -15099,7 +15099,7 @@
                 "stars": 62,
                 "is_archived": false,
                 "last_update": "2012-04-18T04:18:51Z",
-                "enriched_at": "2026-04-27T06:26:43.030422536Z"
+                "enriched_at": "2026-04-28T06:27:50.50189957Z"
               }
             },
             {
@@ -15110,7 +15110,7 @@
                 "stars": 88,
                 "is_archived": false,
                 "last_update": "2022-12-19T19:42:15Z",
-                "enriched_at": "2026-04-27T06:26:43.289928317Z"
+                "enriched_at": "2026-04-28T06:27:50.695948258Z"
               }
             },
             {
@@ -15121,7 +15121,7 @@
                 "stars": 467,
                 "is_archived": false,
                 "last_update": "2024-02-28T04:28:03Z",
-                "enriched_at": "2026-04-27T06:26:43.496311725Z"
+                "enriched_at": "2026-04-28T06:27:50.885910187Z"
               }
             },
             {
@@ -15132,7 +15132,7 @@
                 "stars": 13,
                 "is_archived": false,
                 "last_update": "2025-03-22T17:26:47Z",
-                "enriched_at": "2026-04-27T06:26:43.70993777Z"
+                "enriched_at": "2026-04-28T06:27:51.08697163Z"
               }
             },
             {
@@ -15143,7 +15143,7 @@
                 "stars": 55,
                 "is_archived": false,
                 "last_update": "2016-12-07T10:24:03Z",
-                "enriched_at": "2026-04-27T06:26:43.913206534Z"
+                "enriched_at": "2026-04-28T06:27:51.257851159Z"
               }
             },
             {
@@ -15154,7 +15154,7 @@
                 "stars": 73,
                 "is_archived": false,
                 "last_update": "2024-12-06T17:07:23Z",
-                "enriched_at": "2026-04-27T06:26:44.13411248Z"
+                "enriched_at": "2026-04-28T06:27:51.426504976Z"
               }
             }
           ]
@@ -15171,7 +15171,7 @@
                 "stars": 91,
                 "is_archived": false,
                 "last_update": "2024-12-04T10:40:04Z",
-                "enriched_at": "2026-04-27T06:26:44.370527904Z"
+                "enriched_at": "2026-04-28T06:27:51.660742991Z"
               }
             },
             {
@@ -15182,7 +15182,7 @@
                 "stars": 3512,
                 "is_archived": false,
                 "last_update": "2026-04-01T06:17:13Z",
-                "enriched_at": "2026-04-27T06:26:44.567195965Z"
+                "enriched_at": "2026-04-28T06:27:51.833756747Z"
               }
             },
             {
@@ -15193,7 +15193,7 @@
                 "stars": 35,
                 "is_archived": false,
                 "last_update": "2016-10-05T05:53:17Z",
-                "enriched_at": "2026-04-27T06:26:44.769041304Z"
+                "enriched_at": "2026-04-28T06:27:52.010872577Z"
               }
             },
             {
@@ -15201,10 +15201,10 @@
               "description": "CN Hanzi to Hanyu Pinyin converter.",
               "url": "https://github.com/mozillazg/go-pinyin",
               "repo_metadata": {
-                "stars": 1768,
+                "stars": 1769,
                 "is_archived": false,
                 "last_update": "2026-03-08T13:36:18Z",
-                "enriched_at": "2026-04-27T06:26:44.972158626Z"
+                "enriched_at": "2026-04-28T06:27:52.188616836Z"
               }
             },
             {
@@ -15215,7 +15215,7 @@
                 "stars": 8,
                 "is_archived": false,
                 "last_update": "2024-02-26T06:39:07Z",
-                "enriched_at": "2026-04-27T06:26:45.20820965Z"
+                "enriched_at": "2026-04-28T06:27:52.343827162Z"
               }
             },
             {
@@ -15226,7 +15226,7 @@
                 "stars": 495,
                 "is_archived": false,
                 "last_update": "2026-04-22T13:48:50Z",
-                "enriched_at": "2026-04-27T06:26:45.414617399Z"
+                "enriched_at": "2026-04-28T06:27:52.523040297Z"
               }
             },
             {
@@ -15237,7 +15237,7 @@
                 "stars": 56,
                 "is_archived": false,
                 "last_update": "2025-01-08T06:50:18Z",
-                "enriched_at": "2026-04-27T06:26:45.61581834Z"
+                "enriched_at": "2026-04-28T06:27:52.681788063Z"
               }
             },
             {
@@ -15248,7 +15248,7 @@
                 "stars": 93,
                 "is_archived": false,
                 "last_update": "2025-09-28T10:03:06Z",
-                "enriched_at": "2026-04-27T06:26:45.825454158Z"
+                "enriched_at": "2026-04-28T06:27:52.857815738Z"
               }
             },
             {
@@ -15259,7 +15259,7 @@
                 "stars": 21,
                 "is_archived": false,
                 "last_update": "2025-01-19T14:49:16Z",
-                "enriched_at": "2026-04-27T06:26:46.043770677Z"
+                "enriched_at": "2026-04-28T06:27:53.009809561Z"
               }
             }
           ]
@@ -15276,7 +15276,7 @@
                 "stars": 19,
                 "is_archived": false,
                 "last_update": "2016-03-15T07:18:17Z",
-                "enriched_at": "2026-04-27T06:26:46.23736774Z"
+                "enriched_at": "2026-04-28T06:27:53.184706068Z"
               }
             },
             {
@@ -15287,7 +15287,7 @@
                 "stars": 145,
                 "is_archived": false,
                 "last_update": "2023-05-14T12:06:38Z",
-                "enriched_at": "2026-04-27T06:26:46.44862641Z"
+                "enriched_at": "2026-04-28T06:27:53.336192441Z"
               }
             },
             {
@@ -15298,7 +15298,7 @@
                 "stars": 80,
                 "is_archived": false,
                 "last_update": "2015-09-23T21:17:29Z",
-                "enriched_at": "2026-04-27T06:26:46.680090758Z"
+                "enriched_at": "2026-04-28T06:27:53.486568218Z"
               }
             },
             {
@@ -15309,7 +15309,7 @@
                 "stars": 46,
                 "is_archived": false,
                 "last_update": "2024-06-05T12:34:35Z",
-                "enriched_at": "2026-04-27T06:26:46.898985744Z"
+                "enriched_at": "2026-04-28T06:27:53.659424937Z"
               }
             }
           ]
@@ -15329,7 +15329,7 @@
             "stars": 387,
             "is_archived": false,
             "last_update": "2022-12-03T20:01:43Z",
-            "enriched_at": "2026-04-27T06:26:47.10515177Z"
+            "enriched_at": "2026-04-28T06:27:53.820872968Z"
           }
         },
         {
@@ -15340,7 +15340,7 @@
             "stars": 136,
             "is_archived": false,
             "last_update": "2026-02-21T16:46:15Z",
-            "enriched_at": "2026-04-27T06:26:47.306640208Z"
+            "enriched_at": "2026-04-28T06:27:53.995675052Z"
           }
         },
         {
@@ -15351,7 +15351,7 @@
             "stars": 255,
             "is_archived": false,
             "last_update": "2020-08-14T20:02:54Z",
-            "enriched_at": "2026-04-27T06:26:47.495656814Z"
+            "enriched_at": "2026-04-28T06:27:54.158449063Z"
           }
         },
         {
@@ -15362,7 +15362,7 @@
             "stars": 156,
             "is_archived": false,
             "last_update": "2018-03-25T17:28:53Z",
-            "enriched_at": "2026-04-27T06:26:47.687267944Z"
+            "enriched_at": "2026-04-28T06:27:54.356821516Z"
           }
         },
         {
@@ -15373,7 +15373,7 @@
             "stars": 969,
             "is_archived": false,
             "last_update": "2023-06-05T20:01:20Z",
-            "enriched_at": "2026-04-27T06:26:47.899064673Z"
+            "enriched_at": "2026-04-28T06:27:54.517434897Z"
           }
         },
         {
@@ -15381,10 +15381,10 @@
           "description": "Cloudflare Tunnel client (formerly Argo Tunnel).",
           "url": "https://github.com/cloudflare/cloudflared",
           "repo_metadata": {
-            "stars": 13984,
+            "stars": 13999,
             "is_archived": false,
-            "last_update": "2026-04-24T00:51:48Z",
-            "enriched_at": "2026-04-27T06:26:48.115124684Z"
+            "last_update": "2026-04-27T11:30:07Z",
+            "enriched_at": "2026-04-28T06:27:54.702441742Z"
           }
         },
         {
@@ -15395,7 +15395,7 @@
             "stars": 80,
             "is_archived": false,
             "last_update": "2023-02-24T17:51:10Z",
-            "enriched_at": "2026-04-27T06:26:48.32491889Z"
+            "enriched_at": "2026-04-28T06:27:54.864831048Z"
           }
         },
         {
@@ -15403,10 +15403,10 @@
           "description": "Go library for working with DNS.",
           "url": "https://github.com/miekg/dns",
           "repo_metadata": {
-            "stars": 8676,
+            "stars": 8677,
             "is_archived": false,
             "last_update": "2026-04-02T04:48:40Z",
-            "enriched_at": "2026-04-27T06:26:48.537835628Z"
+            "enriched_at": "2026-04-28T06:27:55.032087693Z"
           }
         },
         {
@@ -15417,7 +15417,7 @@
             "stars": 354,
             "is_archived": false,
             "last_update": "2026-04-08T05:23:19Z",
-            "enriched_at": "2026-04-27T06:26:48.929133322Z"
+            "enriched_at": "2026-04-28T06:27:55.31936769Z"
           }
         },
         {
