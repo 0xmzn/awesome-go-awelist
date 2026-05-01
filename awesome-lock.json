@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-05-01T13:12:49.201011956Z",
+    "updated_at": "2026-05-01T14:52:42.111753577Z",
     "provider_metrics": [
       {
         "provider": "gitlab-provider",
@@ -10,8 +10,8 @@
       },
       {
         "provider": "github-provider",
-        "attempted": 9,
-        "successful": 0,
+        "attempted": 19,
+        "successful": 10,
         "failed": 9
       }
     ],
@@ -15309,7 +15309,7 @@
                 "stars": 46,
                 "is_archived": false,
                 "last_update": "2024-06-05T12:34:35Z",
-                "enriched_at": "2026-04-30T13:46:53.763539549Z"
+                "enriched_at": "2026-05-01T14:52:40.041107176Z"
               }
             }
           ]
@@ -15329,7 +15329,7 @@
             "stars": 387,
             "is_archived": false,
             "last_update": "2022-12-03T20:01:43Z",
-            "enriched_at": "2026-04-30T13:46:53.935355078Z"
+            "enriched_at": "2026-05-01T14:52:40.198153285Z"
           }
         },
         {
@@ -15340,7 +15340,7 @@
             "stars": 136,
             "is_archived": false,
             "last_update": "2026-02-21T16:46:15Z",
-            "enriched_at": "2026-04-30T13:46:54.127269498Z"
+            "enriched_at": "2026-05-01T14:52:40.345365179Z"
           }
         },
         {
@@ -15351,7 +15351,7 @@
             "stars": 255,
             "is_archived": false,
             "last_update": "2020-08-14T20:02:54Z",
-            "enriched_at": "2026-04-30T13:46:54.307917994Z"
+            "enriched_at": "2026-05-01T14:52:40.502283007Z"
           }
         },
         {
@@ -15362,7 +15362,7 @@
             "stars": 156,
             "is_archived": false,
             "last_update": "2018-03-25T17:28:53Z",
-            "enriched_at": "2026-04-30T13:46:54.480010305Z"
+            "enriched_at": "2026-05-01T14:52:40.652779652Z"
           }
         },
         {
@@ -15373,7 +15373,7 @@
             "stars": 969,
             "is_archived": false,
             "last_update": "2023-06-05T20:01:20Z",
-            "enriched_at": "2026-04-30T13:46:54.673976035Z"
+            "enriched_at": "2026-05-01T14:52:40.815935334Z"
           }
         },
         {
@@ -15381,10 +15381,10 @@
           "description": "Cloudflare Tunnel client (formerly Argo Tunnel).",
           "url": "https://github.com/cloudflare/cloudflared",
           "repo_metadata": {
-            "stars": 14022,
+            "stars": 14032,
             "is_archived": false,
-            "last_update": "2026-04-30T13:32:47Z",
-            "enriched_at": "2026-04-30T13:46:54.985605035Z"
+            "last_update": "2026-04-30T16:18:34Z",
+            "enriched_at": "2026-05-01T14:52:40.98519092Z"
           }
         },
         {
@@ -15395,7 +15395,7 @@
             "stars": 80,
             "is_archived": false,
             "last_update": "2023-02-24T17:51:10Z",
-            "enriched_at": "2026-04-30T13:46:55.173238719Z"
+            "enriched_at": "2026-05-01T14:52:41.135301658Z"
           }
         },
         {
@@ -15406,7 +15406,7 @@
             "stars": 8677,
             "is_archived": false,
             "last_update": "2026-04-02T04:48:40Z",
-            "enriched_at": "2026-04-30T13:46:55.376278597Z"
+            "enriched_at": "2026-05-01T14:52:41.281299794Z"
           }
         },
         {
@@ -15417,7 +15417,7 @@
             "stars": 355,
             "is_archived": false,
             "last_update": "2026-04-29T05:26:49Z",
-            "enriched_at": "2026-04-30T13:46:55.691357763Z"
+            "enriched_at": "2026-05-01T14:52:41.567206405Z"
           }
         },
         {
