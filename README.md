@@ -221,7 +221,7 @@ Libraries for building standard or basic Command Line applications.
 * [strumt](https://github.com/antham/strumt) / ⭐ 62 - Library to create prompt chain.
 * [subcmd](https://github.com/bobg/subcmd) / ⭐ 9 - Another approach to parsing and running subcommands. Works alongside the standard flag package.
 * [teris-io/cli](https://github.com/teris-io/cli) / ⭐ 132 - Simple and complete API for building command line interfaces in Go.
-* [urfave/cli](https://github.com/urfave/cli) / ⭐ 24002 - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).
+* [urfave/cli](https://github.com/urfave/cli) / ⭐ 24001 - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).
 * [version](https://github.com/mszostok/version) / ⭐ 111 - Collects and displays CLI version information in multiple formats along with upgrade notice.
 * [wlog](https://github.com/dixonwille/wlog) / ⭐ 67 - Simple logging interface that supports cross-platform color and concurrency.
 * [wmenu](https://github.com/dixonwille/wmenu) / ⭐ 229 - Easy to use menu structure for cli applications that prompt users to make choices.
@@ -243,14 +243,14 @@ Libraries for configuration parsing.
 * [confita](https://github.com/heetch/confita) / ⭐ 507 - Load configuration in cascade from multiple backends into a struct.
 * [conflate](https://github.com/the4thamigo-uk/conflate) / ⭐ 36 - Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema.
 * [enflag](https://github.com/atelpis/enflag) / ⭐ 38 - Container-oriented, zero-dependency configuration library that unifies Env variable and Flag parsing. Uses generics for type safety, without reflection or struct tags.
-* [env](https://github.com/caarlos0/env) / ⭐ 6130 - Parse environment variables to Go structs (with defaults).
+* [env](https://github.com/caarlos0/env) / ⭐ 6134 - Parse environment variables to Go structs (with defaults).
 * [env](https://github.com/junk1tm/env) / ⭐ 80 - A lightweight package for loading environment variables into structs.
 * [env](https://github.com/syntaqx/env) / ⭐ 7 - An environment utility package with support for unmarshaling into structs.
 * [envconfig](https://github.com/vrischmann/envconfig) / ⭐ 250 - Read your configuration from environment variables.
 * [envh](https://github.com/antham/envh) / ⭐ 100 - Helpers to manage environment variables.
 * [envyaml](https://github.com/yuseferi/envyaml) / ⭐ 19 - Yaml with environment variables reader. it helps to have secrets as environment variable but load them configs as structured Yaml.
 * [fig](https://github.com/kkyr/fig) / ⭐ 384 - Tiny library for reading configuration from a file and from environment variables (with validation & defaults).
-* [genv](https://github.com/sakirsensoy/genv) / ⭐ 43 - Read environment variables easily with dotenv support.
+* [genv](https://github.com/sakirsensoy/genv) / ⭐ 44 - Read environment variables easily with dotenv support.
 * [go-array](https://github.com/deatil/go-array) / ⭐ 22 - A Go package that read or set data from map, slice or json.
 * [go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) / ⭐ 63 - Go package that fetches parameters from AWS System Manager - Parameter Store.
 * [go-cfg](https://github.com/dsbasko/go-cfg) / ⭐ 48 - The library provides a unified way to read configuration data into a structure from various sources, such as env, flags, and configuration files (.json, .yaml, .toml, .env).
@@ -260,7 +260,7 @@ Libraries for configuration parsing.
 * [go-ssm-config](https://github.com/ianlopshire/go-ssm-config) / ⭐ 22 - Go utility for loading configuration parameters from AWS SSM (Parameter Store).
 * [go-up](https://github.com/ufoscout/go-up) / ⭐ 43 - A simple configuration library with recursive placeholders resolution and no magic.
 * [GoCfg](https://github.com/Jagerente/gocfg) / ⭐ 6 - Config manager with Struct Tags based contracts, custom value providers, parsers, and documentation generation. Customizable yet simple.
-* [godotenv](https://github.com/joho/godotenv) / ⭐ 10400 - Go port of Ruby's dotenv library (Loads environment variables from .env).
+* [godotenv](https://github.com/joho/godotenv) / ⭐ 10404 - Go port of Ruby's dotenv library (Loads environment variables from .env).
 * [GoLobby/Config](https://github.com/golobby/config) / ⭐ 369 - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
 * [gone/jconf](https://github.com/One-com/gone/tree/master/jconf) - Modular JSON configuration. Keep your config structs along with the code they configure and delegate parsing to submodules without sacrificing full config serialization.
 * [gonfig](https://github.com/milad-abbasi/gonfig) / ⭐ 10 - Tag-based configuration parser which loads values from different providers into typesafe struct.
@@ -272,7 +272,7 @@ Libraries for configuration parsing.
 * [ini](https://github.com/go-ini/ini) / ⭐ 3539 - Go package to read and write INI files.
 * [ini](https://github.com/wlevene/ini) / ⭐ 18 - INI Parser & Write Library, Unmarshal to Struct, Marshal to Json, Write File, watch file.
 * [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) / ⭐ 5430 - Go library for managing configuration data from environment variables.
-* [koanf](https://github.com/knadh/koanf) / ⭐ 3991 - Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line.
+* [koanf](https://github.com/knadh/koanf) / ⭐ 3993 - Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line.
 * [konf](https://github.com/nil-go/konf) / ⭐ 380 - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
 * [konfig](https://github.com/lalamove/konfig) / ⭐ 646 - Composable, observable and performant config handling for Go for the distributed processing era.
 * [kong](https://github.com/alecthomas/kong) / ⭐ 3044 - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to kingpin).
@@ -284,7 +284,7 @@ Libraries for configuration parsing.
 * [swap](https://github.com/oblq/swap) / ⭐ 8 - Instantiate/configure structs recursively, based on build environment. (YAML, TOML, JSON and env).
 * [typenv](https://github.com/diegomarangoni/typenv) / ⭐ 12 - Minimalistic, zero dependency, typed environment variables library.
 * [uConfig](https://github.com/omeid/uconfig) / ⭐ 73 - Lightweight, zero-dependency, and extendable configuration management.
-* [viper](https://github.com/spf13/viper) / ⭐ 30225 - Go configuration with fangs.
+* [viper](https://github.com/spf13/viper) / ⭐ 30226 - Go configuration with fangs.
 * [xdg](https://github.com/adrg/xdg) / ⭐ 985 - Go implementation of the XDG Base Directory Specification and XDG user directories.
 * [yamagiconf](https://github.com/romshark/yamagiconf) / ⭐ 18 - The "safe subset" of YAML for Go configs.
 * [zerocfg](https://github.com/chaindead/zerocfg) / ⭐ 200 - Zero-effort, concise configuration management that avoids boilerplate and repetitive code, supports multiple sources with priority overrides.
@@ -297,7 +297,7 @@ Tools for help with continuous integration.
 * [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 * [CDS](https://github.com/ovh/cds) / ⭐ 4810 - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
 * [dot](https://github.com/opnlabs/dot) / ⭐ 35 - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
-* [drone](https://github.com/drone/drone) / ⭐ 35402 - Drone is a Continuous Integration platform built on Docker, written in Go.
+* [drone](https://github.com/drone/drone) / ⭐ 35427 - Drone is a Continuous Integration platform built on Docker, written in Go.
 * [go-beautiful-html-coverage](https://github.com/gha-common/go-beautiful-html-coverage) / ⭐ 23 - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
 * [go-fuzz-action](https://github.com/jidicula/go-fuzz-action) / ⭐ 19 - Use Go 1.18's built-in fuzz testing in GitHub Actions.
 * [go-semver-release](https://github.com/s0ders/go-semver-release) / ⭐ 21 - Automate the semantic versioning of Git repositories.
@@ -308,7 +308,7 @@ Tools for help with continuous integration.
 * [muffet](https://github.com/raviqqe/muffet) / ⭐ 2598 - Fast website link checker in Go, see alternatives.
 * [overalls](https://github.com/go-playground/overalls) / ⭐ 116 - Multi-Package go project coverprofile for tools like goveralls.
 * [roveralls](https://github.com/LawrenceWoodman/roveralls) / ⭐ 20 - Recursive coverage testing tool.
-* [woodpecker](https://github.com/woodpecker-ci/woodpecker) / ⭐ 6913 - Woodpecker is a community fork of the Drone CI system.
+* [woodpecker](https://github.com/woodpecker-ci/woodpecker) / ⭐ 6927 - Woodpecker is a community fork of the Drone CI system.
 
 ---
 ## CSS Preprocessors
@@ -321,8 +321,8 @@ Libraries for preprocessing CSS files.
 ## Data Integration Frameworks
 Frameworks for performing ELT / ETL
 
-* [Benthos](https://github.com/benthosdev/benthos) / ⭐ 8655 - A message streaming bridge between a range of protocols.
-* [CloudQuery](http://github.com/cloudquery/cloudquery) / ⭐ 6393 - A high-performance ELT data integration framework with pluggable architecture.
+* [Benthos](https://github.com/benthosdev/benthos) / ⭐ 8656 - A message streaming bridge between a range of protocols.
+* [CloudQuery](http://github.com/cloudquery/cloudquery) / ⭐ 6394 - A high-performance ELT data integration framework with pluggable architecture.
 * [omniparser](https://github.com/jf-tech/omniparser) / ⭐ 1082 - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
 
 ---
@@ -341,7 +341,7 @@ Frameworks for performing ELT / ETL
 * [bitset](https://github.com/bits-and-blooms/bitset) / ⭐ 1493 - Go package implementing bitsets.
 ### Bloom and Cuckoo Filters
 
-* [bloom](https://github.com/bits-and-blooms/bloom) / ⭐ 2772 - Go package implementing Bloom filters.
+* [bloom](https://github.com/bits-and-blooms/bloom) / ⭐ 2773 - Go package implementing Bloom filters.
 * [bloom](https://github.com/zhenjl/bloom) / ⭐ 147 - Bloom filters implemented in Go.
 * [bloom](https://github.com/yourbasic/bloom) / ⭐ 88 - Golang Bloom filter implementation.
 * [bloomfilter](https://github.com/OldPanda/bloomfilter) / ⭐ 20 - Yet another Bloomfilter implementation in Go, compatible with Java's Guava library.
@@ -351,9 +351,9 @@ Frameworks for performing ELT / ETL
 * [ring](https://github.com/TheTannerRyan/ring) / ⭐ 145 - Go implementation of a high performance, thread safe bloom filter.
 ### Data Structure and Algorithm Collections
 
-* [algorithms](https://github.com/shady831213/algorithms) / ⭐ 837 - Algorithms and data structures.CLRS study.
+* [algorithms](https://github.com/shady831213/algorithms) / ⭐ 836 - Algorithms and data structures.CLRS study.
 * [go-datastructures](https://github.com/Workiva/go-datastructures) / ⭐ 7914 - Collection of useful, performant, and thread-safe data structures.
-* [gods](https://github.com/emirpasic/gods) / ⭐ 17415 - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
+* [gods](https://github.com/emirpasic/gods) / ⭐ 17418 - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
 * [gostl](https://github.com/liyue201/gostl) / ⭐ 1139 - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
 ### Iterators
 
@@ -400,7 +400,7 @@ additional ordered map implementations.
 * [deque](https://github.com/gammazero/deque) / ⭐ 773 - Fast ring-buffer deque (double-ended queue).
 * [dqueue](https://github.com/vodolaz095/dqueue) / ⭐ 2 - Simple, in memory, zero dependency and battle tested, thread-safe deferred queue.
 * [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) / ⭐ 434 - Concurrent FIFO queue.
-* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 7041 - Distributed, Fault-tolerant task queue.
+* [hatchet](https://github.com/hatchet-dev/hatchet) / ⭐ 7047 - Distributed, Fault-tolerant task queue.
 * [list](https://github.com/koss-null/list) / ⭐ 11 - A generic, thread-safe doubly linked list with full iterator support and an intrusive singly linked list for embedded use; a feature-rich replacement for container/list.
 * [memlog](https://github.com/embano1/memlog) / ⭐ 138 - An easy to use, lightweight, thread-safe and append-only in-memory data structure inspired by Apache Kafka.
 * [queue](https://github.com/adrianbrad/queue) / ⭐ 340 - Multiple thread-safe, generic queue implementations for Go.
@@ -412,7 +412,7 @@ additional ordered map implementations.
 * [set](https://github.com/StudioSol/set) / ⭐ 30 - Simple set data structure implementation in Go using LinkedHashMap.
 ### Text Analysis
 
-* [bleve](https://github.com/blevesearch/bleve) / ⭐ 11018 - Modern text indexing library for go.
+* [bleve](https://github.com/blevesearch/bleve) / ⭐ 11022 - Modern text indexing library for go.
 * [go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) / ⭐ 414 - Go implementation of Adaptive Radix Tree.
 * [go-edlib](https://github.com/hbollon/go-edlib) / ⭐ 597 - Go string comparison and edit distance algorithms library (Levenshtein, LCS, Hamming, Damerau levenshtein, Jaro-Winkler, etc.) compatible with Unicode.
 * [levenshtein](https://github.com/agext/levenshtein) / ⭐ 90 - Levenshtein distance and similarity metrics with customizable edit costs and Winkler-like bonus for common prefix.
@@ -442,7 +442,7 @@ additional ordered map implementations.
 Data stores with expiring records, in-memory distributed data stores, or in-memory subsets of file-based databases.
 
 * [bcache](https://github.com/iwanbk/bcache) / ⭐ 163 - Eventually consistent distributed in-memory cache Go library.
-* [BigCache](https://github.com/allegro/bigcache) / ⭐ 8122 - Efficient key/value cache for gigabytes of data.
+* [BigCache](https://github.com/allegro/bigcache) / ⭐ 8123 - Efficient key/value cache for gigabytes of data.
 * [cache2go](https://github.com/muesli/cache2go) / ⭐ 2161 - In-memory key:value cache which supports automatic invalidation based on timeouts.
 * [cachego](https://github.com/faabiosr/cachego) / ⭐ 371 - Golang Cache component for multiple drivers.
 * [clusteredBigCache](https://github.com/oaStuff/clusteredBigCache) / ⭐ 45 - BigCache with clustering support and individual item expiration.
@@ -456,7 +456,7 @@ Data stores with expiring records, in-memory distributed data stores, or in-memo
 * [go-freelru](https://github.com/elastic/go-freelru) / ⭐ 265 - 
 * [go-gcache](https://github.com/szyhf/go-gcache) / ⭐ 12 - The generic version of GCache, cache support for expirable Cache, LFU, LRU and ARC.
 * [go-mcache](https://github.com/OrlovEvgeny/go-mcache) / ⭐ 104 - Fast in-memory key:value store/cache library. Pointer caches.
-* [gocache](https://github.com/eko/gocache) / ⭐ 2853 - A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
+* [gocache](https://github.com/eko/gocache) / ⭐ 2854 - A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
 * [gocache](https://github.com/yuseferi/gocache) / ⭐ 19 - A data race free Go ache library with high performance and auto pruge functionality
 * [groupcache](https://github.com/golang/groupcache) / ⭐ 13337 - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [icache](https://github.com/mdaliyan/icache) / ⭐ 23 - A High Performance, Generic, thread-safe, zero-dependency cache package.
@@ -474,19 +474,19 @@ Data stores with expiring records, in-memory distributed data stores, or in-memo
 ### Databases Implemented in Go
 
 * [badger](https://github.com/dgraph-io/badger) / ⭐ 15590 - Fast key-value store in Go.
-* [bbolt](https://github.com/etcd-io/bbolt) / ⭐ 9486 - An embedded key/value database for Go.
+* [bbolt](https://github.com/etcd-io/bbolt) / ⭐ 9487 - An embedded key/value database for Go.
 * [Bitcask](https://git.mills.io/prologic/bitcask) - Bitcask is an embeddable, persistent and fast key-value (KV) database written in pure Go with predictable read/write performance, low latency and high throughput thanks to the bitcask on-disk layout (LSM+WAL).
 * [buntdb](https://github.com/tidwall/buntdb) / ⭐ 4844 - Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.
 * [clover](https://github.com/ostafen/clover) / ⭐ 817 - A lightweight document-oriented NoSQL database written in pure Golang.
-* [cockroach](https://github.com/cockroachdb/cockroach) / ⭐ 32110 - Scalable, Geo-Replicated, Transactional Datastore.
+* [cockroach](https://github.com/cockroachdb/cockroach) / ⭐ 32113 - Scalable, Geo-Replicated, Transactional Datastore.
 * [Coffer](https://github.com/claygod/coffer) / ⭐ 39 - Simple ACID key-value database that supports transactions.
 * [column](https://github.com/kelindar/column) / ⭐ 1512 - High-performance, columnar, embeddable in-memory store with bitmap indexing and transactions.
 * [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) / ⭐ 1530 - CovenantSQL is a SQL database on blockchain.
 * [Databunker](https://github.com/paranoidguy/databunker) / ⭐ 1413 - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA.
 * [dgraph](https://github.com/dgraph-io/dgraph) / ⭐ 21669 - Scalable, Distributed, Low Latency, High Throughput Graph Database.
 * [DiceDB](https://github.com/DiceDB/dice) / ⭐ 10743 - An open-source, fast, reactive, in-memory database optimized for modern hardware. Higher throughput and lower median latencies, making it ideal for modern workloads.
-* [diskv](https://github.com/peterbourgon/diskv) / ⭐ 1458 - Home-grown disk-backed key-value store.
-* [dolt](https://github.com/dolthub/dolt) / ⭐ 22455 - Dolt – It's Git for Data.
+* [diskv](https://github.com/peterbourgon/diskv) / ⭐ 1459 - Home-grown disk-backed key-value store.
+* [dolt](https://github.com/dolthub/dolt) / ⭐ 22479 - Dolt – It's Git for Data.
 * [eliasdb](https://github.com/krotik/eliasdb) / ⭐ 1034 - Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.
 * [godis](https://github.com/hdt3213/godis) / ⭐ 3833 - A Golang implemented high-performance Redis server and cluster.
 * [goleveldb](https://github.com/syndtr/goleveldb) / ⭐ 6327 - Implementation of the LevelDB key/value database in Go.
