@@ -1661,7 +1661,7 @@ Libraries for working with various layers of the network.
 * [ether](https://github.com/songgao/ether) / ⭐ 82 - Cross-platform Go package for sending and receiving ethernet frames.
 * [ethernet](https://github.com/mdlayher/ethernet) / ⭐ 287 - Package ethernet implements marshaling and unmarshalling of IEEE 802.3 Ethernet II frames and IEEE 802.1Q VLAN tags.
 * [event](https://github.com/cheng-zhongliang/event) / ⭐ 119 - Simple I/O event notification library written in Golang.
-* [fasthttp](https://github.com/valyala/fasthttp) / ⭐ 23347 - Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http.
+* [fasthttp](https://github.com/valyala/fasthttp) / ⭐ 23349 - Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http.
 * [fortio](https://github.com/fortio/fortio) / ⭐ 3694 - Load testing library and command line tool, advanced echo server and web UI. Allows to specify a set query-per-second load and record latency histograms and other useful stats and graph them. Tcp, Http, gRPC.
 * [ftp](https://github.com/jlaffaye/ftp) / ⭐ 1392 - Package ftp implements a FTP client as described in RFC 959.
 * [ftpserverlib](https://github.com/fclairamb/ftpserverlib) / ⭐ 467 - Fully featured FTP server library.
@@ -1680,10 +1680,10 @@ Libraries for working with various layers of the network.
 * [go-powerdns](https://github.com/joeig/go-powerdns) / ⭐ 103 - PowerDNS API bindings for Golang.
 * [go-sse](https://github.com/lampctl/go-sse) / ⭐ 15 - Go client and server implementation of HTML server-sent events.
 * [go-stun](https://github.com/ccding/go-stun) / ⭐ 718 - Go implementation of the STUN client (RFC 3489 and RFC 5389).
-* [gobgp](https://github.com/osrg/gobgp) / ⭐ 4043 - BGP implemented in the Go Programming Language.
-* [gopacket](https://github.com/google/gopacket) / ⭐ 6775 - Go library for packet processing with libpcap bindings.
+* [gobgp](https://github.com/osrg/gobgp) / ⭐ 4045 - BGP implemented in the Go Programming Language.
+* [gopacket](https://github.com/google/gopacket) / ⭐ 6777 - Go library for packet processing with libpcap bindings.
 * [gopcap](https://github.com/akrennmair/gopcap) / ⭐ 491 - Go wrapper for libpcap.
-* [GoProxy](https://github.com/elazarl/goproxy) / ⭐ 6672 - A library to create a customized HTTP/HTTPS proxy server using Go.
+* [GoProxy](https://github.com/elazarl/goproxy) / ⭐ 6671 - A library to create a customized HTTP/HTTPS proxy server using Go.
 * [goshark](https://github.com/sunwxg/goshark) / ⭐ 18 - Package goshark use tshark to decode IP packet and create data struct to analyse packet.
 * [gosnmp](https://github.com/soniah/gosnmp) / ⭐ 0 - Native Go library for performing SNMP actions.
 * [gotcp](https://github.com/gansidui/gotcp) / ⭐ 510 - Go package for quickly writing tcp applications.
@@ -1711,7 +1711,7 @@ Libraries for working with various layers of the network.
 * [portproxy](https://github.com/aybabtme/portproxy) / ⭐ 58 - Simple TCP proxy which adds CORS support to API's which don't support it.
 * [psql-wire](https://github.com/jeroenrinzema/psql-wire) / ⭐ 231 - PostgreSQL server wire protocol. Build your own server and start serving connections..
 * [publicip](https://github.com/polera/publicip) / ⭐ 29 - Package publicip returns your public facing IPv4 address (internet egress).
-* [quic-go](https://github.com/lucas-clemente/quic-go) / ⭐ 11569 - An implementation of the QUIC protocol in pure Go.
+* [quic-go](https://github.com/lucas-clemente/quic-go) / ⭐ 11572 - An implementation of the QUIC protocol in pure Go.
 * [sdns](https://github.com/semihalev/sdns) / ⭐ 1037 - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
 * [sftp](https://github.com/pkg/sftp) / ⭐ 1641 - Package sftp implements the SSH File Transfer Protocol as described in https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt.
 * [ssh](https://github.com/gliderlabs/ssh) / ⭐ 4134 - Higher-level API for building SSH servers (wraps crypto/ssh).
@@ -1719,18 +1719,18 @@ Libraries for working with various layers of the network.
 * [stun](https://github.com/go-rtc/stun) / ⭐ 495 - Go implementation of RFC 5389 STUN protocol.
 * [tcpack](https://github.com/lim-yoona/tcpack) / ⭐ 166 - tcpack is an application protocol based on TCP to Pack and Unpack bytes stream in go program.
 * [tspool](https://github.com/two/tspool) / ⭐ 14 - A TCP Library use worker pool to improve performance and protect your server.
-* [tun2socks](https://github.com/xjasonlyu/tun2socks) / ⭐ 5085 - A pure go implementation of tun2socks powered by gVisor TCP/IP stack.
+* [tun2socks](https://github.com/xjasonlyu/tun2socks) / ⭐ 5089 - A pure go implementation of tun2socks powered by gVisor TCP/IP stack.
 * [utp](https://github.com/anacrolix/utp) / ⭐ 182 - Go uTP micro transport protocol implementation.
 * [vssh](https://github.com/yahoo/vssh) / ⭐ 994 - Go library for building network and server automation over SSH protocol.
-* [water](https://github.com/songgao/water) / ⭐ 2155 - Simple TUN/TAP library.
-* [webrtc](https://github.com/pions/webrtc) / ⭐ 16261 - A pure Go implementation of the WebRTC API.
+* [water](https://github.com/songgao/water) / ⭐ 2156 - Simple TUN/TAP library.
+* [webrtc](https://github.com/pions/webrtc) / ⭐ 16264 - A pure Go implementation of the WebRTC API.
 * [winrm](https://github.com/masterzen/winrm) / ⭐ 469 - Go WinRM client to remotely execute commands on Windows machines.
 * [xtcp](https://github.com/xfxdev/xtcp) / ⭐ 160 - TCP Server Framework with simultaneous full duplex communication, graceful shutdown, and custom protocol.
 ### HTTP Clients
 Libraries for making HTTP requests.
 
 * [axios4go](https://github.com/rezmoss/axios4go) / ⭐ 34 - A Go HTTP client library inspired by Axios, providing a simple and intuitive API for making HTTP requests.
-* [azuretls-client](https://github.com/Noooste/azuretls-client) / ⭐ 448 - An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint.
+* [azuretls-client](https://github.com/Noooste/azuretls-client) / ⭐ 447 - An easy-to-use HTTP client 100% in Go to spoof TLS/JA3 and HTTP2 fingerprint.
 * [fast-shot](https://github.com/opus-domini/fast-shot) / ⭐ 121 - Hit your API targets with rapid-fire precision using Go's fastest and simple HTTP Client.
 * [gentleman](https://github.com/h2non/gentleman) / ⭐ 1130 - Full-featured plugin-driven HTTP client library.
 * [go-cleanhttp](https://github.com/hashicorp/go-cleanhttp) / ⭐ 436 - Get easily stdlib HTTP client, which does not share any state with other clients.
@@ -1738,21 +1738,21 @@ Libraries for making HTTP requests.
 * [go-ipmux](https://github.com/optimus-hft/go-ipmux) / ⭐ 28 - A library for Multiplexing HTTP requests based on multiple Source IPs.
 * [go-otelroundtripper](https://github.com/NdoleStudio/go-otelroundtripper) / ⭐ 87 - Go http.RoundTripper that emits open telemetry metrics for HTTP requests.
 * [go-req](https://github.com/wenerme/go-req) / ⭐ 23 - Declarative golang HTTP client.
-* [go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) / ⭐ 2308 - Retryable HTTP client in Go.
+* [go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) / ⭐ 2309 - Retryable HTTP client in Go.
 * [go-zoox/fetch](https://github.com/go-zoox/fetch) / ⭐ 88 - A Powerful, Lightweight, Easy Http Client, inspired by Web Fetch API.
 * [Grequest](https://github.com/lib4u/grequest) / ⭐ 9 - Simple and lightweight golang package for http requests. based on powerful net/http
 * [grequests](https://github.com/levigross/grequests) / ⭐ 2188 - A Go "clone" of the great and famous Requests library.
 * [heimdall](https://github.com/gojektech/heimdall) / ⭐ 2709 - An enhanced http client with retry and hystrix capabilities.
 * [httpretry](https://github.com/ybbus/httpretry) / ⭐ 57 - Enriches the default go HTTP client with retry functionality.
 * [pester](https://github.com/sethgrid/pester) / ⭐ 656 - Go HTTP client calls with retries, backoff, and concurrency.
-* [req](https://github.com/imroc/req) / ⭐ 4792 - Simple Go HTTP client with Black Magic (Less code and More efficiency).
+* [req](https://github.com/imroc/req) / ⭐ 4793 - Simple Go HTTP client with Black Magic (Less code and More efficiency).
 * [request](https://github.com/monaco-io/request) / ⭐ 295 - HTTP client for golang. If you have experience about axios or requests, you will love it. No 3rd dependency.
 * [requests](https://github.com/carlmjohnson/requests) / ⭐ 1671 - HTTP requests for Gophers. Uses context.Context and doesn't hide the underlying net/http.Client, making it compatible with standard Go APIs. Also includes testing tools.
-* [resty](https://github.com/go-resty/resty) / ⭐ 11655 - Simple HTTP and REST client for Go inspired by Ruby rest-client.
+* [resty](https://github.com/go-resty/resty) / ⭐ 11657 - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 * [rq](https://github.com/ddo/rq) / ⭐ 52 - A nicer interface for golang stdlib HTTP client.
 * [sling](https://github.com/dghubble/sling) / ⭐ 1717 - Sling is a Go HTTP client library for creating and sending API requests.
-* [surf](https://github.com/enetx/surf) / ⭐ 1649 - Advanced HTTP client with HTTP/1.1, HTTP/2, HTTP/3 (QUIC), SOCKS5 proxy support and browser-grade TLS fingerprinting.
-* [tls-client](https://github.com/bogdanfinn/tls-client) / ⭐ 1585 - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
+* [surf](https://github.com/enetx/surf) / ⭐ 1656 - Advanced HTTP client with HTTP/1.1, HTTP/2, HTTP/3 (QUIC), SOCKS5 proxy support and browser-grade TLS fingerprinting.
+* [tls-client](https://github.com/bogdanfinn/tls-client) / ⭐ 1588 - net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 
 ---
 ## OpenGL
@@ -1769,18 +1769,18 @@ Libraries for using OpenGL in Go.
 ## ORM
 Libraries that implement Object-Relational Mapping or datamapping techniques.
 
-* [bob](https://github.com/stephenafamo/bob) / ⭐ 1712 - SQL query builder and ORM/Factory generator for Go. Successor of SQLBoiler.
-* [bun](https://github.com/uptrace/bun) / ⭐ 4777 - SQL-first Golang ORM. Successor of go-pg.
+* [bob](https://github.com/stephenafamo/bob) / ⭐ 1714 - SQL query builder and ORM/Factory generator for Go. Successor of SQLBoiler.
+* [bun](https://github.com/uptrace/bun) / ⭐ 4779 - SQL-first Golang ORM. Successor of go-pg.
 * [cacheme](https://github.com/Yiling-J/cacheme-go) / ⭐ 25 - Schema based, typed Redis caching/memoize framework for Go.
 * [CQL](https://github.com/FrancoLiberali/cql) / ⭐ 17 - Built on top of GORM, adds compile-time verified queries based on auto-generated code.
-* [ent](https://github.com/facebook/ent) / ⭐ 17049 - An entity framework for Go. Simple, yet powerful ORM for modeling and querying data.
+* [ent](https://github.com/facebook/ent) / ⭐ 17051 - An entity framework for Go. Simple, yet powerful ORM for modeling and querying data.
 * [go-dbw](https://github.com/hashicorp/go-dbw) / ⭐ 17 - A simple package that encapsulates database operations.
 * [go-firestorm](https://github.com/jschoedt/go-firestorm) / ⭐ 53 - A simple ORM for Google/Firebase Cloud Firestore.
 * [go-sql](https://github.com/rushteam/gosql) / ⭐ 178 - A easy ORM for mysql.
-* [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) / ⭐ 1698 - A flexible and powerful SQL string builder library plus a zero-config ORM.
+* [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) / ⭐ 1699 - A flexible and powerful SQL string builder library plus a zero-config ORM.
 * [go-store](https://github.com/gosuri/go-store) / ⭐ 113 - Simple and fast Redis backed key-value store library for Go.
 * [golobby/orm](https://github.com/golobby/orm) / ⭐ 162 - Simple, fast, type-safe, generic orm for developer happiness.
-* [GORM](https://github.com/go-gorm/gorm) / ⭐ 39726 - The fantastic ORM library for Golang, aims to be developer friendly.
+* [GORM](https://github.com/go-gorm/gorm) / ⭐ 39729 - The fantastic ORM library for Golang, aims to be developer friendly.
 * [gormt](https://github.com/xxjwxc/gormt) / ⭐ 2432 - Mysql database to golang gorm struct.
 * [gorp](https://github.com/go-gorp/gorp) / ⭐ 3755 - Go Relational Persistence, ORM-ish library for Go.
 * [grimoire](https://github.com/Fs02/grimoire) / ⭐ 161 - Grimoire is a database access layer and validation for golang. (Support: MySQL, PostgreSQL and SQLite3).
