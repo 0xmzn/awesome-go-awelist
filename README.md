@@ -1281,7 +1281,7 @@ Libraries for generating and working with log files.
 * [httpretty](https://github.com/henvic/httpretty) / ⭐ 413 - Pretty-prints your regular HTTP requests on your terminal for debugging (similar to http.DumpRequest).
 * [journald](https://github.com/ssgreg/journald) / ⭐ 46 - Go implementation of systemd Journal's native API for logging.
 * [kemba](https://github.com/clok/kemba) / ⭐ 17 - A tiny debug logging tool inspired by debug, great for CLI tools and applications.
-* [lazyjournal](https://github.com/Lifailon/lazyjournal) / ⭐ 1251 - A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods.
+* [lazyjournal](https://github.com/Lifailon/lazyjournal) / ⭐ 1252 - A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods.
 * [log](https://github.com/aerogo/log) / ⭐ 10 - An O(1) logging system that allows you to connect one log to multiple writers (e.g. stdout, a file and a TCP connection).
 * [log](https://github.com/apex/log) / ⭐ 1375 - Structured logging package for Go.
 * [log](https://github.com/go-playground/log) / ⭐ 293 - Simple, configurable and scalable Structured Logging for Go.
@@ -1304,13 +1304,13 @@ Libraries for generating and working with log files.
 * [onelog](https://github.com/francoispqt/onelog) / ⭐ 415 - Onelog is a dead simple but very efficient JSON logger. It is the fastest JSON logger out there in all scenarios. Also, it is one of the logger with the lowest allocation.
 * [ozzo-log](https://github.com/go-ozzo/ozzo-log) / ⭐ 123 - High performance logging supporting log severity, categorization, and filtering. Can send filtered log messages to various targets (e.g. console, network, mail).
 * [phuslu/log](https://github.com/phuslu/log) / ⭐ 847 - High performance structured logging.
-* [pp](https://github.com/k0kubun/pp) / ⭐ 2039 - Colored pretty printer for Go language.
+* [pp](https://github.com/k0kubun/pp) / ⭐ 2040 - Colored pretty printer for Go language.
 * [rollingwriter](https://github.com/arthurkiller/rollingWriter) / ⭐ 293 - RollingWriter is an auto-rotate io.Writer implementation with multi policies to provide log file rotation.
 * [seelog](https://github.com/cihub/seelog) / ⭐ 1637 - Logging functionality with flexible dispatching, filtering, and formatting.
 * [sentry-go](https://github.com/getsentry/sentry-go) / ⭐ 1083 - Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring.
 * [slf4g](https://github.com/echocat/slf4g) / ⭐ 5 - Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.
 * [slog](https://github.com/gookit/slog) / ⭐ 542 - Lightweight, configurable, extensible logger for Go.
-* [slog-formatter](https://github.com/samber/slog-formatter) / ⭐ 216 - Common formatters for slog and helpers to build your own.
+* [slog-formatter](https://github.com/samber/slog-formatter) / ⭐ 217 - Common formatters for slog and helpers to build your own.
 * [slog-multi](https://github.com/samber/slog-multi) / ⭐ 620 - Chain of slog.Handler (pipeline, fanout...).
 * [slogor](https://gitlab.com/greyxor/slogor) / ⭐ 18 - A colorful slog handler.
 * [spew](https://github.com/davecgh/go-spew) / ⭐ 6388 - Implements a deep pretty printer for Go data structures to aid in debugging.
@@ -1319,7 +1319,7 @@ Libraries for generating and working with log files.
 * [structy/log](https://github.com/structy/log) / ⭐ 5 - A simple to use log system, minimalist but with features for debugging and differentiation of messages.
 * [tail](https://github.com/hpcloud/tail) / ⭐ 2778 - Go package striving to emulate the features of the BSD tail program.
 * [timberjack](https://github.com/DeRuina/timberjack) / ⭐ 133 - Rolling logger with size-based, time-based, and scheduled clock-based rotation, supporting compression and cleanup.
-* [tint](https://github.com/lmittmann/tint) / ⭐ 1291 - A slog.Handler that writes tinted logs.
+* [tint](https://github.com/lmittmann/tint) / ⭐ 1292 - A slog.Handler that writes tinted logs.
 * [xlog](https://github.com/xfxdev/xlog) / ⭐ 8 - Plugin architecture and flexible log system for Go, with level ctrl, multiple log target and custom log format.
 * [xlog](https://github.com/rs/xlog) / ⭐ 141 - Structured logger for net/context aware HTTP handlers with flexible dispatching.
 * [xylog](https://github.com/xybor-x/xylog) / ⭐ 17 - Leveled and structured logging, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
@@ -1352,11 +1352,11 @@ Libraries for Machine Learning.
 * [GoLearn](https://github.com/sjwhitworth/golearn) / ⭐ 9445 - General Machine Learning library for Go.
 * [GoMind](https://github.com/surenderthakran/gomind) / ⭐ 98 - A simplistic Neural Network Library in Go.
 * [goml](https://github.com/cdipaolo/goml) / ⭐ 1615 - On-line Machine Learning in Go.
-* [GoMLX](https://github.com/gomlx/gomlx) / ⭐ 1397 - An accelerated Machine Learning framework for Go.
+* [GoMLX](https://github.com/gomlx/gomlx) / ⭐ 1398 - An accelerated Machine Learning framework for Go.
 * [gonet](https://github.com/dathoangnd/gonet) / ⭐ 82 - Neural Network for Go.
 * [Goptuna](https://github.com/c-bata/goptuna) / ⭐ 279 - Bayesian optimization framework for black-box functions written in Go. Everything will be optimized.
 * [goRecommend](https://github.com/timkaye11/goRecommend) / ⭐ 205 - Recommendation Algorithms library written in Go.
-* [gorgonia](https://github.com/gorgonia/gorgonia) / ⭐ 5916 - graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
+* [gorgonia](https://github.com/gorgonia/gorgonia) / ⭐ 5915 - graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
 * [gorse](https://github.com/zhenghaoz/gorse) / ⭐ 9 - An offline recommender system backend based on collaborative filtering written in Go.
 * [goscore](https://github.com/asafschers/goscore) / ⭐ 101 - Go Scoring API for PMML.
 * [gosseract](https://github.com/otiai10/gosseract) / ⭐ 3098 - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library.
@@ -1365,7 +1365,7 @@ Libraries for Machine Learning.
 * [m2cgen](https://github.com/BayesWitnesses/m2cgen) / ⭐ 2977 - A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support.
 * [neural-go](https://github.com/schuyler/neural-go) / ⭐ 73 - Multilayer perceptron network implemented in Go, with training via backpropagation.
 * [ocrserver](https://github.com/otiai10/ocrserver) / ⭐ 767 - A simple OCR API server, seriously easy to be deployed by Docker and Heroku.
-* [onnx-go](https://github.com/owulveryck/onnx-go) / ⭐ 893 - Go Interface to Open Neural Network Exchange (ONNX).
+* [onnx-go](https://github.com/owulveryck/onnx-go) / ⭐ 894 - Go Interface to Open Neural Network Exchange (ONNX).
 * [probab](https://github.com/ThePaw/probab) / ⭐ 22 - Probability distribution functions. Bayesian inference. Written in pure Go.
 * [randomforest](https://github.com/malaschitz/randomForest) / ⭐ 60 - Easy to use Random Forest library for Go.
 * [regommend](https://github.com/muesli/regommend) / ⭐ 312 - Recommendation & collaborative filtering engine.
@@ -1378,13 +1378,13 @@ Libraries for Machine Learning.
 Libraries that implement messaging systems.
 
 * [ami](https://github.com/kak-tus/ami) / ⭐ 34 - Go client to reliable queues based on Redis Cluster Streams.
-* [amqp](https://github.com/rabbitmq/amqp091-go) / ⭐ 1998 - Go RabbitMQ Client Library.
+* [amqp](https://github.com/rabbitmq/amqp091-go) / ⭐ 1999 - Go RabbitMQ Client Library.
 * [APNs2](https://github.com/sideshow/apns2) / ⭐ 3172 - HTTP/2 Apple Push Notification provider for Go - Send push notifications to iOS, tvOS, Safari and OSX apps.
-* [Asynq](https://github.com/hibiken/asynq) / ⭐ 13222 - A simple, reliable, and efficient distributed task queue for Go built on top of Redis.
+* [Asynq](https://github.com/hibiken/asynq) / ⭐ 13226 - A simple, reliable, and efficient distributed task queue for Go built on top of Redis.
 * [backlite](https://github.com/mikestefanello/backlite) / ⭐ 145 - Type-safe, persistent, embedded task queues and background job runner w/ SQLite.
 * [Beaver](https://github.com/Clivern/Beaver) / ⭐ 1584 - A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 * [Bus](https://github.com/mustafaturan/bus) / ⭐ 362 - Minimalist message bus implementation for internal communication.
-* [Centrifugo](https://github.com/centrifugal/centrifugo) / ⭐ 10227 - Real-time messaging (Websockets or SockJS) server in Go.
+* [Centrifugo](https://github.com/centrifugal/centrifugo) / ⭐ 10229 - Real-time messaging (Websockets or SockJS) server in Go.
 * [Chanify](https://github.com/chanify/chanify) / ⭐ 1325 - A push notification server send message to your iOS devices.
 * [Commander](https://github.com/jeroenrinzema/commander) / ⭐ 67 - A high-level event driven consumer/producer supporting various "dialects" such as Apache Kafka.
 * [Confluent Kafka Golang Client](https://github.com/confluentinc/confluent-kafka-go) / ⭐ 5132 - confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform.
@@ -1411,14 +1411,14 @@ Libraries that implement messaging systems.
 * [guble](https://github.com/smancke/guble) / ⭐ 161 - Messaging server using push notifications (Google Firebase Cloud Messaging, Apple Push Notification services, SMS) as well as websockets, a REST API, featuring distributed operation and message-persistence.
 * [hare](https://github.com/leozz37/hare) / ⭐ 54 - A user friendly library for sending messages and listening to TCP sockets.
 * [hub](https://github.com/leandro-lugaresi/hub) / ⭐ 149 - A Message/Event Hub for Go applications, using publish/subscribe pattern with support for alias like rabbitMQ exchanges.
-* [hypermatch](https://github.com/SchwarzIT/hypermatch) / ⭐ 33 - A very fast and efficient Go library for matching events to a large set of rules
+* [hypermatch](https://github.com/SchwarzIT/hypermatch) / ⭐ 34 - A very fast and efficient Go library for matching events to a large set of rules
 * [jazz](https://github.com/socifi/jazz) / ⭐ 18 - A simple RabbitMQ abstraction layer for queue administration and publishing and consuming of messages.
-* [machinery](https://github.com/RichardKnop/machinery) / ⭐ 7955 - Asynchronous task queue/job queue based on distributed message passing.
+* [machinery](https://github.com/RichardKnop/machinery) / ⭐ 7956 - Asynchronous task queue/job queue based on distributed message passing.
 * [mangos](https://github.com/nanomsg/mangos) / ⭐ 753 - Pure go implementation of the Nanomsg ("Scalability Protocols") with transport interoperability.
 * [melody](https://github.com/olahol/melody) / ⭐ 4071 - Minimalist framework for dealing with websocket sessions, includes broadcasting and automatic ping/pong handling.
-* [Mercure](https://github.com/dunglas/mercure) / ⭐ 5239 - Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events).
+* [Mercure](https://github.com/dunglas/mercure) / ⭐ 5240 - Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events).
 * [messagebus](https://github.com/vardius/message-bus) / ⭐ 287 - messagebus is a Go simple async message bus, perfect for using as event bus when doing event sourcing, CQRS, DDD.
-* [NATS Go Client](https://github.com/nats-io/nats.go) / ⭐ 6577 - Go client for the NATS
+* [NATS Go Client](https://github.com/nats-io/nats.go) / ⭐ 6578 - Go client for the NATS
 messaging system.
 * [nsq-event-bus](https://github.com/rafaeljesus/nsq-event-bus) / ⭐ 80 - A tiny wrapper around NSQ topic and channel.
 * [oplog](https://github.com/dailymotion/oplog) / ⭐ 111 - Generic oplog/replication system for REST APIs.
@@ -1432,15 +1432,15 @@ messaging system.
 * [redisqueue](https://github.com/robinjoseph08/redisqueue) / ⭐ 139 - redisqueue provides a producer and consumer of a queue that uses Redis streams.
 * [rmqconn](https://github.com/sbabiv/rmqconn) / ⭐ 23 - RabbitMQ Reconnection. Wrapper over amqp.Connection and amqp.Dial. Allowing to do a reconnection when the connection is broken before forcing the call to the Close () method to be closed.
 * [sarama](https://github.com/Shopify/sarama) / ⭐ 12472 - Go library for Apache Kafka.
-* [Uniqush-Push](https://github.com/uniqush/uniqush-push) / ⭐ 1565 - Redis backed unified push service for server-side notifications to mobile devices.
+* [Uniqush-Push](https://github.com/uniqush/uniqush-push) / ⭐ 1564 - Redis backed unified push service for server-side notifications to mobile devices.
 * [varmq](https://github.com/goptics/varmq) / ⭐ 184 - A storage-agnostic message queue and worker pool for concurrent Go programs.
-* [Watermill](https://github.com/ThreeDotsLabs/watermill) / ⭐ 9686 - Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.
-* [zmq4](https://github.com/pebbe/zmq4) / ⭐ 1252 - Go interface to ZeroMQ version 4. Also available for version 3 and version 2.
+* [Watermill](https://github.com/ThreeDotsLabs/watermill) / ⭐ 9688 - Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.
+* [zmq4](https://github.com/pebbe/zmq4) / ⭐ 1253 - Go interface to ZeroMQ version 4. Also available for version 3 and version 2.
 
 ---
 ## Microsoft Office
 
-* [unioffice](https://github.com/unidoc/unioffice) / ⭐ 4862 - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents.
+* [unioffice](https://github.com/unidoc/unioffice) / ⭐ 4863 - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents.
 ### Microsoft Excel
 Libraries for working with Microsoft Excel.
 
@@ -1469,10 +1469,10 @@ Libraries for working with dependency injection.
 * [dig](https://github.com/uber-go/dig) / ⭐ 4461 - A reflection based dependency injection toolkit for Go.
 * [dingo](https://github.com/i-love-flamingo/dingo) / ⭐ 188 - A dependency injection toolkit for Go, based on Guice.
 * [do](https://github.com/samber/do) / ⭐ 2722 - A dependency injection framework based on Generics.
-* [fx](https://github.com/uber-go/fx) / ⭐ 7486 - A dependency injection based application framework for Go (built on top of dig).
+* [fx](https://github.com/uber-go/fx) / ⭐ 7488 - A dependency injection based application framework for Go (built on top of dig).
 * [Go-Spring](https://github.com/go-spring/spring-core) / ⭐ 82 - A high-performance Go framework inspired by Spring Boot, offering DI, auto-configuration, and lifecycle management while maintaining Go's simplicity and efficiency.
 * [gocontainer](https://github.com/vardius/gocontainer) / ⭐ 21 - Simple Dependency Injection Container.
-* [godi](https://github.com/junioryono/godi) / ⭐ 75 - Microsoft-style dependency injection for Go with scoped lifetimes and generics.
+* [godi](https://github.com/junioryono/godi) / ⭐ 76 - Microsoft-style dependency injection for Go with scoped lifetimes and generics.
 * [goioc/di](https://github.com/goioc/di) / ⭐ 379 - Spring-inspired Dependency Injection Container.
 * [GoLobby/Container](https://github.com/golobby/container) / ⭐ 614 - GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
 * [gontainer](https://github.com/NVIDIA/gontainer) / ⭐ 141 - A dependency injection service container for Go projects.
@@ -1493,18 +1493,18 @@ Unofficial set of patterns for structuring projects.
 * [go-blueprint](https://github.com/Melkeydev/go-blueprint) / ⭐ 8809 - Allows users to spin up a quick Go project using a popular framework.
 * [go-module](https://github.com/octomation/go-module) / ⭐ 38 - Template for a typical module written on Go.
 * [go-sample](https://github.com/zitryss/go-sample) / ⭐ 139 - A sample layout for Go application projects with the real code.
-* [go-starter](https://github.com/allaboutapps/go-starter) / ⭐ 607 - An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers.
+* [go-starter](https://github.com/allaboutapps/go-starter) / ⭐ 608 - An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers.
 * [go-todo-backend](https://github.com/Fs02/go-todo-backend) / ⭐ 335 - Go Todo Backend example using modular project layout for product microservice.
 * [goapp](https://github.com/naughtygopher/goapp) / ⭐ 1058 - An opinionated guideline to structure & develop a Go web application/service.
 * [gobase](https://github.com/wajox/gobase) / ⭐ 66 - A simple skeleton for golang application with basic setup for real golang application.
-* [golang-standards/project-layout](https://github.com/golang-standards/project-layout) / ⭐ 55901 - Set of common historical and emerging project layout patterns in the Go ecosystem. Note: despite the org-name they do not represent official golang standards, see this issue for more information. Nonetheless, some may find the layout useful.
+* [golang-standards/project-layout](https://github.com/golang-standards/project-layout) / ⭐ 55902 - Set of common historical and emerging project layout patterns in the Go ecosystem. Note: despite the org-name they do not represent official golang standards, see this issue for more information. Nonetheless, some may find the layout useful.
 * [golang-templates/seed](https://github.com/golang-templates/seed) / ⭐ 558 - Go application GitHub repository template.
-* [goxygen](https://github.com/shpota/goxygen) / ⭐ 3596 - Generate a modern Web project with Go and Angular, React, or Vue in seconds.
+* [goxygen](https://github.com/shpota/goxygen) / ⭐ 3595 - Generate a modern Web project with Go and Angular, React, or Vue in seconds.
 * [insidieux/inizio](https://github.com/insidieux/inizio) / ⭐ 18 - Golang project layout generator with plugins.
 * [kickstart.go](https://github.com/raeperd/kickstart.go) / ⭐ 110 - Minimalistic single-file Go HTTP server template without third-party dependencies.
-* [modern-go-application](https://github.com/sagikazarmark/modern-go-application) / ⭐ 1940 - Go application boilerplate and example applying modern practices.
-* [nunu](https://github.com/go-nunu/nunu) / ⭐ 2557 - Nunu is a scaffolding tool for building Go applications.
-* [pagoda](https://github.com/mikestefanello/pagoda) / ⭐ 2928 - Rapid, easy full-stack web development starter kit built in Go.
+* [modern-go-application](https://github.com/sagikazarmark/modern-go-application) / ⭐ 1941 - Go application boilerplate and example applying modern practices.
+* [nunu](https://github.com/go-nunu/nunu) / ⭐ 2559 - Nunu is a scaffolding tool for building Go applications.
+* [pagoda](https://github.com/mikestefanello/pagoda) / ⭐ 2929 - Rapid, easy full-stack web development starter kit built in Go.
 * [scaffold](https://github.com/catchplay/scaffold) / ⭐ 149 - Scaffold generates a starter Go project layout. Lets you focus on business logic implemented.
 * [wangyoucao577/go-project-layout](https://github.com/wangyoucao577/go-project-layout) / ⭐ 26 - Set of practices and discussions on how to structure Go project layout.
 ### Strings
@@ -1523,7 +1523,7 @@ These libraries were placed here because none of the other categories seemed to 
 
 * [anagent](https://github.com/mudler/anagent) / ⭐ 16 - Minimalistic, pluggable Golang evloop/timer handler with dependency-injection.
 * [antch](https://github.com/antchfx/antch) / ⭐ 265 - A fast, powerful and extensible web crawling & scraping framework.
-* [archives](https://github.com/mholt/archives) / ⭐ 404 - a cross-platform, multi-format Go library for working with archives and compression formats with a unified API and as virtual file systems compatible with io/fs.
+* [archives](https://github.com/mholt/archives) / ⭐ 405 - a cross-platform, multi-format Go library for working with archives and compression formats with a unified API and as virtual file systems compatible with io/fs.
 * [autoflags](https://github.com/artyom/autoflags) / ⭐ 42 - Go package to automatically define command line flags from struct fields.
 * [avgRating](https://github.com/kirillDanshin/avgRating) / ⭐ 17 - Calculate average score and rating based on Wilson Score Equation.
 * [banner](https://github.com/dimiro1/banner) / ⭐ 463 - Add beautiful banners into your Go applications.
@@ -1539,7 +1539,7 @@ These libraries were placed here because none of the other categories seemed to 
 * [fake-useragent](https://github.com/lib4u/fake-useragent) / ⭐ 16 - Up-to-date simple useragent faker with real world database in Golang
 * [faker](https://github.com/pioz/faker) / ⭐ 100 - Random fake data and struct generator for Go.
 * [ffmt](https://github.com/go-ffmt/ffmt) / ⭐ 315 - Beautify data display for Humans.
-* [gatus](https://github.com/TwinProduction/gatus) / ⭐ 10817 - Automated service health dashboard.
+* [gatus](https://github.com/TwinProduction/gatus) / ⭐ 10824 - Automated service health dashboard.
 * [go-commandbus](https://github.com/lana/go-commandbus) / ⭐ 15 - A slight and pluggable command-bus for Go.
 * [go-commons-pool](https://github.com/jolestar/go-commons-pool) / ⭐ 1241 - Generic object pool for Golang.
 * [go-openapi](https://github.com/go-openapi) - Collection of packages to parse and utilize open-api schemas.
@@ -1547,7 +1547,7 @@ These libraries were placed here because none of the other categories seemed to 
 * [go-unarr](https://github.com/gen2brain/go-unarr) / ⭐ 311 - Decompression library for RAR, TAR, ZIP and 7z archives.
 * [gofakeit](https://github.com/brianvoe/gofakeit) / ⭐ 5344 - Random data generator written in go.
 * [gommit](https://github.com/antham/gommit) / ⭐ 116 - Analyze git commit messages to ensure they follow defined patterns.
-* [gopsutil](https://github.com/shirou/gopsutil) / ⭐ 11812 - Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc).
+* [gopsutil](https://github.com/shirou/gopsutil) / ⭐ 11811 - Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc).
 * [gosh](https://github.com/osamingo/gosh) / ⭐ 37 - Provide Go Statistics Handler, Struct, Measure Method.
 * [gosms](https://github.com/haxpax/gosms) / ⭐ 1470 - Your own local SMS gateway in Go that can be used to send SMS.
 * [gotoprom](https://github.com/cabify/gotoprom) / ⭐ 108 - Type-safe metrics builder wrapper library for the official Prometheus client.
@@ -1569,9 +1569,9 @@ These libraries were placed here because none of the other categories seemed to 
 * [sandid](https://github.com/aofei/sandid) / ⭐ 46 - Every grain of sand on earth has its own ID.
 * [shellwords](https://github.com/Wing924/shellwords) / ⭐ 28 - A Golang library to manipulate strings according to the word parsing rules of the UNIX Bourne shell.
 * [shortid](https://github.com/teris-io/shortid) / ⭐ 961 - Distributed generation of super short, unique, non-sequential, URL friendly IDs.
-* [shoutrrr](https://github.com/containrrr/shoutrrr) / ⭐ 1562 - Notification library providing easy access to various messaging services like slack, mattermost, gotify and smtp among others.
+* [shoutrrr](https://github.com/containrrr/shoutrrr) / ⭐ 1563 - Notification library providing easy access to various messaging services like slack, mattermost, gotify and smtp among others.
 * [sitemap-format](https://github.com/mingard/sitemap-format) / ⭐ 6 - A simple sitemap generator, with a little syntactic sugar.
-* [stateless](https://github.com/qmuntal/stateless) / ⭐ 1310 - A fluent library for creating state machines.
+* [stateless](https://github.com/qmuntal/stateless) / ⭐ 1314 - A fluent library for creating state machines.
 * [stats](https://github.com/go-playground/stats) / ⭐ 172 - Monitors Go MemStats + System stats such as Memory, Swap and CPU and sends via UDP anywhere you want for logging etc...
 * [turtle](https://github.com/hackebrot/turtle) / ⭐ 164 - Emojis for Go.
 * [url-shortener](https://github.com/pantrif/url-shortener) / ⭐ 51 - A modern, powerful, and robust URL shortener microservice with mysql support.
@@ -1600,7 +1600,7 @@ See also Text Processing and Text Analysis.
 * [gosentiwordnet](https://github.com/dinopuguh/gosentiwordnet) / ⭐ 11 - Sentiment analyzer using sentiwordnet lexicon in Go.
 * [govader](https://github.com/jonreiter/govader) / ⭐ 54 - Go implementation of VADER Sentiment Analysis.
 * [govader-backend](https://github.com/PIMPfiction/govader_backend) / ⭐ 6 - Microservice implementation of GoVader.
-* [kagome](https://github.com/ikawaha/kagome) / ⭐ 965 - JP morphological analyzer written in pure Go.
+* [kagome](https://github.com/ikawaha/kagome) / ⭐ 966 - JP morphological analyzer written in pure Go.
 * [libtextcat](https://github.com/goodsign/libtextcat) / ⭐ 13 - Cgo binding for libtextcat C library. Guaranteed compatibility with version 2.2.
 * [nlp](https://github.com/james-bowman/nlp) / ⭐ 471 - Go Natural Language Processing library supporting LSA (Latent Semantic Analysis).
 * [paicehusk](https://github.com/rookii/paicehusk) / ⭐ 29 - Golang implementation of the Paice/Husk Stemming Algorithm.
@@ -1633,7 +1633,7 @@ See also Text Processing and Text Analysis.
 * [go-mystem](https://github.com/dveselov/mystem) / ⭐ 35 - CGo bindings to Yandex.Mystem - russian morphology analyzer.
 * [go-pinyin](https://github.com/mozillazg/go-pinyin) / ⭐ 1769 - CN Hanzi to Hanyu Pinyin converter.
 * [go-words](https://github.com/saleh-rahimzadeh/go-words) / ⭐ 8 - A words table and text resource library for Golang projects.
-* [gotext](https://github.com/leonelquinteros/gotext) / ⭐ 495 - GNU gettext utilities for Go.
+* [gotext](https://github.com/leonelquinteros/gotext) / ⭐ 496 - GNU gettext utilities for Go.
 * [iuliia-go](https://github.com/mehanizm/iuliia-go) / ⭐ 56 - Transliterate Cyrillic → Latin in every possible way.
 * [spreak](https://github.com/vorlif/spreak) / ⭐ 93 - Flexible translation and humanization library for Go, based on the concepts behind gettext.
 * [t](https://github.com/youthlin/t) / ⭐ 21 - Another i18n pkg for golang, which follows GNU gettext style and supports .po/.mo files: t.T (gettext), t.N (ngettext), etc. And it contains a cmd tool xtemplate, which can extract messages as a pot file from text/html template.
