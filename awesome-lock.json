@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-05-03T02:36:35.313567916Z",
+    "updated_at": "2026-05-03T06:24:27.865675318Z",
     "provider_metrics": [
       {
         "provider": "gitlab-provider",
@@ -10,8 +10,8 @@
       },
       {
         "provider": "github-provider",
-        "attempted": 217,
-        "successful": 207,
+        "attempted": 36,
+        "successful": 26,
         "failed": 10
       }
     ],
@@ -4443,10 +4443,10 @@
               "description": "Implementation of the LevelDB key/value database in Go.",
               "url": "https://github.com/syndtr/goleveldb",
               "repo_metadata": {
-                "stars": 6327,
+                "stars": 6326,
                 "is_archived": false,
                 "last_update": "2024-05-14T20:40:52Z",
-                "enriched_at": "2026-05-02T06:04:24.401458268Z"
+                "enriched_at": "2026-05-03T06:24:22.895891348Z"
               }
             },
             {
@@ -4457,7 +4457,7 @@
                 "stars": 97,
                 "is_archived": false,
                 "last_update": "2021-02-25T00:05:34Z",
-                "enriched_at": "2026-05-02T06:04:24.731546838Z"
+                "enriched_at": "2026-05-03T06:24:23.029990761Z"
               }
             },
             {
@@ -4468,7 +4468,7 @@
                 "stars": 8957,
                 "is_archived": false,
                 "last_update": "2026-05-01T08:46:36Z",
-                "enriched_at": "2026-05-02T06:04:24.946254153Z"
+                "enriched_at": "2026-05-03T06:24:23.20202152Z"
               }
             },
             {
@@ -4476,10 +4476,10 @@
               "description": "Scalable datastore for metrics, events, and real-time analytics.",
               "url": "https://github.com/influxdb/influxdb",
               "repo_metadata": {
-                "stars": 31481,
+                "stars": 31485,
                 "is_archived": false,
                 "last_update": "2026-05-01T20:18:05Z",
-                "enriched_at": "2026-05-02T06:04:25.373543732Z"
+                "enriched_at": "2026-05-03T06:24:23.437546436Z"
               }
             },
             {
@@ -4490,7 +4490,7 @@
                 "stars": 4121,
                 "is_archived": false,
                 "last_update": "2023-10-22T02:24:37Z",
-                "enriched_at": "2026-05-02T06:04:25.788631633Z"
+                "enriched_at": "2026-05-03T06:24:23.662397106Z"
               }
             },
             {
@@ -4501,7 +4501,7 @@
                 "stars": 420,
                 "is_archived": false,
                 "last_update": "2022-03-07T12:05:55Z",
-                "enriched_at": "2026-05-02T06:04:26.016243729Z"
+                "enriched_at": "2026-05-03T06:24:23.780688609Z"
               }
             },
             {
@@ -4512,7 +4512,7 @@
                 "stars": 201,
                 "is_archived": false,
                 "last_update": "2024-04-11T18:39:36Z",
-                "enriched_at": "2026-05-02T06:04:26.265239284Z"
+                "enriched_at": "2026-05-03T06:24:23.916830531Z"
               }
             },
             {
@@ -4523,7 +4523,7 @@
                 "stars": 3060,
                 "is_archived": false,
                 "last_update": "2026-03-06T02:18:06Z",
-                "enriched_at": "2026-05-02T06:04:26.489089181Z"
+                "enriched_at": "2026-05-03T06:24:24.091312759Z"
               }
             },
             {
@@ -4534,7 +4534,7 @@
                 "stars": 2255,
                 "is_archived": false,
                 "last_update": "2025-02-18T08:07:46Z",
-                "enriched_at": "2026-05-02T06:04:26.901139187Z"
+                "enriched_at": "2026-05-03T06:24:24.320335286Z"
               }
             },
             {
@@ -4542,10 +4542,10 @@
               "description": "Milvus is a vector database for embedding management, analytics and search.",
               "url": "https://github.com/milvus-io/milvus",
               "repo_metadata": {
-                "stars": 44081,
+                "stars": 44097,
                 "is_archived": false,
                 "last_update": "2026-05-02T03:10:08Z",
-                "enriched_at": "2026-05-02T06:04:27.135350241Z"
+                "enriched_at": "2026-05-03T06:24:24.481458734Z"
               }
             },
             {
@@ -4553,10 +4553,10 @@
               "description": "Moss is a simple LSM key-value storage engine written in 100% Go.",
               "url": "https://github.com/couchbase/moss",
               "repo_metadata": {
-                "stars": 1018,
+                "stars": 1017,
                 "is_archived": false,
                 "last_update": "2024-12-17T02:07:29Z",
-                "enriched_at": "2026-05-02T06:04:27.375436537Z"
+                "enriched_at": "2026-05-03T06:24:24.640512851Z"
               }
             },
             {
@@ -4564,10 +4564,10 @@
               "description": "High-performance distributed KV storage based on LSM Tree.",
               "url": "https://github.com/feichai0017/NoKV",
               "repo_metadata": {
-                "stars": 382,
+                "stars": 383,
                 "is_archived": false,
-                "last_update": "2026-05-02T02:38:23Z",
-                "enriched_at": "2026-05-02T06:04:27.618757154Z"
+                "last_update": "2026-05-03T06:04:38Z",
+                "enriched_at": "2026-05-03T06:24:24.802643656Z"
               }
             },
             {
@@ -4578,7 +4578,7 @@
                 "stars": 3564,
                 "is_archived": false,
                 "last_update": "2026-02-08T02:02:28Z",
-                "enriched_at": "2026-05-02T06:04:28.055928578Z"
+                "enriched_at": "2026-05-03T06:24:25.120821894Z"
               }
             },
             {
@@ -4589,7 +4589,7 @@
                 "stars": 1263,
                 "is_archived": false,
                 "last_update": "2025-03-12T13:34:35Z",
-                "enriched_at": "2026-05-02T06:04:28.29231109Z"
+                "enriched_at": "2026-05-03T06:24:25.261915886Z"
               }
             },
             {
@@ -4597,10 +4597,10 @@
               "description": "RocksDB/LevelDB inspired key-value database in Go.",
               "url": "https://github.com/cockroachdb/pebble",
               "repo_metadata": {
-                "stars": 5872,
+                "stars": 5874,
                 "is_archived": false,
-                "last_update": "2026-05-02T05:29:15Z",
-                "enriched_at": "2026-05-02T06:04:28.528744667Z"
+                "last_update": "2026-05-02T22:01:03Z",
+                "enriched_at": "2026-05-03T06:24:25.524794341Z"
               }
             },
             {
@@ -4611,7 +4611,7 @@
                 "stars": 205,
                 "is_archived": false,
                 "last_update": "2025-12-05T17:19:16Z",
-                "enriched_at": "2026-05-02T06:04:28.789237768Z"
+                "enriched_at": "2026-05-03T06:24:25.643450239Z"
               }
             },
             {
@@ -4622,7 +4622,7 @@
                 "stars": 1350,
                 "is_archived": false,
                 "last_update": "2026-04-06T23:31:53Z",
-                "enriched_at": "2026-05-02T06:04:29.016671808Z"
+                "enriched_at": "2026-05-03T06:24:25.787388538Z"
               }
             },
             {
@@ -4630,10 +4630,10 @@
               "description": "Monitoring system and time series database.",
               "url": "https://github.com/prometheus/prometheus",
               "repo_metadata": {
-                "stars": 63866,
+                "stars": 63875,
                 "is_archived": false,
                 "last_update": "2026-04-29T15:31:08Z",
-                "enriched_at": "2026-05-02T06:04:29.398871368Z"
+                "enriched_at": "2026-05-03T06:24:25.932513643Z"
               }
             },
             {
@@ -4644,7 +4644,7 @@
                 "stars": 369,
                 "is_archived": false,
                 "last_update": "2021-07-04T02:08:38Z",
-                "enriched_at": "2026-05-02T06:04:29.633611926Z"
+                "enriched_at": "2026-05-03T06:24:26.066142709Z"
               }
             },
             {
@@ -4652,10 +4652,10 @@
               "description": "Redis re-implemented with SQLite.",
               "url": "https://github.com/nalgeon/redka",
               "repo_metadata": {
-                "stars": 4545,
+                "stars": 4546,
                 "is_archived": false,
                 "last_update": "2026-02-04T15:47:32Z",
-                "enriched_at": "2026-05-02T06:04:29.854991404Z"
+                "enriched_at": "2026-05-03T06:24:26.213524948Z"
               }
             },
             {
@@ -4666,7 +4666,7 @@
                 "stars": 4883,
                 "is_archived": false,
                 "last_update": "2026-02-10T03:41:42Z",
-                "enriched_at": "2026-05-02T06:04:30.284567283Z"
+                "enriched_at": "2026-05-03T06:24:26.452070326Z"
               }
             },
             {
@@ -4677,7 +4677,7 @@
                 "stars": 41,
                 "is_archived": false,
                 "last_update": "2024-12-15T06:46:00Z",
-                "enriched_at": "2026-05-02T06:04:30.489648632Z"
+                "enriched_at": "2026-05-03T06:24:26.611014791Z"
               }
             },
             {
@@ -4685,10 +4685,10 @@
               "description": "The lightweight, distributed, relational database built on SQLite.",
               "url": "https://github.com/rqlite/rqlite",
               "repo_metadata": {
-                "stars": 17464,
+                "stars": 17467,
                 "is_archived": false,
-                "last_update": "2026-05-01T15:54:01Z",
-                "enriched_at": "2026-05-02T06:04:30.728061932Z"
+                "last_update": "2026-05-02T23:04:10Z",
+                "enriched_at": "2026-05-03T06:24:26.779397963Z"
               }
             },
             {
@@ -4699,7 +4699,7 @@
                 "stars": 19,
                 "is_archived": false,
                 "last_update": "2018-02-14T19:03:13Z",
-                "enriched_at": "2026-05-02T06:04:30.959303567Z"
+                "enriched_at": "2026-05-03T06:24:26.917620442Z"
               }
             },
             {
@@ -4710,7 +4710,7 @@
                 "stars": 40048,
                 "is_archived": false,
                 "last_update": "2026-05-01T06:04:37Z",
-                "enriched_at": "2026-05-02T06:04:31.220526267Z"
+                "enriched_at": "2026-05-03T06:24:27.06857313Z"
               }
             },
             {
@@ -4718,10 +4718,10 @@
               "description": "Your NoSQL database powered by Golang.",
               "url": "https://github.com/HouzuoGuo/tiedot",
               "repo_metadata": {
-                "stars": 2731,
+                "stars": 2730,
                 "is_archived": false,
                 "last_update": "2021-09-05T17:47:27Z",
-                "enriched_at": "2026-05-02T06:04:31.641613239Z"
+                "enriched_at": "2026-05-03T06:24:27.205153913Z"
               }
             },
             {
