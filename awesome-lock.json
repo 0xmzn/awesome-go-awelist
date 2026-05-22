@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "updated_at": "2026-05-22T02:57:20.376290647Z",
+    "updated_at": "2026-05-22T07:40:45.956654786Z",
     "provider_metrics": [
       {
         "provider": "gitlab-provider",
-        "attempted": 16,
-        "successful": 12,
+        "attempted": 4,
+        "successful": 0,
         "failed": 4
       },
       {
         "provider": "github-provider",
-        "attempted": 539,
-        "successful": 528,
+        "attempted": 11,
+        "successful": 0,
         "failed": 11
       }
     ],
