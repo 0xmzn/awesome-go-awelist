@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-06-04T12:46:16.645613364Z",
+    "updated_at": "2026-06-04T16:51:46.396107181Z",
     "provider_metrics": [
       {
         "provider": "gitlab-provider",
@@ -10,13 +10,12 @@
       },
       {
         "provider": "github-provider",
-        "attempted": 889,
-        "successful": 877,
-        "failed": 12
+        "attempted": 12,
+        "successful": 1,
+        "failed": 11
       }
     ],
     "failed_links": {
-      "https://github.com/alwindoss/morse": "GET https://api.github.com/repos/alwindoss/morse: 500  []",
       "https://github.com/bahlo/go-styleguide": "GET https://api.github.com/repos/bahlo/go-styleguide: 404 Not Found []",
       "https://github.com/cubahno/connexions": "GET https://api.github.com/repos/cubahno/connexions: 404 Not Found []",
       "https://github.com/mickep76/encdec": "GET https://api.github.com/repos/mickep76/encdec: 404 Not Found []",
@@ -14571,7 +14570,7 @@
                 "stars": 87,
                 "is_archived": false,
                 "last_update": "2022-08-30T10:12:15Z",
-                "enriched_at": "2026-06-03T08:54:44.692291373Z"
+                "enriched_at": "2026-06-04T16:51:45.760642079Z"
               }
             },
             {
