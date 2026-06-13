@@ -516,25 +516,25 @@ Data stores with expiring records, in-memory distributed data stores, or in-memo
 * [tidb](https://github.com/pingcap/tidb) / ⭐ 40160 - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 * [tiedot](https://github.com/HouzuoGuo/tiedot) / ⭐ 2732 - Your NoSQL database powered by Golang.
 * [unitdb](https://github.com/unit-io/unitdb) / ⭐ 124 - Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using github.com/unit-io/unitd application.
-* [Vasto](https://github.com/chrislusf/vasto) / ⭐ 262 - A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption.
-* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) / ⭐ 17144 - fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL.
+* [Vasto](https://github.com/chrislusf/vasto) / ⭐ 263 - A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service interruption.
+* [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) / ⭐ 17149 - fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prometheus. Supports PromQL.
 ### Database Schema Migration
 
-* [atlas](https://github.com/ariga/atlas) / ⭐ 8475 - A Database Toolkit. A CLI designed to help companies better work with their data.
+* [atlas](https://github.com/ariga/atlas) / ⭐ 8477 - A Database Toolkit. A CLI designed to help companies better work with their data.
 * [avro](https://github.com/khezen/avro) / ⭐ 49 - Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes.
-* [bytebase](https://github.com/bytebase/bytebase) / ⭐ 14139 - Safe database schema change and version control for DevOps teams.
+* [bytebase](https://github.com/bytebase/bytebase) / ⭐ 14142 - Safe database schema change and version control for DevOps teams.
 * [darwin](https://github.com/GuiaBolso/darwin) / ⭐ 150 - Database schema evolution library for Go.
-* [dbmate](https://github.com/amacneil/dbmate) / ⭐ 6946 - A lightweight, framework-agnostic database migration tool.
+* [dbmate](https://github.com/amacneil/dbmate) / ⭐ 6948 - A lightweight, framework-agnostic database migration tool.
 * [go-fixtures](https://github.com/RichardKnop/go-fixtures) / ⭐ 32 - Django style fixtures for Golang's excellent built-in database/sql library.
 * [go-pg-migrate](https://github.com/lawzava/go-pg-migrate) / ⭐ 11 - CLI-friendly package for go-pg migrations management.
 * [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) / ⭐ 86 - A Go package to help write migrations with go-pg/pg.
 * [goavro](https://github.com/linkedin/goavro) / ⭐ 1065 - A Go package that encodes and decodes Avro data.
 * [godfish](https://github.com/rafaelespinoza/godfish) / ⭐ 13 - Database migration manager, works with native query language. Support for cassandra, mysql, postgres, sqlite3.
-* [goose](https://github.com/pressly/goose) / ⭐ 10869 - Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts.
+* [goose](https://github.com/pressly/goose) / ⭐ 10875 - Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts.
 * [gorm-seeder](https://github.com/Kachit/gorm-seeder) / ⭐ 19 - Simple database seeder for Gorm ORM.
 * [gormigrate](https://github.com/go-gormigrate/gormigrate) / ⭐ 1165 - Database schema migration helper for Gorm ORM.
 * [libschema](https://github.com/muir/libschema) / ⭐ 18 - Define your migrations separately in each library. Migrations for open source libraries. MySQL & PostgreSQL.
-* [migrate](https://github.com/golang-migrate/migrate) / ⭐ 18602 - Database migrations. CLI and Golang library.
+* [migrate](https://github.com/golang-migrate/migrate) / ⭐ 18605 - Database migrations. CLI and Golang library.
 * [migrator](https://github.com/lopezator/migrator) / ⭐ 178 - Dead simple Go database migration library.
 * [migrator](https://github.com/larapulse/migrator) / ⭐ 25 - MySQL database migrator designed to run migrations to your features and manage database schema update with intuitive go code.
 * [schema](https://github.com/adlio/schema) / ⭐ 43 - Library to embed schema migrations for database/sql-compatible databases inside your Go binaries.
@@ -549,14 +549,14 @@ Data stores with expiring records, in-memory distributed data stores, or in-memo
 * [database-gateway](https://github.com/kazhuravlev/database-gateway) / ⭐ 37 - Running SQL in production with ACLs, logs, and shared links.
 * [dbbench](https://github.com/sj14/dbbench) / ⭐ 117 - Database benchmarking tool with support for several databases and scripts.
 * [dg](https://github.com/codingconcepts/dg) / ⭐ 45 - A fast data generator that produces CSV files from generated relational data.
-* [gatewayd](https://github.com/gatewayd-io/gatewayd) / ⭐ 285 - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
-* [go-mysql](https://github.com/siddontang/go-mysql) / ⭐ 4953 - Go toolset to handle MySQL protocol and replication.
+* [gatewayd](https://github.com/gatewayd-io/gatewayd) / ⭐ 284 - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
+* [go-mysql](https://github.com/siddontang/go-mysql) / ⭐ 4954 - Go toolset to handle MySQL protocol and replication.
 * [gorm-multitenancy](https://github.com/bartventer/gorm-multitenancy) / ⭐ 82 - Multi-tenancy support for GORM managed databases.
 * [hasql](https://golang.yandex/hasql) - Library for accessing multi-host SQL database installations.
 * [octillery](https://github.com/knocknote/octillery) / ⭐ 201 - Go package for sharding databases ( Supports every ORM or raw SQL ).
 * [onedump](https://github.com/liweiyi88/onedump) / ⭐ 968 - Database backup from different drivers to different destinations with one command and configuration.
 * [pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) / ⭐ 1367 - Advanced scheduling for PostgreSQL.
-* [pgweb](https://github.com/sosedoff/pgweb) / ⭐ 9385 - Web-based PostgreSQL database browser.
+* [pgweb](https://github.com/sosedoff/pgweb) / ⭐ 9396 - Web-based PostgreSQL database browser.
 * [prep](https://github.com/hexdigest/prep) / ⭐ 36 - Use prepared SQL statements without changing your code.
 * [pREST](https://github.com/prest/prest) / ⭐ 4550 - Simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new.
 * [rdb](https://github.com/HDT3213/rdb) / ⭐ 611 - Redis RDB file parser for secondary development and memory analysis.
@@ -573,11 +573,11 @@ Libraries for building and using SQL.
 * [Dotsql](https://github.com/gchaincl/dotsql) / ⭐ 744 - Go library that helps you keep sql files in one place and use them with ease.
 * [gendry](https://github.com/didi/gendry) / ⭐ 1638 - Non-invasive SQL builder and powerful data binder.
 * [godbal](https://github.com/xujiajun/godbal) / ⭐ 60 - Database Abstraction Layer (dbal) for go. Support SQL builder and get result easily.
-* [goqu](https://github.com/doug-martin/goqu) / ⭐ 2659 - Idiomatic SQL builder and query library.
+* [goqu](https://github.com/doug-martin/goqu) / ⭐ 2660 - Idiomatic SQL builder and query library.
 * [gosql](https://github.com/twharmon/gosql) / ⭐ 38 - SQL Query builder with better null values support.
 * [Hotcoal](https://github.com/motrboat/hotcoal) / ⭐ 23 - Secure your handcrafted SQL against injection.
 * [igor](https://github.com/galeone/igor) / ⭐ 127 - Abstraction layer for PostgreSQL that supports advanced functionality and uses gorm-like syntax.
-* [jet](https://github.com/go-jet/jet) / ⭐ 3714 - Framework for writing type-safe SQL queries in Go, with ability to easily convert database query result into desired arbitrary object structure.
+* [jet](https://github.com/go-jet/jet) / ⭐ 3716 - Framework for writing type-safe SQL queries in Go, with ability to easily convert database query result into desired arbitrary object structure.
 * [obreron](https://github.com/profe-ajedrez/obreron) / ⭐ 13 - Fast and cheap SQL builder which does only one thing, SQL building.
 * [ormlite](https://github.com/pupizoid/ormlite) / ⭐ 15 - Lightweight package containing some ORM-like features and helpers for sqlite databases.
 * [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) / ⭐ 667 - Powerful data retrieval methods as well as DB-agnostic query building capabilities.
@@ -585,7 +585,7 @@ Libraries for building and using SQL.
 * [qry](https://github.com/HnH/qry) / ⭐ 35 - Tool that generates constants from files with raw SQL queries.
 * [sg](https://github.com/go-the-way/sg) / ⭐ 7 - A SQL Gen for generating standard SQLs(supports: CRUD) written in Go.
 * [sq](https://github.com/bokwoon95/go-structured-query) / ⭐ 201 - Type-safe SQL builder and struct mapper for Go.
-* [sqlc](https://github.com/kyleconroy/sqlc) / ⭐ 17865 - Generate type-safe code from SQL.
+* [sqlc](https://github.com/kyleconroy/sqlc) / ⭐ 17870 - Generate type-safe code from SQL.
 * [sqlf](https://github.com/leporo/sqlf) / ⭐ 187 - Fast SQL query builder.
 * [sqlingo](https://github.com/lqs/sqlingo) / ⭐ 455 - A lightweight DSL to build SQL in Go.
 * [sqrl](https://github.com/elgris/sqrl) / ⭐ 284 - SQL query builder, fork of Squirrel with improved performance.
@@ -597,27 +597,27 @@ Libraries for building and using SQL.
 ## Database Drivers
 ### Interfaces to Multiple Backends
 
-* [cayley](https://github.com/google/cayley) / ⭐ 15042 - Graph database with support for multiple backends.
+* [cayley](https://github.com/google/cayley) / ⭐ 15044 - Graph database with support for multiple backends.
 * [dsc](https://github.com/viant/dsc) / ⭐ 36 - Datastore connectivity for SQL, NoSQL, structured files.
 * [dynamo](https://github.com/fogfish/dynamo) / ⭐ 23 - A simple key-value abstraction to store algebraic and linked-data data types at AWS storage services: AWS DynamoDB and AWS S3.
 * [go-transaction-manager](https://github.com/avito-tech/go-transaction-manager) / ⭐ 405 - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
 * [gokv](https://github.com/philippgille/gokv) / ⭐ 828 - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
 ### Relational Database Drivers
 
-* [avatica](https://github.com/apache/calcite-avatica-go) / ⭐ 124 - Apache Avatica/Phoenix SQL driver for database/sql.
+* [avatica](https://github.com/apache/calcite-avatica-go) / ⭐ 125 - Apache Avatica/Phoenix SQL driver for database/sql.
 * [bgc](https://github.com/viant/bgc) / ⭐ 21 - Datastore Connectivity for BigQuery for go.
 * [firebirdsql](https://github.com/nakagami/firebirdsql) / ⭐ 262 - Firebird RDBMS SQL driver for Go.
 * [go-adodb](https://github.com/mattn/go-adodb) / ⭐ 153 - Microsoft ActiveX Object DataBase driver for go that uses database/sql.
 * [go-mssqldb](https://github.com/denisenkom/go-mssqldb) / ⭐ 1883 - Microsoft MSSQL driver for Go.
 * [go-oci8](https://github.com/mattn/go-oci8) / ⭐ 630 - Oracle driver for go that uses database/sql.
 * [go-rqlite](https://github.com/rqlite/gorqlite) / ⭐ 186 - A Go client for rqlite, providing easy-to-use abstractions for working with the rqlite API.
-* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) / ⭐ 15250 - MySQL driver for Go.
-* [go-sqlite3](https://github.com/mattn/go-sqlite3) / ⭐ 9133 - SQLite3 driver for go that uses database/sql.
-* [go-sqlite3](https://github.com/ncruces/go-sqlite3) / ⭐ 1028 - This Go module is compatible with the database/sql driver. It allows embedding SQLite into your application, provides direct access to its C API, supports SQLite VFS, and also includes a GORM driver.
+* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) / ⭐ 15248 - MySQL driver for Go.
+* [go-sqlite3](https://github.com/mattn/go-sqlite3) / ⭐ 9136 - SQLite3 driver for go that uses database/sql.
+* [go-sqlite3](https://github.com/ncruces/go-sqlite3) / ⭐ 1031 - This Go module is compatible with the database/sql driver. It allows embedding SQLite into your application, provides direct access to its C API, supports SQLite VFS, and also includes a GORM driver.
 * [godror](https://github.com/godror/godror) / ⭐ 596 - Oracle driver for Go, using the ODPI-C driver.
 * [gofreetds](https://github.com/minus5/gofreetds) / ⭐ 114 - Microsoft MSSQL driver. Go wrapper over FreeTDS.
 * [KSQL](https://github.com/VinGarcia/ksql) / ⭐ 355 - A Simple and Powerful Golang SQL Library.
-* [pgx](https://github.com/jackc/pgx) / ⭐ 13911 - PostgreSQL driver supporting features beyond those exposed by database/sql.
+* [pgx](https://github.com/jackc/pgx) / ⭐ 13913 - PostgreSQL driver supporting features beyond those exposed by database/sql.
 * [pig](https://github.com/alexeyco/pig) / ⭐ 17 - Simple pgx wrapper to execute and scan query results easily.
 * [pq](https://github.com/lib/pq) / ⭐ 9901 - Pure Go Postgres driver for database/sql.
 * [Sqinn-Go](https://github.com/cvilsmeier/sqinn-go) / ⭐ 531 - SQLite with pure Go.
@@ -647,14 +647,14 @@ Libraries for building and using SQL.
 * [Kivik](https://github.com/go-kivik/kivik) / ⭐ 343 - Kivik provides a common Go and GopherJS client library for CouchDB, PouchDB, and similar databases.
 * [mgm](https://github.com/kamva/mgm) / ⭐ 764 - MongoDB model-based ODM for Go (based on official MongoDB driver).
 * [mgo](https://github.com/globalsign/mgo) / ⭐ 1966 - (unmaintained) MongoDB driver for the Go language that implements a rich and well tested selection of features under a very simple API following standard Go idioms.
-* [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) / ⭐ 8525 - Official MongoDB driver for the Go language.
+* [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) / ⭐ 8526 - Official MongoDB driver for the Go language.
 * [neo4j](https://github.com/cihangir/neo4j) / ⭐ 29 - Neo4j Rest API Bindings for Golang.
 * [neoism](https://github.com/jmcvetta/neoism) / ⭐ 388 - Neo4j client for Golang.
 * [qmgo](https://github.com/qiniu/qmgo) / ⭐ 1353 - The MongoDB driver for Go. It‘s based on official MongoDB driver but easier to use like Mgo.
 * [redeo](https://github.com/bsm/redeo) / ⭐ 444 - Redis-protocol compatible TCP servers/services.
 * [redigo](https://github.com/gomodule/redigo) / ⭐ 9860 - Redigo is a Go client for the Redis database.
-* [redis](https://github.com/redis/go-redis) / ⭐ 22137 - Redis client for Golang.
-* [rueidis](http://github.com/rueian/rueidis) / ⭐ 2949 - Fast Redis RESP3 client with auto pipelining and server-assisted client side caching.
+* [redis](https://github.com/redis/go-redis) / ⭐ 22140 - Redis client for Golang.
+* [rueidis](http://github.com/rueian/rueidis) / ⭐ 2951 - Fast Redis RESP3 client with auto pipelining and server-assisted client side caching.
 * [xredis](https://github.com/shomali11/xredis) / ⭐ 19 - Typesafe, customizable, clean & easy to use Redis client.
 ### Search and Analytic Databases
 
@@ -666,14 +666,14 @@ Libraries for building and using SQL.
 * [go-elasticsearch](https://github.com/elastic/go-elasticsearch) / ⭐ 6053 - Official Elasticsearch client for Go.
 * [goes](https://github.com/OwnLocal/goes) / ⭐ 30 - Library to interact with Elasticsearch.
 * [skizze](https://github.com/seiflotfy/skizze) / ⭐ 91 - probabilistic data-structures service and storage.
-* [zoekt](https://github.com/sourcegraph/zoekt) / ⭐ 1697 - Fast trigram based code search.
+* [zoekt](https://github.com/sourcegraph/zoekt) / ⭐ 1698 - Fast trigram based code search.
 
 ---
 ## Date and Time
 Libraries for working with dates and times.
 
 * [approx](https://github.com/goschtalt/approx) / ⭐ 17 - A Duration extension supporting parsing/printing durations in days, weeks and years.
-* [carbon](https://github.com/dromara/carbon) / ⭐ 5220 - A simple, semantic and developer-friendly time package for golang.
+* [carbon](https://github.com/dromara/carbon) / ⭐ 5221 - A simple, semantic and developer-friendly time package for golang.
 * [carbon](https://github.com/uniplaces/carbon) / ⭐ 781 - Simple Time extension with a lot of util methods, ported from PHP Carbon library.
 * [cronrange](https://github.com/1set/cronrange) / ⭐ 18 - Parses Cron-style time range expressions, checks if the given time is within any ranges.
 * [date](https://github.com/rickb777/date) / ⭐ 142 - Augments Time for working with dates, date ranges, time spans, periods, and time-of-day.
@@ -690,7 +690,7 @@ Libraries for working with dates and times.
 * [gostradamus](https://github.com/bykof/gostradamus) / ⭐ 208 - A Go package for working with dates.
 * [iso8601](https://github.com/relvacode/iso8601) / ⭐ 158 - Efficiently parse ISO8601 date-times without regex.
 * [kair](https://github.com/GuilhermeCaruso/kair) / ⭐ 24 - Date and Time - Golang Formatting Library.
-* [now](https://github.com/jinzhu/now) / ⭐ 4691 - Now is a time toolkit for golang.
+* [now](https://github.com/jinzhu/now) / ⭐ 4692 - Now is a time toolkit for golang.
 * [strftime](https://github.com/awoodbeck/strftime) / ⭐ 14 - C99-compatible strftime formatter.
 * [timespan](https://github.com/SaidinWoT/timespan) / ⭐ 84 - For interacting with intervals of time, defined as a start time and a duration.
 * [timeutil](https://github.com/leekchan/timeutil) / ⭐ 193 - Useful extensions (Timedelta, Strftime, ...) to the golang's time package.
