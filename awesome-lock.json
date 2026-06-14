@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "updated_at": "2026-06-14T13:58:44.328019259Z",
+    "updated_at": "2026-06-14T15:47:22.574960953Z",
     "provider_metrics": [
       {
         "provider": "gitlab-provider",
-        "attempted": 16,
-        "successful": 12,
+        "attempted": 4,
+        "successful": 0,
         "failed": 4
       },
       {
         "provider": "github-provider",
-        "attempted": 957,
-        "successful": 946,
+        "attempted": 56,
+        "successful": 45,
         "failed": 11
       }
     ],
@@ -28573,7 +28573,7 @@
             "stars": 11,
             "is_archived": false,
             "last_update": "2020-10-08T08:21:03Z",
-            "enriched_at": "2026-06-13T13:54:44.511237939Z"
+            "enriched_at": "2026-06-14T15:47:15.674751516Z"
           }
         },
         {
@@ -28584,7 +28584,7 @@
             "stars": 33,
             "is_archived": false,
             "last_update": "2026-06-06T20:27:30Z",
-            "enriched_at": "2026-06-13T13:54:44.770641936Z"
+            "enriched_at": "2026-06-14T15:47:15.832525545Z"
           }
         },
         {
@@ -28595,7 +28595,7 @@
             "stars": 2138,
             "is_archived": false,
             "last_update": "2025-01-17T01:25:36Z",
-            "enriched_at": "2026-06-13T13:54:44.943019398Z"
+            "enriched_at": "2026-06-14T15:47:15.981959807Z"
           }
         },
         {
@@ -28606,7 +28606,7 @@
             "stars": 1627,
             "is_archived": false,
             "last_update": "2025-07-04T01:53:45Z",
-            "enriched_at": "2026-06-13T13:54:45.115369744Z"
+            "enriched_at": "2026-06-14T15:47:16.101716163Z"
           }
         },
         {
@@ -28617,7 +28617,7 @@
             "stars": 63,
             "is_archived": false,
             "last_update": "2021-05-19T15:19:44Z",
-            "enriched_at": "2026-06-13T13:54:45.392961344Z"
+            "enriched_at": "2026-06-14T15:47:16.317943706Z"
           }
         },
         {
@@ -28628,7 +28628,7 @@
             "stars": 144,
             "is_archived": false,
             "last_update": "2026-04-25T14:28:36Z",
-            "enriched_at": "2026-06-13T13:54:45.557347481Z"
+            "enriched_at": "2026-06-14T15:47:16.489815683Z"
           }
         },
         {
@@ -28644,7 +28644,7 @@
             "stars": 128,
             "is_archived": false,
             "last_update": "2024-03-25T16:00:25Z",
-            "enriched_at": "2026-06-13T13:54:45.811275837Z"
+            "enriched_at": "2026-06-14T15:47:16.713178808Z"
           }
         },
         {
@@ -28655,7 +28655,7 @@
             "stars": 27,
             "is_archived": false,
             "last_update": "2019-09-28T10:24:57Z",
-            "enriched_at": "2026-06-13T13:54:45.972638376Z"
+            "enriched_at": "2026-06-14T15:47:16.849127209Z"
           }
         },
         {
@@ -28666,7 +28666,7 @@
             "stars": 1062,
             "is_archived": false,
             "last_update": "2023-11-10T14:53:36Z",
-            "enriched_at": "2026-06-13T13:54:46.108584534Z"
+            "enriched_at": "2026-06-14T15:47:16.983060008Z"
           }
         },
         {
@@ -28677,7 +28677,7 @@
             "stars": 246,
             "is_archived": false,
             "last_update": "2020-10-28T16:26:39Z",
-            "enriched_at": "2026-06-13T13:54:46.272627899Z"
+            "enriched_at": "2026-06-14T15:47:17.116497288Z"
           }
         }
       ]
@@ -28867,10 +28867,10 @@
               "description": "The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.",
               "url": "https://github.com/volodymyrprokopyuk/go-blockchain",
               "repo_metadata": {
-                "stars": 541,
+                "stars": 542,
                 "is_archived": false,
                 "last_update": "2025-08-17T14:09:53Z",
-                "enriched_at": "2026-06-13T13:54:46.427902384Z"
+                "enriched_at": "2026-06-14T15:47:17.266133232Z"
               }
             },
             {
@@ -28893,10 +28893,10 @@
               "description": "A book focusing on Go go/* packages.",
               "url": "https://github.com/chai2010/go-ast-book",
               "repo_metadata": {
-                "stars": 5509,
+                "stars": 5508,
                 "is_archived": false,
                 "last_update": "2024-09-26T00:50:40Z",
-                "enriched_at": "2026-06-13T13:54:46.594333549Z"
+                "enriched_at": "2026-06-14T15:47:17.406513999Z"
               }
             },
             {
@@ -28912,7 +28912,7 @@
                 "stars": 23,
                 "is_archived": false,
                 "last_update": "2018-10-03T07:03:46Z",
-                "enriched_at": "2026-06-13T13:54:46.843150081Z"
+                "enriched_at": "2026-06-14T15:47:17.61040582Z"
               }
             },
             {
@@ -28925,10 +28925,10 @@
               "description": "A curated list of Go books.",
               "url": "https://github.com/dariubs/GoBooks",
               "repo_metadata": {
-                "stars": 19500,
+                "stars": 19502,
                 "is_archived": false,
                 "last_update": "2026-06-05T17:57:50Z",
-                "enriched_at": "2026-06-13T13:54:47.017130736Z"
+                "enriched_at": "2026-06-14T15:47:17.753032904Z"
               }
             },
             {
@@ -28966,10 +28966,10 @@
               "description": "",
               "url": "https://github.com/polaris1119/The-Golang-Standard-Library-by-Example",
               "repo_metadata": {
-                "stars": 9552,
+                "stars": 9551,
                 "is_archived": false,
                 "last_update": "2023-04-25T02:47:00Z",
-                "enriched_at": "2026-06-13T13:54:47.175190263Z"
+                "enriched_at": "2026-06-14T15:47:17.896395548Z"
               }
             },
             {
@@ -28979,8 +28979,8 @@
               "repo_metadata": {
                 "stars": 2331,
                 "is_archived": false,
-                "last_update": "2025-10-06T07:59:01Z",
-                "enriched_at": "2026-06-13T13:54:47.331826684Z"
+                "last_update": "2026-06-14T00:16:24Z",
+                "enriched_at": "2026-06-14T15:47:18.037581742Z"
               }
             },
             {
@@ -28991,7 +28991,7 @@
                 "stars": 3245,
                 "is_archived": false,
                 "last_update": "2025-09-30T13:36:55Z",
-                "enriched_at": "2026-06-13T13:54:47.48662855Z"
+                "enriched_at": "2026-06-14T15:47:18.182290636Z"
               }
             }
           ]
@@ -29007,10 +29007,10 @@
           "description": "Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster.",
           "url": "https://github.com/MariaLetta/free-gophers-pack",
           "repo_metadata": {
-            "stars": 3953,
+            "stars": 3951,
             "is_archived": false,
             "last_update": "2024-12-22T15:03:59Z",
-            "enriched_at": "2026-06-13T13:54:47.648225572Z"
+            "enriched_at": "2026-06-14T15:47:18.323484875Z"
           }
         },
         {
@@ -29021,7 +29021,7 @@
             "stars": 75,
             "is_archived": false,
             "last_update": "2018-03-04T07:19:54Z",
-            "enriched_at": "2026-06-13T13:54:47.847147436Z"
+            "enriched_at": "2026-06-14T15:47:18.454099542Z"
           }
         },
         {
@@ -29032,7 +29032,7 @@
             "stars": 140,
             "is_archived": false,
             "last_update": "2021-06-24T19:17:44Z",
-            "enriched_at": "2026-06-13T13:54:48.023714281Z"
+            "enriched_at": "2026-06-14T15:47:18.595979747Z"
           }
         },
         {
@@ -29043,7 +29043,7 @@
             "stars": 607,
             "is_archived": false,
             "last_update": "2019-12-03T14:50:44Z",
-            "enriched_at": "2026-06-13T13:54:48.198023393Z"
+            "enriched_at": "2026-06-14T15:47:18.740139421Z"
           }
         },
         {
@@ -29054,7 +29054,7 @@
             "stars": 629,
             "is_archived": false,
             "last_update": "2018-03-23T23:10:38Z",
-            "enriched_at": "2026-06-13T13:54:48.374674756Z"
+            "enriched_at": "2026-06-14T15:47:18.866098275Z"
           }
         },
         {
@@ -29065,7 +29065,7 @@
             "stars": 757,
             "is_archived": false,
             "last_update": "2021-08-23T21:46:57Z",
-            "enriched_at": "2026-06-13T13:54:48.555431056Z"
+            "enriched_at": "2026-06-14T15:47:19.024330964Z"
           }
         },
         {
@@ -29076,7 +29076,7 @@
             "stars": 3072,
             "is_archived": false,
             "last_update": "2026-06-09T03:51:53Z",
-            "enriched_at": "2026-06-13T13:54:48.701469314Z"
+            "enriched_at": "2026-06-14T15:47:19.189295893Z"
           }
         },
         {
@@ -29087,7 +29087,7 @@
             "stars": 3813,
             "is_archived": false,
             "last_update": "2022-07-06T06:41:07Z",
-            "enriched_at": "2026-06-13T13:54:48.865479677Z"
+            "enriched_at": "2026-06-14T15:47:19.341028556Z"
           }
         },
         {
@@ -29098,7 +29098,7 @@
             "stars": 58,
             "is_archived": false,
             "last_update": "2020-08-06T15:16:29Z",
-            "enriched_at": "2026-06-13T13:54:49.020217656Z"
+            "enriched_at": "2026-06-14T15:47:19.473555561Z"
           }
         },
         {
@@ -29109,7 +29109,7 @@
             "stars": 163,
             "is_archived": false,
             "last_update": "2025-01-28T18:21:12Z",
-            "enriched_at": "2026-06-13T13:54:49.177909076Z"
+            "enriched_at": "2026-06-14T15:47:19.634407116Z"
           }
         },
         {
@@ -29120,7 +29120,7 @@
             "stars": 37,
             "is_archived": false,
             "last_update": "2024-03-24T15:12:47Z",
-            "enriched_at": "2026-06-13T13:54:49.338932149Z"
+            "enriched_at": "2026-06-14T15:47:19.781678731Z"
           }
         }
       ]
@@ -29568,7 +29568,7 @@
             "stars": 523,
             "is_archived": false,
             "last_update": "2021-07-13T14:14:28Z",
-            "enriched_at": "2026-06-13T13:54:49.589493442Z"
+            "enriched_at": "2026-06-14T15:47:19.992295922Z"
           }
         },
         {
@@ -29576,10 +29576,10 @@
           "description": "Curated list of awesome remote jobs. A lot of them are looking for Go hackers.",
           "url": "https://github.com/lukasz-madon/awesome-remote-job",
           "repo_metadata": {
-            "stars": 46347,
+            "stars": 46364,
             "is_archived": false,
             "last_update": "2026-05-08T22:48:54Z",
-            "enriched_at": "2026-06-13T13:54:49.737303011Z"
+            "enriched_at": "2026-06-14T15:47:20.138964955Z"
           }
         },
         {
@@ -29587,10 +29587,10 @@
           "description": "List of other amazingly awesome lists.",
           "url": "https://github.com/bayandin/awesome-awesomeness",
           "repo_metadata": {
-            "stars": 33483,
+            "stars": 33487,
             "is_archived": false,
             "last_update": "2024-06-02T22:46:41Z",
-            "enriched_at": "2026-06-13T13:54:49.891402723Z"
+            "enriched_at": "2026-06-14T15:47:20.276779687Z"
           }
         },
         {
@@ -29601,7 +29601,7 @@
             "stars": 27,
             "is_archived": false,
             "last_update": "2022-08-25T21:12:44Z",
-            "enriched_at": "2026-06-13T13:54:50.065639129Z"
+            "enriched_at": "2026-06-14T15:47:20.427326137Z"
           }
         },
         {
@@ -29667,7 +29667,7 @@
             "stars": 39,
             "is_archived": false,
             "last_update": "2017-09-23T14:04:04Z",
-            "enriched_at": "2026-06-13T13:54:50.224614569Z"
+            "enriched_at": "2026-06-14T15:47:20.572117585Z"
           }
         },
         {
@@ -29791,10 +29791,10 @@
               "description": "Golang ebook intro how to build a web app with golang.",
               "url": "https://github.com/astaxie/build-web-application-with-golang",
               "repo_metadata": {
-                "stars": 43919,
+                "stars": 43917,
                 "is_archived": false,
                 "last_update": "2024-05-12T00:47:46Z",
-                "enriched_at": "2026-06-13T13:54:50.401100046Z"
+                "enriched_at": "2026-06-14T15:47:20.720185529Z"
               }
             },
             {
@@ -29830,7 +29830,7 @@
                 "stars": 131,
                 "is_archived": false,
                 "last_update": "2023-03-12T01:51:59Z",
-                "enriched_at": "2026-06-13T13:54:50.563162917Z"
+                "enriched_at": "2026-06-14T15:47:20.946751522Z"
               }
             },
             {
@@ -29851,7 +29851,7 @@
                 "stars": 8800,
                 "is_archived": false,
                 "last_update": "2023-11-08T10:46:16Z",
-                "enriched_at": "2026-06-13T13:54:50.825808836Z"
+                "enriched_at": "2026-06-14T15:47:21.154371889Z"
               }
             },
             {
@@ -29867,7 +29867,7 @@
                 "stars": 162,
                 "is_archived": false,
                 "last_update": "2026-04-04T08:37:33Z",
-                "enriched_at": "2026-06-13T13:54:51.108879433Z"
+                "enriched_at": "2026-06-14T15:47:21.390092619Z"
               }
             },
             {
@@ -29890,10 +29890,10 @@
               "description": "Clean Architecture template for Golang services.",
               "url": "https://github.com/evrone/go-clean-template",
               "repo_metadata": {
-                "stars": 7593,
+                "stars": 7594,
                 "is_archived": false,
                 "last_update": "2026-06-11T09:03:00Z",
-                "enriched_at": "2026-06-13T13:54:51.297690929Z"
+                "enriched_at": "2026-06-14T15:47:21.56715503Z"
               }
             },
             {
@@ -29901,10 +29901,10 @@
               "description": "Curated list of Go design patterns, recipes and idioms.",
               "url": "https://github.com/tmrts/go-patterns",
               "repo_metadata": {
-                "stars": 28043,
+                "stars": 28050,
                 "is_archived": false,
                 "last_update": "2024-05-14T01:07:28Z",
-                "enriched_at": "2026-06-13T13:54:51.453992534Z"
+                "enriched_at": "2026-06-14T15:47:21.702749971Z"
               }
             },
             {
@@ -29915,7 +29915,7 @@
                 "stars": 4772,
                 "is_archived": true,
                 "last_update": "2023-02-02T11:21:08Z",
-                "enriched_at": "2026-06-13T13:54:51.618285781Z"
+                "enriched_at": "2026-06-14T15:47:21.824292605Z"
               }
             },
             {
@@ -29931,7 +29931,7 @@
                 "stars": 1692,
                 "is_archived": false,
                 "last_update": "2026-05-03T10:52:19Z",
-                "enriched_at": "2026-06-13T13:54:51.802383668Z"
+                "enriched_at": "2026-06-14T15:47:21.964770447Z"
               }
             },
             {
@@ -29972,7 +29972,7 @@
                 "stars": 84,
                 "is_archived": false,
                 "last_update": "2024-07-18T03:13:29Z",
-                "enriched_at": "2026-06-13T13:54:51.988344974Z"
+                "enriched_at": "2026-06-14T15:47:22.141227267Z"
               }
             },
             {
@@ -30003,7 +30003,7 @@
                 "stars": 20055,
                 "is_archived": false,
                 "last_update": "2025-06-24T23:03:52Z",
-                "enriched_at": "2026-06-13T13:54:52.161480276Z"
+                "enriched_at": "2026-06-14T15:47:22.281256605Z"
               }
             },
             {
@@ -30011,10 +30011,10 @@
               "description": "Learn Go with test-driven development.",
               "url": "https://github.com/quii/learn-go-with-tests",
               "repo_metadata": {
-                "stars": 23694,
+                "stars": 23700,
                 "is_archived": false,
                 "last_update": "2026-05-09T07:03:31Z",
-                "enriched_at": "2026-06-13T13:54:52.343019164Z"
+                "enriched_at": "2026-06-14T15:47:22.440754482Z"
               }
             },
             {
@@ -30078,10 +30078,10 @@
               "description": "A GitHub repository offering coding challenges for Go technical interview preparation.",
               "url": "https://github.com/RezaSi/go-interview-practice",
               "repo_metadata": {
-                "stars": 2370,
+                "stars": 2375,
                 "is_archived": false,
                 "last_update": "2026-06-12T12:54:47Z",
-                "enriched_at": "2026-06-13T13:54:52.520764606Z"
+                "enriched_at": "2026-06-14T15:47:22.574924719Z"
               }
             },
             {
