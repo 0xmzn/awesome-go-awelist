@@ -3096,29 +3096,29 @@ Where to discover new Go libraries.
 
 * [A Go Developer's Notebook](https://leanpub.com/GoNotebook/read) - 
 * [An Introduction to Programming in Go](http://www.golang-book.com/) - 
-* [Build a blockchain from scratch in Go with gRPC](https://github.com/volodymyrprokopyuk/go-blockchain) / ⭐ 541 - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
+* [Build a blockchain from scratch in Go with gRPC](https://github.com/volodymyrprokopyuk/go-blockchain) / ⭐ 542 - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
 * [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - 
 * [Building Web Apps With Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/) - 
 * [Go 101](https://go101.org) - A book focusing on Go syntax/semantics and all kinds of details.
-* [Go AST Book (Chinese)](https://github.com/chai2010/go-ast-book) / ⭐ 5509 - A book focusing on Go go/* packages.
+* [Go AST Book (Chinese)](https://github.com/chai2010/go-ast-book) / ⭐ 5508 - A book focusing on Go go/* packages.
 * [Go Faster](https://leanpub.com/gofaster) - This book seeks to shorten your learning curve and help you become a proficient Go programmer, faster.
 * [Go Succinctly](https://github.com/thedevsir/gosuccinctly) / ⭐ 23 - in Persian.
 * [Go with the domain](https://threedots.tech/go-with-the-domain/) - A book showing how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
-* [GoBooks](https://github.com/dariubs/GoBooks) / ⭐ 19500 - A curated list of Go books.
+* [GoBooks](https://github.com/dariubs/GoBooks) / ⭐ 19502 - A curated list of Go books.
 * [How To Code in Go eBook](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - A 600 page introduction to Go aimed at first time developers.
 * [Learning Go](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf) - 
 * [Network Programming With Go](https://jan.newmarch.name/golang/) - 
 * [Practical Go Lessons](https://www.practical-go-lessons.com/) - 
 * [Spaceship Go A Journey to the Standard Library](https://blasrodri.github.io/spaceship-go-gh-pages/) - 
 * [The Go Programming Language](https://www.gopl.io/) - 
-* [The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) / ⭐ 9552 - 
+* [The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) / ⭐ 9551 - 
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book) / ⭐ 2331 - 
 * [Web Application with Go the Anti-Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) / ⭐ 3245 - 
 
 ---
 ## Gophers
 
-* [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) / ⭐ 3953 - Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster.
+* [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) / ⭐ 3951 - Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster.
 * [Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) / ⭐ 75 - Go gopher Vector Data [.ai, .svg].
 * [gopher-logos](https://github.com/GolangUA/gopher-logos) / ⭐ 140 - adorable gopher logos.
 * [gopher-stickers](https://github.com/tenntenn/gopher-stickers) / ⭐ 607 - 
@@ -3230,8 +3230,8 @@ Add the group of your city/country here (send PR)
 
 * [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
 * [Awesome Golang Workshops](https://github.com/amit-davidson/awesome-golang-workshops) / ⭐ 523 - A curated list of awesome golang workshops.
-* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) / ⭐ 46347 - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) / ⭐ 33483 - List of other amazingly awesome lists.
+* [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) / ⭐ 46364 - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) / ⭐ 33487 - List of other amazingly awesome lists.
 * [awesome-go-extra](https://github.com/xwjdsh/awesome-go-extra) / ⭐ 27 - Parse awesome-go README file and generate a new README file with repo info.
 * [Code with Mukesh](https://codewithmukesh.com/categories/golang) - Software Engineer and Blogs @ codewithmukesh.com.
 * [Coding Mystery](https://codingmystery.com) - Solve exciting escape-room-inspired programming challenges using Go.
@@ -3269,7 +3269,7 @@ Add the group of your city/country here (send PR)
 * [A Guide to Golang E-Commerce](https://snipcart.com/blog/golang-ecommerce-ponzu-cms-demo?utm_term=golang-ecommerce-ponzu-cms-demo) - Building a Golang site for e-commerce (demo included).
 * [A Tour of Go](https://tour.golang.org/) - Interactive tour of Go.
 * [Build a Database in 1000 lines of code](https://link.medium.com/O9YQlx89Htb) - Build a NoSQL Database From Zero in 1000 Lines of Code.
-* [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang) / ⭐ 43919 - Golang ebook intro how to build a web app with golang.
+* [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang) / ⭐ 43917 - Golang ebook intro how to build a web app with golang.
 * [Building and Testing a REST API in Go with Gorilla Mux and PostgreSQL](https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql) - We’ll write an API with the help of the powerful Gorilla Mux.
 * [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin) - Get familiar with Gin and find out how it can help you reduce boilerplate code and build a request handling pipeline.
 * [Caching Slow Database Queries](https://medium.com/@rocketlaunchr.cloud/caching-slow-database-queries-1085d308a0c9) - How to cache slow database queries.
@@ -3284,8 +3284,8 @@ Add the group of your city/country here (send PR)
 * [Go Language Tutorial](https://www.javatpoint.com/go-tutorial) - Learn Go language Tutorial.
 * [Go Tutorial](https://www.tutorialspoint.com/go/index.htm) - Learn Go programming.
 * [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/) - Building a Simple Calculator
-* [go-clean-template](https://github.com/evrone/go-clean-template) / ⭐ 7593 - Clean Architecture template for Golang services.
-* [go-patterns](https://github.com/tmrts/go-patterns) / ⭐ 28043 - Curated list of Go design patterns, recipes and idioms.
+* [go-clean-template](https://github.com/evrone/go-clean-template) / ⭐ 7594 - Clean Architecture template for Golang services.
+* [go-patterns](https://github.com/tmrts/go-patterns) / ⭐ 28050 - Curated list of Go design patterns, recipes and idioms.
 * [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) / ⭐ 4772 - Examples of Golang compared to Node.js for learning.
 * [Golang Tutorial Guide](https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/) - A List of Free Courses to Learn the Go Programming Language.
 * [golang-examples](https://github.com/SimonWaldherr/golang-examples) / ⭐ 1692 - Many examples to learn Golang.
@@ -3301,7 +3301,7 @@ Add the group of your city/country here (send PR)
 * [How to Implement Role-Based Access Control (RBAC) Authorization in Golang](https://www.permit.io/blog/role-based-access-control-rbac-authorization-in-golang) - A guide to implementing Role-Based Access Control (RBAC) in Golang, including code examples, covering various methods to secure app endpoints with role-based authorization.
 * [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go) - Get started with Godog - a Behavior-driven development framework for building and testing Go applications.
 * [Learn Go with 1000+ Exercises](https://github.com/inancgumus/learngo) / ⭐ 20055 - Learn Go with thousands of examples, exercises, and quizzes.
-* [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) / ⭐ 23694 - Learn Go with test-driven development.
+* [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) / ⭐ 23700 - Learn Go with test-driven development.
 * [Learning Go by examples](https://dev.to/aurelievache/learning-go-by-examples-introduction-448n) - Series of articles in order to learn Golang language by concrete applications as example.
 * [Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) - Dive deep into building microservices using Go, including gRPC.
 * [package main](https://www.youtube.com/packagemain) - YouTube channel about Programming in Go.
@@ -3314,7 +3314,7 @@ Add the group of your city/country here (send PR)
 ### Guided Learning
 
 * [The Go Developer Roadmap](https://roadmap.sh/golang) - A visual roadmap that new Go developers can follow through to help them learn Go.
-* [The Go Interview Practice](https://github.com/RezaSi/go-interview-practice) / ⭐ 2370 - A GitHub repository offering coding challenges for Go technical interview preparation.
+* [The Go Interview Practice](https://github.com/RezaSi/go-interview-practice) / ⭐ 2375 - A GitHub repository offering coding challenges for Go technical interview preparation.
 * [The Go Learning Path](https://tutorialedge.net/paths/golang/) - A guided learning path containing a mix of free and premium resources.
 * [The Go Skill Tree](https://labex.io/skilltrees/go) - A structured learning path that combines both free and premium resources.
 
