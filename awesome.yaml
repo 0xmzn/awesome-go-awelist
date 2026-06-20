@@ -21,29 +21,93 @@
 - title: Artificial Intelligence
   description: Libraries for building programs that leverage AI.
   links:
+  - title: AegisFlow
+    description: AI gateway for routing, securing, and monitoring LLM traffic across
+      10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts,
+      real-time dashboard.
+    url: https://github.com/saivedant169/AegisFlow
+  - title: Aetheris
+    description: AI Agent execution runtime with event sourcing, checkpoint recovery,
+      and At-Most-Once execution guarantee. Written in Go.
+    url: https://github.com/Colin4k1024/Aetheris
+  - title: agent-sdk-go
+    description: Go SDK for building durable AI agents on Temporal with support for
+      tools, MCP, human approvals, and sub-agent delegation.
+    url: https://github.com/agenticenv/agent-sdk-go
+  - title: ai
+    description: A Go toolkit for building AI agents and applications across multiple
+      providers with unified LLM, embeddings, tool calling, and MCP integration.
+    url: https://github.com/joakimcarlsson/ai
   - title: chromem-go
     description: Embeddable vector database for Go with Chroma-like interface and
       zero third-party dependencies. In-memory with optional persistence.
     url: https://github.com/philippgille/chromem-go
+  - title: dakera-go
+    description: Official Go client SDK for the Dakera self-hosted agent memory server,
+      providing typed interfaces for memory store/recall, session management, namespace
+      operations, and decay configuration.
+    url: https://github.com/dakera-ai/dakera-go
   - title: fun
     description: The simplest but powerful way to use large language models (LLMs)
       in Go.
     url: https://gitlab.com/tozd/go/fun
+  - title: goai
+    description: Go SDK for building AI applications. One SDK, 20+ providers. Inspired
+      by Vercel AI SDK.
+    url: https://github.com/zendev-sh/goai
+  - title: hotplex
+    description: AI Agent runtime engine with long-lived sessions for Claude Code,
+      OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform
+      integrations, and secure sandbox.
+    url: https://github.com/hrygo/hotplex
   - title: langchaingo
     description: LangChainGo is a framework for developing applications powered by
       language models.
     url: https://github.com/tmc/langchaingo
+  - title: langgraphgo
+    description: A Go library for building stateful, multi-actor applications with
+      LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures.
+    url: https://github.com/smallnest/langgraphgo
   - title: LocalAI
     description: Open Source OpenAI alternative, self-host AI models.
     url: https://github.com/mudler/LocalAI
+  - title: localaik
+    description: LocalStack-style local emulation of OpenAI and Gemini APIs; single
+      Docker container, llama.cpp + Gemma 3 backend.
+    url: https://github.com/harshaneel/localaik
+  - title: mcp-go
+    description: Go implementation of the Model Context Protocol for building MCP
+      servers and clients in Go.
+    url: https://github.com/mark3labs/mcp-go
   - title: Ollama
     description: Run large language models locally.
     url: https://github.com/jmorganca/ollama
   - title: OllamaFarm
     description: Manage, load-balance, and failover packs of Ollamas.
     url: https://github.com/presbrey/ollamafarm
+  - title: otellix
+    description: OpenTelemetry-native LLM observability and budget guardrails for
+      cost-constrained production environments.
+    url: https://github.com/oluwajubelo1/otellix
+  - title: routex
+    description: YAML-driven multi-agent AI runtime for Go with Erlang-style supervision,
+      MCP tool server support, and a CLI.
+    url: https://github.com/Ad3bay0c/routex
+  - title: trpc-agent-go
+    description: Framework for building LLM-based multi-agent systems.
+    url: https://github.com/trpc-group/trpc-agent-go
+  - title: web-researcher-mcp
+    description: MCP server providing AI assistants with web search, content extraction,
+      and multi-source research capabilities. Single binary, 5 search providers with
+      circuit-breaker failover, 4-tier scraping pipeline.
+    url: https://github.com/zoharbabin/web-researcher-mcp
+  - title: zenflow
+    description: Multi-agent orchestration & workflow engine. Declarative YAML workflows,
+      LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file,
+      one Go binary. Runs on any goai-supported provider.
+    url: https://github.com/zendev-sh/zenflow
 - title: Audio and Music
-  description: Libraries for manipulating audio.
+  description: Libraries for manipulating audio and music.
   links:
   - title: beep
     description: A simple library for playback and audio manipulation.
@@ -72,12 +136,19 @@
   - title: minimp3
     description: Lightweight MP3 decoder library.
     url: https://github.com/tosone/minimp3
+  - title: music-theory
+    description: Music theory models in Go.
+    url: https://github.com/go-music-theory/music-theory
   - title: Oto
     description: A low-level library to play sound on multiple platforms.
     url: https://github.com/hajimehoshi/oto
   - title: PortAudio
     description: Go bindings for the PortAudio audio I/O library.
     url: https://github.com/gordonklaus/portaudio
+  - title: voxrai-ai
+    description: AI voice agents with a JSON configuration,  STT → LLM → TTS pipelines
+      over WebSocket and WebRTC
+    url: https://github.com/Voxray-AI/Voxray
 - title: Authentication and Authorization
   description: Libraries for implementing authentication and authorization.
   links:
@@ -87,6 +158,11 @@
       new web project in Go, you can plug it in, configure it, and start building
       your app without having to build an authentication system each time.
     url: https://github.com/volatiletech/authboss
+  - title: authgate
+    description: A lightweight OAuth 2.0 Authorization Server supporting Device Authorization
+      Grant (RFC 8628), Authorization Code Flow with PKCE (RFC 6749 + RFC 7636), and
+      Client Credentials Grant for machine-to-machine authentication.
+    url: https://github.com/go-authgate/authgate
   - title: branca
     description: branca token specification implementation for Golang 1.15+.
     url: https://github.com/essentialkaos/branca
@@ -114,6 +190,9 @@
     description: Fairly complete implementation of the JOSE working group's JSON Web
       Token, JSON Web Signatures, and JSON Web Encryption specs.
     url: https://github.com/go-jose/go-jose
+  - title: go-jwt
+    description: A JWT (JSON Web Token) library for Go.
+    url: https://github.com/deatil/go-jwt
   - title: go-jwt
     description: JWT authentication package providing access tokens and refresh tokens
       with fingerprinting, Redis storage, and automatic refresh capabilities.
@@ -273,6 +352,10 @@
       in any programming language into a Byzantine Fault Tolerant replicated state
       machine using the Tendermint consensus and blockchain protocols.
     url: https://github.com/tendermint/tendermint
+  - title: tronlib
+    description: A comprehensive, production-ready Go SDK for interacting with the
+      TRON blockchain with TRC20 token support.
+    url: https://github.com/kslamph/tronlib
 - title: Bot Building
   description: Libraries for building and working with bots.
   links:
@@ -318,10 +401,21 @@
   - title: telegram-bot-api
     description: Simple and clean Telegram bot client.
     url: https://github.com/go-telegram-bot-api/telegram-bot-api
+  - title: TG
+    description: Telegram Bot Framework for Go.
+    url: https://github.com/enetx/tg
   - title: wayback
     description: A bot for Telegram, Mastodon, Slack, and other messaging platforms
       archives webpages.
     url: https://github.com/wabarc/wayback
+  - title: ymsdk
+    description: Go SDK for Yandex Messenger Bot API with type-safe models, automatic
+      retry, and rate-limit handling.
+    url: https://github.com/rekurt/ymsdk
+  - title: Wisp
+    description: Event-driven trading framework for Go. Spot, perpetual futures, prediction
+      markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
+    url: https://github.com/wisp-trading/wisp
 - title: Build Automation
   description: Libraries and tools help with build automation.
   links:
@@ -357,6 +451,10 @@
     description: Go build a system with file watchers and live to reload. Run, build
       and watch file changes with custom paths.
     url: https://github.com/tockins/realize
+  - title: rex
+    description: Zero-config universal project runner. Detects your stack (Go, Node,
+      Python, Rust, PHP, Zig, Elixir) and runs the right command.
+    url: https://github.com/rexrun-dev/rex
   - title: Task
     description: simple "Make" alternative.
     url: https://github.com/go-task/task
@@ -379,8 +477,8 @@
       description: ANSI terminal colors that support fmt.Printf/Sprintf.
       url: https://github.com/logrusorgru/aurora
     - title: box-cli-maker
-      description: Make Highly Customized Boxes for your CLI.
-      url: https://github.com/Delta456/box-cli-maker
+      description: Render highly customizable boxes in the terminal.
+      url: https://github.com/box-cli-maker/box-cli-maker
     - title: bubble-table
       description: An interactive table component for bubbletea.
       url: https://github.com/Evertras/bubble-table
@@ -390,6 +488,10 @@
     - title: bubbletea
       description: Go framework to build terminal apps, based on The Elm Architecture.
       url: https://github.com/charmbracelet/bubbletea
+    - title: chroma16
+      description: Generate a harmonious 16-color terminal palette from a single seed
+        color or string.
+      url: https://github.com/arceus-7/chroma16
     - title: crab-config-files-templating
       description: Dynamic configuration file templating tool for kubernetes manifest
         or general configuration files.
@@ -432,16 +534,26 @@
       description: Terminal color rendering tool library, support 16 colors, 256 colors,
         RGB color rendering output, compatible with Windows.
       url: https://github.com/gookit/color
+    - title: lazyenv
+      description: TUI for browsing, comparing, and editing .env files.
+      url: https://github.com/lazynop/lazyenv
     - title: lipgloss
       description: Declaratively define styles for color, format and layout in the
         terminal.
       url: https://github.com/charmbracelet/lipgloss
+    - title: loom
+      description: Signal-based reactive components framework for building TUIs.
+      url: https://github.com/loom-go/loom
     - title: marker
       description: Easiest way to match and mark strings for colorful terminal outputs.
       url: https://github.com/cyucelen/marker
     - title: mpb
       description: Multi progress bar for terminal applications.
       url: https://github.com/vbauerster/mpb
+    - title: phoenix
+      description: High-performance TUI framework with Elm-inspired architecture,
+        perfect Unicode rendering, and zero-allocation event system.
+      url: https://github.com/phoenix-tui/phoenix
     - title: progressbar
       description: Basic thread-safe progress bar that works in every OS.
       url: https://github.com/schollz/progressbar
@@ -485,6 +597,10 @@
     - title: yacspin
       description: Yet Another CLi Spinner package, for working with terminal spinners.
       url: https://github.com/theckman/yacspin
+    - title: goscaf
+      description: goscaf generates opinionated, production-quality Go project boilerplate
+        via an interactive CLI. Stop copy-pasting skeleton code between projects.
+      url: https://github.com/iyashjayesh/goscaf
   - title: Standard CLI
     description: Libraries for building standard or basic Command Line applications.
     links:
@@ -498,6 +614,10 @@
       description: Go library to split command line string as arguments array using
         the bash syntax.
       url: https://github.com/cosiner/argv
+    - title: boa
+      description: Declarative flags, env vars, validation, and config files from
+        struct tags. Built on cobra.
+      url: https://github.com/GiGurra/boa
     - title: carapace
       description: Command argument completion generator for spf13/cobra.
       url: https://github.com/rsteube/carapace
@@ -534,9 +654,6 @@
     - title: complete
       description: Write bash completions in Go + Go command bash completion.
       url: https://github.com/posener/complete
-    - title: console
-      description: ''
-      url: https://github.com/reeflective/console
     - title: Dnote
       description: A simple command line notebook with multi-device sync.
       url: https://github.com/dnote/dnote
@@ -602,6 +719,10 @@
     - title: mcli
       description: A minimal but very powerful cli library for Go.
       url: https://github.com/jxskiss/mcli
+    - title: memsh
+      description: 'Virtual bash shell in Go: executes shell commands against an in-memory
+        filesystem (afero), with WASM plugin support and an embeddable HTTP server.'
+      url: https://github.com/amjadjibon/memsh
     - title: mkideal/cli
       description: Feature-rich and easy to use command-line package based on golang
         struct tags.
@@ -610,6 +731,9 @@
       description: Go library for building CLI applications with sophisticated flag
         and argument parsing and validation.
       url: https://github.com/jawher/mow.cli
+    - title: neuron-cli
+      description: A local-first, Obsidian-compatible terminal knowledge manager.
+      url: https://github.com/steevin/neuron-cli
     - title: ops
       description: Unikernel Builder/Orchestrator.
       url: https://github.com/nanovms/ops
@@ -689,6 +813,10 @@
     description: configure your app using file, environment variables, or flags in
       two lines of code.
     url: https://github.com/num30/config
+  - title: config
+    description: Struct-based configuration loader with a dedicated config file parser,
+      supporting env vars, flags, defaults, and validation.
+    url: https://github.com/andreiavrammsd/config
   - title: configuration
     description: Library for initializing configuration structs from env variables,
       files, flags and 'default' tag.
@@ -748,6 +876,18 @@
     description: Go package that fetches parameters from AWS System Manager - Parameter
       Store.
     url: https://github.com/PaddleHQ/go-aws-ssm
+  - title: go-external-config
+    description: Spring-inspired configuration management library for Go.
+    url: https://github.com/go-external-config/go
+  - title: go-external-config/aws
+    description: AWS property source support for go-external-config.
+    url: https://github.com/go-external-config/aws
+  - title: go-external-config/consul
+    description: Consul property source support for go-external-config.
+    url: https://github.com/go-external-config/consul
+  - title: go-external-config/vault
+    description: Vault property source support for go-external-config.
+    url: https://github.com/go-external-config/vault
   - title: go-cfg
     description: The library provides a unified way to read configuration data into
       a structure from various sources, such as env, flags, and configuration files
@@ -776,6 +916,10 @@
     description: Config manager with Struct Tags based contracts, custom value providers,
       parsers, and documentation generation. Customizable yet simple.
     url: https://github.com/Jagerente/gocfg
+  - title: goconfig
+    description: Populate Go structs from flags, environment variables, config.json
+      and defaults with deterministic precedence. No extra dependencies.
+    url: https://github.com/fulldump/goconfig
   - title: godotenv
     description: Go port of Ruby's dotenv library (Loads environment variables from
       .env).
@@ -933,6 +1077,10 @@
   - title: overalls
     description: Multi-Package go project coverprofile for tools like goveralls.
     url: https://github.com/go-playground/overalls
+  - title: PikoCI
+    description: Self-hosted CI/CD inspired by Concourse. Single binary, any database,
+      any queue. HCL pipelines, pluggable resource types and runners.
+    url: https://github.com/pikoci/pikoci
   - title: roveralls
     description: Recursive coverage testing tool.
     url: https://github.com/LawrenceWoodman/roveralls
@@ -958,6 +1106,9 @@
     description: A high-performance ELT data integration framework with pluggable
       architecture.
     url: http://github.com/cloudquery/cloudquery
+  - title: confluence2md
+    description: Confluence to Markdown crawler and converter.
+    url: https://github.com/gkoos/confluence2md
   - title: omniparser
     description: A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc)
       in streaming fashion and transforms data into JSON output using data-driven
@@ -1023,6 +1174,10 @@
       description: 'Cuckoo filter: a good alternative to a counting bloom filter implemented
         in Go.'
       url: https://github.com/seiflotfy/cuckoofilter
+    - title: ribbonGo
+      description: First pure Go implementation of Ribbon filters (practically smaller
+        than Bloom and Xor) for space-efficient approximate set membership queries.
+      url: https://github.com/RibbonFilter/ribbonGo
     - title: ring
       description: Go implementation of a high performance, thread safe bloom filter.
       url: https://github.com/TheTannerRyan/ring
@@ -1054,9 +1209,8 @@
       description: Go implementation of C++ STL iterators and algorithms.
       url: https://github.com/disksing/iter
   - title: Maps
-    description: 'See also Database for more complex key-value stores, and Trees for
-
-      additional ordered map implementations.'
+    description: See also Database for more complex key-value stores, and Trees for
+      additional ordered map implementations.
     links:
     - title: cmap
       description: a thread-safe concurrent map for go, support using interface{}
@@ -1083,6 +1237,10 @@
       url: https://github.com/lyonnee/hmap
   - title: Miscellaneous Data Structures and Algorithms
     links:
+    - title: combo
+      description: Combinatorial operations including permutations, combinations,
+        and combinations-with-replacement.
+      url: https://github.com/bobg/combo
     - title: concurrent-writer
       description: Highly concurrent drop-in replacement for bufio.Writer.
       url: https://github.com/free/concurrent-writer
@@ -1090,6 +1248,9 @@
       description: 'Go implementation Count-Min-Log sketch: Approximately counting
         with approximate counters (Like Count-Min sketch but using less memory).'
       url: https://github.com/seiflotfy/count-min-log
+    - title: FSM
+      description: FSM for Go.
+      url: https://github.com/enetx/fsm
     - title: fsm
       description: Finite-State Machine package.
       url: https://github.com/cocoonspace/fsm
@@ -1154,6 +1315,10 @@
       url: https://github.com/gurukami/typ
   - title: Queues
     links:
+    - title: deheap
+      description: Doubly-ended heap (min-max heap) with O(log n) access to both minimum
+        and maximum elements.
+      url: https://github.com/aalpar/deheap
     - title: deque
       description: A highly optimized double-ended queue.
       url: https://github.com/edwingeng/deque
@@ -1225,6 +1390,9 @@
     - title: ptrie
       description: An implementation of prefix tree.
       url: https://github.com/viant/ptrie
+    - title: radixtree
+      description: Adaptive radix tree (prefix-tree or compact-trie).
+      url: https://github.com/gammazero/radixtree
     - title: trie
       description: Trie implementation in Go.
       url: https://github.com/derekparker/trie
@@ -1314,9 +1482,6 @@
       description: A flexible multi-layer Go caching library to deal with in-memory
         and shared cache by adopting Cache-Aside pattern.
       url: https://github.com/viney-shih/go-cache
-    - title: go-freelru
-      description: ''
-      url: https://github.com/elastic/go-freelru
     - title: go-gcache
       description: The generic version of GCache, cache support for expirable Cache,
         LFU, LRU and ARC.
@@ -1468,6 +1633,10 @@
     - title: lotusdb
       description: Fast k/v database compatible with lsm and b+tree.
       url: https://github.com/flower-corp/lotusdb
+    - title: lynxdb
+      description: Lightweight columnar log analytics database with a pipe-style query
+        language inspired by SPL.
+      url: https://github.com/lynxbase/lynxdb
     - title: Milvus
       description: Milvus is a vector database for embedding management, analytics
         and search.
@@ -1475,9 +1644,18 @@
     - title: moss
       description: Moss is a simple LSM key-value storage engine written in 100% Go.
       url: https://github.com/couchbase/moss
+    - title: nanotdb
+      description: A lightweight, zero-dependency, append-only Time-Series Database
+        and Dashboard optimized for low-power hardware.
+      url: https://github.com/aymanhs/nanotdb
     - title: NoKV
-      description: High-performance distributed KV storage based on LSM Tree.
+      description: Native metadata service for distributed filesystems, object storage,
+        and AI dataset workloads.
       url: https://github.com/feichai0017/NoKV
+    - title: NornicDB
+      description: High performance graph + vector database (Neo4j and qDrant compatible),
+        focused on low latency graph-rag retreival for AI systems.
+      url: https://github.com/orneryd/NornicDB
     - title: nutsdb
       description: Nutsdb is a simple, fast, embeddable, persistent key/value store
         written in pure Go. It supports fully serializable transactions and many data
@@ -1537,6 +1715,9 @@
       description: fast, resource-effective and scalable open source time series database.
         May be used as long-term remote storage for Prometheus. Supports PromQL.
       url: https://github.com/VictoriaMetrics/VictoriaMetrics
+    - title: minisql
+      description: Embedded single file SQL database.
+      url: https://github.com/RichardKnop/minisql
   - title: Database Schema Migration
     links:
     - title: atlas
@@ -1643,9 +1824,17 @@
     - title: go-mysql
       description: Go toolset to handle MySQL protocol and replication.
       url: https://github.com/siddontang/go-mysql
+    - title: go-postgres-s3-backup
+      description: Serverless PostgreSQL backups to S3 using AWS Lambda, with daily,
+        monthly, and yearly rotation.
+      url: https://github.com/nicobistolfi/go-postgres-s3-backup
     - title: gorm-multitenancy
       description: Multi-tenancy support for GORM managed databases.
       url: https://github.com/bartventer/gorm-multitenancy
+    - title: GoSQLX
+      description: High-performance SQL parser, formatter, linter, and security scanner
+        with multi-dialect support and WASM playground.
+      url: https://github.com/ajitpratap0/GoSQLX
     - title: hasql
       description: Library for accessing multi-host SQL database installations.
       url: https://golang.yandex/hasql
@@ -1660,9 +1849,15 @@
     - title: pg_timetable
       description: Advanced scheduling for PostgreSQL.
       url: https://github.com/cybertec-postgresql/pg_timetable
+    - title: pgrwl
+      description: Cloud-native continuous backup for PostgreSQL.
+      url: https://github.com/pgrwl/pgrwl
     - title: pgweb
       description: Web-based PostgreSQL database browser.
       url: https://github.com/sosedoff/pgweb
+    - title: pgxcli
+      description: PostgreSQL CLI client written in Go, inspired by pgcli.
+      url: https://github.com/Balaji01-4D/pgxcli
     - title: prep
       description: Use prepared SQL statements without changing your code.
       url: https://github.com/hexdigest/prep
@@ -1746,6 +1941,11 @@
     - title: qry
       description: Tool that generates constants from files with raw SQL queries.
       url: https://github.com/HnH/qry
+    - title: relica
+      description: Type-safe database query builder with zero production dependencies,
+        LRU statement cache, batch operations, and support for JOINs, subqueries,
+        CTEs, and window functions.
+      url: https://github.com/coregx/relica
     - title: sg
       description: 'A SQL Gen for generating standard SQLs(supports: CRUD) written
         in Go.'
@@ -1759,6 +1959,10 @@
     - title: sqlf
       description: Fast SQL query builder.
       url: https://github.com/leporo/sqlf
+    - title: sqlh
+      description: Zero-boilerplate SQL helper with struct tags and Go generics (CRUD,
+        UPSERT, JOIN, benchmarks).
+      url: https://github.com/kirill-scherba/sqlh
     - title: sqlingo
       description: A lightweight DSL to build SQL in Go.
       url: https://github.com/lqs/sqlingo
@@ -1800,6 +2004,10 @@
         Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL,
         MongoDB, CockroachDB and many more).
       url: https://github.com/philippgille/gokv
+    - title: transactor
+      description: Type-safe transaction boundary abstraction with adapters for database/sql,
+        sqlx, and pgx.
+      url: https://github.com/metalfm/transactor
   - title: Relational Database Drivers
     links:
     - title: avatica
@@ -2034,6 +2242,10 @@
     description: Parse dates/times like "next dec 22nd at 3pm" and ranges like "from
       today until next thursday" without knowing the format in advance.
     url: https://github.com/ijt/go-anytime
+  - title: go-date-fns
+    description: A comprehensive date utility library for Go, inspired by date-fns,
+      with 140+ pure and immutable functions.
+    url: https://github.com/chmenegatti/go-date-fns
   - title: go-datebin
     description: A simple datetime parse pkg.
     url: https://github.com/deatil/go-datebin
@@ -2093,10 +2305,12 @@
   - title: capillaries
     description: distributed batch data processing framework.
     url: https://github.com/capillariesio/capillaries
-  - title: celeriac
-    description: Library for adding support for interacting and monitoring Celery
-      workers, tasks and events in Go.
-    url: https://github.com/svcavallar/celeriac.v1
+  - title: circuit
+    description: Circuit breaker with gradual recovery via probabilistic throttling.
+    url: https://github.com/schigh/circuit
+  - title: cmd-stream-go
+    description: High-performance distributed command pattern library for Go.
+    url: https://github.com/cmd-stream/cmd-stream-go
   - title: committer
     description: A distributed transactions management system (2PC/3PC implementation).
     url: https://github.com/vadiminshakov/committer
@@ -2202,6 +2416,9 @@
   - title: grpc-go
     description: The Go language implementation of gRPC. HTTP/2 based RPC.
     url: https://github.com/grpc/grpc-go
+  - title: health
+    description: Health checker for Go services with Kubernetes probe support.
+    url: https://github.com/schigh/health
   - title: hprose
     description: Very newbility RPC Library, support 25+ languages now.
     url: https://github.com/hprose/hprose-golang
@@ -2225,6 +2442,11 @@
   - title: liftbridge
     description: Lightweight, fault-tolerant message streams for NATS.
     url: https://github.com/liftbridge-io/liftbridge
+  - title: lock
+    description: Distributed lock family with one Go interface and five backends (filelock,
+      flock, Redis, Postgres, etcd) — fencing tokens, semaphore mode, and observability
+      hooks across all backends.
+    url: https://github.com/ubgo/lock
   - title: lura
     description: Ultra performant API Gateway framework with middlewares.
     url: https://github.com/luraproject/lura
@@ -2274,9 +2496,10 @@
     description: Realtime API Gateway for building REST, real time, and RPC APIs,
       where all clients are synchronized seamlessly.
     url: https://resgate.io/
-  - title: ringpop-go
-    description: Scalable, fault-tolerant application-layer sharding for Go applications.
-    url: https://github.com/uber/ringpop-go
+  - title: rpcplatform
+    description: Framework for microservices with service discovery, load balancing,
+      and related features.
+    url: https://github.com/nexcode/rpcplatform
   - title: rpcx
     description: Distributed pluggable RPC service framework like alibaba Dubbo.
     url: https://github.com/smallnest/rpcx
@@ -2342,6 +2565,10 @@
       address.
     url: https://github.com/dimuska139/go-email-normalizer
   - title: go-imap
+    description: Batteries-included IMAP client with auto-reconnect, OAuth2, IDLE
+      support, and built-in MIME parsing.
+    url: https://github.com/BrianLeishman/go-imap
+  - title: go-imap
     description: IMAP library for clients and servers.
     url: https://github.com/emersion/go-imap
   - title: go-mail
@@ -2396,6 +2623,10 @@
     description: Lightweight configurable multithreaded fake SMTP server. Mimic any
       SMTP behaviour for your test environment.
     url: https://github.com/mocktools/go-smtp-mock
+  - title: tickstem/verify
+    description: 'Validate email addresses before they hit your database: syntax,
+      MX lookup, disposable domains, and role-based inboxes.'
+    url: https://github.com/tickstem/verify
   - title: truemail-go
     description: Configurable Golang email validator/verifier. Verify email via Regex,
       DNS, SMTP and even more.
@@ -2433,6 +2664,9 @@
   - title: go-lua
     description: Port of the Lua 5.2 VM to pure Go.
     url: https://github.com/Shopify/go-lua
+  - title: go-lua
+    description: Lua 5.4 VM implemented in pure Go.
+    url: https://github.com/speedata/go-lua
   - title: go-php
     description: PHP bindings for Go.
     url: https://github.com/deuill/go-php
@@ -2523,6 +2757,10 @@
     description: A simple utility package for exception handling with try-catch in
       Golang.
     url: https://github.com/rbrahul/exception
+  - title: go-errr
+    description: Error handling library with Catch/Recover semantics, wrapped error
+      chains, and stack traces for Go.
+    url: https://github.com/go-errr/go
   - title: Falcon
     description: A Simple Yet Highly Powerful Package For Error Handling.
     url: https://github.com/SonicRoshan/falcon
@@ -2604,6 +2842,10 @@
     description: Simple and reliable package for file operations like copy/move/diff/list
       on files, directories and symbolic links.
     url: https://github.com/1set/gut
+  - title: gxpdf
+    description: Modern full-lifecycle PDF library for Go — parse, extract tables,
+      generate, and sign documents with zero CGO dependencies.
+    url: https://github.com/coregx/gxpdf
   - title: higgs
     description: A tiny cross-platform Go library to hide/unhide files and directories.
     url: https://github.com/dastoori/higgs
@@ -2631,8 +2873,8 @@
       ease.
     url: https://github.com/dixonwille/skywalker
   - title: todotxt
-    description: Go library for Gina Trapani's todo.txt files, supports parsing and
-      manipulating of task lists in the todo.txt format.
+    description: Go library for Gina Trapani's _todo.txt_ files, supports parsing
+      and manipulating of task lists in the _todo.txt_ format.
     url: https://github.com/1set/todotxt
   - title: vfs
     description: A pluggable, extensible, and opinionated set of filesystem functionality
@@ -2665,6 +2907,10 @@
     description: Arbitrary-precision fixed-point decimal numbers.
     url: https://github.com/shopspring/decimal
   - title: decimal
+    description: High performance 64-bit decimal partially compatible with shopspring/decimal
+      and int64, including Weight and Length.
+    url: https://github.com/aytechnet/decimal
+  - title: decimal
     description: Immutable decimal numbers with panic-free arithmetic.
     url: https://github.com/govalues/decimal
   - title: fpdecimal
@@ -2685,6 +2931,9 @@
   - title: go-money
     description: Implementation of Fowler's Money pattern.
     url: https://github.com/rhymond/go-money
+  - title: coinpaprika-api-go-client
+    description: Go client for the CoinPaprika cryptocurrency market data API.
+    url: https://github.com/coinpaprika/coinpaprika-api-go-client
   - title: go-nowpayments
     description: Library for the crypto NOWPayments API.
     url: https://github.com/matm/go-nowpayments
@@ -2692,6 +2941,10 @@
     description: Invoice and billing document framework. JSON Schema based. Automates
       tax calculations and validation, with tooling to convert into global formats.
     url: https://github.com/invopop/gobl
+  - title: indicator
+    description: Technical analysis library providing financial indicators, strategies,
+      and backtesting framework.
+    url: https://github.com/cinar/indicator
   - title: ledger
     description: A programmable financial ledger that provides a foundation for money-moving
       applications.
@@ -2800,6 +3053,9 @@
       stream operations on generic slices Go1.18+ with lazy evaluation and error handling
       mechanisms.
     url: https://github.com/koss-null/FuncFrog
+  - title: g
+    description: Functional programming framework for Go.
+    url: https://github.com/enetx/g
   - title: go-functional
     description: Functional programming in Go using generics
     url: https://github.com/BooleanCat/go-functional
@@ -2843,7 +3099,7 @@
     description: Go 3D Game Engine.
     url: https://github.com/g3n/engine
   - title: go-astar
-    description: Go implementation of the A* path finding algorithm.
+    description: Go implementation of the A\* path finding algorithm.
     url: https://github.com/beefsack/go-astar
   - title: go-sdl2
     description: Go bindings for the Simple DirectMedia Layer.
@@ -2851,6 +3107,20 @@
   - title: go3d
     description: Performance oriented 2D/3D math package for Go.
     url: https://github.com/ungerik/go3d
+  - title: gogpu
+    description: 'GPU application framework with windowing, input, and rendering built
+      on WebGPU — reduces 480+ lines of GPU code to ~20, zero CGO (GoGPU ecosystem:
+      gg, ui, wgpu, naga).'
+    url: https://github.com/gogpu/gogpu
+  - title: gogpu/wgpu
+    description: Pure Go WebGPU implementation with Vulkan, DX12, and Metal backends,
+      zero CGO (part of GoGPU ecosystem).
+    url: https://github.com/gogpu/wgpu
+  - title: GOKe
+    description: Data-Oriented (DOD), archetype-based ECS engine utilizing an L1 cache-aligned
+      chunked SoA layout for predictable, stepless memory growth and zero-allocation
+      execution paths.
+    url: https://github.com/kjkrol/goke
   - title: gonet
     description: Game server skeleton implemented with golang.
     url: https://github.com/xtaci/gonet
@@ -2917,6 +3187,10 @@
   - title: go-enum-encoding
     description: Code generation for enum encoding from code comments.
     url: https://github.com/nikolaydubina/go-enum-encoding
+  - title: go-apispec
+    description: Generate OpenAPI 3.1 specs from Go source code via static analysis
+      with automatic framework detection.
+    url: https://github.com/antst/go-apispec
   - title: go-linq
     description: .NET LINQ-like query methods for Go.
     url: https://github.com/ahmetalpbalkan/go-linq
@@ -2939,6 +3213,9 @@
     description: This package contains a set of utilities for generating Go boilerplate
       code for services based on OpenAPI 3.0 API definitions.
     url: https://github.com/deepmap/oapi-codegen
+  - title: protoc-gen-httpgo
+    description: Generate HTTP server and client from protobuf.
+    url: https://github.com/MUlt1mate/protoc-gen-httpgo
   - title: typeregistry
     description: A library to create type dynamically.
     url: https://github.com/xiaoxin01/typeregistry
@@ -2995,9 +3272,6 @@
   - title: Tile38
     description: Geolocation DB with spatial index and realtime geofencing.
     url: https://github.com/tidwall/tile38
-  - title: Web-Mercator-Projection
-    description: ''
-    url: https://github.com/jorelosorio/web-mercator-projection
   - title: WGS84
     description: Library for Coordinate Conversion and Transformation (ETRS89, OSGB36,
       NAD83, RGF93, Web Mercator, UTM).
@@ -3207,8 +3481,12 @@
     description: Goroutine pool that limits the concurrency of task execution, not
       the number of tasks queued.
     url: https://github.com/gammazero/workerpool
+  - title: autopool
+    description: Zero-config, auto-scaling worker pool for Go with priority-aware
+      scheduling.
+    url: https://github.com/AshvinBambhaniya/autopool
 - title: GUI
-  description: Interaction
+  description: Libraries for building GUI Applications.
   links:
   - title: app
     description: 'Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows
@@ -3248,6 +3526,10 @@
     description: Cross platform UI toolkit aggregator for Windows / Linux / Mac. GTK,
       Cocoa, Windows API
     url: https://bitbucket.org/rj/goey/src/master/
+  - title: gogpu/ui
+    description: GPU-accelerated GUI toolkit with 22 widgets, 3 design systems (Material,
+      Fluent, Cupertino), reactive signals, and zero CGO (part of GoGPU ecosystem).
+    url: https://github.com/gogpu/ui
   - title: goradd/html5tag
     description: Library for outputting HTML5 tags.
     url: https://github.com/goradd/html5tag
@@ -3258,6 +3540,9 @@
     description: Rapid and simple desktop UI development with GO, HTML, CSS and NW.js.
       Cross platform.
     url: https://github.com/dtylman/gowd
+  - title: proton
+    description: Pure Go immediate-mode GUI framework built on Gio with zero Cgo dependencies.
+    url: https://github.com/CzaxStudio/proton
   - title: qt
     description: Qt binding for Go (support for Windows / macOS / Linux / Android
       / iOS / Sailfish OS / Raspberry Pi).
@@ -3286,6 +3571,10 @@
   - title: AppIndicator Go
     description: Go bindings for libappindicator3 C library.
     url: https://github.com/gopherlibs/appindicator
+  - title: gogpu/systray
+    description: Pure Go system tray library for Windows, macOS, and Linux with zero
+      CGO (part of GoGPU ecosystem).
+    url: https://github.com/gogpu/systray
   - title: gosx-notifier
     description: OSX Desktop Notifications library for Go.
     url: https://github.com/deckarep/gosx-notifier
@@ -3336,6 +3625,10 @@
   - title: joystick
     description: a polled API to read the state of an attached joystick.
     url: https://github.com/0xcafed00d/joystick
+  - title: moody
+    description: Hardware event personality daemon for macOS. Monitors USB, charger,
+      lid, and other hardware events and responds with customizable personalities.
+    url: https://github.com/dinakars777/moody
   - title: sysinfo
     description: A pure Go library providing Linux OS / kernel / hardware system information.
     url: https://github.com/zcalusic/sysinfo
@@ -3395,6 +3688,10 @@
   - title: gocv
     description: Go package for computer vision using OpenCV 3.3+.
     url: https://github.com/hybridgroup/gocv
+  - title: gogpu/gg
+    description: GPU-accelerated 2D rendering with Canvas-like API, zero CGO (part
+      of GoGPU pure Go graphics ecosystem).
+    url: https://github.com/gogpu/gg
   - title: goimagehash
     description: Go Perceptual image hashing package.
     url: https://github.com/corona10/goimagehash
@@ -3548,6 +3845,11 @@
       at varying intervals, from once a second to once a year on a specific date and
       time. Primarily for web applications and long running daemons.
     url: https://github.com/rk/go-cron
+  - title: go-cron
+    description: Cron job scheduler with runtime schedule updates, per-entry context,
+      resilience middleware (retry, circuit breaker, rate limiting), and observability
+      hooks; successor to robfig/cron.
+    url: https://github.com/netresearch/go-cron
   - title: go-job
     description: A flexible and extensible job scheduling and execution library for
       Go.
@@ -3581,15 +3883,35 @@
   - title: leprechaun
     description: Job scheduler that supports webhooks, crons and classic scheduling.
     url: https://github.com/kilgaloon/leprechaun
+  - title: ofelia
+    description: Docker job scheduler (crontab for Docker); fork of mcuadros/ofelia
+      that adds a web UI, job dependencies, retries, and job persistence.
+    url: https://github.com/netresearch/ofelia
+  - title: pending
+    description: ID-based debounced task scheduler for deferred tasks with cancellation,
+      graceful shutdown, and optional concurrency limits.
+    url: https://github.com/kahoon/pending
   - title: sched
     description: A job scheduler with the ability to fast-forward time.
     url: https://github.com/romshark/sched
   - title: scheduler
     description: Cronjobs scheduling made easy.
     url: https://github.com/carlescere/scheduler
+  - title: scheduler
+    description: Go-native distributed job scheduler with delayed tasks, batched Redis
+      coordination, retries, lease-based recovery, and versioned queue partitioning.
+    url: https://github.com/yuseferi/scheduler
   - title: tasks
     description: An easy to use in-process scheduler for recurring tasks in Go.
     url: https://github.com/madflojo/tasks
+  - title: tickstem/cron
+    description: Go client for scheduling HTTP cron jobs, with execution history,
+      failure alerts, and tsk-local for testing handlers without live credentials.
+    url: https://github.com/tickstem/cron
+  - title: tickstem/heartbeat
+    description: 'Go client for dead-man''s switch heartbeat monitoring: ping a URL
+      after each job run and get alerted by email if pings stop arriving.'
+    url: https://github.com/tickstem/heartbeat
 - title: JSON
   description: Libraries for working with JSON.
   links:
@@ -3732,6 +4054,9 @@
 - title: Logging
   description: Libraries for generating and working with log files.
   links:
+  - title: caarlos0/log
+    description: Colorful CLI logger.
+    url: https://github.com/caarlos0/log
   - title: distillog
     description: distilled levelled logging (think of it as stdlib + log levels).
     url: https://github.com/amoghe/distillog
@@ -3765,6 +4090,10 @@
   - title: go-logger
     description: Simple logger of Go Programs, with level handlers.
     url: https://github.com/apsdehal/go-logger
+  - title: GoLogX
+    description: Append-only, hash-chained, optionally Ed25519-signed slog handler
+      with offline verification of tampering.
+    url: https://github.com/AyoubTadlaoui/GoLogX
   - title: gone/log
     description: Fast, extendable, full-featured, std-lib source compatible log library.
     url: https://github.com/One-com/gone/tree/master/log
@@ -3896,7 +4225,7 @@
       debugging.
     url: https://github.com/davecgh/go-spew
   - title: sqldb-logger
-    description: A logger for Go SQL database driver without modify existing *sql.DB
+    description: A logger for Go SQL database driver without modify existing \*sql.DB
       stdlib usage.
     url: https://github.com/simukti/sqldb-logger
   - title: stdlog
@@ -3952,9 +4281,17 @@
 - title: Machine Learning
   description: Libraries for Machine Learning.
   links:
+  - title: Anneal
+    description: Machine learning compiler in Go, a from-scratch tinygrad port with
+      a WebGPU backend.
+    url: https://github.com/georgebuilds/anneal
   - title: bayesian
     description: Naive Bayesian Classification for Golang.
     url: https://github.com/jbrukh/bayesian
+  - title: born
+    description: Deep learning framework inspired by Burn (Rust), with autograd, type-safe
+      tensors, and zero-CGO GPU acceleration.
+    url: https://github.com/born-ml/born
   - title: catboost-cgo
     description: Fast, scalable, high performance Gradient Boosting on Decision Trees
       library. Golang using Cgo for blazing fast inference CatBoost Model.
@@ -3963,6 +4300,10 @@
     description: Fast, flexible, multi-threaded ensembles of decision trees for machine
       learning in pure Go.
     url: https://github.com/ryanbressler/CloudForest
+  - title: datatrax
+    description: Data engineering and classic ML toolkit with batch processing, type
+      coercion, and 7 algorithms in pure Go with zero dependencies.
+    url: https://github.com/rbmuller/datatrax
   - title: ddt
     description: Dynamic decision tree, create trees defining customizable rules.
     url: https://github.com/sgrodriguez/ddt
@@ -4104,6 +4445,10 @@
     description: A real time messaging server to build a scalable in-app notifications,
       multiplayer games, chat apps in web and mobile apps.
     url: https://github.com/Clivern/Beaver
+  - title: broker
+    description: Production-grade messaging abstraction with a unified API for various
+      brokers and built-in OpenTelemetry integration.
+    url: https://github.com/qvcloud/broker
   - title: Bus
     description: Minimalist message bus implementation for internal communication.
     url: https://github.com/mustafaturan/bus
@@ -4226,9 +4571,7 @@
       event bus when doing event sourcing, CQRS, DDD.
     url: https://github.com/vardius/message-bus
   - title: NATS Go Client
-    description: 'Go client for the NATS
-
-      messaging system.'
+    description: Go client for the NATS
     url: https://github.com/nats-io/nats.go
   - title: nsq-event-bus
     description: A tiny wrapper around NSQ topic and channel.
@@ -4303,7 +4646,7 @@
       description: Virtually traverse Excel cell by cell's name.
       url: https://github.com/chonla/cellwalker
     - title: excelize
-      description: Golang library for reading and writing Microsoft Excel™ (XLSX)
+      description: Golang library for reading and writing Microsoft Excel&trade; (XLSX)
         files.
       url: https://github.com/xuri/excelize
     - title: exl
@@ -4364,6 +4707,10 @@
       description: A dependency injection based application framework for Go (built
         on top of dig).
       url: https://github.com/uber-go/fx
+    - title: go-beans
+      description: Spring-inspired dependency injection and application lifecycle
+        framework for Go.
+      url: https://github.com/go-beans/go
     - title: Go-Spring
       description: A high-performance Go framework inspired by Spring Boot, offering
         DI, auto-configuration, and lifecycle management while maintaining Go's simplicity
@@ -4437,6 +4784,11 @@
     - title: go-module
       description: Template for a typical module written on Go.
       url: https://github.com/octomation/go-module
+    - title: go-rest-api-boilerplate
+      description: AI-friendly, production-ready Go REST API boilerplate with clean
+        architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and
+        Swagger documentation.
+      url: https://github.com/vahiiiid/go-rest-api-boilerplate
     - title: go-sample
       description: A sample layout for Go application projects with the real code.
       url: https://github.com/zitryss/go-sample
@@ -4510,10 +4862,17 @@
       description: String manipulation library to convert string to camel case, snake
         case, kebab case / slugify etc.
       url: https://github.com/gobeam/Stringy
+    - title: str
+      description: Pipeline-first string toolkit for composing transformations.
+      url: https://github.com/schigh/str
     - title: strcase
       description: Case-insensitive implementation of the standard library's strings/bytes
         packages.
       url: https://github.com/charlievieth/strcase
+    - title: stringFormatter
+      description: String formatting like in Python or C# manner with the additional
+        text formatting features.
+      url: https://github.com/Wissance/stringFormatter
     - title: strutil
       description: String utilities.
       url: https://github.com/ozgio/strutil
@@ -4608,6 +4967,10 @@
     - title: gofakeit
       description: Random data generator written in go.
       url: https://github.com/brianvoe/gofakeit
+    - title: goffi
+      description: Pure Go FFI with libffi-style typed call interface and structured
+        error handling for calling C libraries without CGO.
+      url: https://github.com/go-webgpu/goffi
     - title: gommit
       description: Analyze git commit messages to ensure they follow defined patterns.
       url: https://github.com/antham/gommit
@@ -4720,12 +5083,10 @@
       description: X Keyboard Grabber.
       url: https://github.com/go-xkg/xkg
     - title: xz
-      description: 'Pure golang package for reading and writing xz-compressed files.
-
-        ⬆ back to top'
+      description: Pure golang package for reading and writing xz-compressed files.
       url: https://github.com/ulikunitz/xz
 - title: Natural Language Processing
-  description: See also Text Processing and Text Analysis.
+  description: Libraries for working with human languages.
   subcategories:
   - title: Language Detection
     links:
@@ -4756,6 +5117,10 @@
     - title: go2vec
       description: Reader and utility functions for word2vec embeddings.
       url: https://github.com/danieldk/go2vec
+    - title: go-propisyu
+      description: Convert numbers to Russian words with correct grammatical gender
+        and noun declension.
+      url: https://github.com/rekurt/go-propisyu
     - title: golibstemmer
       description: Go bindings for the snowball libstemmer library including porter
         2.
@@ -4917,6 +5282,9 @@
   - title: canopus
     description: CoAP Client/Server implementation (RFC 7252).
     url: https://github.com/zubairhamed/canopus
+  - title: cdns
+    description: Change DNS servers effortlessly via terminal.
+    url: https://github.com/junevm/cdns
   - title: cidranger
     description: Fast IP to CIDR lookup for Go.
     url: https://github.com/yl2chen/cidranger
@@ -5014,6 +5382,11 @@
   - title: go-sse
     description: Go client and server implementation of HTML server-sent events.
     url: https://github.com/lampctl/go-sse
+  - title: fibersse
+    description: Production-grade Server-Sent Events (SSE) for Fiber v3 with event
+      coalescing, priority lanes, topic wildcards, adaptive throttling, and built-in
+      auth.
+    url: https://github.com/vinod-morya/fibersse
   - title: go-stun
     description: Go implementation of the STUN client (RFC 3489 and RFC 5389).
     url: https://github.com/ccding/go-stun
@@ -5080,6 +5453,9 @@
       for fast redirection to predefined domain with zero memory allocation and fast
       response.
     url: https://github.com/kirillDanshin/llb
+  - title: macwifi
+    description: Wi-Fi scanning and Keychain password retrieval for macOS 13+.
+    url: https://github.com/jaisonerick/macwifi
   - title: mdns
     description: Simple mDNS (Multicast DNS) client/server library in Golang.
     url: https://github.com/hashicorp/mdns
@@ -5137,7 +5513,7 @@
     url: https://github.com/semihalev/sdns
   - title: sftp
     description: Package sftp implements the SSH File Transfer Protocol as described
-      in https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt.
+      in <https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt>.
     url: https://github.com/pkg/sftp
   - title: ssh
     description: Higher-level API for building SSH servers (wraps crypto/ssh).
@@ -5230,6 +5606,10 @@
     - title: grequests
       description: A Go "clone" of the great and famous Requests library.
       url: https://github.com/levigross/grequests
+    - title: hedge
+      description: Adaptive hedged requests for Go. Cuts p99 latency with zero configuration,
+        based on Google's "The Tail at Scale" paper.
+      url: https://github.com/bhope/hedge
     - title: heimdall
       description: An enhanced http client with retry and hystrix capabilities.
       url: https://github.com/gojektech/heimdall
@@ -5383,7 +5763,7 @@
     description: Blazing-fast datastore and querying engine built on Redis.
     url: https://github.com/albrow/zoom
 - title: Package Management
-  description: Unofficial libraries for package and dependency management.
+  description: Official tooling for dependency and package management
   links:
   - title: go modules
     description: Modules are the unit of source code interchange and versioning. The
@@ -5409,12 +5789,19 @@
   - title: go-instrument
     description: Automatically add spans to all methods and functions.
     url: https://github.com/nikolaydubina/go-instrument
+  - title: go-perfstat
+    description: Lightweight performance statistics and execution time aggregation
+      for Go.
+    url: https://github.com/go-perfstat/go
   - title: jaeger
     description: A distributed tracing system.
     url: https://github.com/jaegertracing/jaeger
   - title: mm-go
     description: Generic manual memory management for golang.
     url: https://github.com/joetifa2003/mm-go
+  - title: otelinji
+    description: OpenTelemetry auto-instrumentation tool for adding spans to functions.
+    url: https://github.com/hedhyw/otelinji
   - title: pixie
     description: No instrumentation tracing for Golang applications via eBPF.
     url: https://github.com/pixie-labs/pixie
@@ -5537,10 +5924,6 @@
 - title: Science and Data Analysis
   description: Libraries for scientific computing and data analyzing.
   links:
-  - title: assocentity
-    description: Package assocentity returns the average distance from words to a
-      given entity.
-    url: https://github.com/ndabAP/assocentity
   - title: bradleyterry
     description: Provides a Bradley-Terry Model for pairwise comparisons.
     url: https://github.com/seanhagen/bradleyterry
@@ -5557,6 +5940,10 @@
     description: Package decimal implements arbitrary-precision decimal floating-point
       arithmetic.
     url: https://github.com/db47h/decimal
+  - title: entitydebs
+    description: A social science tool to programmatically analyze entities in non-fictional
+      texts with a built-in dependency parser.
+    url: https://github.com/ndabAP/entitydebs
   - title: evaler
     description: Simple floating point arithmetic expression evaluator.
     url: https://github.com/soniah/evaler
@@ -5612,9 +5999,29 @@
   - title: graph
     description: Library of basic graph algorithms.
     url: https://github.com/yourbasic/graph
+  - title: hdf5
+    description: Pure Go implementation of the HDF5 file format for scientific data
+      storage and exchange.
+    url: https://github.com/scigolib/hdf5
+  - title: insyra
+    description: Data analysis library with statistics, visualization, Parquet support,
+      and Python integration.
+    url: https://github.com/HazelnutParadise/insyra
   - title: jsonl-graph
     description: Tool to manipulate JSONL graphs with graphviz support.
     url: https://github.com/nikolaydubina/jsonl-graph
+  - title: matlab
+    description: Pure Go library for reading and writing MATLAB .mat files (v5-v7.3)
+      without CGO.
+    url: https://github.com/scigolib/matlab
+  - title: MatProInterface.go
+    description: MatProInterface.go is an open source package for defining mathematical
+      programs (e.g., convex optimization problems) in Go.
+    url: https://github.com/MatProGo-dev/MatProInterface.go
+  - title: matrix
+    description: A clean, generic, zero-dependency matrix math package for Go with
+      support for arithmetic, decompositions, and linear system solving.
+    url: https://github.com/Arceus-7/matrix
   - title: ode
     description: Ordinary differential equation (ODE) solver which supports extended
       states and channel-based iteration stop conditions.
@@ -5649,6 +6056,10 @@
   - title: streamtools
     description: general purpose, graphical tool for dealing with streams of data.
     url: https://github.com/nytlabs/streamtools
+  - title: taxonkit
+    description: A practical and efficient NCBI taxonomy toolkit; supports querying
+      lineage, reformatting, filtering, and creating custom taxdump files.
+    url: https://github.com/shenwei356/taxonkit
   - title: TextRank
     description: TextRank implementation in Golang with extendable features (summarization,
       weighting, phrase extraction) and multithreading (goroutine) support.
@@ -5675,6 +6086,10 @@
       from data leaks: strong selective encryption, SQL injections prevention, intrusion
       detection system.'
     url: https://github.com/cossacklabs/acra
+  - title: aes-ctr-drbg
+    description: A Deterministic Random Bit Generator based on AES in Counter mode
+      (AES-CTR-DRBG) as specified in NIST SP 800-90A.
+    url: https://github.com/sixafter/aes-ctr-drbg
   - title: age
     description: A simple, modern and secure encryption tool (and Go library) with
       small explicit keys, no config options, and UNIX-style composability.
@@ -5695,6 +6110,10 @@
   - title: booster
     description: Fast initramfs generator with full-disk encryption support.
     url: https://github.com/anatol/booster
+  - title: canery
+    description: Minimal, stateless authorization engine with a pluggable evaluation
+      model.
+    url: https://github.com/rluders/canery
   - title: Cameradar
     description: Tool and library to remotely hack RTSP streams from surveillance
       cameras.
@@ -5713,6 +6132,10 @@
     description: A simple, semantic and developer-friendly golang package for encoding&decoding
       and encryption&decryption.
     url: https://github.com/golang-module/dongle
+  - title: dotlock
+    description: Encrypted .env vault manager with interactive TUI for managing secrets
+      across multiple environments and profiles.
+    url: https://github.com/ahmadraza100/dotlock
   - title: encid
     description: Encode and decode encrypted integer IDs.
     url: https://github.com/bobg/encid
@@ -5725,6 +6148,10 @@
     description: A rest application to dynamically update firewalld rules on a linux
       server.
     url: https://github.com/prashantgupta24/firewalld-rest
+  - title: fort
+    description: Audits macOS security settings across 16 checks, reports a score,
+      and fixes issues where it safely can. Single binary, installable via Homebrew.
+    url: https://github.com/djadmin/fort
   - title: go-generate-password
     description: Password generator that can be used on the cli or as a library.
     url: https://github.com/m1/go-generate-password
@@ -5749,9 +6176,20 @@
   - title: goSecretBoxPassword
     description: A probably paranoid package for securely hashing and encrypting passwords.
     url: https://github.com/dwin/goSecretBoxPassword
+  - title: gost-crypto
+    description: Go library for Russian GOST cryptographic standards (digital signatures,
+      Streebog hash, Kuznechik cipher, MGM AEAD) backed by OpenSSL gost-engine.
+    url: https://github.com/rekurt/gost-crypto
+  - title: gspy
+    description: Forensic goroutine-to-syscall inspector for live Go processes.
+    url: https://github.com/Mutasem-mk4/gspy
   - title: Interpol
     description: Rule-based data generator for fuzzing and penetration testing.
     url: https://github.com/avahidi/interpol
+  - title: leakhound
+    description: Static analysis tool to detect accidental logging of sensitive struct
+      fields, preventing data leaks in logs.
+    url: https://github.com/nilpoona/leakhound
   - title: lego
     description: Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
     url: https://github.com/go-acme/lego
@@ -5778,15 +6216,35 @@
     description: Provides a unified implementation between different password hashing
       algorithms
     url: https://github.com/zitadel/passwap
+  - title: pii-shield
+    description: Zero-code log sanitization sidecar for Kubernetes that redacts PII
+      from logs.
+    url: https://github.com/aragossa/pii-shield
+  - title: pm
+    description: Unix-style password manager written in Go to save your data with
+      OpenPGP encryption.
+    url: https://github.com/nicola-strappazzon/password-manager
+  - title: procscope
+    description: Process-scoped runtime investigator using eBPF to trace process lifecycle,
+      file activity, and network connections.
+    url: https://github.com/Mutasem-mk4/procscope
   - title: qrand
     description: Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically
       secure random data.
     url: https://github.com/bitfield/qrand
+  - title: Razify
+    description: CLI to scan, validate and audit .env files for leaked secrets and
+      environment drift.
+    url: https://github.com/Hossiy21/razify
+  - title: redact
+    description: Redact sensitive information from slog-based logs using a configurable
+      pipeline.
+    url: https://github.com/alesr/redact
   - title: SafeDep/vet
     description: Protect against malicious open source packages.
     url: https://github.com/safedep/vet
   - title: secret
-    description: Prevent your secrets from leaking into logs, std* etc.
+    description: Prevent your secrets from leaking into logs, std\* etc.
     url: https://github.com/rsjethani/secret
   - title: secure
     description: HTTP middleware for Go that facilitates some quick security wins.
@@ -5821,6 +6279,10 @@
       traffic noise generator that helps protect privacy by creating digital smokescreens
       while browsing.
     url: https://github.com/calpa/urusai
+  - title: veil
+    description: Local HTTPS proxy that hides API credentials from AI coding agents.
+      OS keychain integration, format-aware placeholders, SQLite audit log.
+    url: https://github.com/getveil/veil
 - title: Serialization
   description: Libraries and tools for binary serialization.
   links:
@@ -5876,6 +6338,9 @@
   - title: jsoniter
     description: High-performance 100% compatible drop-in replacement of "encoding/json".
     url: https://github.com/json-iterator/go
+  - title: mus-go
+    description: MUS format serializer for Go.
+    url: https://github.com/mus-format/mus-go
   - title: php_session_decoder
     description: GoLang library for working with PHP session format and PHP Serialize/Unserialize
       functions.
@@ -5883,6 +6348,9 @@
   - title: pletter
     description: A standard way to wrap a proto message for message brokers.
     url: https://github.com/vimeda/pletter
+  - title: proto
+    description: Parser and writer for Google ProtocolBuffers .proto files.
+    url: https://github.com/emicklei/proto
   - title: structomap
     description: Library to easily and dynamically generate maps from static structures.
     url: https://github.com/tuvistavie/structomap
@@ -5950,6 +6418,14 @@
   - title: gondola
     description: A YAML based golang reverse proxy.
     url: https://github.com/bmf-san/gondola
+  - title: goshs
+    description: SimpleHTTPServer replacement with file upload/download, WebDAV, SFTP,
+      SMB, TLS, authentication, and share links.
+    url: https://github.com/patrickhener/goshs
+  - title: Kono
+    description: lightweight extendable API Gateway in Go - parallel fan-out, flexible
+      aggregation, and zero configuration magic.
+    url: https://github.com/starwalkn/kono
   - title: lets-proxy2
     description: Reverse proxy for handle https with issue certificates in fly from
       lets-encrypt.
@@ -6003,6 +6479,10 @@
   - title: Wish
     description: Make SSH apps, just like that!
     url: https://github.com/charmbracelet/wish
+  - title: Kono
+    description: lightweight extendable API Gateway in Go - parallel fan-out, flexible
+      aggregation, and zero configuration magic.
+    url: https://github.com/starwalkn/kono
 - title: Stream Processing
   description: Libraries and tools for stream processing and reactive programming.
   links:
@@ -6032,6 +6512,10 @@
     description: 'Reactive Programming: declarative and composable API for event-driven
       applications.'
     url: https://github.com/samber/ro
+  - title: signals
+    description: Type-safe reactive state management inspired by Angular Signals with
+      computed values, effects, and dependency tracking.
+    url: https://github.com/coregx/signals
   - title: stream
     description: 'Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...'
     url: https://github.com/youthlin/stream
@@ -6041,14 +6525,13 @@
 - title: Template Engines
   description: Libraries and tools for templating and lexing.
   links:
+  - title: bagme
+    description: HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.
+    url: https://github.com/boxesandglue/bagme
   - title: ego
     description: Lightweight templating language that lets you write templates in
       Go. Templates are translated into Go and compiled.
     url: https://github.com/benbjohnson/ego
-  - title: extemplate
-    description: Tiny wrapper around html/template to allow for easy file-based template
-      inheritance.
-    url: https://git.sr.ht/~dvko/extemplate
   - title: fasttemplate
     description: Simple and fast template engine. Substitutes template placeholders
       up to 10x faster than text/template.
@@ -6065,6 +6548,10 @@
     description: Goview is a lightweight, minimalist and idiomatic template library
       based on golang html/template for building Go web application.
     url: https://github.com/foolin/goview
+  - title: gox
+    description: HTML templates as first-class Go expressions, with seamless editor
+      support.
+    url: https://github.com/doors-dev/gox
   - title: htmgo
     description: build simple and scalable systems with go + htmx
     url: https://htmgo.dev
@@ -6194,8 +6681,9 @@
         testing.
       url: https://github.com/mccutchen/go-httpbin
     - title: go-mutesting
-      description: Mutation testing for Go source code.
-      url: https://github.com/zimmski/go-mutesting
+      description: Mutation testing for Go with CI quality gates, coverage-aware MSI,
+        baseline tracking, and git-diff filtering.
+      url: https://github.com/jonbaldie/go-mutesting
     - title: go-mysql-test-container
       description: Golang MySQL testcontainer to help with MySQL integration testing.
       url: https://github.com/arikama/go-mysql-test-container
@@ -6209,6 +6697,11 @@
       description: Extremely flexible golang deep comparison, extends the go testing
         package.
       url: https://github.com/maxatome/go-testdeep
+    - title: go-testing
+      description: Go testing extension, that allows a simple setup of strongly isolated
+        unit, component, and integration test providing advanced mock support extending
+        gomock and gock.
+      url: https://github.com/tkrop/go-testing
     - title: go-testpredicate
       description: Test predicate style assertions library with extensive diagnostics
         output.
@@ -6294,6 +6787,10 @@
       description: Quick and easy expression matching for JSON schemas used in requests
         and responses.
       url: https://github.com/jgroeneveld/schema
+    - title: should
+      description: Testing library with zero dependencies, detailed struct diffs and
+        human-readable error messages.
+      url: https://github.com/Kairum-Labs/should
     - title: stop-and-go
       description: Testing helper for concurrency.
       url: https://github.com/elgohr/stop-and-go
@@ -6316,6 +6813,10 @@
     - title: Testify
       description: Sacred extension to the standard go testing package.
       url: https://github.com/stretchr/testify
+    - title: Testo
+      description: Plugin-based testing framework with suites, parallel tests, hooks
+        and parametrization. Inspired by Pytest.
+      url: https://github.com/ozontech/testo
     - title: testsql
       description: Generate test data from SQL files before testing and clear it after
         finished.
@@ -6323,6 +6824,10 @@
     - title: testza
       description: Full-featured test framework with nice colorized output.
       url: https://github.com/MarvinJWendt/testza
+    - title: tparse
+      description: CLI tool for summarizing go test output. Pipe friendly. Compatible
+        with go test flags.
+      url: https://github.com/mfridman/tparse
     - title: trial
       description: Quick and easy extendable assertions without introducing much boilerplate.
       url: https://github.com/jgroeneveld/trial
@@ -6354,12 +6859,13 @@
     - title: go-txdb
       description: Single transaction based database driver mainly for testing purposes.
       url: https://github.com/DATA-DOG/go-txdb
-    - title: gock
-      description: Versatile HTTP mocking made easy.
-      url: https://github.com/h2non/gock
     - title: gomock
       description: Mocking framework for the Go programming language.
       url: https://github.com/uber-go/mock
+    - title: gomock
+      description: CLI tool to generate typed and framework-agnostic interface mocks,
+        with support for generics.
+      url: https://github.com/vibridi/gomock
     - title: govcr
       description: 'HTTP mock for Golang: record and replay HTTP interactions for
         offline testing.'
@@ -6413,6 +6919,10 @@
       url: https://github.com/zimmski/tavor
   - title: Selenium and browser control tools
     links:
+    - title: bonk
+      description: Fast, stealth-first browser automation library using Chrome DevTools
+        Protocol over WebSocket with no external dependencies.
+      url: https://github.com/joakimcarlsson/bonk
     - title: cdp
       description: Type-safe bindings for the Chrome Debugging Protocol that can be
         used with browsers or other debug targets that implement it.
@@ -6428,13 +6938,17 @@
     - title: rod
       description: A Devtools driver to make web automation and scraping easy.
       url: https://github.com/go-rod/rod
+    - title: selenosis
+      description: Stateless Kubernetes-native hub that routes Selenium, Playwright,
+        and MCP sessions to on-demand browser pods via custom resources.
+      url: https://github.com/alcounit/selenosis
   - title: Fail injection
     links:
     - title: failpoint
       description: An implementation of failpoints for Golang.
       url: https://github.com/pingcap/failpoint
 - title: Text Processing
-  description: See also Natural Language Processing and Text Analysis.
+  description: Libraries for parsing and manipulating texts.
   subcategories:
   - title: Formatters
     links:
@@ -6509,6 +7023,10 @@
       description: Traverse, navigate, filter, and otherwise process trees of html.Node
         objects.
       url: https://github.com/bobg/htree
+    - title: mdsmith
+      description: fast, auto-fixing Markdown linter and formatter. Checks style,
+        readability, structure, and cross-file integrity.
+      url: https://github.com/jeduden/mdsmith
     - title: mxj
       description: Encode / decode XML as JSON or map[string]interface{}; extract
         values with dot-notation paths and wildcards. Replaces x2j and j2x packages.
@@ -6601,6 +7119,10 @@
       url: https://github.com/stackerzzq/xj2go
   - title: Regular Expressions
     links:
+    - title: coregex
+      description: 'Production regex engine with Rust regex-crate architecture: multi-engine
+        DFA/NFA, SIMD prefilters, drop-in stdlib replacement.'
+      url: https://github.com/coregx/coregex
     - title: genex
       description: Count and expand Regular Expressions into all matching Strings.
       url: https://github.com/alixaxel/genex
@@ -6664,6 +7186,11 @@
       url: https://github.com/eduncan911/podcast
   - title: Utility/Miscellaneous
     links:
+    - title: ahocorasick
+      description: High-performance Aho-Corasick multi-pattern string matching with
+        DFA compilation and SIMD prefilter, up to 7 GB/s throughput (part of coregx
+        ecosystem).
+      url: https://github.com/coregx/ahocorasick
     - title: go-runewidth
       description: Functions to get fixed width of the character or string.
       url: https://github.com/mattn/go-runewidth
@@ -6683,6 +7210,10 @@
     - title: TySug
       description: Alternative suggestions with respect to keyboard layouts.
       url: https://github.com/Dynom/TySug
+    - title: uniwidth
+      description: High-performance Unicode character width calculation with SWAR
+        optimization, O(1) lookup tables, and ZWJ emoji support.
+      url: https://github.com/unilibs/uniwidth
     - title: w2vgrep
       description: A semantic grep tool using word embeddings to find semantically
         similar matches. For example, searching for "death" will find "dead", "killing",
@@ -6728,6 +7259,10 @@
   - title: coinpaprika-go
     description: Go client library for interacting with Coinpaprika's API.
     url: https://github.com/coinpaprika/coinpaprika-api-go-client
+  - title: colony-sdk-go
+    description: Go client library for The Colony — a public social network whose
+      users are AI agents.
+    url: https://github.com/TheColonyCC/colony-sdk-go
   - title: device-check-go
     description: Go client library for interacting with iOS DeviceCheck API v1.
     url: https://github.com/rinchsan/device-check-go
@@ -6920,6 +7455,10 @@
   - title: libgoffi
     description: Library adapter toolbox for native libffi integration
     url: https://github.com/clevabit/libgoffi
+  - title: libopenapi
+    description: Parse, validate, and work with OpenAPI, Swagger, Overlays, and Arazzo
+      specifications.
+    url: https://github.com/pb33f/libopenapi
   - title: Medium
     description: Golang SDK for Medium's OAuth2 API.
     url: https://github.com/Medium/medium-sdk-go
@@ -6967,6 +7506,10 @@
   - title: smite
     description: Go package to wraps access to the Smite game API.
     url: https://github.com/sergiotapia/smitego
+  - title: spec
+    description: Lightweight OpenAPI 3.x builder supporting static generation and
+      popular frameworks like chi, echo, gin, fiber, mux and more.
+    url: https://github.com/oaswrap/spec
   - title: spotify
     description: Go Library to access Spotify WEB API.
     url: https://github.com/rapito/go-spotify
@@ -6984,6 +7527,10 @@
   - title: textbelt
     description: Go client for the textbelt.com txt messaging API.
     url: https://github.com/dietsche/textbelt
+  - title: threads-go
+    description: Go client library for the Meta Threads API with OAuth 2.0, rate limiting,
+      and type-safe error handling.
+    url: https://github.com/tirthpatell/threads-go
   - title: Trello
     description: Go wrapper for the Trello API.
     url: https://github.com/adlio/trello
@@ -7191,6 +7738,10 @@
   - title: go-clip
     description: A minimalistic clipboard manager for Mac.
     url: https://github.com/prashantgupta24/go-clip
+  - title: Go-Constant
+    description: Generic typed constant sets with safe string parsing for Go's missing
+      enum type.
+    url: https://github.com/sajjadrabiee/go-constant
   - title: go-convert
     description: Package go-convert enables you to convert a value into another type.
     url: https://github.com/Eun/go-convert
@@ -7235,9 +7786,17 @@
   - title: go-rate
     description: Timed rate limiter for Go.
     url: https://github.com/beefsack/go-rate
+  - title: go-safecast
+    description: Safe number type conversion library that prevents integer overflow
+      and underflow (addresses gosec G115 and CWE-190).
+    url: https://github.com/ccoVeille/go-safecast
   - title: go-sitemap-generator
     description: XML Sitemap generator written in Go.
     url: https://github.com/ikeikeikeike/go-sitemap-generator
+  - title: go-snk
+    description: Type-safe generic helpers for slices, maps, strings, errors, JSON,
+      HTTP, and containers, organized as small independently adoptable packages.
+    url: https://github.com/SharkByteSoftware/go-snk
   - title: go-trigger
     description: Go-lang global event triggerer, Register Events with an id and trigger
       the event from anywhere from your project.
@@ -7259,6 +7818,10 @@
   - title: godaemon
     description: Utility to write daemons.
     url: https://github.com/VividCortex/godaemon
+  - title: godoclive
+    description: Generates interactive API documentation from Go HTTP handlers using
+      static analysis of chi, gin, and net/http routers.
+    url: https://github.com/syst3mctl/godoclive
   - title: godropbox
     description: Common libraries for writing Go services/applications from Dropbox.
     url: https://github.com/dropbox/godropbox
@@ -7328,7 +7891,7 @@
       github from the terminal.
     url: https://github.com/github/hub
   - title: immortal
-    description: '*nix cross-platform (OS agnostic) supervisor.'
+    description: \*nix cross-platform (OS agnostic) supervisor.
     url: https://github.com/immortal/immortal
   - title: jet
     description: 'Just Edit Text: a fast and powerful tool for finding and replacing
@@ -7469,6 +8032,9 @@
   - title: release
     description: CLI for Keep-a-changelog formatted changelogs.
     url: https://github.com/tomodian/release
+  - title: relimpact
+    description: Fast API compatibility reports for Go projects.
+    url: https://github.com/hashmap-kz/relimpact
   - title: remote-touchpad
     description: Control mouse and keyboard from a smartphone.
     url: https://github.com/Unrud/remote-touchpad
@@ -7566,7 +8132,7 @@
   - title: stacktower
     description: 'Visualize dependency graphs as physical tower structures, inspired
       by XKCD #2347.'
-    url: https://github.com/matzehuels/stacktower
+    url: https://github.com/stacktower-io/stacktower
   - title: statiks
     description: Fast, zero-configuration, static HTTP filer server.
     url: https://github.com/janiltonmaciel/statiks
@@ -7699,9 +8265,11 @@
     description: Validate Golang request data with simple rules. Highly inspired by
       Laravel's request validation.
     url: https://github.com/thedevsaddam/govalidator
-  - title: hvalid
-    description: ''
-    url: https://github.com/lyonnee/hvalid
+  - title: govy
+    description: strongly-typed validation rules over functional interface, powered
+      by generics and reflection free with heavy focus on crafting clear and information-rich
+      error messages.
+    url: https://github.com/nobl9/govy
   - title: jio
     description: jio is a json schema validator similar to joi.
     url: https://github.com/faceair/jio
@@ -7726,13 +8294,8 @@
     description: A lightweight model validator written in Go.Contains VFs:Min, Max,
       MinLength, MaxLength, Length, Enum, Regex.
     url: https://github.com/go-the-way/validator
-  - title: valix
-    description: ''
-    url: https://github.com/marrow16/valix
   - title: Zog
-    description: 'A Zod inspired schema builder for runtime value parsing and validation.
-
-      ⬆ back to top'
+    description: A Zod inspired schema builder for runtime value parsing and validation.
     url: https://github.com/Oudwins/zog
 - title: Version Control
   description: Libraries for version control.
@@ -7744,12 +8307,24 @@
   - title: froggit-go
     description: Froggit-Go is a Go library, allowing to perform actions on VCS providers.
     url: https://github.com/jfrog/froggit-go
+  - title: ggc
+    description: A Git CLI tool with both traditional command-line and interactive
+      incremental-search UI, workflow support, and configurable keybindings.
+    url: https://github.com/bmf-san/ggc
+  - title: git-courer
+    description: Local MCP server for Git operations using Ollama to save tokens and
+      prevent secret leakage.
+    url: https://github.com/Alejandro-M-P/git-courer
   - title: git2go
     description: Go bindings for libgit2.
     url: https://github.com/libgit2/git2go
   - title: githooks
     description: Per-repo and shared Git hooks with version control and auto update.
     url: https://github.com/gabyx/githooks
+  - title: gitty
+    description: Single-binary Git/GitHub CLI that replaces add→commit→push with one
+      command; human-readable syntax, no external dependencies.
+    url: https://github.com/Omibranch/gitty
   - title: go-git
     description: highly extensible Git implementation in pure Go.
     url: https://github.com/go-git/go-git
@@ -7767,7 +8342,7 @@
   description: Libraries for manipulating video.
   links:
   - title: gmf
-    description: Go bindings for FFmpeg av* libraries.
+    description: Go bindings for FFmpeg av\* libraries.
     url: https://github.com/3d0c/gmf
   - title: go-astiav
     description: Better C bindings for ffmpeg in GO.
@@ -7792,6 +8367,10 @@
     description: Parser and generator for HLS (M3U8) playlists; kept up to date with
       the spec.
     url: https://github.com/Eyevinn/hls-m3u8
+  - title: manifestor
+    description: Zero-dependency library for parsing, filtering, transforming, and
+      building HLS and DASH manifests.
+    url: https://github.com/alanzng/manifestor
   - title: libvlc-go
     description: Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
     url: https://github.com/adrg/libvlc-go
@@ -7826,6 +8405,10 @@
   - title: Don
     description: A highly performant and simple to use API framework.
     url: https://github.com/abemedia/go-don
+  - title: doors
+    description: Server-driven framework for building stateful, reactive web applications
+      entirely in Go.
+    url: https://github.com/doors-dev/doors
   - title: Echo
     description: High performance, minimalist Go web framework.
     url: https://github.com/labstack/echo
@@ -7901,6 +8484,10 @@
     description: Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated
       documentation, and a CLI.
     url: https://github.com/danielgtaylor/huma/
+  - title: httpsuite
+    description: HTTP request parsing and RFC 9457 problem responses for Go, with
+      a stdlib-only core and optional validation.
+    url: https://github.com/rluders/httpsuite
   - title: iWF
     description: iWF is an all-in-one platform for developing long-running business
       processes. It offers a convenient abstraction for utilizing databases, ElasticSearch,
@@ -7956,6 +8543,10 @@
   - title: Yokai
     description: Simple, modular, and observable Go framework for backend applications.
     url: https://github.com/ankorstore/yokai
+  - title: NotNet
+    description: A lightweight Go framework for building fast, ergonomic RESTful APIs
+      with middleware and flexible routing.
+    url: https://github.com/nottechdm/notnet
   subcategories:
   - title: Middlewares
     links:
@@ -8060,6 +8651,14 @@
     - title: FastRouter
       description: a fast, flexible HTTP router written in Go.
       url: https://github.com/razonyang/fastrouter
+    - title: Fox
+      description: A high-performance HTTP router for building reverse proxies and
+        API gateways, with first-class support for mutating routes at runtime.
+      url: https://github.com/fox-toolkit/fox
+    - title: fursy
+      description: HTTP router with type-safe generic handlers, automatic OpenAPI
+        3.1 generation from code, and RFC 9457 error responses.
+      url: https://github.com/coregx/fursy
     - title: goblin
       description: A golang http router based on trie tree.
       url: https://github.com/bmf-san/goblin
@@ -8161,6 +8760,11 @@
     description: Tool which allows user to create HTTP endpoints (hooks) that execute
       commands on the server.
     url: https://github.com/adnanh/webhook
+  - title: HookRun
+    description: Lightweight webhook action engine (~3MB single binary, zero deps)
+      that executes commands and scripts from YAML rules with token/HMAC/IP auth and
+      hot reload.
+    url: https://github.com/bluvenr/hookrun
   - title: webhooked
     description: 'A webhook receiver on steroids: handle, secure, format and store
       a Webhook payload has never been easier.'
@@ -8181,6 +8785,9 @@
     description: 'Converter from SDDL-string to user-friendly JSON. SDDL consist of
       four part: Owner, Primary Group, DACL, SACL.'
     url: https://github.com/MonaxGT/gosddl
+  - title: windowsupdate
+    description: A Golang binding for Windows Update Agent API using go-ole.
+    url: https://github.com/ceshihao/windowsupdate
 - title: Workflow Frameworks
   description: Libraries for creating Workflows.
   links:
@@ -8192,6 +8799,10 @@
     description: No-code workflow executor. it executes DAGs defined in a simple YAML
       format.
     url: https://github.com/dagu-go/dagu
+  - title: Flowbaker
+    description: Self-hosted execution engine for building, connecting, and automating
+      no-code workflows.
+    url: https://github.com/flowbaker/flowbaker
   - title: go-dag
     description: A framework developed in Go that manages the execution of workflows
       described by directed acyclic graphs.
@@ -8307,11 +8918,17 @@
     description: iFood API SDK.
     url: https://github.com/arxdsilva/golang-ifood-sdk
   - title: golangci-lint
-    description: ''
+    description: A fast Go linters runner. It runs linters in parallel, uses caching,
+      supports yaml config, has integrations with all major IDE and has dozens of
+      linters included.
     url: https://github.com/golangci/golangci-lint
   - title: golines
     description: Formatter that automatically shortens long lines in Go code.
     url: https://github.com/segmentio/golines
+  - title: gomarklint
+    description: Markdown linter with built-in HTTP link validation, single binary,
+      no Node.js required.
+    url: https://github.com/shinagawa-web/gomarklint
   - title: GoPlantUML
     description: Library and CLI that generates text plantump class diagram containing
       information about structures and interfaces with the relationship among them.
@@ -8330,14 +8947,22 @@
     description: A Parser for PHP written in Go.
     url: https://github.com/z7zmey/php-parser
   - title: revive
-    description: ''
+    description: ~6x faster, stricter, configurable, extensible, and beautiful drop-in
+      replacement for golint.
     url: https://github.com/mgechev/revive
   - title: staticcheck
     description: staticcheck is go vet on steroids, applying a ton of static analysis
       checks you might be used to from tools like ReSharper for C#.
     url: https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck
+  - title: structalign
+    description: Shows how a struct's fields could be reordered to use less memory,
+      printing a diff instead of rewriting files.
+    url: https://github.com/peczenyj/structalign
+  - title: stto
+    description: A light-weight superfast line of code counter written in pure Go.
+    url: https://github.com/mainak55512/stto
   - title: testifylint
-    description: ''
+    description: A linter that checks usage of github.com/stretchr/testify.
     url: https://github.com/Antonboom/testifylint
   - title: tickgit
     description: CLI and go package for surfacing code comment TODOs (in any language)
@@ -8501,9 +9126,16 @@
   - title: gotutor
     description: Online Go Debugger & Visualizer.
     url: https://github.com/ahmedakef/gotutor
+  - title: govisual
+    description: Zero-config, pure-Go HTTP request visualizer & debugger for local
+      Go web development.
+    url: https://github.com/doganarif/govisual
   - title: igo
     description: An igo to go transpiler (new language features for Go language!)
     url: https://github.com/rocketlaunchr/igo
+  - title: lensm
+    description: Go assembly and source viewer.
+    url: https://github.com/loov/lensm
   - title: modver
     description: Compare two versions of a Go module to check the version-number change
       required (major, minor, or patchlevel), according to semver rules.
@@ -8552,6 +9184,10 @@
     - title: aurora
       description: Cross-platform web-based Beanstalkd queue server console.
       url: https://github.com/xuri/aurora
+    - title: aws-doctor
+      description: Diagnose AWS costs, detect idle resources, and optimize cloud spending
+        directly from your terminal 🩺 ☁️.
+      url: https://github.com/elC0mpa/aws-doctor
     - title: awsenv
       description: Small binary that loads Amazon (AWS) environment variables for
         a profile.
@@ -8572,12 +9208,18 @@
       description: A resiliency tool that helps applications tolerate random instance
         failures.
       url: https://github.com/Netflix/chaosmonkey
+    - title: colima
+      description: Container runtimes on macOS (and Linux) with minimal setup.
+      url: https://github.com/abiosoft/colima
     - title: Ddosify
       description: High-performance load testing tool, written in Golang.
       url: https://github.com/ddosify/ddosify
     - title: decompose
       description: tool to generate and process Docker containers connections graphs.
       url: https://github.com/s0rg/decompose
+    - title: Den
+      description: Self-hosted sandbox runtime for AI agents. Open-source E2B alternative.
+      url: https://github.com/us/den
     - title: DepCharge
       description: Helps orchestrating the execution of commands across the many dependencies
         in larger projects.
@@ -8714,6 +9356,9 @@
     - title: kcli
       description: Command line tool for inspecting kafka topics/partitions/messages.
       url: https://github.com/cswank/kcli
+    - title: kepfi
+      description: A smart alternative to rm with a recovery bin and storage tracking.
+      url: https://github.com/Knuspii/kepfi
     - title: kind
       description: Kubernetes IN Docker - local clusters for testing Kubernetes.
       url: https://github.com/kubernetes-sigs/kind
@@ -8728,6 +9373,10 @@
       description: KubeBlocks is an open-source control plane that runs and manages
         databases, message queues and other data infrastructure on K8s.
       url: https://github.com/apecloud/kubeblocks
+    - title: kubefwd
+      description: Bulk Kubernetes port forwarding with unique IPs per service for
+        local development.
+      url: https://github.com/txn2/kubefwd
     - title: kubernetes
       description: Container Cluster Manager from Google.
       url: https://github.com/kubernetes/kubernetes
@@ -8784,6 +9433,9 @@
     - title: Pewpew
       description: Flexible HTTP command line stress tester.
       url: https://github.com/bengadbois/pewpew
+    - title: pingtower
+      description: Lightweight self-hosted uptime monitor for websites and APIs.
+      url: https://github.com/crleonard/pingtower
     - title: PipeCD
       description: A GitOps-style continuous delivery platform that provides consistent
         deployment and operations experience for any applications.
@@ -8847,6 +9499,10 @@
         runtime based on an OpenAPI document (formerly known as swagger file) containing
         the definitions of the APIs exposed.
       url: https://github.com/dikhan/terraform-provider-openapi
+    - title: tickstem/uptime
+      description: Go client for HTTP uptime monitoring with SSL expiry alerts and
+        configurable response assertions.
+      url: https://github.com/tickstem/uptime
     - title: tf-profile
       description: Profiler for Terraform runs. Generate global stats, resource-level
         stats or visualizations.
@@ -8862,6 +9518,9 @@
         the ability of generically publishing/consuming protocol buffer and plain
         text events to/from Kafka.
       url: https://github.com/xitonix/trubka
+    - title: Updatecli
+      description: A universal declarative update policy engine.
+      url: https://github.com/updatecli/updatecli
     - title: uTask
       description: Automation engine that models and executes business processes declared
         in yaml.
@@ -8879,9 +9538,14 @@
     - title: winrm-cli
       description: Cli tool to remotely execute commands on Windows machines.
       url: https://github.com/masterzen/winrm-cli
+    - title: zerohand
+      description: A simple and efficient load testing tool for Web APIs.
+      url: https://github.com/nilpoona/zerohand
   - title: Other Software
-    description: Where to discover new Go libraries.
     links:
+    - title: Backrest
+      description: Web-based UI and orchestrator for restic backup.
+      url: https://github.com/garethgeorge/backrest
     - title: Better Go Playground
       description: Go playground with syntax highlight, code completion and other
         features.
@@ -8926,6 +9590,9 @@
       description: Easily and securely send files or folders from one computer to
         another.
       url: https://github.com/schollz/croc
+    - title: CrunchyCleaner
+      description: A lightweight, software cache cleanup tool for Windows & Linux.
+      url: https://github.com/Knuspii/CrunchyCleaner
     - title: Documize
       description: Modern wiki software that integrates data from SaaS tools.
       url: https://github.com/documize/community
@@ -8981,6 +9648,9 @@
       description: Interactive Go programming with Jupyter Notebooks (also works in
         VSCode, Binder and Google's Colab).
       url: https://github.com/janpfeifer/gonb
+    - title: GooseForum
+      description: Self-hosted forum platform built with Go, Vue, and Tailwind CSS.
+      url: https://github.com/leancodebox/GooseForum
     - title: Gor
       description: Http traffic replication tool, for replaying traffic from production
         to stage/dev environments in real-time.
@@ -9029,6 +9699,14 @@
     - title: LiteIDE
       description: LiteIDE is a simple, open source, cross-platform Go IDE.
       url: https://github.com/visualfc/liteide
+    - title: mac-cleanup-go
+      description: Preview-first TUI for cleaning macOS caches, logs, and temporary
+        files.
+      url: https://github.com/2ykwang/mac-cleanup-go
+    - title: mdv
+      description: CLI tool that renders Markdown files in the browser with live reload,
+        GFM, syntax highlighting, Mermaid diagrams, and PDF export.
+      url: https://github.com/Allra-Fintech/mdv
     - title: mockingjay
       description: Fake HTTP servers and consumer driven contracts from one configuration
         file. You can also make the server randomly misbehave to help do more realistic
@@ -9046,6 +9724,11 @@
     - title: nes
       description: Nintendo Entertainment System (NES) emulator written in Go.
       url: https://github.com/fogleman/nes
+    - title: onWatch
+      description: Monitor AI API quotas across providers locally with historical
+        tracking, alerts, and a web dashboard to avoid surprise throttling and budget
+        overruns.
+      url: https://github.com/onllm-dev/onWatch
     - title: Orbit
       description: A simple tool for running commands and generating files from templates.
       url: https://github.com/gulien/orbit
@@ -9103,6 +9786,10 @@
         and week, current weather, some self care advice, a joke, and you current
         todo list tasks.
       url: https://github.com/DMcP89/tinycare-tui
+    - title: tldx
+      description: Bulk domain availability checker using RDAP, DNS, and WHOIS fallback
+        with keyword permutation generation.
+      url: https://github.com/brandonyoungdev/tldx
     - title: toxiproxy
       description: Proxy to simulate network and system conditions for automated tests.
       url: https://github.com/shopify/toxiproxy
@@ -9183,6 +9870,9 @@
   - title: speedtest-resize
     description: Compare various Image resize algorithms for the Go language.
     url: https://github.com/fawick/speedtest-resize
+  - title: vizb
+    description: A CLI tool to visualize Go benchmark data in 4D.
+    url: https://github.com/goptics/vizb
 - title: Conferences
   links:
   - title: GoCon
@@ -9194,18 +9884,21 @@
   - title: GoLab
     description: Florence, Italy.
     url: https://golab.io/
-  - title: GopherChina
-    description: Shanghai, China.
-    url: https://gopherchina.org
   - title: GopherCon
     description: Varied Locations Each Year, USA.
     url: https://www.gophercon.com/
+  - title: GopherCon Africa
+    description: Nairobi, Kenya.
+    url: https://gophercon.africa/
   - title: GopherCon Australia
     description: Sydney, Australia.
     url: https://gophercon.com.au/
   - title: GopherCon Brazil
     description: Florianópolis, Brazil.
     url: https://gopherconbr.org
+  - title: GopherCon China
+    description: Shanghai, China.
+    url: https://gophercon.com.cn
   - title: GopherCon Europe
     description: Berlin, Germany.
     url: https://gophercon.eu/
@@ -9388,7 +10081,6 @@
     description: Gophers by Aurélie Vache.
     url: https://github.com/scraly/gophers
 - title: Meetups
-  description: Add the group of your city/country here (send PR)
   links:
   - title: Basel Go Meetup
     description: ''
@@ -9406,10 +10098,10 @@
     description: ''
     url: https://www.meetup.com/Brisbane-Golang-Meetup/
   - title: Bärner Go Meetup - Berne, Switzerland
-    description: Berne, Switzerland
+    description: ''
     url: https://www.meetup.com/berner-go-meetup/
   - title: Go Ireland - Dublin
-    description: Dublin
+    description: ''
     url: https://www.meetup.com/goireland/
   - title: Go Language NYC
     description: ''
@@ -9433,7 +10125,7 @@
     description: ''
     url: https://www.meetup.com/gobridge/
   - title: GoCracow - Krakow, Poland
-    description: Krakow, Poland
+    description: ''
     url: https://www.meetup.com/GoCracow/
   - title: GoJakarta
     description: ''
@@ -9454,7 +10146,7 @@
     description: ''
     url: https://www.meetup.com/Golang-Bangalore/
   - title: Golang Belo Horizonte - Brazil
-    description: Brazil
+    description: ''
     url: https://www.meetup.com/go-belo-horizonte/
   - title: Golang Boston
     description: ''
@@ -9469,7 +10161,7 @@
     description: ''
     url: https://www.meetup.com/Go-Cph/
   - title: Golang Curitiba - Brazil
-    description: Brazil
+    description: ''
     url: https://www.meetup.com/GolangCWB/
   - title: Golang DC, Arlington, VA
     description: ''
@@ -9484,7 +10176,7 @@
     description: ''
     url: https://www.meetup.com/Gurgaon-Go-Meetup/
   - title: Golang Hamburg - Germany
-    description: Germany
+    description: ''
     url: https://www.meetup.com/Go-User-Group-Hamburg/
   - title: Golang Israel
     description: ''
@@ -9493,7 +10185,7 @@
     description: ''
     url: https://www.meetup.com/Golang-Kathmandu/
   - title: Golang Lima - Peru
-    description: Peru
+    description: ''
     url: https://www.meetup.com/Golang-Peru/
   - title: Golang Lyon
     description: ''
@@ -9535,7 +10227,7 @@
     description: ''
     url: https://www.meetup.com/golang-syd/
   - title: Golang São Paulo - Brazil
-    description: Brazil
+    description: ''
     url: https://www.meetup.com/golangbr/
   - title: Golang Taipei
     description: ''
@@ -9559,7 +10251,7 @@
     description: ''
     url: https://www.meetup.com/Golang-Moscow/
   - title: GoSF - San Francisco, CA
-    description: San Francisco, CA
+    description: ''
     url: https://www.meetup.com/golangsf
   - title: Istanbul Golang
     description: ''
@@ -9580,10 +10272,10 @@
     description: ''
     url: https://www.meetup.com/utahgophers/
   - title: Women Who Go - San Francisco, CA
-    description: San Francisco, CA
+    description: ''
     url: https://www.meetup.com/Women-Who-Go/
   - title: Zürich Gophers - Zurich, Switzerland
-    description: Zurich, Switzerland
+    description: ''
     url: https://www.meetup.com/zurich-gophers/
 - title: Style Guides
   links:
@@ -9710,9 +10402,6 @@
   - title: golang-nuts
     description: Go mailing list.
     url: https://groups.google.com/forum/#!forum/golang-nuts
-  - title: Google Plus Community
-    description: 'The Google+ community for #golang enthusiasts.'
-    url: https://plus.google.com/communities/114112804251407510571
   - title: Gopher Community Chat
     description: Join Our New Slack Community For Gophers (Understand how it came).
     url: https://invite.slack.golangbridge.org
@@ -9730,7 +10419,7 @@
     description: Learn Go concepts with illustrations.
     url: https://blog.learngoprogramming.com
   - title: Libs.tech
-    description: ''
+    description: Awesome Go libraries and hidden gems
     url: https://libs.tech/go
   - title: Made with Golang
     description: ''
@@ -9745,7 +10434,7 @@
     description: Good place to find new Go libraries.
     url: https://github.com/trending?l=go
   - title: TutorialEdge - Golang
-    description: Golang
+    description: ''
     url: https://tutorialedge.net/course/golang/
   subcategories:
   - title: Tutorials
@@ -9813,7 +10502,7 @@
       description: Learn Go programming.
       url: https://www.tutorialspoint.com/go/index.htm
     - title: Go WebAssembly Tutorial - Building a Simple Calculator
-      description: Building a Simple Calculator
+      description: ''
       url: https://tutorialedge.net/golang/go-webassembly-tutorial/
     - title: go-clean-template
       description: Clean Architecture template for Golang services.

@@ -5,12 +5,12 @@ This is a testing playground for [0xmzn/awelist](https://github.com/0xmzn/awelis
 ## {{ .Title }}
 
 {{- if .Description }}
-{{ .Description }}
+_{{ .Description }}_
 {{- end }}
 
 {{- if .Links }}
 {{ range .Links }}
-* [{{ .Title }}]({{ .URL }}) {{- if .RepoMetadata }} / ⭐ {{ .RepoMetadata.Stars }}{{- end }} - {{ .Description }}
+- [{{ .Title }}]({{ .URL }}){{- if .RepoMetadata }} ⭐ {{ .RepoMetadata.Stars }} - Updated {{ .RepoMetadata.LastUpdate.Format "Jan 2006" }}{{- if .RepoMetadata.IsArchived }} - ⚠️ Archived{{- end }}{{- end }}: {{ .Description }}
 {{- end }}
 {{- end }}
 
@@ -19,12 +19,12 @@ This is a testing playground for [0xmzn/awelist](https://github.com/0xmzn/awelis
 ### {{ .Title }}
 
 {{- if .Description }}
-{{ .Description }}
+_{{ .Description }}_
 {{- end }}
 
 {{- if .Links }}
 {{ range .Links }}
-* [{{ .Title }}]({{ .URL }}) {{- if .RepoMetadata }} / ⭐ {{ .RepoMetadata.Stars }}{{- end }} - {{ .Description }}
+- [{{ .Title }}]({{ .URL }}){{- if .RepoMetadata }} ⭐ {{ .RepoMetadata.Stars }} - Updated {{ .RepoMetadata.LastUpdate.Format "Jan 2006" }}{{- if .RepoMetadata.IsArchived }} - ⚠️ Archived{{- end }}{{- end }}: {{ .Description }}
 {{- end }}
 {{- end }}
 
