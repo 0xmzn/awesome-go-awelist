@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "updated_at": "2026-07-04T06:46:44.206710493Z",
+    "updated_at": "2026-07-04T10:05:26.588104094Z",
     "provider_metrics": [
       {
         "provider": "GitLab",
-        "attempted": 16,
-        "successful": 12,
+        "attempted": 4,
+        "successful": 0,
         "failed": 4
       },
       {
         "provider": "GitHub",
-        "attempted": 2698,
-        "successful": 2683,
+        "attempted": 13,
+        "successful": 0,
         "failed": 13
       }
     ],
@@ -9356,7 +9356,7 @@
             "stars": 26,
             "is_archived": false,
             "last_update": "2026-06-02T13:50:39Z",
-            "enriched_at": "2026-07-03T02:37:59.086508413Z"
+            "enriched_at": "2026-07-04T06:46:05.778515282Z"
           }
         },
         {
@@ -20156,10 +20156,10 @@
           "description": "lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.",
           "url": "https://github.com/starwalkn/kono",
           "repo_metadata": {
-            "stars": 12,
+            "stars": 13,
             "is_archived": false,
             "last_update": "2026-06-29T07:50:10Z",
-            "enriched_at": "2026-07-03T02:37:47.628620054Z"
+            "enriched_at": "2026-07-04T06:45:55.258298396Z"
           }
         },
         {
