@@ -1396,7 +1396,7 @@ _Libraries for generating and working with log files._
 - [slog](https://github.com/gookit/slog) ⭐ 546 - Updated Jun 2026: Lightweight, configurable, extensible logger for Go.
 - [slog-formatter](https://github.com/samber/slog-formatter) ⭐ 219 - Updated Jul 2026: Common formatters for slog and helpers to build your own.
 - [slog-multi](https://github.com/samber/slog-multi) ⭐ 630 - Updated Jul 2026: Chain of slog.Handler (pipeline, fanout...).
-- [slogor](https://gitlab.com/greyxor/slogor) ⭐ 18 - Updated Jun 2026: A colorful slog handler.
+- [slogor](https://gitlab.com/greyxor/slogor) ⭐ 18 - Updated Jul 2026: A colorful slog handler.
 - [spew](https://github.com/davecgh/go-spew) ⭐ 6397 - Updated Aug 2018: Implements a deep pretty printer for Go data structures to aid in debugging.
 - [sqldb-logger](https://github.com/simukti/sqldb-logger) ⭐ 382 - Updated Jan 2023: A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
 - [stdlog](https://github.com/alexcesaro/log) ⭐ 48 - Updated Sep 2015: Stdlog is an object-oriented library providing leveled logging. It is very useful for cron jobs.
@@ -2723,7 +2723,7 @@ _Libraries for validation._
 ## Version Control
 _Libraries for version control._
 
-- [cli](https://gitlab.com/gitlab-org/cli) ⭐ 1045 - Updated Jul 2026: An open-source GitLab command line tool bringing GitLab's cool features to your command line.
+- [cli](https://gitlab.com/gitlab-org/cli) ⭐ 1047 - Updated Jul 2026: An open-source GitLab command line tool bringing GitLab's cool features to your command line.
 - [froggit-go](https://github.com/jfrog/froggit-go) ⭐ 54 - Updated Jun 2026: Froggit-Go is a Go library, allowing to perform actions on VCS providers.
 - [ggc](https://github.com/bmf-san/ggc) ⭐ 284 - Updated Jun 2026: A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
 - [git-courer](https://github.com/Alejandro-M-P/git-courer) ⭐ 43 - Updated Jul 2026: Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage.
