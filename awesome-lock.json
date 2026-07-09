@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "updated_at": "2026-07-09T10:51:02.048583984Z",
+    "updated_at": "2026-07-09T14:49:19.458732665Z",
     "provider_metrics": [
       {
         "provider": "GitLab",
-        "attempted": 4,
-        "successful": 0,
+        "attempted": 16,
+        "successful": 12,
         "failed": 4
       },
       {
@@ -6325,7 +6325,7 @@
                 "stars": 12,
                 "is_archived": false,
                 "last_update": "2024-09-10T08:35:40.687Z",
-                "enriched_at": "2026-07-08T13:54:19.292879441Z"
+                "enriched_at": "2026-07-09T14:49:15.853962584Z"
               }
             },
             {
@@ -7930,7 +7930,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2026-04-12T17:01:30.479Z",
-            "enriched_at": "2026-07-08T13:54:19.607282276Z"
+            "enriched_at": "2026-07-09T14:49:16.380452191Z"
           }
         },
         {
@@ -8107,7 +8107,7 @@
             "stars": 4,
             "is_archived": false,
             "last_update": "2026-05-18T04:42:32.765Z",
-            "enriched_at": "2026-07-08T13:54:19.998044779Z"
+            "enriched_at": "2026-07-09T14:49:16.733565921Z"
           }
         },
         {
@@ -13365,7 +13365,7 @@
             "stars": 18,
             "is_archived": false,
             "last_update": "2026-07-08T13:36:33.194Z",
-            "enriched_at": "2026-07-08T13:54:20.603051512Z"
+            "enriched_at": "2026-07-09T14:49:17.107302825Z"
           }
         },
         {
@@ -14825,7 +14825,7 @@
                 "stars": 1,
                 "is_archived": false,
                 "last_update": "2023-12-16T22:03:36.768Z",
-                "enriched_at": "2026-07-08T13:54:20.985074006Z"
+                "enriched_at": "2026-07-09T14:49:17.308877704Z"
               }
             },
             {
@@ -15317,7 +15317,7 @@
                 "stars": 10,
                 "is_archived": false,
                 "last_update": "2021-05-23T19:34:26.043Z",
-                "enriched_at": "2026-07-08T13:54:21.564948074Z"
+                "enriched_at": "2026-07-09T14:49:17.563906545Z"
               }
             },
             {
@@ -21434,7 +21434,7 @@
                 "stars": 1,
                 "is_archived": false,
                 "last_update": "2023-02-08T18:03:11.636Z",
-                "enriched_at": "2026-07-08T13:54:21.827697658Z"
+                "enriched_at": "2026-07-09T14:49:17.767208739Z"
               }
             },
             {
@@ -23120,7 +23120,7 @@
             "stars": 8,
             "is_archived": false,
             "last_update": "2025-08-04T00:13:40.622Z",
-            "enriched_at": "2026-07-08T13:54:22.174720539Z"
+            "enriched_at": "2026-07-09T14:49:17.98266369Z"
           }
         },
         {
@@ -23164,7 +23164,7 @@
             "stars": 0,
             "is_archived": false,
             "last_update": "2024-04-03T12:14:13.867Z",
-            "enriched_at": "2026-07-08T13:54:22.439653527Z"
+            "enriched_at": "2026-07-09T14:49:18.192632145Z"
           }
         },
         {
@@ -26175,10 +26175,10 @@
           "description": "An open-source GitLab command line tool bringing GitLab's cool features to your command line.",
           "url": "https://gitlab.com/gitlab-org/cli",
           "repo_metadata": {
-            "stars": 1047,
+            "stars": 1048,
             "is_archived": false,
-            "last_update": "2026-07-08T13:20:11.661Z",
-            "enriched_at": "2026-07-08T13:54:22.965656962Z"
+            "last_update": "2026-07-09T12:46:51.029Z",
+            "enriched_at": "2026-07-09T14:49:18.544459099Z"
           }
         },
         {
@@ -27884,7 +27884,7 @@
             "stars": 2,
             "is_archived": false,
             "last_update": "2021-07-24T03:14:20.469Z",
-            "enriched_at": "2026-07-08T13:54:23.43554808Z"
+            "enriched_at": "2026-07-09T14:49:18.937822857Z"
           }
         },
         {
@@ -28478,7 +28478,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2019-08-01T21:17:51.965Z",
-            "enriched_at": "2026-07-08T13:54:23.696532728Z"
+            "enriched_at": "2026-07-09T14:49:19.166402362Z"
           }
         },
         {
