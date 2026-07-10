@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "updated_at": "2026-07-10T14:13:38.363770552Z",
+    "updated_at": "2026-07-10T17:44:34.850762339Z",
     "provider_metrics": [
+      {
+        "provider": "GitLab",
+        "attempted": 16,
+        "successful": 12,
+        "failed": 4
+      },
       {
         "provider": "GitHub",
         "attempted": 13,
         "successful": 0,
         "failed": 13
-      },
-      {
-        "provider": "GitLab",
-        "attempted": 4,
-        "successful": 0,
-        "failed": 4
       }
     ],
     "failed_links": {
@@ -6325,7 +6325,7 @@
                 "stars": 12,
                 "is_archived": false,
                 "last_update": "2024-09-10T08:35:40.687Z",
-                "enriched_at": "2026-07-09T14:49:15.853962584Z"
+                "enriched_at": "2026-07-10T17:44:29.351433685Z"
               }
             },
             {
@@ -7930,7 +7930,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2026-04-12T17:01:30.479Z",
-            "enriched_at": "2026-07-09T14:49:16.380452191Z"
+            "enriched_at": "2026-07-10T17:44:29.649928939Z"
           }
         },
         {
@@ -8107,7 +8107,7 @@
             "stars": 4,
             "is_archived": false,
             "last_update": "2026-05-18T04:42:32.765Z",
-            "enriched_at": "2026-07-09T14:49:16.733565921Z"
+            "enriched_at": "2026-07-10T17:44:29.963475466Z"
           }
         },
         {
@@ -13365,7 +13365,7 @@
             "stars": 18,
             "is_archived": false,
             "last_update": "2026-07-08T13:36:33.194Z",
-            "enriched_at": "2026-07-09T14:49:17.107302825Z"
+            "enriched_at": "2026-07-10T17:44:30.616332726Z"
           }
         },
         {
@@ -14825,7 +14825,7 @@
                 "stars": 1,
                 "is_archived": false,
                 "last_update": "2023-12-16T22:03:36.768Z",
-                "enriched_at": "2026-07-09T14:49:17.308877704Z"
+                "enriched_at": "2026-07-10T17:44:30.956518431Z"
               }
             },
             {
@@ -15317,7 +15317,7 @@
                 "stars": 10,
                 "is_archived": false,
                 "last_update": "2021-05-23T19:34:26.043Z",
-                "enriched_at": "2026-07-09T14:49:17.563906545Z"
+                "enriched_at": "2026-07-10T17:44:31.373596769Z"
               }
             },
             {
@@ -21434,7 +21434,7 @@
                 "stars": 1,
                 "is_archived": false,
                 "last_update": "2023-02-08T18:03:11.636Z",
-                "enriched_at": "2026-07-09T14:49:17.767208739Z"
+                "enriched_at": "2026-07-10T17:44:31.716442443Z"
               }
             },
             {
@@ -23120,7 +23120,7 @@
             "stars": 8,
             "is_archived": false,
             "last_update": "2025-08-04T00:13:40.622Z",
-            "enriched_at": "2026-07-09T14:49:17.98266369Z"
+            "enriched_at": "2026-07-10T17:44:32.397994863Z"
           }
         },
         {
@@ -23164,7 +23164,7 @@
             "stars": 0,
             "is_archived": false,
             "last_update": "2024-04-03T12:14:13.867Z",
-            "enriched_at": "2026-07-09T14:49:18.192632145Z"
+            "enriched_at": "2026-07-10T17:44:32.747765054Z"
           }
         },
         {
@@ -26177,8 +26177,8 @@
           "repo_metadata": {
             "stars": 1048,
             "is_archived": false,
-            "last_update": "2026-07-09T12:46:51.029Z",
-            "enriched_at": "2026-07-09T14:49:18.544459099Z"
+            "last_update": "2026-07-10T17:01:12.893Z",
+            "enriched_at": "2026-07-10T17:44:33.219225311Z"
           }
         },
         {
@@ -27884,7 +27884,7 @@
             "stars": 2,
             "is_archived": false,
             "last_update": "2021-07-24T03:14:20.469Z",
-            "enriched_at": "2026-07-09T14:49:18.937822857Z"
+            "enriched_at": "2026-07-10T17:44:34.019660723Z"
           }
         },
         {
@@ -28478,7 +28478,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2019-08-01T21:17:51.965Z",
-            "enriched_at": "2026-07-09T14:49:19.166402362Z"
+            "enriched_at": "2026-07-10T17:44:34.485692294Z"
           }
         },
         {
