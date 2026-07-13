@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "updated_at": "2026-07-13T17:51:49.211343341Z",
+    "updated_at": "2026-07-13T19:19:03.878033522Z",
     "provider_metrics": [
       {
         "provider": "GitLab",
-        "attempted": 4,
-        "successful": 0,
+        "attempted": 16,
+        "successful": 12,
         "failed": 4
       },
       {
@@ -6325,7 +6325,7 @@
                 "stars": 12,
                 "is_archived": false,
                 "last_update": "2024-09-10T08:35:40.687Z",
-                "enriched_at": "2026-07-12T18:59:42.312048592Z"
+                "enriched_at": "2026-07-13T19:18:58.925213429Z"
               }
             },
             {
@@ -7930,7 +7930,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2026-04-12T17:01:30.479Z",
-            "enriched_at": "2026-07-12T18:59:42.53848616Z"
+            "enriched_at": "2026-07-13T19:18:59.34100231Z"
           }
         },
         {
@@ -8107,7 +8107,7 @@
             "stars": 4,
             "is_archived": false,
             "last_update": "2026-05-18T04:42:32.765Z",
-            "enriched_at": "2026-07-12T18:59:42.863570432Z"
+            "enriched_at": "2026-07-13T19:18:59.694763136Z"
           }
         },
         {
@@ -13365,7 +13365,7 @@
             "stars": 18,
             "is_archived": false,
             "last_update": "2026-07-08T13:36:33.194Z",
-            "enriched_at": "2026-07-12T18:59:43.168127525Z"
+            "enriched_at": "2026-07-13T19:19:00.171825909Z"
           }
         },
         {
@@ -14825,7 +14825,7 @@
                 "stars": 1,
                 "is_archived": false,
                 "last_update": "2023-12-16T22:03:36.768Z",
-                "enriched_at": "2026-07-12T18:59:43.325773982Z"
+                "enriched_at": "2026-07-13T19:19:00.450147925Z"
               }
             },
             {
@@ -15317,7 +15317,7 @@
                 "stars": 10,
                 "is_archived": false,
                 "last_update": "2021-05-23T19:34:26.043Z",
-                "enriched_at": "2026-07-12T18:59:43.565771477Z"
+                "enriched_at": "2026-07-13T19:19:00.669522099Z"
               }
             },
             {
@@ -21434,7 +21434,7 @@
                 "stars": 1,
                 "is_archived": false,
                 "last_update": "2023-02-08T18:03:11.636Z",
-                "enriched_at": "2026-07-12T18:59:43.830365634Z"
+                "enriched_at": "2026-07-13T19:19:01.191711703Z"
               }
             },
             {
@@ -23120,7 +23120,7 @@
             "stars": 8,
             "is_archived": false,
             "last_update": "2025-08-04T00:13:40.622Z",
-            "enriched_at": "2026-07-12T18:59:44.054477263Z"
+            "enriched_at": "2026-07-13T19:19:01.581792872Z"
           }
         },
         {
@@ -23164,7 +23164,7 @@
             "stars": 0,
             "is_archived": false,
             "last_update": "2024-04-03T12:14:13.867Z",
-            "enriched_at": "2026-07-12T18:59:44.844986602Z"
+            "enriched_at": "2026-07-13T19:19:01.894079834Z"
           }
         },
         {
@@ -26177,8 +26177,8 @@
           "repo_metadata": {
             "stars": 1049,
             "is_archived": false,
-            "last_update": "2026-07-11T12:13:14.261Z",
-            "enriched_at": "2026-07-12T18:59:45.123419841Z"
+            "last_update": "2026-07-13T18:41:18.472Z",
+            "enriched_at": "2026-07-13T19:19:02.377619531Z"
           }
         },
         {
@@ -27884,7 +27884,7 @@
             "stars": 2,
             "is_archived": false,
             "last_update": "2021-07-24T03:14:20.469Z",
-            "enriched_at": "2026-07-12T18:59:45.416095812Z"
+            "enriched_at": "2026-07-13T19:19:03.117150854Z"
           }
         },
         {
@@ -28478,7 +28478,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2019-08-01T21:17:51.965Z",
-            "enriched_at": "2026-07-12T18:59:45.609461848Z"
+            "enriched_at": "2026-07-13T19:19:03.450748081Z"
           }
         },
         {
