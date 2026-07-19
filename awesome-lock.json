@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "updated_at": "2026-07-19T02:21:25.545741268Z",
+    "updated_at": "2026-07-19T06:29:04.2104978Z",
     "provider_metrics": [
-      {
-        "provider": "GitLab",
-        "attempted": 11,
-        "successful": 7,
-        "failed": 4
-      },
       {
         "provider": "GitHub",
         "attempted": 13,
         "successful": 0,
         "failed": 13
+      },
+      {
+        "provider": "GitLab",
+        "attempted": 9,
+        "successful": 5,
+        "failed": 4
       }
     ],
     "failed_links": {
@@ -23120,7 +23120,7 @@
             "stars": 8,
             "is_archived": false,
             "last_update": "2025-08-04T00:13:40.622Z",
-            "enriched_at": "2026-07-18T06:02:12.714132184Z"
+            "enriched_at": "2026-07-19T06:29:02.79443964Z"
           }
         },
         {
@@ -23164,7 +23164,7 @@
             "stars": 0,
             "is_archived": false,
             "last_update": "2024-04-03T12:14:13.867Z",
-            "enriched_at": "2026-07-18T06:02:12.88411844Z"
+            "enriched_at": "2026-07-19T06:29:03.073636887Z"
           }
         },
         {
@@ -26177,8 +26177,8 @@
           "repo_metadata": {
             "stars": 1050,
             "is_archived": false,
-            "last_update": "2026-07-18T02:59:50.053Z",
-            "enriched_at": "2026-07-18T06:02:13.237663711Z"
+            "last_update": "2026-07-19T04:58:55.083Z",
+            "enriched_at": "2026-07-19T06:29:03.482828861Z"
           }
         },
         {
@@ -27884,7 +27884,7 @@
             "stars": 2,
             "is_archived": false,
             "last_update": "2021-07-24T03:14:20.469Z",
-            "enriched_at": "2026-07-18T06:02:13.627492081Z"
+            "enriched_at": "2026-07-19T06:29:03.918222441Z"
           }
         },
         {
@@ -28478,7 +28478,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2019-08-01T21:17:51.965Z",
-            "enriched_at": "2026-07-18T06:02:13.808146346Z"
+            "enriched_at": "2026-07-19T06:29:04.210479736Z"
           }
         },
         {
