@@ -2112,7 +2112,7 @@ _Libraries and tools for binary serialization._
 - [go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) ⭐ 150 - Updated Nov 2024: Simple Reverse Proxy with Caching, written in Go, using Redis.
 - [gondola](https://github.com/bmf-san/gondola) ⭐ 11 - Updated Jun 2026: A YAML based golang reverse proxy.
 - [goshs](https://github.com/patrickhener/goshs) ⭐ 933 - Updated Jul 2026: SimpleHTTPServer replacement with file upload/download, WebDAV, SFTP, SMB, TLS, authentication, and share links.
-- [Kono](https://github.com/starwalkn/kono) ⭐ 19 - Updated Jul 2026: lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.
+- [Kono](https://github.com/starwalkn/kono) ⭐ 20 - Updated Jul 2026: lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.
 - [lets-proxy2](https://github.com/rekby/lets-proxy2) ⭐ 103 - Updated Apr 2024: Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
 - [minio](https://github.com/minio/minio) ⭐ 61351 - Updated Feb 2026 - ⚠️ Archived: Minio is a distributed object storage server.
 - [Moxy](https://github.com/sinhashubham95/moxy) ⭐ 15 - Updated May 2022: Moxy is a simple mocker and proxy application server, you can create mock endpoints as well as proxy requests in case no mock exists for the endpoint.
