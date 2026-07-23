@@ -2723,7 +2723,7 @@ _Libraries for validation._
 ## Version Control
 _Libraries for version control._
 
-- [cli](https://gitlab.com/gitlab-org/cli) ⭐ 1053 - Updated Jul 2026: An open-source GitLab command line tool bringing GitLab's cool features to your command line.
+- [cli](https://gitlab.com/gitlab-org/cli) ⭐ 1054 - Updated Jul 2026: An open-source GitLab command line tool bringing GitLab's cool features to your command line.
 - [froggit-go](https://github.com/jfrog/froggit-go) ⭐ 54 - Updated Jul 2026: Froggit-Go is a Go library, allowing to perform actions on VCS providers.
 - [ggc](https://github.com/bmf-san/ggc) ⭐ 284 - Updated Jul 2026: A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
 - [git-courer](https://github.com/Alejandro-M-P/git-courer) ⭐ 45 - Updated Jul 2026: Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage.
