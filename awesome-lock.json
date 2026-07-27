@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "updated_at": "2026-07-27T14:23:55.880941563Z",
+    "updated_at": "2026-07-27T17:38:58.105545652Z",
     "provider_metrics": [
       {
         "provider": "GitLab",
-        "attempted": 11,
-        "successful": 7,
+        "attempted": 9,
+        "successful": 5,
         "failed": 4
       },
       {
@@ -23120,7 +23120,7 @@
             "stars": 8,
             "is_archived": false,
             "last_update": "2025-08-04T00:13:40.622Z",
-            "enriched_at": "2026-07-26T16:54:18.587277793Z"
+            "enriched_at": "2026-07-27T17:38:56.333542659Z"
           }
         },
         {
@@ -23164,7 +23164,7 @@
             "stars": 0,
             "is_archived": false,
             "last_update": "2024-04-03T12:14:13.867Z",
-            "enriched_at": "2026-07-26T16:54:18.894665774Z"
+            "enriched_at": "2026-07-27T17:38:56.557983349Z"
           }
         },
         {
@@ -26175,10 +26175,10 @@
           "description": "An open-source GitLab command line tool bringing GitLab's cool features to your command line.",
           "url": "https://gitlab.com/gitlab-org/cli",
           "repo_metadata": {
-            "stars": 1056,
+            "stars": 1059,
             "is_archived": false,
-            "last_update": "2026-07-26T15:37:16.713Z",
-            "enriched_at": "2026-07-26T16:54:19.163841122Z"
+            "last_update": "2026-07-27T17:18:06.41Z",
+            "enriched_at": "2026-07-27T17:38:56.912030305Z"
           }
         },
         {
@@ -27884,7 +27884,7 @@
             "stars": 2,
             "is_archived": false,
             "last_update": "2021-07-24T03:14:20.469Z",
-            "enriched_at": "2026-07-26T16:54:19.440164425Z"
+            "enriched_at": "2026-07-27T17:38:57.395421083Z"
           }
         },
         {
@@ -28478,7 +28478,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2019-08-01T21:17:51.965Z",
-            "enriched_at": "2026-07-26T16:54:19.734784835Z"
+            "enriched_at": "2026-07-27T17:38:57.809089981Z"
           }
         },
         {
