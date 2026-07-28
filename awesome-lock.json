@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "updated_at": "2026-07-28T13:55:47.334309012Z",
+    "updated_at": "2026-07-28T16:03:56.932869787Z",
     "provider_metrics": [
-      {
-        "provider": "GitLab",
-        "attempted": 4,
-        "successful": 0,
-        "failed": 4
-      },
       {
         "provider": "GitHub",
         "attempted": 13,
         "successful": 0,
         "failed": 13
+      },
+      {
+        "provider": "GitLab",
+        "attempted": 11,
+        "successful": 7,
+        "failed": 4
       }
     ],
     "failed_links": {
@@ -6325,7 +6325,7 @@
                 "stars": 12,
                 "is_archived": false,
                 "last_update": "2024-09-10T08:35:40.687Z",
-                "enriched_at": "2026-07-27T14:23:53.401463583Z"
+                "enriched_at": "2026-07-28T16:03:54.638488357Z"
               }
             },
             {
@@ -7930,7 +7930,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2026-04-12T17:01:30.479Z",
-            "enriched_at": "2026-07-27T14:23:53.704504064Z"
+            "enriched_at": "2026-07-28T16:03:54.955847409Z"
           }
         },
         {
@@ -8107,7 +8107,7 @@
             "stars": 4,
             "is_archived": false,
             "last_update": "2026-05-18T04:42:32.765Z",
-            "enriched_at": "2026-07-27T14:23:53.943308434Z"
+            "enriched_at": "2026-07-28T16:03:55.258471169Z"
           }
         },
         {
@@ -13365,7 +13365,7 @@
             "stars": 18,
             "is_archived": false,
             "last_update": "2026-07-24T20:30:43.679Z",
-            "enriched_at": "2026-07-27T14:23:54.361393078Z"
+            "enriched_at": "2026-07-28T16:03:55.738702566Z"
           }
         },
         {
@@ -14825,7 +14825,7 @@
                 "stars": 1,
                 "is_archived": false,
                 "last_update": "2023-12-16T22:03:36.768Z",
-                "enriched_at": "2026-07-27T14:23:54.617394821Z"
+                "enriched_at": "2026-07-28T16:03:56.045979078Z"
               }
             },
             {
@@ -15317,7 +15317,7 @@
                 "stars": 10,
                 "is_archived": false,
                 "last_update": "2021-05-23T19:34:26.043Z",
-                "enriched_at": "2026-07-27T14:23:54.873068348Z"
+                "enriched_at": "2026-07-28T16:03:56.285152623Z"
               }
             },
             {
@@ -21434,7 +21434,7 @@
                 "stars": 1,
                 "is_archived": false,
                 "last_update": "2023-02-08T18:03:11.636Z",
-                "enriched_at": "2026-07-27T14:23:55.124792092Z"
+                "enriched_at": "2026-07-28T16:03:56.568501594Z"
               }
             },
             {
