@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "updated_at": "2026-08-05T02:06:03.017828467Z",
+    "updated_at": "2026-08-05T06:24:07.196158688Z",
     "provider_metrics": [
       {
         "provider": "GitLab",
-        "attempted": 4,
-        "successful": 0,
+        "attempted": 9,
+        "successful": 5,
         "failed": 4
       },
       {
@@ -23121,7 +23121,7 @@
             "stars": 8,
             "is_archived": false,
             "last_update": "2025-08-04T00:13:40.622Z",
-            "enriched_at": "2026-08-04T06:23:51.743621414Z"
+            "enriched_at": "2026-08-05T06:24:04.638688605Z"
           }
         },
         {
@@ -23165,7 +23165,7 @@
             "stars": 0,
             "is_archived": false,
             "last_update": "2024-04-03T12:14:13.867Z",
-            "enriched_at": "2026-08-04T06:23:52.074147705Z"
+            "enriched_at": "2026-08-05T06:24:05.732784789Z"
           }
         },
         {
@@ -26178,8 +26178,8 @@
           "repo_metadata": {
             "stars": 1063,
             "is_archived": false,
-            "last_update": "2026-08-04T04:49:04.343Z",
-            "enriched_at": "2026-08-04T06:23:52.487375573Z"
+            "last_update": "2026-08-05T05:16:46.12Z",
+            "enriched_at": "2026-08-05T06:24:06.113066823Z"
           }
         },
         {
@@ -27885,7 +27885,7 @@
             "stars": 2,
             "is_archived": false,
             "last_update": "2021-07-24T03:14:20.469Z",
-            "enriched_at": "2026-08-04T06:23:52.941437333Z"
+            "enriched_at": "2026-08-05T06:24:06.53012116Z"
           }
         },
         {
@@ -28479,7 +28479,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2019-08-01T21:17:51.965Z",
-            "enriched_at": "2026-08-04T06:23:53.23157522Z"
+            "enriched_at": "2026-08-05T06:24:06.833511245Z"
           }
         },
         {
