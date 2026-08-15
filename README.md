@@ -3158,34 +3158,34 @@ _Software written in Go._
 - [Gokapi](https://github.com/Forceu/gokapi) ⭐ 2833 - Updated Jul 2026: Lightweight server to share files, which expire after a set amount of downloads or days. Similar to Firefox Send, but without public upload.
 - [GoLand](https://jetbrains.com/go): Full featured cross-platform Go IDE.
 - [GoNB](https://github.com/janpfeifer/gonb) ⭐ 1037 - Updated Jul 2026: Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
-- [GooseForum](https://github.com/leancodebox/GooseForum) ⭐ 130 - Updated Aug 2026: Self-hosted forum platform built with Go, Vue, and Tailwind CSS.
-- [Gor](https://github.com/buger/gor) ⭐ 19309 - Updated Apr 2025: Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time.
+- [GooseForum](https://github.com/leancodebox/GooseForum) ⭐ 131 - Updated Aug 2026: Self-hosted forum platform built with Go, Vue, and Tailwind CSS.
+- [Gor](https://github.com/buger/gor) ⭐ 19310 - Updated Apr 2025: Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time.
 - [Guora](https://github.com/meloalright/guora) ⭐ 673 - Updated Jan 2023: A self-hosted Quora like web application written in Go.
 - [hoofli](https://github.com/dnnrly/hoofli) ⭐ 11 - Updated Aug 2024: Generate PlantUML diagrams from Chrome or Firefox network inspections.
 - [hotswap](https://github.com/edwingeng/hotswap) ⭐ 425 - Updated May 2024: A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure.
 - [hugo](https://gohugo.io/): Fast and Modern Static Website Engine.
 - [ide](https://github.com/thestrukture/ide) ⭐ 366 - Updated Nov 2022: Browser accessible IDE. Designed for Go with Go.
 - [joincap](https://github.com/assafmo/joincap) ⭐ 219 - Updated Jun 2025: Command-line utility for merging multiple pcap files together.
-- [JuiceFS](https://github.com/juicedata/juicefs) ⭐ 14316 - Updated Aug 2026: Distributed POSIX file system built on top of Redis and AWS S3.
+- [JuiceFS](https://github.com/juicedata/juicefs) ⭐ 14323 - Updated Aug 2026: Distributed POSIX file system built on top of Redis and AWS S3.
 - [Juju](https://jujucharms.com/): Cloud-agnostic service deployment and orchestration - supports EC2, Azure, Openstack, MAAS and more.
 - [Layli](https://layli.app): Draw pretty layout diagrams as code.
 - [Leaps](https://github.com/jeffail/leaps) ⭐ 755 - Updated Feb 2021: Pair programming service using Operational Transforms.
 - [lgo](https://github.com/yunabe/lgo) ⭐ 2455 - Updated Jul 2019: Interactive Go programming with Jupyter. It supports code completion, code inspection and 100% Go compatibility.
 - [limetext](https://limetext.github.io): Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.
-- [LiteIDE](https://github.com/visualfc/liteide) ⭐ 7766 - Updated Aug 2026: LiteIDE is a simple, open source, cross-platform Go IDE.
-- [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) ⭐ 447 - Updated Jul 2026: Preview-first TUI for cleaning macOS caches, logs, and temporary files.
+- [LiteIDE](https://github.com/visualfc/liteide) ⭐ 7767 - Updated Aug 2026: LiteIDE is a simple, open source, cross-platform Go IDE.
+- [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) ⭐ 448 - Updated Jul 2026: Preview-first TUI for cleaning macOS caches, logs, and temporary files.
 - [mdv](https://github.com/Allra-Fintech/mdv) ⭐ 3 - Updated Jul 2026: CLI tool that renders Markdown files in the browser with live reload, GFM, syntax highlighting, Mermaid diagrams, and PDF export.
-- [mockingjay](https://github.com/quii/mockingjay-server) ⭐ 568 - Updated Jan 2021: Fake HTTP servers and consumer driven contracts from one configuration file. You can also make the server randomly misbehave to help do more realistic performance tests.
+- [mockingjay](https://github.com/quii/mockingjay-server) ⭐ 567 - Updated Jan 2021: Fake HTTP servers and consumer driven contracts from one configuration file. You can also make the server randomly misbehave to help do more realistic performance tests.
 - [myLG](https://github.com/mehrdadrad/mylg) ⭐ 2719 - Updated Feb 2020: Command Line Network Diagnostic tool written in Go.
 - [naclpipe](https://github.com/unix4fun/naclpipe) ⭐ 22 - Updated Nov 2018: Simple NaCL EC25519 based crypto pipe tool written in Go.
 - [Neo-cowsay](https://github.com/Code-Hex/Neo-cowsay) ⭐ 342 - Updated Aug 2023: 🐮 cowsay is reborn. for a New Era.
 - [nes](https://github.com/fogleman/nes) ⭐ 5653 - Updated Sep 2023: Nintendo Entertainment System (NES) emulator written in Go.
-- [onWatch](https://github.com/onllm-dev/onWatch) ⭐ 708 - Updated Jul 2026: Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
+- [onWatch](https://github.com/onllm-dev/onWatch) ⭐ 709 - Updated Jul 2026: Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise throttling and budget overruns.
 - [Orbit](https://github.com/gulien/orbit) ⭐ 187 - Updated Jan 2021: A simple tool for running commands and generating files from templates.
 - [peg](https://github.com/pointlander/peg) ⭐ 1114 - Updated May 2026: Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 - [Plik](https://github.com/root-gg/plik) ⭐ 1810 - Updated Jul 2026: Plik is a temporary file upload system (Wetransfer like) in Go.
 - [portal](https://github.com/SpatiumPortae/portal) ⭐ 1763 - Updated May 2024: Portal is a quick and easy command-line file transfer utility from any computer to another.
-- [restic](https://github.com/restic/restic) ⭐ 35508 - Updated Aug 2026: De-duplicating backup program.
+- [restic](https://github.com/restic/restic) ⭐ 35530 - Updated Aug 2026: De-duplicating backup program.
 - [sake](https://github.com/alajmo/sake) ⭐ 749 - Updated May 2026: sake is a command runner for local and remote hosts.
 - [scc](https://github.com/boyter/scc) ⭐ 8622 - Updated Aug 2026: Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 - [Seaweed File System](https://github.com/chrislusf/seaweedfs) ⭐ 36 - Updated Feb 2026: Fast, Simple and Scalable Distributed File System with O(1) disk seek.
@@ -3197,15 +3197,15 @@ _Software written in Go._
 - [syncthing](https://syncthing.net/): Open, decentralized file synchronization tool and protocol.
 - [tcpdog](https://github.com/mehrdadrad/tcpdog) ⭐ 261 - Updated Jul 2021: eBPF based TCP observability.
 - [tinycare-tui](https://github.com/DMcP89/tinycare-tui) ⭐ 21 - Updated Mar 2026: Small terminal app that shows git commits from the last 24 hours and week, current weather, some self care advice, a joke, and you current todo list tasks.
-- [tldx](https://github.com/brandonyoungdev/tldx) ⭐ 1907 - Updated Aug 2026: Bulk domain availability checker using RDAP, DNS, and WHOIS fallback with keyword permutation generation.
-- [toxiproxy](https://github.com/shopify/toxiproxy) ⭐ 12246 - Updated Jul 2026: Proxy to simulate network and system conditions for automated tests.
+- [tldx](https://github.com/brandonyoungdev/tldx) ⭐ 1912 - Updated Aug 2026: Bulk domain availability checker using RDAP, DNS, and WHOIS fallback with keyword permutation generation.
+- [toxiproxy](https://github.com/shopify/toxiproxy) ⭐ 12250 - Updated Jul 2026: Proxy to simulate network and system conditions for automated tests.
 - [tsuru](https://tsuru.io/): Extensible and open source Platform as a Service software.
 - [vaku](https://github.com/lingrino/vaku) ⭐ 160 - Updated Aug 2026: CLI & API for folder-based functions in Vault like copy, move, and search.
 - [vFlow](https://github.com/VerizonDigital/vflow) ⭐ 1155 - Updated Aug 2024: High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.
 - [Wave Terminal](https://waveterm.dev): Wave is an open-source, AI-native terminal built for seamless developer workflows with inline rendering, a modern UI, and persistent sessions.
 - [wellington](https://github.com/wellington/wellington) ⭐ 301 - Updated Sep 2020 - ⚠️ Archived: Sass project management tool, extends the language with sprite functions (like Compass).
 - [woke](https://github.com/get-woke/woke) ⭐ 516 - Updated Aug 2022: Detect non-inclusive language in your source code.
-- [yai](https://github.com/ekkinox/yai) ⭐ 867 - Updated Dec 2023: AI powered terminal assistant.
+- [yai](https://github.com/ekkinox/yai) ⭐ 868 - Updated Dec 2023: AI powered terminal assistant.
 - [zs](https://git.mills.io/prologic/zs): an extremely minimal static site generator.
 
 ---
@@ -3226,7 +3226,7 @@ _Software written in Go._
 - [kvbench](https://github.com/jimrobinson/kvbench) ⭐ 27 - Updated Sep 2019: Key/Value database benchmark.
 - [skynet](https://github.com/atemerev/skynet) ⭐ 1061 - Updated Nov 2023: Skynet 1M threads microbenchmark.
 - [speedtest-resize](https://github.com/fawick/speedtest-resize) ⭐ 243 - Updated Aug 2026: Compare various Image resize algorithms for the Go language.
-- [vizb](https://github.com/goptics/vizb) ⭐ 85 - Updated Aug 2026: A CLI tool to visualize Go benchmark data in 4D.
+- [vizb](https://github.com/goptics/vizb) ⭐ 86 - Updated Aug 2026: A CLI tool to visualize Go benchmark data in 4D.
 
 ---
 ## Conferences
@@ -3279,28 +3279,28 @@ _Software written in Go._
 - [Go Faster](https://leanpub.com/gofaster): This book seeks to shorten your learning curve and help you become a proficient Go programmer, faster.
 - [Go Succinctly](https://github.com/thedevsir/gosuccinctly) ⭐ 23 - Updated Oct 2018: in Persian.
 - [Go with the domain](https://threedots.tech/go-with-the-domain/): A book showing how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
-- [GoBooks](https://github.com/dariubs/GoBooks) ⭐ 19613 - Updated Jul 2026: A curated list of Go books.
+- [GoBooks](https://github.com/dariubs/GoBooks) ⭐ 19616 - Updated Jul 2026: A curated list of Go books.
 - [How To Code in Go eBook](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook): A 600 page introduction to Go aimed at first time developers.
 - [Learning Go](https://www.miek.nl/downloads/Go/Learning-Go-latest.pdf): 
 - [Network Programming With Go](https://jan.newmarch.name/golang/): 
 - [Practical Go Lessons](https://www.practical-go-lessons.com/): 
 - [Spaceship Go A Journey to the Standard Library](https://blasrodri.github.io/spaceship-go-gh-pages/): 
 - [The Go Programming Language](https://www.gopl.io/): 
-- [The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) ⭐ 9541 - Updated Mar 2022: 
+- [The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) ⭐ 9542 - Updated Mar 2022: 
 - [The Little Go Book](https://github.com/karlseguin/the-little-go-book) ⭐ 2339 - Updated Jul 2026: 
 - [Web Application with Go the Anti-Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) ⭐ 3247 - Updated Sep 2025: 
 
 ---
 ## Gophers
 
-- [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) ⭐ 3974 - Updated Dec 2024: Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster.
+- [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) ⭐ 3975 - Updated Dec 2024: Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster.
 - [Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) ⭐ 76 - Updated Mar 2018: Go gopher Vector Data [.ai, .svg].
 - [gopher-logos](https://github.com/GolangUA/gopher-logos) ⭐ 141 - Updated Jun 2018: adorable gopher logos.
 - [gopher-stickers](https://github.com/tenntenn/gopher-stickers) ⭐ 606 - Updated Aug 2016: 
 - [gophericons](https://github.com/shalakhin/gophericons) ⭐ 630 - Updated Mar 2018: 
 - [gopherize.me](https://github.com/matryer/gopherize.me) ⭐ 757 - Updated Aug 2021: Gopherize yourself.
-- [gophers](https://github.com/ashleymcnamara/gophers) ⭐ 3078 - Updated Jun 2026: Gopher artworks by Ashley McNamara.
-- [gophers](https://github.com/egonelbre/gophers) ⭐ 3825 - Updated Jul 2022: Free gophers.
+- [gophers](https://github.com/ashleymcnamara/gophers) ⭐ 3079 - Updated Jun 2026: Gopher artworks by Ashley McNamara.
+- [gophers](https://github.com/egonelbre/gophers) ⭐ 3826 - Updated Jul 2022: Free gophers.
 - [gophers](https://github.com/rogeralsing/gophers) ⭐ 58 - Updated Aug 2020: random gopher graphics.
 - [gophers](https://github.com/sillecelik/go-gopher) ⭐ 163 - Updated Jan 2025: Gopher amigurumi toy pattern.
 - [gophers](https://github.com/scraly/gophers) ⭐ 37 - Updated Mar 2024: Gophers by Aurélie Vache.
@@ -3404,8 +3404,8 @@ _Software written in Go._
 
 - [Awesome Go @LibHunt](https://go.libhunt.com): Your go-to Go Toolbox.
 - [Awesome Golang Workshops](https://github.com/amit-davidson/awesome-golang-workshops) ⭐ 524 - Updated Jul 2021: A curated list of awesome golang workshops.
-- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 47547 - Updated May 2026: Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33609 - Updated Mar 2022: List of other amazingly awesome lists.
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job) ⭐ 47565 - Updated May 2026: Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33608 - Updated Mar 2022: List of other amazingly awesome lists.
 - [awesome-go-extra](https://github.com/xwjdsh/awesome-go-extra) ⭐ 27 - Updated Aug 2022: Parse awesome-go README file and generate a new README file with repo info.
 - [Code with Mukesh](https://codewithmukesh.com/categories/golang): Software Engineer and Blogs @ codewithmukesh.com.
 - [Coding Mystery](https://codingmystery.com): Solve exciting escape-room-inspired programming challenges using Go.
@@ -3451,14 +3451,14 @@ _Software written in Go._
 - [Design Patterns in Go](https://github.com/shubhamzanwar/design-patterns) ⭐ 132 - Updated Jan 2023: Collection of programming design patterns implemented in Go.
 - [Games With Go](https://www.youtube.com/watch?v=9D4yH7e_ea8&list=PLDZujg-VgQlZUy1iCqBbe5faZLMkA3g2x): A video series teaching programming and game development.
 - [Go By Example](https://gobyexample.com/): Hands-on introduction to Go using annotated example programs.
-- [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) ⭐ 8816 - Updated Aug 2022: Go's reference card.
+- [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) ⭐ 8815 - Updated Aug 2022: Go's reference card.
 - [Go database/sql tutorial](http://go-database-sql.org/): Introduction to database/sql.
-- [Go in 7 days](https://github.com/harrytran103/7_days_of_go) ⭐ 165 - Updated Apr 2026: Learn everything about Go in 7 days (from a Nodejs developer).
+- [Go in 7 days](https://github.com/harrytran103/7_days_of_go) ⭐ 166 - Updated Apr 2026: Learn everything about Go in 7 days (from a Nodejs developer).
 - [Go Language Tutorial](https://www.javatpoint.com/go-tutorial): Learn Go language Tutorial.
 - [Go Tutorial](https://www.tutorialspoint.com/go/index.htm): Learn Go programming.
 - [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/): 
 - [go-clean-template](https://github.com/evrone/go-clean-template) ⭐ 7647 - Updated Aug 2026: Clean Architecture template for Golang services.
-- [go-patterns](https://github.com/tmrts/go-patterns) ⭐ 28174 - Updated Jul 2017: Curated list of Go design patterns, recipes and idioms.
+- [go-patterns](https://github.com/tmrts/go-patterns) ⭐ 28179 - Updated Jul 2017: Curated list of Go design patterns, recipes and idioms.
 - [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) ⭐ 4769 - Updated Nov 2022 - ⚠️ Archived: Examples of Golang compared to Node.js for learning.
 - [Golang Tutorial Guide](https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/): A List of Free Courses to Learn the Go Programming Language.
 - [golang-examples](https://github.com/SimonWaldherr/golang-examples) ⭐ 1709 - Updated Jul 2026: Many examples to learn Golang.
@@ -3473,8 +3473,8 @@ _Software written in Go._
 - [How To Deploy a Go Web Application with Docker](https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker): Learn how to use Docker for Go development and how to build production Docker images.
 - [How to Implement Role-Based Access Control (RBAC) Authorization in Golang](https://www.permit.io/blog/role-based-access-control-rbac-authorization-in-golang): A guide to implementing Role-Based Access Control (RBAC) in Golang, including code examples, covering various methods to secure app endpoints with role-based authorization.
 - [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go): Get started with Godog - a Behavior-driven development framework for building and testing Go applications.
-- [Learn Go with 1000+ Exercises](https://github.com/inancgumus/learngo) ⭐ 20111 - Updated Jun 2025: Learn Go with thousands of examples, exercises, and quizzes.
-- [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) ⭐ 23815 - Updated Aug 2026: Learn Go with test-driven development.
+- [Learn Go with 1000+ Exercises](https://github.com/inancgumus/learngo) ⭐ 20113 - Updated Jun 2025: Learn Go with thousands of examples, exercises, and quizzes.
+- [Learn Go with TDD](https://github.com/quii/learn-go-with-tests) ⭐ 23818 - Updated Aug 2026: Learn Go with test-driven development.
 - [Learning Go by examples](https://dev.to/aurelievache/learning-go-by-examples-introduction-448n): Series of articles in order to learn Golang language by concrete applications as example.
 - [Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_): Dive deep into building microservices using Go, including gRPC.
 - [package main](https://www.youtube.com/packagemain): YouTube channel about Programming in Go.
@@ -3487,7 +3487,7 @@ _Software written in Go._
 ### Guided Learning
 
 - [The Go Developer Roadmap](https://roadmap.sh/golang): A visual roadmap that new Go developers can follow through to help them learn Go.
-- [The Go Interview Practice](https://github.com/RezaSi/go-interview-practice) ⭐ 2441 - Updated Aug 2026: A GitHub repository offering coding challenges for Go technical interview preparation.
+- [The Go Interview Practice](https://github.com/RezaSi/go-interview-practice) ⭐ 2442 - Updated Aug 2026: A GitHub repository offering coding challenges for Go technical interview preparation.
 - [The Go Learning Path](https://tutorialedge.net/paths/golang/): A guided learning path containing a mix of free and premium resources.
 - [The Go Skill Tree](https://labex.io/skilltrees/go): A structured learning path that combines both free and premium resources.
 
