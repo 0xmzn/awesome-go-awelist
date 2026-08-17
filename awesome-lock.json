@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-08-17T16:21:50.026903956Z",
+    "updated_at": "2026-08-17T18:34:28.050459624Z",
     "provider_metrics": [
       {
         "provider": "GitLab",
@@ -16,20 +16,20 @@
       }
     ],
     "failed_links": {
-      "https://github.com/Knuspii/kepfi": "repository not found, renamed, or inaccessible",
-      "https://github.com/bahlo/go-styleguide": "repository not found, renamed, or inaccessible",
-      "https://github.com/cubahno/connexions": "repository not found, renamed, or inaccessible",
-      "https://github.com/go-authgate/authgate": "repository not found, renamed, or inaccessible",
-      "https://github.com/kcmvp/gob": "repository not found, renamed, or inaccessible",
-      "https://github.com/mickep76/encdec": "repository not found, renamed, or inaccessible",
-      "https://github.com/micro/micro": "repository not found, renamed, or inaccessible",
-      "https://github.com/samuelcouch/clarifai": "repository not found, renamed, or inaccessible",
-      "https://github.com/seiflotfy/skizze": "repository not found, renamed, or inaccessible",
-      "https://github.com/stv0g/gont": "repository not found, renamed, or inaccessible",
-      "https://github.com/twharmon/golamb": "repository not found, renamed, or inaccessible",
-      "https://github.com/tyler-smith/golang-sql-benchmark": "repository not found, renamed, or inaccessible",
-      "https://github.com/xtaci/kcptun": "repository not found, renamed, or inaccessible",
-      "https://github.com/zhenghaoz/gorse": "repository not found, renamed, or inaccessible",
+      "https://github.com/Knuspii/kepfi": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
+      "https://github.com/bahlo/go-styleguide": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
+      "https://github.com/cubahno/connexions": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
+      "https://github.com/go-authgate/authgate": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
+      "https://github.com/kcmvp/gob": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
+      "https://github.com/mickep76/encdec": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
+      "https://github.com/micro/micro": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
+      "https://github.com/samuelcouch/clarifai": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
+      "https://github.com/seiflotfy/skizze": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
+      "https://github.com/stv0g/gont": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
+      "https://github.com/twharmon/golamb": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
+      "https://github.com/tyler-smith/golang-sql-benchmark": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
+      "https://github.com/xtaci/kcptun": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
+      "https://github.com/zhenghaoz/gorse": "graphql query failed: non-200 OK status code: 503 Service Unavailable body: \"{\\\"message\\\": \\\"No server is currently available to service your request. Sorry about that. Please try resubmitting your request and contact us if the problem persists.\\\"}\\r\\n\"",
       "https://gitlab.com/fruitygo/pnutmux": "404 Not Found",
       "https://gitlab.com/skilstak/code/go/uniq": "404 Not Found",
       "https://gitlab.com/tozd/go/errors": "404 Not Found",
