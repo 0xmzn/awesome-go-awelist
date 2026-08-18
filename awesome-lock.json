@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "updated_at": "2026-08-18T12:38:09.763675524Z",
+    "updated_at": "2026-08-18T14:28:23.096287473Z",
     "provider_metrics": [
       {
         "provider": "GitLab",
-        "attempted": 11,
-        "successful": 7,
+        "attempted": 9,
+        "successful": 5,
         "failed": 4
       },
       {
         "provider": "GitHub",
-        "attempted": 1303,
-        "successful": 1287,
+        "attempted": 14,
+        "successful": 0,
         "failed": 14
       }
     ],
@@ -9357,7 +9357,7 @@
             "stars": 27,
             "is_archived": false,
             "last_update": "2026-08-05T08:20:20Z",
-            "enriched_at": "2026-08-17T10:27:55.848599065Z"
+            "enriched_at": "2026-08-18T12:37:17.298654792Z"
           }
         },
         {
@@ -20160,7 +20160,7 @@
             "stars": 22,
             "is_archived": false,
             "last_update": "2026-08-09T16:09:46Z",
-            "enriched_at": "2026-08-17T10:27:42.480277682Z"
+            "enriched_at": "2026-08-18T12:37:03.136631074Z"
           }
         },
         {
@@ -23121,7 +23121,7 @@
             "stars": 8,
             "is_archived": false,
             "last_update": "2025-08-04T00:13:40.622Z",
-            "enriched_at": "2026-08-17T14:22:33.915960545Z"
+            "enriched_at": "2026-08-18T14:28:21.092040864Z"
           }
         },
         {
@@ -23165,7 +23165,7 @@
             "stars": 0,
             "is_archived": false,
             "last_update": "2024-04-03T12:14:13.867Z",
-            "enriched_at": "2026-08-17T14:22:34.310913179Z"
+            "enriched_at": "2026-08-18T14:28:21.379938084Z"
           }
         },
         {
@@ -26176,10 +26176,10 @@
           "description": "An open-source GitLab command line tool bringing GitLab's cool features to your command line.",
           "url": "https://gitlab.com/gitlab-org/cli",
           "repo_metadata": {
-            "stars": 1072,
+            "stars": 1073,
             "is_archived": false,
-            "last_update": "2026-08-17T14:00:22.967Z",
-            "enriched_at": "2026-08-17T14:22:34.687582477Z"
+            "last_update": "2026-08-18T13:49:48.726Z",
+            "enriched_at": "2026-08-18T14:28:21.862491104Z"
           }
         },
         {
@@ -27885,7 +27885,7 @@
             "stars": 2,
             "is_archived": false,
             "last_update": "2021-07-24T03:14:20.469Z",
-            "enriched_at": "2026-08-17T14:22:34.991835458Z"
+            "enriched_at": "2026-08-18T14:28:22.368652664Z"
           }
         },
         {
@@ -28479,7 +28479,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2019-08-01T21:17:51.965Z",
-            "enriched_at": "2026-08-17T14:22:35.169788967Z"
+            "enriched_at": "2026-08-18T14:28:22.645909409Z"
           }
         },
         {
