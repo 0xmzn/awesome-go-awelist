@@ -1,135 +1,35 @@
 {
   "metadata": {
-    "updated_at": "2026-08-25T18:34:05.859365028Z",
+    "updated_at": "2026-08-25T20:23:35.096749547Z",
     "provider_metrics": [
       {
-        "provider": "GitHub",
-        "attempted": 412,
-        "successful": 298,
-        "failed": 114
+        "provider": "GitLab",
+        "attempted": 4,
+        "successful": 0,
+        "failed": 4
       },
       {
-        "provider": "GitLab",
-        "attempted": 11,
-        "successful": 7,
-        "failed": 4
+        "provider": "GitHub",
+        "attempted": 114,
+        "successful": 100,
+        "failed": 14
       }
     ],
     "failed_links": {
-      "http://github.com/bobg/hashsplit": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/BlackRabbitt/mspm": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/EchoVault/EchoVault": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/Knuspii/kepfi": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/MauriceGit/skiplist": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/MonaxGT/parsefields": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/OldPanda/bloomfilter": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/OrlovEvgeny/go-mcache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/RibbonFilter/ribbonGo": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/StudioSol/set": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/TheTannerRyan/ring": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/VictoriaMetrics/fastcache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/Workiva/go-datastructures": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/aalpar/deheap": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/adrianbrad/queue": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/agext/levenshtein": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/agnivade/levenshtein": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/aio-arch/graphlib": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/allegro/bigcache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/alvii147/gloop": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/aurelien-rainone/go-rquad": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/axiomhq/hyperloglog": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/bahlo/go-styleguide": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/barweiss/go-tuple": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/bits-and-blooms/bloom": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/blevesearch/bleve": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/bluele/gcache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/bobg/combo": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/bobg/go-generics": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/bobg/merkle": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/cocoonspace/fsm": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/codingsince1985/couchcache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/cubahno/connexions": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/daichi-m/go18ds": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/deckarep/golang-set": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/derekparker/trie": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/disksing/iter": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/edwingeng/deque": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/eko/gocache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/embano1/memlog": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/emirpasic/gods": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/emvi/hide": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/emvi/null": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/enetx/fsm": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/enriquebris/goconcurrentqueue": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/erni27/imcache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/esimov/gogu": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/faabiosr/cachego": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/francesconi/go-rampart": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/free/concurrent-writer": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/gammazero/deque": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/gammazero/radixtree": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/gansidui/skiplist": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
+      "https://github.com/Knuspii/kepfi": "repository not found, renamed, or inaccessible",
+      "https://github.com/bahlo/go-styleguide": "repository not found, renamed, or inaccessible",
+      "https://github.com/cubahno/connexions": "repository not found, renamed, or inaccessible",
       "https://github.com/go-authgate/authgate": "repository not found, renamed, or inaccessible",
-      "https://github.com/golang/groupcache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/goradd/maps": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/gurukami/typ": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/hailocab/go-geoindex": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/hatchet-dev/hatchet": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/hbollon/go-edlib": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/hyfather/pipeline": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/igrmk/treemap": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/ihebu/dsu": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/iwanbk/bcache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/kak-tus/nan": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
       "https://github.com/kcmvp/gob": "repository not found, renamed, or inaccessible",
-      "https://github.com/kniren/gota": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/koss-null/list": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/linvon/cuckoo-filter": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/liyue201/gostl": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/lrita/cmap": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/lucmq/go-shelve": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/lyonnee/hmap": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/maypok86/otter": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/mdaliyan/icache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/mgtv-tech/jetcache-go": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/mhmtszr/concurrent-swiss-map": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/mickep76/encdec": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/micro/micro": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/muesli/cache2go": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/naughtygopher/pocache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/nazar256/parapipe": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/no-src/nscache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/nwillc/genfuncs": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/nxdir-s/pipelines": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/oaStuff/clusteredBigCache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/oracle/coherence-go-client": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/plar/go-adaptive-radix-tree": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/s0rg/quadtree": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/samuelcouch/clarifai": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/seiflotfy/count-min-log": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/seiflotfy/cuckoofilter": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/seiflotfy/skizze": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/shady831213/algorithms": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/srfrog/dict": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/stv0g/gont": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/szyhf/go-gcache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/tejzpr/ordered-concurrently": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/twharmon/golamb": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/twharmon/slices": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/tyler-smith/golang-sql-benchmark": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/tylertreat/BoomFilters": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/ulovecode/gdcache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/viant/ptrie": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/viney-shih/go-cache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/vodolaz095/dqueue": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/xtaci/kcptun": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/xxjwxc/gofal": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/yaa110/goterator": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/yourbasic/bloom": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/yuseferi/gocache": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/zhenghaoz/gorse": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/zhenjl/bloom": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
-      "https://github.com/zoumo/goset": "graphql query failed: stream error: stream ID 7; CANCEL; received from peer",
+      "https://github.com/mickep76/encdec": "repository not found, renamed, or inaccessible",
+      "https://github.com/micro/micro": "repository not found, renamed, or inaccessible",
+      "https://github.com/samuelcouch/clarifai": "repository not found, renamed, or inaccessible",
+      "https://github.com/seiflotfy/skizze": "repository not found, renamed, or inaccessible",
+      "https://github.com/stv0g/gont": "repository not found, renamed, or inaccessible",
+      "https://github.com/twharmon/golamb": "repository not found, renamed, or inaccessible",
+      "https://github.com/tyler-smith/golang-sql-benchmark": "repository not found, renamed, or inaccessible",
+      "https://github.com/xtaci/kcptun": "repository not found, renamed, or inaccessible",
+      "https://github.com/zhenghaoz/gorse": "repository not found, renamed, or inaccessible",
       "https://gitlab.com/fruitygo/pnutmux": "404 Not Found",
       "https://gitlab.com/skilstak/code/go/uniq": "404 Not Found",
       "https://gitlab.com/tozd/go/errors": "404 Not Found",
@@ -3870,7 +3770,7 @@
                 "stars": 2805,
                 "is_archived": false,
                 "last_update": "2026-07-10T13:18:55Z",
-                "enriched_at": "2026-08-24T16:32:03.522733703Z"
+                "enriched_at": "2026-08-25T20:23:34.149021807Z"
               }
             },
             {
@@ -3881,7 +3781,7 @@
                 "stars": 147,
                 "is_archived": false,
                 "last_update": "2015-10-26T23:31:58Z",
-                "enriched_at": "2026-08-24T16:32:03.522734718Z"
+                "enriched_at": "2026-08-25T20:23:34.149022699Z"
               }
             },
             {
@@ -3892,7 +3792,7 @@
                 "stars": 88,
                 "is_archived": false,
                 "last_update": "2017-06-02T16:39:13Z",
-                "enriched_at": "2026-08-24T16:32:03.522735155Z"
+                "enriched_at": "2026-08-25T20:23:34.149023039Z"
               }
             },
             {
@@ -3903,7 +3803,7 @@
                 "stars": 21,
                 "is_archived": false,
                 "last_update": "2025-03-20T04:57:14Z",
-                "enriched_at": "2026-08-24T16:32:03.522735644Z"
+                "enriched_at": "2026-08-25T20:23:34.14902343Z"
               }
             },
             {
@@ -3914,7 +3814,7 @@
                 "stars": 1645,
                 "is_archived": false,
                 "last_update": "2025-11-17T16:45:19Z",
-                "enriched_at": "2026-08-24T16:32:03.522736226Z"
+                "enriched_at": "2026-08-25T20:23:34.149024501Z"
               }
             },
             {
@@ -3925,7 +3825,7 @@
                 "stars": 306,
                 "is_archived": false,
                 "last_update": "2021-10-09T18:15:37Z",
-                "enriched_at": "2026-08-24T16:32:03.522736818Z"
+                "enriched_at": "2026-08-25T20:23:34.149024932Z"
               }
             },
             {
@@ -3936,7 +3836,7 @@
                 "stars": 1233,
                 "is_archived": false,
                 "last_update": "2024-07-15T13:13:51Z",
-                "enriched_at": "2026-08-24T16:32:03.522737375Z"
+                "enriched_at": "2026-08-25T20:23:34.149025333Z"
               }
             },
             {
@@ -3947,7 +3847,7 @@
                 "stars": 15,
                 "is_archived": false,
                 "last_update": "2026-07-17T15:57:55Z",
-                "enriched_at": "2026-08-24T16:32:03.522737932Z"
+                "enriched_at": "2026-08-25T20:23:34.149025713Z"
               }
             },
             {
@@ -3958,7 +3858,7 @@
                 "stars": 145,
                 "is_archived": false,
                 "last_update": "2020-09-05T17:19:15Z",
-                "enriched_at": "2026-08-24T16:32:03.522738287Z"
+                "enriched_at": "2026-08-25T20:23:34.149026144Z"
               }
             }
           ]
@@ -3975,7 +3875,7 @@
                 "stars": 845,
                 "is_archived": false,
                 "last_update": "2019-04-03T02:00:15Z",
-                "enriched_at": "2026-08-24T16:32:03.522738846Z"
+                "enriched_at": "2026-08-25T20:23:34.149028117Z"
               }
             },
             {
@@ -3983,10 +3883,10 @@
               "description": "Collection of useful, performant, and thread-safe data structures.",
               "url": "https://github.com/Workiva/go-datastructures",
               "repo_metadata": {
-                "stars": 7952,
+                "stars": 7954,
                 "is_archived": false,
                 "last_update": "2025-10-31T14:23:40Z",
-                "enriched_at": "2026-08-24T16:32:03.522739385Z"
+                "enriched_at": "2026-08-25T20:23:34.149028477Z"
               }
             },
             {
@@ -3994,10 +3894,10 @@
               "description": "Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.",
               "url": "https://github.com/emirpasic/gods",
               "repo_metadata": {
-                "stars": 17457,
+                "stars": 17456,
                 "is_archived": false,
                 "last_update": "2025-03-12T00:01:29Z",
-                "enriched_at": "2026-08-24T16:32:03.522739903Z"
+                "enriched_at": "2026-08-25T20:23:34.149028868Z"
               }
             },
             {
@@ -4008,7 +3908,7 @@
                 "stars": 1138,
                 "is_archived": false,
                 "last_update": "2025-01-03T10:05:51Z",
-                "enriched_at": "2026-08-24T16:32:03.522740248Z"
+                "enriched_at": "2026-08-25T20:23:34.149029399Z"
               }
             }
           ]
@@ -4025,7 +3925,7 @@
                 "stars": 28,
                 "is_archived": false,
                 "last_update": "2025-06-15T23:45:36Z",
-                "enriched_at": "2026-08-24T16:32:03.522740555Z"
+                "enriched_at": "2026-08-25T20:23:34.149029849Z"
               }
             },
             {
@@ -4036,7 +3936,7 @@
                 "stars": 20,
                 "is_archived": false,
                 "last_update": "2025-10-15T21:00:03Z",
-                "enriched_at": "2026-08-24T16:32:03.522740832Z"
+                "enriched_at": "2026-08-25T20:23:34.14903024Z"
               }
             },
             {
@@ -4047,7 +3947,7 @@
                 "stars": 198,
                 "is_archived": false,
                 "last_update": "2026-07-30T03:12:18Z",
-                "enriched_at": "2026-08-24T16:32:03.522741481Z"
+                "enriched_at": "2026-08-25T20:23:34.149032043Z"
               }
             }
           ]
@@ -4065,7 +3965,7 @@
                 "stars": 104,
                 "is_archived": false,
                 "last_update": "2026-04-16T03:04:26Z",
-                "enriched_at": "2026-08-24T16:32:03.522741773Z"
+                "enriched_at": "2026-08-25T20:23:34.149032443Z"
               }
             },
             {
@@ -4076,7 +3976,7 @@
                 "stars": 259,
                 "is_archived": false,
                 "last_update": "2026-03-19T10:22:24Z",
-                "enriched_at": "2026-08-24T16:32:03.522742569Z"
+                "enriched_at": "2026-08-25T20:23:34.149032854Z"
               }
             },
             {
@@ -4087,7 +3987,7 @@
                 "stars": 48,
                 "is_archived": false,
                 "last_update": "2026-02-14T19:12:25Z",
-                "enriched_at": "2026-08-24T16:32:03.522743071Z"
+                "enriched_at": "2026-08-25T20:23:34.149033275Z"
               }
             },
             {
@@ -4098,7 +3998,7 @@
                 "stars": 14,
                 "is_archived": false,
                 "last_update": "2025-08-10T07:26:08Z",
-                "enriched_at": "2026-08-24T16:32:03.522743599Z"
+                "enriched_at": "2026-08-25T20:23:34.149033685Z"
               }
             },
             {
@@ -4109,7 +4009,7 @@
                 "stars": 55,
                 "is_archived": false,
                 "last_update": "2026-01-07T21:17:19Z",
-                "enriched_at": "2026-08-24T16:32:03.522743936Z"
+                "enriched_at": "2026-08-25T20:23:34.149034086Z"
               }
             },
             {
@@ -4120,7 +4020,7 @@
                 "stars": 2,
                 "is_archived": false,
                 "last_update": "2025-01-23T02:42:16Z",
-                "enriched_at": "2026-08-24T16:32:03.522744245Z"
+                "enriched_at": "2026-08-25T20:23:34.149034496Z"
               }
             }
           ]
@@ -4137,7 +4037,7 @@
                 "stars": 4,
                 "is_archived": false,
                 "last_update": "2026-03-01T21:49:35Z",
-                "enriched_at": "2026-08-24T16:32:03.5227446Z"
+                "enriched_at": "2026-08-25T20:23:34.149034947Z"
               }
             },
             {
@@ -4148,7 +4048,7 @@
                 "stars": 62,
                 "is_archived": false,
                 "last_update": "2017-11-17T21:28:31Z",
-                "enriched_at": "2026-08-24T16:32:03.522745125Z"
+                "enriched_at": "2026-08-25T20:23:34.149035368Z"
               }
             },
             {
@@ -4159,7 +4059,7 @@
                 "stars": 70,
                 "is_archived": false,
                 "last_update": "2025-03-04T03:04:48Z",
-                "enriched_at": "2026-08-24T16:32:03.522745763Z"
+                "enriched_at": "2026-08-25T20:23:34.149035939Z"
               }
             },
             {
@@ -4170,7 +4070,7 @@
                 "stars": 25,
                 "is_archived": false,
                 "last_update": "2026-08-10T09:32:55Z",
-                "enriched_at": "2026-08-24T16:32:03.522746158Z"
+                "enriched_at": "2026-08-25T20:23:34.149036479Z"
               }
             },
             {
@@ -4181,7 +4081,7 @@
                 "stars": 89,
                 "is_archived": false,
                 "last_update": "2021-10-12T20:12:45Z",
-                "enriched_at": "2026-08-24T16:32:03.522747237Z"
+                "enriched_at": "2026-08-25T20:23:34.14903693Z"
               }
             },
             {
@@ -4192,7 +4092,7 @@
                 "stars": 51,
                 "is_archived": false,
                 "last_update": "2022-08-07T13:03:34Z",
-                "enriched_at": "2026-08-24T16:32:03.522748046Z"
+                "enriched_at": "2026-08-25T20:23:34.149037351Z"
               }
             },
             {
@@ -4203,7 +4103,7 @@
                 "stars": 86,
                 "is_archived": false,
                 "last_update": "2025-06-09T13:31:54Z",
-                "enriched_at": "2026-08-24T16:32:03.522748543Z"
+                "enriched_at": "2026-08-25T20:23:34.149037861Z"
               }
             },
             {
@@ -4214,7 +4114,7 @@
                 "stars": 360,
                 "is_archived": false,
                 "last_update": "2016-01-27T13:48:10Z",
-                "enriched_at": "2026-08-24T16:32:03.52274911Z"
+                "enriched_at": "2026-08-25T20:23:34.149039824Z"
               }
             },
             {
@@ -4225,7 +4125,7 @@
                 "stars": 106,
                 "is_archived": false,
                 "last_update": "2024-06-26T14:20:17Z",
-                "enriched_at": "2026-08-24T16:32:03.522749593Z"
+                "enriched_at": "2026-08-25T20:23:34.149040305Z"
               }
             },
             {
@@ -4236,7 +4136,7 @@
                 "stars": 141,
                 "is_archived": false,
                 "last_update": "2022-06-22T22:06:24Z",
-                "enriched_at": "2026-08-24T16:32:03.522750074Z"
+                "enriched_at": "2026-08-25T20:23:34.149040786Z"
               }
             },
             {
@@ -4247,7 +4147,7 @@
                 "stars": 100,
                 "is_archived": false,
                 "last_update": "2025-08-09T10:46:30Z",
-                "enriched_at": "2026-08-24T16:32:03.522750742Z"
+                "enriched_at": "2026-08-25T20:23:34.149041257Z"
               }
             },
             {
@@ -4258,7 +4158,7 @@
                 "stars": 48,
                 "is_archived": false,
                 "last_update": "2022-03-22T18:13:41Z",
-                "enriched_at": "2026-08-24T16:32:03.522751236Z"
+                "enriched_at": "2026-08-25T20:23:34.149041697Z"
               }
             },
             {
@@ -4269,7 +4169,7 @@
                 "stars": 20,
                 "is_archived": false,
                 "last_update": "2019-10-08T03:02:59Z",
-                "enriched_at": "2026-08-24T16:32:03.522751689Z"
+                "enriched_at": "2026-08-25T20:23:34.149042148Z"
               }
             },
             {
@@ -4280,7 +4180,7 @@
                 "stars": 110,
                 "is_archived": false,
                 "last_update": "2023-03-04T09:36:46Z",
-                "enriched_at": "2026-08-24T16:32:03.522752335Z"
+                "enriched_at": "2026-08-25T20:23:34.149042629Z"
               }
             },
             {
@@ -4291,7 +4191,7 @@
                 "stars": 3266,
                 "is_archived": true,
                 "last_update": "2021-10-10T19:10:32Z",
-                "enriched_at": "2026-08-24T16:32:03.522752983Z"
+                "enriched_at": "2026-08-25T20:23:34.149043079Z"
               }
             },
             {
@@ -4302,7 +4202,7 @@
                 "stars": 73,
                 "is_archived": false,
                 "last_update": "2021-11-09T19:21:26Z",
-                "enriched_at": "2026-08-24T16:32:03.522753536Z"
+                "enriched_at": "2026-08-25T20:23:34.14904356Z"
               }
             },
             {
@@ -4313,7 +4213,7 @@
                 "stars": 1047,
                 "is_archived": false,
                 "last_update": "2026-07-24T10:21:01Z",
-                "enriched_at": "2026-08-24T16:32:03.522754019Z"
+                "enriched_at": "2026-08-25T20:23:34.149043921Z"
               }
             },
             {
@@ -4324,7 +4224,7 @@
                 "stars": 41,
                 "is_archived": false,
                 "last_update": "2025-04-25T12:02:44Z",
-                "enriched_at": "2026-08-24T16:32:03.522754561Z"
+                "enriched_at": "2026-08-25T20:23:34.149044401Z"
               }
             },
             {
@@ -4335,7 +4235,7 @@
                 "stars": 23,
                 "is_archived": false,
                 "last_update": "2022-07-08T18:32:06Z",
-                "enriched_at": "2026-08-24T16:32:03.522754969Z"
+                "enriched_at": "2026-08-25T20:23:34.149044872Z"
               }
             }
           ]
@@ -4352,7 +4252,7 @@
                 "stars": 88,
                 "is_archived": false,
                 "last_update": "2023-07-06T13:16:38Z",
-                "enriched_at": "2026-08-24T16:32:03.522755474Z"
+                "enriched_at": "2026-08-25T20:23:34.149045383Z"
               }
             },
             {
@@ -4363,7 +4263,7 @@
                 "stars": 40,
                 "is_archived": false,
                 "last_update": "2021-11-09T16:04:16Z",
-                "enriched_at": "2026-08-24T16:32:03.522756148Z"
+                "enriched_at": "2026-08-25T20:23:34.149045914Z"
               }
             },
             {
@@ -4374,7 +4274,7 @@
                 "stars": 45,
                 "is_archived": false,
                 "last_update": "2021-10-15T16:11:14Z",
-                "enriched_at": "2026-08-24T16:32:03.52275658Z"
+                "enriched_at": "2026-08-25T20:23:34.149046284Z"
               }
             }
           ]
@@ -4391,7 +4291,7 @@
                 "stars": 18,
                 "is_archived": false,
                 "last_update": "2026-03-12T22:41:56Z",
-                "enriched_at": "2026-08-24T16:32:03.522757121Z"
+                "enriched_at": "2026-08-25T20:23:34.149046795Z"
               }
             },
             {
@@ -4402,7 +4302,7 @@
                 "stars": 205,
                 "is_archived": false,
                 "last_update": "2023-09-14T00:30:28Z",
-                "enriched_at": "2026-08-24T16:32:03.522757737Z"
+                "enriched_at": "2026-08-25T20:23:34.149047306Z"
               }
             },
             {
@@ -4413,7 +4313,7 @@
                 "stars": 785,
                 "is_archived": false,
                 "last_update": "2026-07-02T06:38:10Z",
-                "enriched_at": "2026-08-24T16:32:03.522758232Z"
+                "enriched_at": "2026-08-25T20:23:34.149047856Z"
               }
             },
             {
@@ -4424,7 +4324,7 @@
                 "stars": 5,
                 "is_archived": false,
                 "last_update": "2026-07-28T22:04:30Z",
-                "enriched_at": "2026-08-24T16:32:03.522758784Z"
+                "enriched_at": "2026-08-25T20:23:34.149048397Z"
               }
             },
             {
@@ -4435,7 +4335,7 @@
                 "stars": 434,
                 "is_archived": false,
                 "last_update": "2022-11-17T05:02:01Z",
-                "enriched_at": "2026-08-24T16:32:03.52275936Z"
+                "enriched_at": "2026-08-25T20:23:34.149048978Z"
               }
             },
             {
@@ -4443,10 +4343,10 @@
               "description": "Distributed, Fault-tolerant task queue.",
               "url": "https://github.com/hatchet-dev/hatchet",
               "repo_metadata": {
-                "stars": 7785,
+                "stars": 7791,
                 "is_archived": false,
-                "last_update": "2026-08-24T14:35:45Z",
-                "enriched_at": "2026-08-24T16:32:03.522759948Z"
+                "last_update": "2026-08-25T15:45:01Z",
+                "enriched_at": "2026-08-25T20:23:34.149049419Z"
               }
             },
             {
@@ -4457,7 +4357,7 @@
                 "stars": 14,
                 "is_archived": false,
                 "last_update": "2025-10-25T18:40:51Z",
-                "enriched_at": "2026-08-24T16:32:03.522760482Z"
+                "enriched_at": "2026-08-25T20:23:34.14904995Z"
               }
             },
             {
@@ -4468,7 +4368,7 @@
                 "stars": 142,
                 "is_archived": false,
                 "last_update": "2026-06-09T12:25:57Z",
-                "enriched_at": "2026-08-24T16:32:03.522761064Z"
+                "enriched_at": "2026-08-25T20:23:34.14905051Z"
               }
             },
             {
@@ -4476,10 +4376,10 @@
               "description": "Multiple thread-safe, generic queue implementations for Go.",
               "url": "https://github.com/adrianbrad/queue",
               "repo_metadata": {
-                "stars": 362,
+                "stars": 363,
                 "is_archived": false,
                 "last_update": "2026-07-06T06:41:54Z",
-                "enriched_at": "2026-08-24T16:32:03.522761752Z"
+                "enriched_at": "2026-08-25T20:23:34.149051812Z"
               }
             }
           ]
@@ -4496,7 +4396,7 @@
                 "stars": 18,
                 "is_archived": false,
                 "last_update": "2022-01-29T08:41:57Z",
-                "enriched_at": "2026-08-24T16:32:03.522762285Z"
+                "enriched_at": "2026-08-25T20:23:34.149054486Z"
               }
             },
             {
@@ -4507,7 +4407,7 @@
                 "stars": 4700,
                 "is_archived": false,
                 "last_update": "2026-06-27T15:23:47Z",
-                "enriched_at": "2026-08-24T16:32:03.522762817Z"
+                "enriched_at": "2026-08-25T20:23:34.149055508Z"
               }
             },
             {
@@ -4518,7 +4418,7 @@
                 "stars": 53,
                 "is_archived": false,
                 "last_update": "2020-12-11T10:18:41Z",
-                "enriched_at": "2026-08-24T16:32:03.522763345Z"
+                "enriched_at": "2026-08-25T20:23:34.14905655Z"
               }
             },
             {
@@ -4529,7 +4429,7 @@
                 "stars": 30,
                 "is_archived": false,
                 "last_update": "2025-10-02T18:06:32Z",
-                "enriched_at": "2026-08-24T16:32:03.522763885Z"
+                "enriched_at": "2026-08-25T20:23:34.149057651Z"
               }
             }
           ]
@@ -4546,7 +4446,7 @@
                 "stars": 11185,
                 "is_archived": false,
                 "last_update": "2026-08-24T16:06:01Z",
-                "enriched_at": "2026-08-24T16:32:03.522764492Z"
+                "enriched_at": "2026-08-25T20:23:34.149061347Z"
               }
             },
             {
@@ -4557,7 +4457,7 @@
                 "stars": 412,
                 "is_archived": false,
                 "last_update": "2025-11-21T22:40:57Z",
-                "enriched_at": "2026-08-24T16:32:03.522765052Z"
+                "enriched_at": "2026-08-25T20:23:34.149062408Z"
               }
             },
             {
@@ -4568,7 +4468,7 @@
                 "stars": 603,
                 "is_archived": false,
                 "last_update": "2025-08-19T20:11:41Z",
-                "enriched_at": "2026-08-24T16:32:03.522765813Z"
+                "enriched_at": "2026-08-25T20:23:34.1490634Z"
               }
             },
             {
@@ -4579,7 +4479,7 @@
                 "stars": 93,
                 "is_archived": false,
                 "last_update": "2020-10-15T13:28:32Z",
-                "enriched_at": "2026-08-24T16:32:03.522766426Z"
+                "enriched_at": "2026-08-25T20:23:34.149064381Z"
               }
             },
             {
@@ -4590,7 +4490,7 @@
                 "stars": 474,
                 "is_archived": false,
                 "last_update": "2026-03-03T14:48:22Z",
-                "enriched_at": "2026-08-24T16:32:03.522766981Z"
+                "enriched_at": "2026-08-25T20:23:34.149065413Z"
               }
             },
             {
@@ -4601,7 +4501,7 @@
                 "stars": 29,
                 "is_archived": false,
                 "last_update": "2018-05-19T06:36:37Z",
-                "enriched_at": "2026-08-24T16:32:03.522767573Z"
+                "enriched_at": "2026-08-25T20:23:34.149066695Z"
               }
             },
             {
@@ -4612,7 +4512,7 @@
                 "stars": 9,
                 "is_archived": false,
                 "last_update": "2019-05-05T18:55:41Z",
-                "enriched_at": "2026-08-24T16:32:03.522768067Z"
+                "enriched_at": "2026-08-25T20:23:34.149067686Z"
               }
             },
             {
@@ -4623,7 +4523,7 @@
                 "stars": 46,
                 "is_archived": false,
                 "last_update": "2024-04-02T17:03:20Z",
-                "enriched_at": "2026-08-24T16:32:03.522768719Z"
+                "enriched_at": "2026-08-25T20:23:34.149068708Z"
               }
             },
             {
@@ -4634,7 +4534,7 @@
                 "stars": 41,
                 "is_archived": false,
                 "last_update": "2026-08-21T06:23:19Z",
-                "enriched_at": "2026-08-24T16:32:03.522769347Z"
+                "enriched_at": "2026-08-25T20:23:34.149069649Z"
               }
             },
             {
@@ -4645,7 +4545,7 @@
                 "stars": 790,
                 "is_archived": false,
                 "last_update": "2026-07-30T18:18:25Z",
-                "enriched_at": "2026-08-24T16:32:03.522769854Z"
+                "enriched_at": "2026-08-25T20:23:34.14907039Z"
               }
             }
           ]
@@ -4662,7 +4562,7 @@
                 "stars": 4,
                 "is_archived": false,
                 "last_update": "2025-08-06T05:19:28Z",
-                "enriched_at": "2026-08-24T16:32:03.522770523Z"
+                "enriched_at": "2026-08-25T20:23:34.149071071Z"
               }
             },
             {
@@ -4673,7 +4573,7 @@
                 "stars": 32,
                 "is_archived": false,
                 "last_update": "2024-09-30T02:46:57Z",
-                "enriched_at": "2026-08-24T16:32:03.522771166Z"
+                "enriched_at": "2026-08-25T20:23:34.149071702Z"
               }
             },
             {
@@ -4684,7 +4584,7 @@
                 "stars": 23,
                 "is_archived": false,
                 "last_update": "2025-08-03T21:17:27Z",
-                "enriched_at": "2026-08-24T16:32:03.522771913Z"
+                "enriched_at": "2026-08-25T20:23:34.149072313Z"
               }
             },
             {
@@ -4695,7 +4595,7 @@
                 "stars": 294,
                 "is_archived": false,
                 "last_update": "2021-11-05T23:06:23Z",
-                "enriched_at": "2026-08-24T16:32:03.522772574Z"
+                "enriched_at": "2026-08-25T20:23:34.149072934Z"
               }
             },
             {
@@ -4706,7 +4606,7 @@
                 "stars": 83,
                 "is_archived": false,
                 "last_update": "2014-11-21T05:13:32Z",
-                "enriched_at": "2026-08-24T16:32:03.522773443Z"
+                "enriched_at": "2026-08-25T20:23:34.149073565Z"
               }
             },
             {
@@ -4717,7 +4617,7 @@
                 "stars": 68,
                 "is_archived": false,
                 "last_update": "2022-03-22T05:03:18Z",
-                "enriched_at": "2026-08-24T16:32:03.52277423Z"
+                "enriched_at": "2026-08-25T20:23:34.149074206Z"
               }
             }
           ]
@@ -4734,7 +4634,7 @@
                 "stars": 46,
                 "is_archived": false,
                 "last_update": "2023-04-24T23:24:20Z",
-                "enriched_at": "2026-08-24T16:32:03.522775345Z"
+                "enriched_at": "2026-08-25T20:23:34.149074877Z"
               }
             },
             {
@@ -4745,7 +4645,7 @@
                 "stars": 38,
                 "is_archived": false,
                 "last_update": "2024-12-13T19:00:49Z",
-                "enriched_at": "2026-08-24T16:32:03.522775976Z"
+                "enriched_at": "2026-08-25T20:23:34.149075408Z"
               }
             },
             {
@@ -4756,7 +4656,7 @@
                 "stars": 60,
                 "is_archived": false,
                 "last_update": "2018-08-31T03:09:33Z",
-                "enriched_at": "2026-08-24T16:32:03.522777503Z"
+                "enriched_at": "2026-08-25T20:23:34.149076079Z"
               }
             },
             {
@@ -4767,7 +4667,7 @@
                 "stars": 19,
                 "is_archived": false,
                 "last_update": "2026-06-23T23:10:23Z",
-                "enriched_at": "2026-08-24T16:32:03.522779963Z"
+                "enriched_at": "2026-08-25T20:23:34.14907674Z"
               }
             }
           ]
@@ -4791,7 +4691,7 @@
                 "stars": 165,
                 "is_archived": false,
                 "last_update": "2019-05-01T02:00:29Z",
-                "enriched_at": "2026-08-24T16:32:03.522781372Z"
+                "enriched_at": "2026-08-25T20:23:34.149077451Z"
               }
             },
             {
@@ -4802,7 +4702,7 @@
                 "stars": 8155,
                 "is_archived": false,
                 "last_update": "2026-08-14T10:48:47Z",
-                "enriched_at": "2026-08-24T16:32:03.522782485Z"
+                "enriched_at": "2026-08-25T20:23:34.149078102Z"
               }
             },
             {
@@ -4810,10 +4710,10 @@
               "description": "In-memory key:value cache which supports automatic invalidation based on timeouts.",
               "url": "https://github.com/muesli/cache2go",
               "repo_metadata": {
-                "stars": 2149,
+                "stars": 2150,
                 "is_archived": false,
                 "last_update": "2022-10-11T23:57:21Z",
-                "enriched_at": "2026-08-24T16:32:03.522783711Z"
+                "enriched_at": "2026-08-25T20:23:34.149078753Z"
               }
             },
             {
@@ -4824,7 +4724,7 @@
                 "stars": 369,
                 "is_archived": true,
                 "last_update": "2025-04-01T19:39:03Z",
-                "enriched_at": "2026-08-24T16:32:03.522784951Z"
+                "enriched_at": "2026-08-25T20:23:34.149079434Z"
               }
             },
             {
@@ -4835,7 +4735,7 @@
                 "stars": 45,
                 "is_archived": false,
                 "last_update": "2018-01-22T22:02:53Z",
-                "enriched_at": "2026-08-24T16:32:03.522786272Z"
+                "enriched_at": "2026-08-25T20:23:34.149080125Z"
               }
             },
             {
@@ -4846,7 +4746,7 @@
                 "stars": 15,
                 "is_archived": false,
                 "last_update": "2026-04-27T16:11:02Z",
-                "enriched_at": "2026-08-24T16:32:03.522787824Z"
+                "enriched_at": "2026-08-25T20:23:34.149080926Z"
               }
             },
             {
@@ -4857,7 +4757,7 @@
                 "stars": 63,
                 "is_archived": false,
                 "last_update": "2022-12-17T05:06:07Z",
-                "enriched_at": "2026-08-24T16:32:03.522789043Z"
+                "enriched_at": "2026-08-25T20:23:34.149081637Z"
               }
             },
             {
@@ -4868,7 +4768,7 @@
                 "stars": 537,
                 "is_archived": false,
                 "last_update": "2025-04-24T01:09:59Z",
-                "enriched_at": "2026-08-24T16:32:03.522790248Z"
+                "enriched_at": "2026-08-25T20:23:34.149082328Z"
               }
             },
             {
@@ -4879,7 +4779,7 @@
                 "stars": 2370,
                 "is_archived": false,
                 "last_update": "2026-06-15T17:08:51Z",
-                "enriched_at": "2026-08-24T16:32:03.52279122Z"
+                "enriched_at": "2026-08-25T20:23:34.149083039Z"
               }
             },
             {
@@ -4890,7 +4790,7 @@
                 "stars": 2729,
                 "is_archived": false,
                 "last_update": "2022-01-05T04:00:50Z",
-                "enriched_at": "2026-08-24T16:32:03.522792044Z"
+                "enriched_at": "2026-08-25T20:23:34.14908376Z"
               }
             },
             {
@@ -4901,7 +4801,7 @@
                 "stars": 14,
                 "is_archived": false,
                 "last_update": "2021-10-14T17:31:23Z",
-                "enriched_at": "2026-08-24T16:32:03.522793155Z"
+                "enriched_at": "2026-08-25T20:23:34.149084511Z"
               }
             },
             {
@@ -4912,7 +4812,7 @@
                 "stars": 162,
                 "is_archived": false,
                 "last_update": "2023-01-26T10:18:27Z",
-                "enriched_at": "2026-08-24T16:32:03.522794243Z"
+                "enriched_at": "2026-08-25T20:23:34.149085213Z"
               }
             },
             {
@@ -4923,7 +4823,7 @@
                 "stars": 12,
                 "is_archived": false,
                 "last_update": "2025-05-26T07:49:43Z",
-                "enriched_at": "2026-08-24T16:32:03.522795181Z"
+                "enriched_at": "2026-08-25T20:23:34.149085924Z"
               }
             },
             {
@@ -4934,7 +4834,7 @@
                 "stars": 107,
                 "is_archived": false,
                 "last_update": "2026-07-06T14:03:01Z",
-                "enriched_at": "2026-08-24T16:32:03.522795995Z"
+                "enriched_at": "2026-08-25T20:23:34.149086655Z"
               }
             },
             {
@@ -4945,7 +4845,7 @@
                 "stars": 2882,
                 "is_archived": false,
                 "last_update": "2026-07-26T21:15:23Z",
-                "enriched_at": "2026-08-24T16:32:03.522796784Z"
+                "enriched_at": "2026-08-25T20:23:34.149087376Z"
               }
             },
             {
@@ -4956,7 +4856,7 @@
                 "stars": 23,
                 "is_archived": false,
                 "last_update": "2025-12-18T15:58:22Z",
-                "enriched_at": "2026-08-24T16:32:03.522797689Z"
+                "enriched_at": "2026-08-25T20:23:34.149088117Z"
               }
             },
             {
@@ -4967,7 +4867,7 @@
                 "stars": 13331,
                 "is_archived": false,
                 "last_update": "2024-11-29T21:07:26Z",
-                "enriched_at": "2026-08-24T16:32:03.522798481Z"
+                "enriched_at": "2026-08-25T20:23:34.149088848Z"
               }
             },
             {
@@ -4978,7 +4878,7 @@
                 "stars": 23,
                 "is_archived": false,
                 "last_update": "2025-01-09T07:46:10Z",
-                "enriched_at": "2026-08-24T16:32:03.522799285Z"
+                "enriched_at": "2026-08-25T20:23:34.149089759Z"
               }
             },
             {
@@ -4989,7 +4889,7 @@
                 "stars": 123,
                 "is_archived": false,
                 "last_update": "2024-12-14T18:02:44Z",
-                "enriched_at": "2026-08-24T16:32:03.522800088Z"
+                "enriched_at": "2026-08-25T20:23:34.1490905Z"
               }
             },
             {
@@ -5000,7 +4900,7 @@
                 "stars": 500,
                 "is_archived": false,
                 "last_update": "2026-02-24T08:02:28Z",
-                "enriched_at": "2026-08-24T16:32:03.522800857Z"
+                "enriched_at": "2026-08-25T20:23:34.149091282Z"
               }
             },
             {
@@ -5011,7 +4911,7 @@
                 "stars": 15,
                 "is_archived": false,
                 "last_update": "2026-03-05T08:53:32Z",
-                "enriched_at": "2026-08-24T16:32:03.522801637Z"
+                "enriched_at": "2026-08-25T20:23:34.149091953Z"
               }
             },
             {
@@ -5019,10 +4919,10 @@
               "description": "A high performance lockless cache for Go. Many times faster than Ristretto and friends.",
               "url": "https://github.com/maypok86/otter",
               "repo_metadata": {
-                "stars": 2671,
+                "stars": 2672,
                 "is_archived": false,
                 "last_update": "2025-12-23T18:06:11Z",
-                "enriched_at": "2026-08-24T16:32:03.522802397Z"
+                "enriched_at": "2026-08-25T20:23:35.096707173Z"
               }
             },
             {
@@ -5033,7 +4933,7 @@
                 "stars": 236,
                 "is_archived": false,
                 "last_update": "2025-09-23T09:40:16Z",
-                "enriched_at": "2026-08-24T16:32:03.522803227Z"
+                "enriched_at": "2026-08-25T20:23:35.096708415Z"
               }
             },
             {
