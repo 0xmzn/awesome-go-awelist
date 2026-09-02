@@ -1,35 +1,633 @@
 {
   "metadata": {
-    "updated_at": "2026-09-02T14:02:34.173112563Z",
+    "updated_at": "2026-09-02T19:11:57.619022391Z",
     "provider_metrics": [
       {
         "provider": "GitLab",
-        "attempted": 4,
-        "successful": 0,
+        "attempted": 16,
+        "successful": 12,
         "failed": 4
       },
       {
         "provider": "GitHub",
-        "attempted": 14,
-        "successful": 0,
-        "failed": 14
+        "attempted": 910,
+        "successful": 298,
+        "failed": 612
       }
     ],
     "failed_links": {
-      "https://github.com/Knuspii/kepfi": "repository not found, renamed, or inaccessible",
-      "https://github.com/bahlo/go-styleguide": "repository not found, renamed, or inaccessible",
-      "https://github.com/cubahno/connexions": "repository not found, renamed, or inaccessible",
+      "http://github.com/bobg/hashsplit": "graphql query failed: EOF",
+      "http://github.com/rueian/rueidis": "graphql query failed: EOF",
+      "https://github.com/1set/cronrange": "graphql query failed: EOF",
+      "https://github.com/1set/gut": "graphql query failed: EOF",
+      "https://github.com/1set/starlet": "graphql query failed: EOF",
+      "https://github.com/1set/todotxt": "graphql query failed: EOF",
+      "https://github.com/AfterShip/email-verifier": "graphql query failed: EOF",
+      "https://github.com/AppsFlyer/go-sundheit": "graphql query failed: EOF",
+      "https://github.com/Balaji01-4D/pgxcli": "graphql query failed: EOF",
+      "https://github.com/BlackRabbitt/mspm": "graphql query failed: EOF",
+      "https://github.com/BooleanCat/go-functional": "graphql query failed: EOF",
+      "https://github.com/BrianLeishman/go-imap": "graphql query failed: EOF",
+      "https://github.com/C2FO/vfs": "graphql query failed: EOF",
+      "https://github.com/ClickHouse/clickhouse-go/": "graphql query failed: EOF",
+      "https://github.com/CovenantSQL/CovenantSQL": "graphql query failed: EOF",
+      "https://github.com/DiceDB/dice": "graphql query failed: EOF",
+      "https://github.com/EchoVault/EchoVault": "graphql query failed: EOF",
+      "https://github.com/EngoEngine/engo": "graphql query failed: EOF",
+      "https://github.com/GuiaBolso/darwin": "graphql query failed: EOF",
+      "https://github.com/GuilhermeCaruso/kair": "graphql query failed: EOF",
+      "https://github.com/HDT3213/rdb": "graphql query failed: EOF",
+      "https://github.com/HnH/qry": "graphql query failed: EOF",
+      "https://github.com/HouzuoGuo/tiedot": "graphql query failed: EOF",
+      "https://github.com/ITcathyh/conexec": "graphql query failed: EOF",
+      "https://github.com/Jacobbrewer1/patcher": "graphql query failed: EOF",
+      "https://github.com/JoelOtter/termloop": "graphql query failed: EOF",
+      "https://github.com/Kachit/gorm-seeder": "graphql query failed: EOF",
+      "https://github.com/Knuspii/kepfi": "graphql query failed: EOF",
+      "https://github.com/Konstantin8105/c4go": "graphql query failed: EOF",
+      "https://github.com/Konstantin8105/f4go": "graphql query failed: EOF",
+      "https://github.com/MUlt1mate/protoc-gen-httpgo": "graphql query failed: EOF",
+      "https://github.com/Masterminds/squirrel": "graphql query failed: EOF",
+      "https://github.com/MauriceGit/skiplist": "graphql query failed: EOF",
+      "https://github.com/MonaxGT/parsefields": "graphql query failed: EOF",
+      "https://github.com/OldPanda/bloomfilter": "graphql query failed: EOF",
+      "https://github.com/OrlovEvgeny/go-mcache": "graphql query failed: EOF",
+      "https://github.com/OwnLocal/goes": "graphql query failed: EOF",
+      "https://github.com/PaesslerAG/gval": "graphql query failed: EOF",
+      "https://github.com/PumpkinSeed/errors": "graphql query failed: EOF",
+      "https://github.com/RibbonFilter/ribbonGo": "graphql query failed: EOF",
+      "https://github.com/RichardKnop/go-fixtures": "graphql query failed: EOF",
+      "https://github.com/RichardKnop/minisql": "graphql query failed: EOF",
+      "https://github.com/SaidinWoT/timespan": "graphql query failed: EOF",
+      "https://github.com/SebastiaanKlippert/go-wkhtmltopdf": "graphql query failed: EOF",
+      "https://github.com/Shopify/go-lua": "graphql query failed: EOF",
+      "https://github.com/SonicRoshan/falcon": "graphql query failed: EOF",
+      "https://github.com/Southclaws/fault": "graphql query failed: EOF",
+      "https://github.com/StudioSol/set": "graphql query failed: EOF",
+      "https://github.com/TeaEntityLab/fpGo": "graphql query failed: EOF",
+      "https://github.com/TheTannerRyan/ring": "graphql query failed: EOF",
+      "https://github.com/Vertamedia/chproxy": "graphql query failed: EOF",
+      "https://github.com/VictoriaMetrics/VictoriaMetrics": "graphql query failed: EOF",
+      "https://github.com/VictoriaMetrics/fastcache": "graphql query failed: EOF",
+      "https://github.com/VinGarcia/ksql": "graphql query failed: EOF",
+      "https://github.com/Workiva/go-datastructures": "graphql query failed: EOF",
+      "https://github.com/Yiling-J/theine-go": "graphql query failed: EOF",
+      "https://github.com/aalpar/deheap": "graphql query failed: EOF",
+      "https://github.com/aarzilli/golua": "graphql query failed: EOF",
+      "https://github.com/abice/go-enum": "graphql query failed: EOF",
+      "https://github.com/achannarasappa/ticker": "graphql query failed: EOF",
+      "https://github.com/aclindsa/ofxgo": "graphql query failed: EOF",
+      "https://github.com/adelowo/gulter": "graphql query failed: EOF",
+      "https://github.com/adlio/schema": "graphql query failed: EOF",
+      "https://github.com/adrianbrad/queue": "graphql query failed: EOF",
+      "https://github.com/aerospike/aerospike-client-go": "graphql query failed: EOF",
+      "https://github.com/agext/levenshtein": "graphql query failed: EOF",
+      "https://github.com/agnivade/levenshtein": "graphql query failed: EOF",
+      "https://github.com/ahmetalpbalkan/go-linq": "graphql query failed: EOF",
+      "https://github.com/aio-arch/graphlib": "graphql query failed: EOF",
+      "https://github.com/airbusgeo/godal": "graphql query failed: EOF",
+      "https://github.com/ajitpratap0/GoSQLX": "graphql query failed: EOF",
+      "https://github.com/akrylysov/pogreb": "graphql query failed: EOF",
+      "https://github.com/albrow/forms": "graphql query failed: EOF",
+      "https://github.com/alexeyco/binder": "graphql query failed: EOF",
+      "https://github.com/alexeyco/pig": "graphql query failed: EOF",
+      "https://github.com/alibaba/opentelemetry-go-auto-instrumentation": "graphql query failed: EOF",
+      "https://github.com/aliexpressru/gomemcached": "graphql query failed: EOF",
+      "https://github.com/allegro/bigcache": "graphql query failed: EOF",
+      "https://github.com/alpeb/go-finance": "graphql query failed: EOF",
+      "https://github.com/alvii147/gloop": "graphql query failed: EOF",
+      "https://github.com/amacneil/dbmate": "graphql query failed: EOF",
+      "https://github.com/amit-davidson/LibraDB": "graphql query failed: EOF",
+      "https://github.com/anacrolix/dht": "graphql query failed: EOF",
+      "https://github.com/anacrolix/torrent": "graphql query failed: EOF",
+      "https://github.com/andizzle/rwdb": "graphql query failed: EOF",
+      "https://github.com/andy2046/failured": "graphql query failed: EOF",
+      "https://github.com/andygeiss/ecs": "graphql query failed: EOF",
+      "https://github.com/andygeiss/esp32-transpiler": "graphql query failed: EOF",
+      "https://github.com/antonmedv/expr": "graphql query failed: EOF",
+      "https://github.com/antst/go-apispec": "graphql query failed: EOF",
+      "https://github.com/apache/calcite-avatica-go": "graphql query failed: EOF",
+      "https://github.com/araddon/dateparse": "graphql query failed: EOF",
+      "https://github.com/ariga/atlas": "graphql query failed: EOF",
+      "https://github.com/arthurkushman/buildsqlx": "graphql query failed: EOF",
+      "https://github.com/artonge/go-csv-tag": "graphql query failed: EOF",
+      "https://github.com/artonge/go-gtfs": "graphql query failed: EOF",
+      "https://github.com/aurelien-rainone/go-rquad": "graphql query failed: EOF",
+      "https://github.com/avito-tech/go-transaction-manager": "graphql query failed: EOF",
+      "https://github.com/awalterschulze/goderive": "graphql query failed: EOF",
+      "https://github.com/awoodbeck/strftime": "graphql query failed: EOF",
+      "https://github.com/axiomhq/hyperloglog": "graphql query failed: EOF",
+      "https://github.com/axllent/mailpit": "graphql query failed: EOF",
+      "https://github.com/aymanhs/nanotdb": "graphql query failed: EOF",
+      "https://github.com/aymerick/douceur": "graphql query failed: EOF",
+      "https://github.com/aytechnet/decimal": "graphql query failed: EOF",
+      "https://github.com/bahlo/go-styleguide": "graphql query failed: EOF",
+      "https://github.com/barasher/go-exiftool": "graphql query failed: EOF",
+      "https://github.com/bartventer/gorm-multitenancy": "graphql query failed: EOF",
+      "https://github.com/barweiss/go-tuple": "graphql query failed: EOF",
+      "https://github.com/bdjimmy/gbind": "graphql query failed: EOF",
+      "https://github.com/beefsack/go-astar": "graphql query failed: EOF",
+      "https://github.com/bits-and-blooms/bloom": "graphql query failed: EOF",
+      "https://github.com/blevesearch/bleve": "graphql query failed: EOF",
+      "https://github.com/bluele/gcache": "graphql query failed: EOF",
+      "https://github.com/bobg/combo": "graphql query failed: EOF",
+      "https://github.com/bobg/go-generics": "graphql query failed: EOF",
+      "https://github.com/bobg/merkle": "graphql query failed: EOF",
+      "https://github.com/bojanz/currency": "graphql query failed: EOF",
+      "https://github.com/bokwoon95/go-structured-query": "graphql query failed: EOF",
+      "https://github.com/borderstech/artifex": "graphql query failed: EOF",
+      "https://github.com/bradfitz/gomemcache/": "graphql query failed: EOF",
+      "https://github.com/bsm/redeo": "graphql query failed: EOF",
+      "https://github.com/bsm/redislock": "graphql query failed: EOF",
+      "https://github.com/btnguyen2k/gocosmos": "graphql query failed: EOF",
+      "https://github.com/buraksezer/consistent": "graphql query failed: EOF",
+      "https://github.com/bykof/gostradamus": "graphql query failed: EOF",
+      "https://github.com/bytebase/bytebase": "graphql query failed: EOF",
+      "https://github.com/c9s/bbgo": "graphql query failed: EOF",
+      "https://github.com/capillariesio/capillaries": "graphql query failed: EOF",
+      "https://github.com/carlmjohnson/flowmatic": "graphql query failed: EOF",
+      "https://github.com/cch123/elasticsql": "graphql query failed: EOF",
+      "https://github.com/cenkalti/rain": "graphql query failed: EOF",
+      "https://github.com/charlievieth/fastwalk": "graphql query failed: EOF",
+      "https://github.com/chenmingyong0423/go-mongox": "graphql query failed: EOF",
+      "https://github.com/cheshir/ttlcache": "graphql query failed: EOF",
+      "https://github.com/chmenegatti/go-date-fns": "graphql query failed: EOF",
+      "https://github.com/chrislusf/gleam": "graphql query failed: EOF",
+      "https://github.com/chrislusf/glow": "graphql query failed: EOF",
+      "https://github.com/chrislusf/vasto": "graphql query failed: EOF",
+      "https://github.com/cihangir/neo4j": "graphql query failed: EOF",
+      "https://github.com/cinar/checker": "graphql query failed: EOF",
+      "https://github.com/cinar/indicator": "graphql query failed: EOF",
+      "https://github.com/claygod/coffer": "graphql query failed: EOF",
+      "https://github.com/claygod/transaction": "graphql query failed: EOF",
+      "https://github.com/cloudwego/kitex": "graphql query failed: EOF",
+      "https://github.com/cmd-stream/cmd-stream-go": "graphql query failed: EOF",
+      "https://github.com/cockroachdb/cockroach": "graphql query failed: EOF",
+      "https://github.com/cockroachdb/errors": "graphql query failed: EOF",
+      "https://github.com/cockroachdb/pebble": "graphql query failed: EOF",
+      "https://github.com/cocoonspace/fsm": "graphql query failed: EOF",
+      "https://github.com/codenotary/immudb": "graphql query failed: EOF",
+      "https://github.com/codingconcepts/dg": "graphql query failed: EOF",
+      "https://github.com/codingsince1985/checksum": "graphql query failed: EOF",
+      "https://github.com/codingsince1985/couchcache": "graphql query failed: EOF",
+      "https://github.com/consbio/mbtileserver": "graphql query failed: EOF",
+      "https://github.com/coregx/gxpdf": "graphql query failed: EOF",
+      "https://github.com/coregx/relica": "graphql query failed: EOF",
+      "https://github.com/couchbase/go-couchbase": "graphql query failed: EOF",
+      "https://github.com/couchbase/gocb": "graphql query failed: EOF",
+      "https://github.com/couchbase/goforestdb": "graphql query failed: EOF",
+      "https://github.com/couchbase/moss": "graphql query failed: EOF",
+      "https://github.com/cristalhq/builq": "graphql query failed: EOF",
+      "https://github.com/cubahno/connexions": "graphql query failed: EOF",
+      "https://github.com/cvilsmeier/sqinn-go": "graphql query failed: EOF",
+      "https://github.com/cybertec-postgresql/pg_timetable": "graphql query failed: EOF",
+      "https://github.com/d5/tengo": "graphql query failed: EOF",
+      "https://github.com/daichi-m/go18ds": "graphql query failed: EOF",
+      "https://github.com/dancannon/gorethink": "graphql query failed: EOF",
+      "https://github.com/dannyvankooten/vat": "graphql query failed: EOF",
+      "https://github.com/dastoori/higgs": "graphql query failed: EOF",
+      "https://github.com/dave/jennifer": "graphql query failed: EOF",
+      "https://github.com/db47h/ngaro": "graphql query failed: EOF",
+      "https://github.com/ddelizia/channelify": "graphql query failed: EOF",
+      "https://github.com/deatil/go-datebin": "graphql query failed: EOF",
+      "https://github.com/deckarep/golang-set": "graphql query failed: EOF",
+      "https://github.com/deepmap/oapi-codegen": "graphql query failed: EOF",
+      "https://github.com/defcronyke/godscache": "graphql query failed: EOF",
+      "https://github.com/denisenkom/go-mssqldb": "graphql query failed: EOF",
+      "https://github.com/derekparker/trie": "graphql query failed: EOF",
+      "https://github.com/deuill/go-php": "graphql query failed: EOF",
+      "https://github.com/dgraph-io/badger": "graphql query failed: EOF",
+      "https://github.com/dgraph-io/dgraph": "graphql query failed: EOF",
+      "https://github.com/dgraph-io/ristretto": "graphql query failed: EOF",
+      "https://github.com/dgruber/drmaa": "graphql query failed: EOF",
+      "https://github.com/dgryski/go-jump": "graphql query failed: EOF",
+      "https://github.com/didi/gendry": "graphql query failed: EOF",
+      "https://github.com/digota/digota": "graphql query failed: EOF",
+      "https://github.com/dimuska139/go-email-normalizer": "graphql query failed: EOF",
+      "https://github.com/disksing/iter": "graphql query failed: EOF",
+      "https://github.com/dixonwille/skywalker": "graphql query failed: EOF",
+      "https://github.com/dolthub/dolt": "graphql query failed: EOF",
+      "https://github.com/dop251/goja": "graphql query failed: EOF",
+      "https://github.com/dotchain/dot/": "graphql query failed: EOF",
+      "https://github.com/doug-martin/goqu": "graphql query failed: EOF",
+      "https://github.com/dragonflyoss/Dragonfly2": "graphql query failed: EOF",
+      "https://github.com/dromara/carbon": "graphql query failed: EOF",
+      "https://github.com/dundee/gdu": "graphql query failed: EOF",
+      "https://github.com/dunglas/frankenphp": "graphql query failed: EOF",
+      "https://github.com/edwingeng/deque": "graphql query failed: EOF",
+      "https://github.com/edwingeng/doublejump": "graphql query failed: EOF",
+      "https://github.com/eko/gocache": "graphql query failed: EOF",
+      "https://github.com/elastic/go-elasticsearch": "graphql query failed: EOF",
+      "https://github.com/elgopher/pi": "graphql query failed: EOF",
+      "https://github.com/elgris/sqrl": "graphql query failed: EOF",
+      "https://github.com/embano1/memlog": "graphql query failed: EOF",
+      "https://github.com/emersion/go-imap": "graphql query failed: EOF",
+      "https://github.com/emersion/go-message": "graphql query failed: EOF",
+      "https://github.com/emirpasic/gods": "graphql query failed: EOF",
+      "https://github.com/emitter-io/emitter": "graphql query failed: EOF",
+      "https://github.com/emperror/emperror": "graphql query failed: EOF",
+      "https://github.com/emperror/errors": "graphql query failed: EOF",
+      "https://github.com/emvi/hide": "graphql query failed: EOF",
+      "https://github.com/emvi/null": "graphql query failed: EOF",
+      "https://github.com/enetx/fsm": "graphql query failed: EOF",
+      "https://github.com/enetx/g": "graphql query failed: EOF",
+      "https://github.com/enriquebris/goconcurrentqueue": "graphql query failed: EOF",
+      "https://github.com/erni27/imcache": "graphql query failed: EOF",
+      "https://github.com/esimov/gogu": "graphql query failed: EOF",
+      "https://github.com/etcd-io/bbolt": "graphql query failed: EOF",
+      "https://github.com/etcd-io/raft": "graphql query failed: EOF",
+      "https://github.com/faabiosr/cachego": "graphql query failed: EOF",
+      "https://github.com/feichai0017/NoKV": "graphql query failed: EOF",
+      "https://github.com/fern4lvarez/piladb": "graphql query failed: EOF",
+      "https://github.com/flower-corp/lotusdb": "graphql query failed: EOF",
+      "https://github.com/fogfish/dynamo": "graphql query failed: EOF",
+      "https://github.com/formancehq/ledger": "graphql query failed: EOF",
+      "https://github.com/foxcpp/maddy": "graphql query failed: EOF",
+      "https://github.com/francesconi/go-rampart": "graphql query failed: EOF",
+      "https://github.com/free/concurrent-writer": "graphql query failed: EOF",
+      "https://github.com/g3n/engine": "graphql query failed: EOF",
+      "https://github.com/galeone/igor": "graphql query failed: EOF",
+      "https://github.com/gammazero/deque": "graphql query failed: EOF",
+      "https://github.com/gammazero/radixtree": "graphql query failed: EOF",
+      "https://github.com/gansidui/skiplist": "graphql query failed: EOF",
+      "https://github.com/gatewayd-io/gatewayd": "graphql query failed: EOF",
+      "https://github.com/gchaincl/dotsql": "graphql query failed: EOF",
+      "https://github.com/gen2brain/raylib-go": "graphql query failed: EOF",
+      "https://github.com/gentee/gentee": "graphql query failed: EOF",
+      "https://github.com/ggicci/httpin": "graphql query failed: EOF",
+      "https://github.com/globalsign/mgo": "graphql query failed: EOF",
+      "https://github.com/gmsec/micro": "graphql query failed: EOF",
       "https://github.com/go-authgate/authgate": "repository not found, renamed, or inaccessible",
+      "https://github.com/go-eagle/eagle": "graphql query failed: EOF",
+      "https://github.com/go-errr/go": "graphql query failed: EOF",
+      "https://github.com/go-gormigrate/gormigrate": "graphql query failed: EOF",
+      "https://github.com/go-jet/jet": "graphql query failed: EOF",
+      "https://github.com/go-kit/kit": "graphql query failed: EOF",
+      "https://github.com/go-kivik/kivik": "graphql query failed: EOF",
+      "https://github.com/go-kratos/kratos": "graphql query failed: EOF",
+      "https://github.com/go-ozzo/ozzo-dbx": "graphql query failed: EOF",
+      "https://github.com/go-playground/form": "graphql query failed: EOF",
+      "https://github.com/go-sql-driver/mysql": "graphql query failed: EOF",
+      "https://github.com/go-the-way/sg": "graphql query failed: EOF",
+      "https://github.com/go2hx/go2hx": "graphql query failed: EOF",
+      "https://github.com/godror/godror": "graphql query failed: EOF",
+      "https://github.com/gogpu/gogpu": "graphql query failed: EOF",
+      "https://github.com/gogpu/wgpu": "graphql query failed: EOF",
+      "https://github.com/golang-migrate/migrate": "graphql query failed: EOF",
+      "https://github.com/golang/geo": "graphql query failed: EOF",
+      "https://github.com/golang/groupcache": "graphql query failed: EOF",
+      "https://github.com/gomodule/redigo": "graphql query failed: EOF",
+      "https://github.com/gonutz/prototype": "graphql query failed: EOF",
+      "https://github.com/google/cayley": "graphql query failed: EOF",
+      "https://github.com/google/cel-go": "graphql query failed: EOF",
+      "https://github.com/google/starlark-go": "graphql query failed: EOF",
+      "https://github.com/gopherjs/gopherjs": "graphql query failed: EOF",
+      "https://github.com/gopxl/pixel": "graphql query failed: EOF",
+      "https://github.com/goradd/maps": "graphql query failed: EOF",
+      "https://github.com/gorilla/csrf": "graphql query failed: EOF",
+      "https://github.com/goschtalt/approx": "graphql query failed: EOF",
+      "https://github.com/gotranspile/cxgo": "graphql query failed: EOF",
+      "https://github.com/govalues/decimal": "graphql query failed: EOF",
+      "https://github.com/govalues/money": "graphql query failed: EOF",
+      "https://github.com/grpc/grpc-go": "graphql query failed: EOF",
+      "https://github.com/gurukami/typ": "graphql query failed: EOF",
+      "https://github.com/hailocab/go-geoindex": "graphql query failed: EOF",
+      "https://github.com/hajimehoshi/ebiten": "graphql query failed: EOF",
+      "https://github.com/hako/durafmt": "graphql query failed: EOF",
+      "https://github.com/harkaitz/go-faketime": "graphql query failed: EOF",
+      "https://github.com/hashicorp/go-multierror": "graphql query failed: EOF",
+      "https://github.com/hashicorp/raft": "graphql query failed: EOF",
+      "https://github.com/hatchet-dev/hatchet": "graphql query failed: EOF",
+      "https://github.com/hbollon/go-edlib": "graphql query failed: EOF",
+      "https://github.com/hdt3213/godis": "graphql query failed: EOF",
+      "https://github.com/hectane/hectane": "graphql query failed: EOF",
+      "https://github.com/hexdigest/execpool": "graphql query failed: EOF",
+      "https://github.com/hexdigest/gowrap": "graphql query failed: EOF",
+      "https://github.com/hexdigest/prep": "graphql query failed: EOF",
+      "https://github.com/hishamkaram/geoserver": "graphql query failed: EOF",
+      "https://github.com/hishamkaram/gismanager": "graphql query failed: EOF",
+      "https://github.com/homedepot/flop": "graphql query failed: EOF",
+      "https://github.com/hprose/hprose-golang": "graphql query failed: EOF",
+      "https://github.com/hugocarreira/go-decent-copy": "graphql query failed: EOF",
+      "https://github.com/hyfather/pipeline": "graphql query failed: EOF",
+      "https://github.com/i25959341/orderbook": "graphql query failed: EOF",
+      "https://github.com/ian-kent/purl": "graphql query failed: EOF",
+      "https://github.com/ichiban/prolog": "graphql query failed: EOF",
+      "https://github.com/igrmk/treemap": "graphql query failed: EOF",
+      "https://github.com/ihebu/dsu": "graphql query failed: EOF",
+      "https://github.com/ijt/go-anytime": "graphql query failed: EOF",
+      "https://github.com/influxdb/influxdb": "graphql query failed: EOF",
+      "https://github.com/invopop/gobl": "graphql query failed: EOF",
+      "https://github.com/italolelis/outboxer": "graphql query failed: EOF",
+      "https://github.com/iwanbk/bcache": "graphql query failed: EOF",
+      "https://github.com/jackc/pgx": "graphql query failed: EOF",
+      "https://github.com/jameycribbs/hare": "graphql query failed: EOF",
+      "https://github.com/jcla1/gisp": "graphql query failed: EOF",
+      "https://github.com/jellydator/ttlcache": "graphql query failed: EOF",
+      "https://github.com/jexia/semaphore": "graphql query failed: EOF",
+      "https://github.com/jinzhu/now": "graphql query failed: EOF",
+      "https://github.com/jmattheis/goverter": "graphql query failed: EOF",
+      "https://github.com/jmcvetta/neoism": "graphql query failed: EOF",
+      "https://github.com/jmhodges/levigo": "graphql query failed: EOF",
+      "https://github.com/jokruger/dec128": "graphql query failed: EOF",
+      "https://github.com/jonchun/pathtype": "graphql query failed: EOF",
+      "https://github.com/joomcode/errorx": "graphql query failed: EOF",
+      "https://github.com/jordan-wright/email": "graphql query failed: EOF",
+      "https://github.com/jovandeginste/payme": "graphql query failed: EOF",
+      "https://github.com/justinas/nosurf": "graphql query failed: EOF",
+      "https://github.com/k8gb-io/k8gb": "graphql query failed: EOF",
+      "https://github.com/kak-tus/nan": "graphql query failed: EOF",
+      "https://github.com/kamilsk/breaker": "graphql query failed: EOF",
+      "https://github.com/kamva/mgm": "graphql query failed: EOF",
+      "https://github.com/kazhuravlev/database-gateway": "graphql query failed: EOF",
       "https://github.com/kcmvp/gob": "repository not found, renamed, or inaccessible",
-      "https://github.com/mickep76/encdec": "repository not found, renamed, or inaccessible",
-      "https://github.com/micro/micro": "repository not found, renamed, or inaccessible",
-      "https://github.com/samuelcouch/clarifai": "repository not found, renamed, or inaccessible",
-      "https://github.com/seiflotfy/skizze": "repository not found, renamed, or inaccessible",
-      "https://github.com/stv0g/gont": "repository not found, renamed, or inaccessible",
-      "https://github.com/twharmon/golamb": "repository not found, renamed, or inaccessible",
-      "https://github.com/tyler-smith/golang-sql-benchmark": "repository not found, renamed, or inaccessible",
-      "https://github.com/xtaci/kcptun": "repository not found, renamed, or inaccessible",
-      "https://github.com/zhenghaoz/gorse": "repository not found, renamed, or inaccessible",
+      "https://github.com/kdomanski/iso9660": "graphql query failed: EOF",
+      "https://github.com/kelindar/column": "graphql query failed: EOF",
+      "https://github.com/kelindar/tile": "graphql query failed: EOF",
+      "https://github.com/khezen/avro": "graphql query failed: EOF",
+      "https://github.com/kirill-scherba/sqlh": "graphql query failed: EOF",
+      "https://github.com/kjkrol/goke": "graphql query failed: EOF",
+      "https://github.com/kniren/gota": "graphql query failed: EOF",
+      "https://github.com/knocknote/octillery": "graphql query failed: EOF",
+      "https://github.com/knq/xo": "graphql query failed: EOF",
+      "https://github.com/koss-null/FuncFrog": "graphql query failed: EOF",
+      "https://github.com/koss-null/list": "graphql query failed: EOF",
+      "https://github.com/kpfaulkner/borders": "graphql query failed: EOF",
+      "https://github.com/krotik/ecal": "graphql query failed: EOF",
+      "https://github.com/krotik/eliasdb": "graphql query failed: EOF",
+      "https://github.com/ktr0731/evans": "graphql query failed: EOF",
+      "https://github.com/kyleconroy/sqlc": "graphql query failed: EOF",
+      "https://github.com/kyuff/anchor": "graphql query failed: EOF",
+      "https://github.com/lab210-dev/async-job": "graphql query failed: EOF",
+      "https://github.com/larapulse/migrator": "graphql query failed: EOF",
+      "https://github.com/lawzava/go-pg-migrate": "graphql query failed: EOF",
+      "https://github.com/leebenson/conform": "graphql query failed: EOF",
+      "https://github.com/leekchan/accounting": "graphql query failed: EOF",
+      "https://github.com/leekchan/timeutil": "graphql query failed: EOF",
+      "https://github.com/leporo/sqlf": "graphql query failed: EOF",
+      "https://github.com/lesismal/arpc": "graphql query failed: EOF",
+      "https://github.com/lib/pq": "graphql query failed: EOF",
+      "https://github.com/liftbridge-io/liftbridge": "graphql query failed: EOF",
+      "https://github.com/lindb/lindb": "graphql query failed: EOF",
+      "https://github.com/linkedin/goavro": "graphql query failed: EOF",
+      "https://github.com/linvon/cuckoo-filter": "graphql query failed: EOF",
+      "https://github.com/liweiyi88/onedump": "graphql query failed: EOF",
+      "https://github.com/liyue201/gostl": "graphql query failed: EOF",
+      "https://github.com/lni/dragonboat": "graphql query failed: EOF",
+      "https://github.com/lonng/nano": "graphql query failed: EOF",
+      "https://github.com/lopezator/migrator": "graphql query failed: EOF",
+      "https://github.com/lqs/sqlingo": "graphql query failed: EOF",
+      "https://github.com/lrita/cmap": "graphql query failed: EOF",
+      "https://github.com/lucmq/go-shelve": "graphql query failed: EOF",
+      "https://github.com/luraproject/lura": "graphql query failed: EOF",
+      "https://github.com/lynxbase/lynxdb": "graphql query failed: EOF",
+      "https://github.com/lyonnee/hmap": "graphql query failed: EOF",
+      "https://github.com/maguro/pbf": "graphql query failed: EOF",
+      "https://github.com/mailchain/mailchain": "graphql query failed: EOF",
+      "https://github.com/mailgun/mailgun-go": "graphql query failed: EOF",
+      "https://github.com/mailhog/MailHog": "graphql query failed: EOF",
+      "https://github.com/mailhog/smtp": "graphql query failed: EOF",
+      "https://github.com/marusama/cyclicbarrier": "graphql query failed: EOF",
+      "https://github.com/matcornic/hermes": "graphql query failed: EOF",
+      "https://github.com/matm/go-nowpayments": "graphql query failed: EOF",
+      "https://github.com/mattbaird/elastigo": "graphql query failed: EOF",
+      "https://github.com/mattn/anko": "graphql query failed: EOF",
+      "https://github.com/mattn/go-adodb": "graphql query failed: EOF",
+      "https://github.com/mattn/go-oci8": "graphql query failed: EOF",
+      "https://github.com/mattn/go-sqlite3": "graphql query failed: EOF",
+      "https://github.com/maypok86/otter": "graphql query failed: EOF",
+      "https://github.com/mbrostami/consistenthash": "graphql query failed: EOF",
+      "https://github.com/mdaliyan/icache": "graphql query failed: EOF",
+      "https://github.com/metacall/core": "graphql query failed: EOF",
+      "https://github.com/metalfm/transactor": "graphql query failed: EOF",
+      "https://github.com/mgtv-tech/jetcache-go": "graphql query failed: EOF",
+      "https://github.com/mhmtszr/concurrent-swiss-map": "graphql query failed: EOF",
+      "https://github.com/mickep76/encdec": "graphql query failed: EOF",
+      "https://github.com/micro/go-micro": "graphql query failed: EOF",
+      "https://github.com/micro/micro": "graphql query failed: EOF",
+      "https://github.com/milvus-io/milvus": "graphql query failed: EOF",
+      "https://github.com/minus5/gofreetds": "graphql query failed: EOF",
+      "https://github.com/mjl-/mox": "graphql query failed: EOF",
+      "https://github.com/mlange-42/ark": "graphql query failed: EOF",
+      "https://github.com/mmadfox/go-geojson2h3": "graphql query failed: EOF",
+      "https://github.com/mmadfox/go-h3geo-dist": "graphql query failed: EOF",
+      "https://github.com/mochi-co/mqtt": "graphql query failed: EOF",
+      "https://github.com/mocktools/go-smtp-mock": "graphql query failed: EOF",
+      "https://github.com/mongodb/mongo-go-driver": "graphql query failed: EOF",
+      "https://github.com/monoculum/formam": "graphql query failed: EOF",
+      "https://github.com/moov-io/ach": "graphql query failed: EOF",
+      "https://github.com/motrboat/hotcoal": "graphql query failed: EOF",
+      "https://github.com/muesli/cache2go": "graphql query failed: EOF",
+      "https://github.com/muir/libschema": "graphql query failed: EOF",
+      "https://github.com/nakagami/firebirdsql": "graphql query failed: EOF",
+      "https://github.com/nalgeon/redka": "graphql query failed: EOF",
+      "https://github.com/name5566/leaf": "graphql query failed: EOF",
+      "https://github.com/nar10z/go-accumulator": "graphql query failed: EOF",
+      "https://github.com/nathan-osman/go-sunrise": "graphql query failed: EOF",
+      "https://github.com/nats-io/nats-server": "graphql query failed: EOF",
+      "https://github.com/naughtygopher/currency": "graphql query failed: EOF",
+      "https://github.com/naughtygopher/errors": "graphql query failed: EOF",
+      "https://github.com/naughtygopher/pocache": "graphql query failed: EOF",
+      "https://github.com/nazar256/parapipe": "graphql query failed: EOF",
+      "https://github.com/ncruces/go-sqlite3": "graphql query failed: EOF",
+      "https://github.com/neuronlabs/errors": "graphql query failed: EOF",
+      "https://github.com/nexcode/rpcplatform": "graphql query failed: EOF",
+      "https://github.com/nicobistolfi/go-postgres-s3-backup": "graphql query failed: EOF",
+      "https://github.com/nikepan/clickhouse-bulk": "graphql query failed: EOF",
+      "https://github.com/nikolaydubina/fpdecimal": "graphql query failed: EOF",
+      "https://github.com/nikolaydubina/fpmoney": "graphql query failed: EOF",
+      "https://github.com/nikolaydubina/go-enum-encoding": "graphql query failed: EOF",
+      "https://github.com/nitishm/go-rejson": "graphql query failed: EOF",
+      "https://github.com/no-src/gofs": "graphql query failed: EOF",
+      "https://github.com/no-src/nscache": "graphql query failed: EOF",
+      "https://github.com/nullism/bqb": "graphql query failed: EOF",
+      "https://github.com/nwillc/genfuncs": "graphql query failed: EOF",
+      "https://github.com/nxdir-s/pipelines": "graphql query failed: EOF",
+      "https://github.com/oaStuff/clusteredBigCache": "graphql query failed: EOF",
+      "https://github.com/oagudo/outbox": "graphql query failed: EOF",
+      "https://github.com/oakmound/oak": "graphql query failed: EOF",
+      "https://github.com/objectbox/objectbox-go": "graphql query failed: EOF",
+      "https://github.com/olivere/elastic": "graphql query failed: EOF",
+      "https://github.com/oracle/coherence-go-client": "graphql query failed: EOF",
+      "https://github.com/oras-project/oras": "graphql query failed: EOF",
+      "https://github.com/orneryd/NornicDB": "graphql query failed: EOF",
+      "https://github.com/osamingo/jsonrpc": "graphql query failed: EOF",
+      "https://github.com/ostafen/clover": "graphql query failed: EOF",
+      "https://github.com/osteele/tuesday": "graphql query failed: EOF",
+      "https://github.com/otiai10/copy": "graphql query failed: EOF",
+      "https://github.com/panjf2000/ants": "graphql query failed: EOF",
+      "https://github.com/pantrif/s2-geojson": "graphql query failed: EOF",
+      "https://github.com/paranoidguy/databunker": "graphql query failed: EOF",
+      "https://github.com/parsyl/parquet": "graphql query failed: EOF",
+      "https://github.com/paulmach/osm": "graphql query failed: EOF",
+      "https://github.com/pdfcpu/pdfcpu": "graphql query failed: EOF",
+      "https://github.com/pdupub/go-pdu": "graphql query failed: EOF",
+      "https://github.com/peterbourgon/diskv": "graphql query failed: EOF",
+      "https://github.com/peterstace/simplefeatures": "graphql query failed: EOF",
+      "https://github.com/pgrwl/pgrwl": "graphql query failed: EOF",
+      "https://github.com/phelmkamp/valor": "graphql query failed: EOF",
+      "https://github.com/philippgille/gokv": "graphql query failed: EOF",
+      "https://github.com/piaohao/godis": "graphql query failed: EOF",
+      "https://github.com/pieterclaerhout/go-finance": "graphql query failed: EOF",
+      "https://github.com/pilosa/go-pilosa": "graphql query failed: EOF",
+      "https://github.com/pingcap/tidb": "graphql query failed: EOF",
+      "https://github.com/plar/go-adaptive-radix-tree": "graphql query failed: EOF",
+      "https://github.com/pressly/goose": "graphql query failed: EOF",
+      "https://github.com/prest/prest": "graphql query failed: EOF",
+      "https://github.com/profe-ajedrez/obreron": "graphql query failed: EOF",
+      "https://github.com/prometheus/prometheus": "graphql query failed: EOF",
+      "https://github.com/pupizoid/ormlite": "graphql query failed: EOF",
+      "https://github.com/qiniu/qmgo": "graphql query failed: EOF",
+      "https://github.com/qmuntal/opc": "graphql query failed: EOF",
+      "https://github.com/quagmt/udecimal": "graphql query failed: EOF",
+      "https://github.com/quantumcycle/metaerr": "graphql query failed: EOF",
+      "https://github.com/qustavo/sqlhooks": "graphql query failed: EOF",
+      "https://github.com/rafaelespinoza/godfish": "graphql query failed: EOF",
+      "https://github.com/rafaeljesus/tempdb": "graphql query failed: EOF",
+      "https://github.com/rbrahul/exception": "graphql query failed: EOF",
+      "https://github.com/rbrahul/gofp": "graphql query failed: EOF",
+      "https://github.com/recoilme/pudge": "graphql query failed: EOF",
+      "https://github.com/redis/go-redis": "graphql query failed: EOF",
+      "https://github.com/reedom/convergen": "graphql query failed: EOF",
+      "https://github.com/relvacode/iso8601": "graphql query failed: EOF",
+      "https://github.com/repeale/fp-go": "graphql query failed: EOF",
+      "https://github.com/reugn/async": "graphql query failed: EOF",
+      "https://github.com/rhymond/go-money": "graphql query failed: EOF",
+      "https://github.com/rickb777/date": "graphql query failed: EOF",
+      "https://github.com/rjNemo/underscore": "graphql query failed: EOF",
+      "https://github.com/rjeczalik/interfaces": "graphql query failed: EOF",
+      "https://github.com/rjeczalik/notify": "graphql query failed: EOF",
+      "https://github.com/robfig/bind": "graphql query failed: EOF",
+      "https://github.com/robinjoseph08/go-pg-migrations": "graphql query failed: EOF",
+      "https://github.com/rocketlaunchr/dbq": "graphql query failed: EOF",
+      "https://github.com/roseduan/rosedb": "graphql query failed: EOF",
+      "https://github.com/rotisserie/eris": "graphql query failed: EOF",
+      "https://github.com/rqlite/gorqlite": "graphql query failed: EOF",
+      "https://github.com/rqlite/rqlite": "graphql query failed: EOF",
+      "https://github.com/rubenv/sql-migrate": "graphql query failed: EOF",
+      "https://github.com/s0rg/fantasyname": "graphql query failed: EOF",
+      "https://github.com/s0rg/grid": "graphql query failed: EOF",
+      "https://github.com/s0rg/quadtree": "graphql query failed: EOF",
+      "https://github.com/samber/mo": "graphql query failed: EOF",
+      "https://github.com/samber/oops": "graphql query failed: EOF",
+      "https://github.com/samuelcouch/clarifai": "graphql query failed: EOF",
+      "https://github.com/sanketplus/go-mysql-lock": "graphql query failed: EOF",
+      "https://github.com/schigh/circuit": "graphql query failed: EOF",
+      "https://github.com/schigh/health": "graphql query failed: EOF",
+      "https://github.com/sdcoffey/techan": "graphql query failed: EOF",
+      "https://github.com/sdqri/effdsl": "graphql query failed: EOF",
+      "https://github.com/seborama/fuego": "graphql query failed: EOF",
+      "https://github.com/seiflotfy/count-min-log": "graphql query failed: EOF",
+      "https://github.com/seiflotfy/cuckoofilter": "graphql query failed: EOF",
+      "https://github.com/seiflotfy/skizze": "graphql query failed: EOF",
+      "https://github.com/sendgrid/sendgrid-go": "graphql query failed: EOF",
+      "https://github.com/senselogic/GENERIS": "graphql query failed: EOF",
+      "https://github.com/shady831213/algorithms": "graphql query failed: EOF",
+      "https://github.com/shomali11/xredis": "graphql query failed: EOF",
+      "https://github.com/shopspring/decimal": "graphql query failed: EOF",
+      "https://github.com/siddontang/go-mysql": "graphql query failed: EOF",
+      "https://github.com/siddontang/ledisdb": "graphql query failed: EOF",
+      "https://github.com/sj14/dbbench": "graphql query failed: EOF",
+      "https://github.com/skeema/skeema": "graphql query failed: EOF",
+      "https://github.com/skibish/ddns": "graphql query failed: EOF",
+      "https://github.com/slipros/roamer": "graphql query failed: EOF",
+      "https://github.com/smallnest/rpcx": "graphql query failed: EOF",
+      "https://github.com/snwfdhmp/errlog": "graphql query failed: EOF",
+      "https://github.com/solher/arangolite": "graphql query failed: EOF",
+      "https://github.com/sonh/qs": "graphql query failed: EOF",
+      "https://github.com/sosedoff/pgweb": "graphql query failed: EOF",
+      "https://github.com/sourcegraph/conc": "graphql query failed: EOF",
+      "https://github.com/sourcegraph/zoekt": "graphql query failed: EOF",
+      "https://github.com/spatial-go/geoos": "graphql query failed: EOF",
+      "https://github.com/speedata/go-lua": "graphql query failed: EOF",
+      "https://github.com/spf13/afero": "graphql query failed: EOF",
+      "https://github.com/srfrog/dict": "graphql query failed: EOF",
+      "https://github.com/stoewer/go-week": "graphql query failed: EOF",
+      "https://github.com/studiosol/async": "graphql query failed: EOF",
+      "https://github.com/stv0g/gont": "graphql query failed: EOF",
+      "https://github.com/sunary/sqlize": "graphql query failed: EOF",
+      "https://github.com/surrealdb/surrealdb.go": "graphql query failed: EOF",
+      "https://github.com/switchupcb/copygen": "graphql query failed: EOF",
+      "https://github.com/syndtr/goleveldb": "graphql query failed: EOF",
+      "https://github.com/szyhf/go-gcache": "graphql query failed: EOF",
+      "https://github.com/tal-tech/go-zero": "graphql query failed: EOF",
+      "https://github.com/tarmac-project/tarmac": "graphql query failed: EOF",
+      "https://github.com/tejzpr/ordered-concurrently": "graphql query failed: EOF",
+      "https://github.com/temporalio/sdk-go": "graphql query failed: EOF",
+      "https://github.com/tickstem/verify": "graphql query failed: EOF",
+      "https://github.com/tidwall/buntdb": "graphql query failed: EOF",
+      "https://github.com/tidwall/tile38": "graphql query failed: EOF",
+      "https://github.com/timothyye/godns": "graphql query failed: EOF",
+      "https://github.com/tobyhede/go-underscore": "graphql query failed: EOF",
+      "https://github.com/tomwright/queryparam": "graphql query failed: EOF",
+      "https://github.com/toorop/go-dkim": "graphql query failed: EOF",
+      "https://github.com/topfreegames/pitaya": "graphql query failed: EOF",
+      "https://github.com/trpc-group/trpc-go": "graphql query failed: EOF",
+      "https://github.com/truemail-rb/truemail-go": "graphql query failed: EOF",
+      "https://github.com/twharmon/golamb": "graphql query failed: EOF",
+      "https://github.com/twharmon/gosql": "graphql query failed: EOF",
+      "https://github.com/twharmon/slices": "graphql query failed: EOF",
+      "https://github.com/tyler-smith/golang-sql-benchmark": "graphql query failed: EOF",
+      "https://github.com/tylertreat/BoomFilters": "graphql query failed: EOF",
+      "https://github.com/tylfin/dynatomic": "graphql query failed: EOF",
+      "https://github.com/uber-go/multierr": "graphql query failed: EOF",
+      "https://github.com/uber/h3-go": "graphql query failed: EOF",
+      "https://github.com/ubgo/lock": "graphql query failed: EOF",
+      "https://github.com/ulovecode/gdcache": "graphql query failed: EOF",
+      "https://github.com/ungerik/go3d": "graphql query failed: EOF",
+      "https://github.com/unionj-cloud/go-doudou": "graphql query failed: EOF",
+      "https://github.com/uniplaces/carbon": "graphql query failed: EOF",
+      "https://github.com/unit-io/unitdb": "graphql query failed: EOF",
+      "https://github.com/ursiform/sleuth": "graphql query failed: EOF",
+      "https://github.com/vadiminshakov/committer": "graphql query failed: EOF",
+      "https://github.com/valord577/mailx": "graphql query failed: EOF",
+      "https://github.com/valyala/gorpc": "graphql query failed: EOF",
+      "https://github.com/vanng822/go-premailer": "graphql query failed: EOF",
+      "https://github.com/veandco/go-sdl2": "graphql query failed: EOF",
+      "https://github.com/vectaport/flowgraph": "graphql query failed: EOF",
+      "https://github.com/viant/afs": "graphql query failed: EOF",
+      "https://github.com/viant/asc": "graphql query failed: EOF",
+      "https://github.com/viant/bgc": "graphql query failed: EOF",
+      "https://github.com/viant/dsc": "graphql query failed: EOF",
+      "https://github.com/viant/ptrie": "graphql query failed: EOF",
+      "https://github.com/viccon/sturdyc": "graphql query failed: EOF",
+      "https://github.com/viney-shih/go-cache": "graphql query failed: EOF",
+      "https://github.com/vivek-ng/concurrency-limiter": "graphql query failed: EOF",
+      "https://github.com/vodolaz095/dqueue": "graphql query failed: EOF",
+      "https://github.com/wa-lang/wa": "graphql query failed: EOF",
+      "https://github.com/wesql/wescale": "graphql query failed: EOF",
+      "https://github.com/wlbr/feiertage": "graphql query failed: EOF",
+      "https://github.com/wneessen/go-mail": "graphql query failed: EOF",
+      "https://github.com/wroge/wgs84": "graphql query failed: EOF",
+      "https://github.com/xgzlucario/rotom": "graphql query failed: EOF",
+      "https://github.com/xhit/go-simple-mail": "graphql query failed: EOF",
+      "https://github.com/xhit/go-str2duration": "graphql query failed: EOF",
+      "https://github.com/xiaonanln/goworld": "graphql query failed: EOF",
+      "https://github.com/xiaoxin01/typeregistry": "graphql query failed: EOF",
+      "https://github.com/xis/baraka": "graphql query failed: EOF",
+      "https://github.com/xtaci/gonet": "graphql query failed: EOF",
+      "https://github.com/xtaci/kcptun": "graphql query failed: EOF",
+      "https://github.com/xujiajun/godbal": "graphql query failed: EOF",
+      "https://github.com/xujiajun/nutsdb": "graphql query failed: EOF",
+      "https://github.com/xxjwxc/gofal": "graphql query failed: EOF",
+      "https://github.com/yaa110/go-persian-calendar": "graphql query failed: EOF",
+      "https://github.com/yaa110/goterator": "graphql query failed: EOF",
+      "https://github.com/yaitoo/async": "graphql query failed: EOF",
+      "https://github.com/yassinebenaid/bunster": "graphql query failed: EOF",
+      "https://github.com/ybbus/jsonrpc": "graphql query failed: EOF",
+      "https://github.com/ydb-platform/ydb-go-sdk": "graphql query failed: EOF",
+      "https://github.com/yourbasic/bloom": "graphql query failed: EOF",
+      "https://github.com/youtube/vitess": "graphql query failed: EOF",
+      "https://github.com/yuin/gopher-lua": "graphql query failed: EOF",
+      "https://github.com/yuseferi/gocache": "graphql query failed: EOF",
+      "https://github.com/z5labs/bedrock": "graphql query failed: EOF",
+      "https://github.com/zegl/goriak": "graphql query failed: EOF",
+      "https://github.com/zekroTJA/timedmap": "graphql query failed: EOF",
+      "https://github.com/zhenghaoz/gorse": "graphql query failed: EOF",
+      "https://github.com/zhenjl/bloom": "graphql query failed: EOF",
+      "https://github.com/zhufuyi/sponge": "graphql query failed: EOF",
+      "https://github.com/zoumo/goset": "graphql query failed: EOF",
+      "https://github.com/ztrue/tracerr": "graphql query failed: EOF",
       "https://gitlab.com/fruitygo/pnutmux": "404 Not Found",
       "https://gitlab.com/skilstak/code/go/uniq": "404 Not Found",
       "https://gitlab.com/tozd/go/errors": "404 Not Found",
@@ -315,10 +913,10 @@
           "description": "An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.",
           "url": "https://github.com/ergo-services/ergo",
           "repo_metadata": {
-            "stars": 4636,
+            "stars": 4637,
             "is_archived": false,
             "last_update": "2026-06-08T18:53:29Z",
-            "enriched_at": "2026-09-01T14:29:06.771165958Z"
+            "enriched_at": "2026-09-02T19:11:31.265549306Z"
           }
         },
         {
@@ -326,10 +924,10 @@
           "description": "Fast and Distributed Actor framework using protocol buffers as message for Golang.",
           "url": "https://github.com/Tochemey/goakt",
           "repo_metadata": {
-            "stars": 378,
+            "stars": 379,
             "is_archived": false,
-            "last_update": "2026-08-31T17:45:08Z",
-            "enriched_at": "2026-09-01T14:29:06.771167357Z"
+            "last_update": "2026-09-02T06:18:37Z",
+            "enriched_at": "2026-09-02T19:11:31.265550468Z"
           }
         },
         {
@@ -337,10 +935,10 @@
           "description": "Blazingly fast and light-weight Actor engine written in Golang.",
           "url": "https://github.com/anthdm/hollywood",
           "repo_metadata": {
-            "stars": 2329,
+            "stars": 2331,
             "is_archived": false,
             "last_update": "2026-06-06T09:40:53Z",
-            "enriched_at": "2026-09-01T14:29:06.771167979Z"
+            "enriched_at": "2026-09-02T19:11:31.265550929Z"
           }
         },
         {
@@ -348,10 +946,10 @@
           "description": "Distributed actors for Go, C#, and Java/Kotlin.",
           "url": "https://github.com/asynkron/protoactor-go",
           "repo_metadata": {
-            "stars": 5496,
+            "stars": 5499,
             "is_archived": false,
             "last_update": "2026-01-18T09:40:27Z",
-            "enriched_at": "2026-09-01T14:29:06.771168533Z"
+            "enriched_at": "2026-09-02T19:11:31.265551359Z"
           }
         }
       ]
@@ -368,8 +966,8 @@
           "repo_metadata": {
             "stars": 30,
             "is_archived": false,
-            "last_update": "2026-08-26T10:31:49Z",
-            "enriched_at": "2026-09-01T14:29:06.771169107Z"
+            "last_update": "2026-09-01T20:46:26Z",
+            "enriched_at": "2026-09-02T19:11:31.26555176Z"
           }
         },
         {
@@ -380,7 +978,7 @@
             "stars": 18,
             "is_archived": false,
             "last_update": "2026-08-17T09:57:01Z",
-            "enriched_at": "2026-09-01T14:29:06.7711696Z"
+            "enriched_at": "2026-09-02T19:11:31.265552151Z"
           }
         },
         {
@@ -391,7 +989,7 @@
             "stars": 53,
             "is_archived": false,
             "last_update": "2026-08-23T20:43:47Z",
-            "enriched_at": "2026-09-01T14:29:06.771170102Z"
+            "enriched_at": "2026-09-02T19:11:31.265552602Z"
           }
         },
         {
@@ -402,7 +1000,7 @@
             "stars": 39,
             "is_archived": false,
             "last_update": "2026-08-20T12:29:58Z",
-            "enriched_at": "2026-09-01T14:29:06.771170533Z"
+            "enriched_at": "2026-09-02T19:11:31.265553002Z"
           }
         },
         {
@@ -410,10 +1008,10 @@
           "description": "Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.",
           "url": "https://github.com/philippgille/chromem-go",
           "repo_metadata": {
-            "stars": 1050,
+            "stars": 1051,
             "is_archived": false,
             "last_update": "2026-05-17T18:00:12Z",
-            "enriched_at": "2026-09-01T14:29:06.771171245Z"
+            "enriched_at": "2026-09-02T19:11:31.265553373Z"
           }
         },
         {
@@ -423,8 +1021,8 @@
           "repo_metadata": {
             "stars": 7,
             "is_archived": false,
-            "last_update": "2026-08-06T09:26:46Z",
-            "enriched_at": "2026-09-01T14:29:06.771173263Z"
+            "last_update": "2026-09-02T17:53:18Z",
+            "enriched_at": "2026-09-02T19:11:31.265554776Z"
           }
         },
         {
@@ -439,8 +1037,8 @@
           "repo_metadata": {
             "stars": 194,
             "is_archived": false,
-            "last_update": "2026-08-30T09:20:27Z",
-            "enriched_at": "2026-09-01T14:29:06.771174018Z"
+            "last_update": "2026-09-01T23:40:19Z",
+            "enriched_at": "2026-09-02T19:11:31.265555217Z"
           }
         },
         {
@@ -451,7 +1049,7 @@
             "stars": 48,
             "is_archived": false,
             "last_update": "2026-08-31T12:32:11Z",
-            "enriched_at": "2026-09-01T14:29:06.771174588Z"
+            "enriched_at": "2026-09-02T19:11:31.265555698Z"
           }
         },
         {
@@ -459,10 +1057,10 @@
           "description": "LangChainGo is a framework for developing applications powered by language models.",
           "url": "https://github.com/tmc/langchaingo",
           "repo_metadata": {
-            "stars": 9654,
+            "stars": 9660,
             "is_archived": false,
             "last_update": "2026-01-11T16:59:56Z",
-            "enriched_at": "2026-09-01T14:29:06.77117508Z"
+            "enriched_at": "2026-09-02T19:11:31.265556198Z"
           }
         },
         {
@@ -470,10 +1068,10 @@
           "description": "A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures.",
           "url": "https://github.com/smallnest/langgraphgo",
           "repo_metadata": {
-            "stars": 302,
+            "stars": 303,
             "is_archived": false,
             "last_update": "2026-07-16T08:38:49Z",
-            "enriched_at": "2026-09-01T14:29:06.771175473Z"
+            "enriched_at": "2026-09-02T19:11:31.265556699Z"
           }
         },
         {
@@ -481,10 +1079,10 @@
           "description": "Open Source OpenAI alternative, self-host AI models.",
           "url": "https://github.com/mudler/LocalAI",
           "repo_metadata": {
-            "stars": 48804,
+            "stars": 48829,
             "is_archived": false,
-            "last_update": "2026-09-01T11:00:02Z",
-            "enriched_at": "2026-09-01T14:29:06.77117603Z"
+            "last_update": "2026-09-02T11:58:23Z",
+            "enriched_at": "2026-09-02T19:11:31.26555716Z"
           }
         },
         {
@@ -495,7 +1093,7 @@
             "stars": 16,
             "is_archived": false,
             "last_update": "2026-08-06T20:50:44Z",
-            "enriched_at": "2026-09-01T14:29:06.771177922Z"
+            "enriched_at": "2026-09-02T19:11:31.265559214Z"
           }
         },
         {
@@ -503,10 +1101,10 @@
           "description": "Go implementation of the Model Context Protocol for building MCP servers and clients in Go.",
           "url": "https://github.com/mark3labs/mcp-go",
           "repo_metadata": {
-            "stars": 9051,
+            "stars": 9055,
             "is_archived": false,
-            "last_update": "2026-08-12T12:06:14Z",
-            "enriched_at": "2026-09-01T14:29:06.771178548Z"
+            "last_update": "2026-09-02T13:48:41Z",
+            "enriched_at": "2026-09-02T19:11:31.265559665Z"
           }
         },
         {
@@ -514,10 +1112,10 @@
           "description": "Run large language models locally.",
           "url": "https://github.com/jmorganca/ollama",
           "repo_metadata": {
-            "stars": 179892,
+            "stars": 179987,
             "is_archived": false,
-            "last_update": "2026-09-01T00:12:46Z",
-            "enriched_at": "2026-09-01T14:29:06.771179288Z"
+            "last_update": "2026-09-02T18:17:16Z",
+            "enriched_at": "2026-09-02T19:11:31.265560156Z"
           }
         },
         {
@@ -528,7 +1126,7 @@
             "stars": 103,
             "is_archived": false,
             "last_update": "2026-06-23T18:02:46Z",
-            "enriched_at": "2026-09-01T14:29:06.771179955Z"
+            "enriched_at": "2026-09-02T19:11:31.265560647Z"
           }
         },
         {
@@ -539,7 +1137,7 @@
             "stars": 43,
             "is_archived": false,
             "last_update": "2026-08-09T12:24:04Z",
-            "enriched_at": "2026-09-01T14:29:06.771180629Z"
+            "enriched_at": "2026-09-02T19:11:31.265561208Z"
           }
         },
         {
@@ -550,7 +1148,7 @@
             "stars": 24,
             "is_archived": false,
             "last_update": "2026-07-06T08:54:08Z",
-            "enriched_at": "2026-09-01T14:29:06.77118129Z"
+            "enriched_at": "2026-09-02T19:11:31.265561669Z"
           }
         },
         {
@@ -558,10 +1156,10 @@
           "description": "Framework for building LLM-based multi-agent systems.",
           "url": "https://github.com/trpc-group/trpc-agent-go",
           "repo_metadata": {
-            "stars": 1758,
+            "stars": 1760,
             "is_archived": false,
-            "last_update": "2026-09-01T11:37:17Z",
-            "enriched_at": "2026-09-01T14:29:06.77118178Z"
+            "last_update": "2026-09-02T08:33:36Z",
+            "enriched_at": "2026-09-02T19:11:31.265562119Z"
           }
         },
         {
@@ -569,10 +1167,10 @@
           "description": "MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline.",
           "url": "https://github.com/zoharbabin/web-researcher-mcp",
           "repo_metadata": {
-            "stars": 53,
+            "stars": 54,
             "is_archived": false,
-            "last_update": "2026-08-25T17:44:19Z",
-            "enriched_at": "2026-09-01T14:29:06.771182303Z"
+            "last_update": "2026-09-01T23:41:02Z",
+            "enriched_at": "2026-09-02T19:11:31.2655626Z"
           }
         },
         {
@@ -583,7 +1181,7 @@
             "stars": 48,
             "is_archived": false,
             "last_update": "2026-08-23T14:38:56Z",
-            "enriched_at": "2026-09-01T14:29:06.771182771Z"
+            "enriched_at": "2026-09-02T19:11:31.265563091Z"
           }
         }
       ]
@@ -601,7 +1199,7 @@
             "stars": 588,
             "is_archived": false,
             "last_update": "2025-07-16T20:38:10Z",
-            "enriched_at": "2026-09-01T14:29:06.771183363Z"
+            "enriched_at": "2026-09-02T19:11:31.265563602Z"
           }
         },
         {
@@ -612,7 +1210,7 @@
             "stars": 361,
             "is_archived": false,
             "last_update": "2026-08-19T08:40:10Z",
-            "enriched_at": "2026-09-01T14:29:06.77118391Z"
+            "enriched_at": "2026-09-02T19:11:31.265564073Z"
           }
         },
         {
@@ -623,7 +1221,7 @@
             "stars": 137,
             "is_archived": false,
             "last_update": "2023-01-25T20:45:12Z",
-            "enriched_at": "2026-09-01T14:29:06.771184436Z"
+            "enriched_at": "2026-09-02T19:11:31.265564594Z"
           }
         },
         {
@@ -634,7 +1232,7 @@
             "stars": 22,
             "is_archived": false,
             "last_update": "2024-10-27T18:06:02Z",
-            "enriched_at": "2026-09-01T14:29:06.771184969Z"
+            "enriched_at": "2026-09-02T19:11:31.265565125Z"
           }
         },
         {
@@ -645,7 +1243,7 @@
             "stars": 431,
             "is_archived": false,
             "last_update": "2022-02-05T21:21:44Z",
-            "enriched_at": "2026-09-01T14:29:06.771185596Z"
+            "enriched_at": "2026-09-02T19:11:31.265565626Z"
           }
         },
         {
@@ -656,7 +1254,7 @@
             "stars": 39,
             "is_archived": false,
             "last_update": "2024-01-28T01:50:32Z",
-            "enriched_at": "2026-09-01T14:29:06.771188044Z"
+            "enriched_at": "2026-09-02T19:11:31.265568762Z"
           }
         },
         {
@@ -667,7 +1265,7 @@
             "stars": 370,
             "is_archived": false,
             "last_update": "2023-05-09T07:37:30Z",
-            "enriched_at": "2026-09-01T14:29:06.771188639Z"
+            "enriched_at": "2026-09-02T19:11:31.265569303Z"
           }
         },
         {
@@ -678,7 +1276,7 @@
             "stars": 427,
             "is_archived": false,
             "last_update": "2026-08-18T10:51:14Z",
-            "enriched_at": "2026-09-01T14:29:06.771189222Z"
+            "enriched_at": "2026-09-02T19:11:31.265569824Z"
           }
         },
         {
@@ -689,7 +1287,7 @@
             "stars": 133,
             "is_archived": false,
             "last_update": "2023-08-02T02:31:13Z",
-            "enriched_at": "2026-09-01T14:29:06.771189826Z"
+            "enriched_at": "2026-09-02T19:11:31.265570355Z"
           }
         },
         {
@@ -700,7 +1298,7 @@
             "stars": 464,
             "is_archived": false,
             "last_update": "2026-01-21T19:16:17Z",
-            "enriched_at": "2026-09-01T14:29:06.771190388Z"
+            "enriched_at": "2026-09-02T19:11:31.265570876Z"
           }
         },
         {
@@ -708,10 +1306,10 @@
           "description": "A low-level library to play sound on multiple platforms.",
           "url": "https://github.com/hajimehoshi/oto",
           "repo_metadata": {
-            "stars": 1950,
+            "stars": 1951,
             "is_archived": false,
-            "last_update": "2026-08-24T16:46:45Z",
-            "enriched_at": "2026-09-01T14:29:06.771190931Z"
+            "last_update": "2026-09-02T12:48:35Z",
+            "enriched_at": "2026-09-02T19:11:31.265571397Z"
           }
         },
         {
@@ -722,7 +1320,7 @@
             "stars": 843,
             "is_archived": false,
             "last_update": "2026-02-03T16:44:31Z",
-            "enriched_at": "2026-09-01T14:29:06.771191509Z"
+            "enriched_at": "2026-09-02T19:11:31.265571948Z"
           }
         },
         {
@@ -733,7 +1331,7 @@
             "stars": 4,
             "is_archived": false,
             "last_update": "2026-06-15T14:31:24Z",
-            "enriched_at": "2026-09-01T14:29:06.771192105Z"
+            "enriched_at": "2026-09-02T19:11:31.265572689Z"
           }
         }
       ]
@@ -748,10 +1346,10 @@
           "description": "Modular authentication system for the web. It tries to remove as much boilerplate and \"hard things\" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.",
           "url": "https://github.com/volatiletech/authboss",
           "repo_metadata": {
-            "stars": 4198,
+            "stars": 4199,
             "is_archived": false,
             "last_update": "2025-11-25T03:16:22Z",
-            "enriched_at": "2026-09-01T14:29:06.771192703Z"
+            "enriched_at": "2026-09-02T19:11:31.26557327Z"
           }
         },
         {
@@ -773,7 +1371,7 @@
             "stars": 100,
             "is_archived": false,
             "last_update": "2025-11-25T06:35:12Z",
-            "enriched_at": "2026-09-01T14:29:06.7712189Z"
+            "enriched_at": "2026-09-02T19:11:31.265575094Z"
           }
         },
         {
@@ -781,10 +1379,10 @@
           "description": "Authorization library that supports access control models like ACL, RBAC, and ABAC.",
           "url": "https://github.com/hsluoyz/casbin",
           "repo_metadata": {
-            "stars": 20364,
+            "stars": 20366,
             "is_archived": false,
             "last_update": "2026-08-21T08:53:50Z",
-            "enriched_at": "2026-09-01T14:29:06.77122039Z"
+            "enriched_at": "2026-09-02T19:11:31.265575675Z"
           }
         },
         {
@@ -795,7 +1393,7 @@
             "stars": 24,
             "is_archived": false,
             "last_update": "2026-01-12T10:29:36Z",
-            "enriched_at": "2026-09-01T14:29:06.771221756Z"
+            "enriched_at": "2026-09-02T19:11:31.265576236Z"
           }
         },
         {
@@ -806,7 +1404,7 @@
             "stars": 34,
             "is_archived": false,
             "last_update": "2026-09-01T06:41:36Z",
-            "enriched_at": "2026-09-01T14:29:06.771222924Z"
+            "enriched_at": "2026-09-02T19:11:31.265576837Z"
           }
         },
         {
@@ -817,7 +1415,7 @@
             "stars": 613,
             "is_archived": false,
             "last_update": "2024-07-25T18:02:12Z",
-            "enriched_at": "2026-09-01T14:29:06.771223871Z"
+            "enriched_at": "2026-09-02T19:11:31.265577408Z"
           }
         },
         {
@@ -828,7 +1426,7 @@
             "stars": 47,
             "is_archived": false,
             "last_update": "2026-08-07T00:31:37Z",
-            "enriched_at": "2026-09-01T14:29:06.771224905Z"
+            "enriched_at": "2026-09-02T19:11:31.265577989Z"
           }
         },
         {
@@ -839,7 +1437,7 @@
             "stars": 531,
             "is_archived": false,
             "last_update": "2026-08-19T19:25:50Z",
-            "enriched_at": "2026-09-01T14:29:06.771225731Z"
+            "enriched_at": "2026-09-02T19:11:31.26557857Z"
           }
         },
         {
@@ -850,7 +1448,7 @@
             "stars": 3,
             "is_archived": false,
             "last_update": "2026-08-15T16:06:34Z",
-            "enriched_at": "2026-09-01T14:29:06.771226899Z"
+            "enriched_at": "2026-09-02T19:11:31.265579181Z"
           }
         },
         {
@@ -861,7 +1459,7 @@
             "stars": 19,
             "is_archived": false,
             "last_update": "2026-07-13T08:08:02Z",
-            "enriched_at": "2026-09-01T14:29:06.771227685Z"
+            "enriched_at": "2026-09-02T19:11:31.265579803Z"
           }
         },
         {
@@ -872,7 +1470,7 @@
             "stars": 202,
             "is_archived": false,
             "last_update": "2026-08-30T00:31:26Z",
-            "enriched_at": "2026-09-01T14:29:06.771228425Z"
+            "enriched_at": "2026-09-02T19:11:31.265580424Z"
           }
         },
         {
@@ -882,8 +1480,8 @@
           "repo_metadata": {
             "stars": 1959,
             "is_archived": false,
-            "last_update": "2026-08-31T21:24:30Z",
-            "enriched_at": "2026-09-01T14:29:06.771229392Z"
+            "last_update": "2026-09-02T04:23:11Z",
+            "enriched_at": "2026-09-02T19:11:31.265581035Z"
           }
         },
         {
@@ -891,10 +1489,10 @@
           "description": "provides a lightweight role-based access control (RBAC) implementation in Golang.",
           "url": "https://github.com/mikespook/gorbac",
           "repo_metadata": {
-            "stars": 1675,
+            "stars": 1674,
             "is_archived": false,
             "last_update": "2026-07-21T00:27:55Z",
-            "enriched_at": "2026-09-01T14:29:06.771230198Z"
+            "enriched_at": "2026-09-02T19:11:31.265581646Z"
           }
         },
         {
@@ -905,7 +1503,7 @@
             "stars": 257,
             "is_archived": false,
             "last_update": "2024-07-31T19:08:02Z",
-            "enriched_at": "2026-09-01T14:29:06.771230887Z"
+            "enriched_at": "2026-09-02T19:11:31.265582347Z"
           }
         },
         {
@@ -916,7 +1514,7 @@
             "stars": 6595,
             "is_archived": false,
             "last_update": "2026-02-11T05:06:29Z",
-            "enriched_at": "2026-09-01T14:29:06.771231587Z"
+            "enriched_at": "2026-09-02T19:11:31.265583009Z"
           }
         },
         {
@@ -927,7 +1525,7 @@
             "stars": 270,
             "is_archived": false,
             "last_update": "2021-06-23T12:10:10Z",
-            "enriched_at": "2026-09-01T14:29:06.771232337Z"
+            "enriched_at": "2026-09-02T19:11:31.26558364Z"
           }
         },
         {
@@ -938,7 +1536,7 @@
             "stars": 361,
             "is_archived": false,
             "last_update": "2023-04-29T11:28:55Z",
-            "enriched_at": "2026-09-01T14:29:06.771233112Z"
+            "enriched_at": "2026-09-02T19:11:31.265584221Z"
           }
         },
         {
@@ -946,10 +1544,10 @@
           "description": "Safe, simple, and fast JSON Web Tokens for Go.",
           "url": "https://github.com/cristalhq/jwt",
           "repo_metadata": {
-            "stars": 690,
+            "stars": 689,
             "is_archived": false,
             "last_update": "2024-07-10T08:11:23Z",
-            "enriched_at": "2026-09-01T14:29:06.771233972Z"
+            "enriched_at": "2026-09-02T19:11:31.265584872Z"
           }
         },
         {
@@ -960,7 +1558,7 @@
             "stars": 237,
             "is_archived": false,
             "last_update": "2021-08-01T23:03:58Z",
-            "enriched_at": "2026-09-01T14:29:06.771234664Z"
+            "enriched_at": "2026-09-02T19:11:31.265585563Z"
           }
         },
         {
@@ -971,7 +1569,7 @@
             "stars": 9215,
             "is_archived": false,
             "last_update": "2026-07-06T08:54:58Z",
-            "enriched_at": "2026-09-01T14:29:06.771235436Z"
+            "enriched_at": "2026-09-02T19:11:31.265586255Z"
           }
         },
         {
@@ -979,10 +1577,10 @@
           "description": "Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies.",
           "url": "https://github.com/lestrrat-go/jwx",
           "repo_metadata": {
-            "stars": 2418,
+            "stars": 2419,
             "is_archived": false,
             "last_update": "2026-08-31T11:30:10Z",
-            "enriched_at": "2026-09-01T14:29:06.7712389Z"
+            "enriched_at": "2026-09-02T19:11:31.265590472Z"
           }
         },
         {
@@ -993,7 +1591,7 @@
             "stars": 5392,
             "is_archived": false,
             "last_update": "2026-07-29T09:30:02Z",
-            "enriched_at": "2026-09-01T14:29:06.771239787Z"
+            "enriched_at": "2026-09-02T19:11:31.265591214Z"
           }
         },
         {
@@ -1004,7 +1602,7 @@
             "stars": 1930,
             "is_archived": false,
             "last_update": "2021-02-11T13:53:54Z",
-            "enriched_at": "2026-09-01T14:29:06.771240558Z"
+            "enriched_at": "2026-09-02T19:11:31.265591875Z"
           }
         },
         {
@@ -1015,7 +1613,7 @@
             "stars": 5897,
             "is_archived": false,
             "last_update": "2026-08-25T21:41:43Z",
-            "enriched_at": "2026-09-01T14:29:06.771241357Z"
+            "enriched_at": "2026-09-02T19:11:31.265592566Z"
           }
         },
         {
@@ -1023,10 +1621,10 @@
           "description": "Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation.",
           "url": "https://github.com/zitadel/oidc",
           "repo_metadata": {
-            "stars": 1880,
+            "stars": 1881,
             "is_archived": false,
             "last_update": "2026-08-28T06:43:46Z",
-            "enriched_at": "2026-09-01T14:29:06.771242166Z"
+            "enriched_at": "2026-09-02T19:11:31.265593278Z"
           }
         },
         {
@@ -1034,10 +1632,10 @@
           "description": "Implementation of fine-grained authorization based on the \"Zanzibar: Google's Consistent, Global Authorization System\" paper. Backed by CNCF.",
           "url": "https://github.com/openfga/openfga",
           "repo_metadata": {
-            "stars": 5685,
+            "stars": 5690,
             "is_archived": false,
-            "last_update": "2026-08-28T18:50:19Z",
-            "enriched_at": "2026-09-01T14:29:06.771243026Z"
+            "last_update": "2026-09-02T17:49:11Z",
+            "enriched_at": "2026-09-02T19:11:31.265593989Z"
           }
         },
         {
@@ -1048,7 +1646,7 @@
             "stars": 1935,
             "is_archived": false,
             "last_update": "2022-03-17T07:53:46Z",
-            "enriched_at": "2026-09-01T14:29:06.771243902Z"
+            "enriched_at": "2026-09-02T19:11:31.2655947Z"
           }
         },
         {
@@ -1059,7 +1657,7 @@
             "stars": 145,
             "is_archived": false,
             "last_update": "2021-08-06T16:31:11Z",
-            "enriched_at": "2026-09-01T14:29:06.771244735Z"
+            "enriched_at": "2026-09-02T19:11:31.265595422Z"
           }
         },
         {
@@ -1070,7 +1668,7 @@
             "stars": 77,
             "is_archived": false,
             "last_update": "2021-02-27T19:42:47Z",
-            "enriched_at": "2026-09-01T14:29:06.771245603Z"
+            "enriched_at": "2026-09-02T19:11:31.265596133Z"
           }
         },
         {
@@ -1081,7 +1679,7 @@
             "stars": 941,
             "is_archived": false,
             "last_update": "2022-09-05T10:18:33Z",
-            "enriched_at": "2026-09-01T14:29:06.771246424Z"
+            "enriched_at": "2026-09-02T19:11:31.265597005Z"
           }
         },
         {
@@ -1092,7 +1690,7 @@
             "stars": 14,
             "is_archived": false,
             "last_update": "2026-07-06T13:00:15Z",
-            "enriched_at": "2026-09-01T14:29:06.771247258Z"
+            "enriched_at": "2026-09-02T19:11:31.265597716Z"
           }
         },
         {
@@ -1103,7 +1701,7 @@
             "stars": 44,
             "is_archived": false,
             "last_update": "2021-05-25T13:48:24Z",
-            "enriched_at": "2026-09-01T14:29:06.771248062Z"
+            "enriched_at": "2026-09-02T19:11:31.265598467Z"
           }
         },
         {
@@ -1111,10 +1709,10 @@
           "description": "Session Manager for HTTP servers.",
           "url": "https://github.com/alexedwards/scs",
           "repo_metadata": {
-            "stars": 2615,
+            "stars": 2617,
             "is_archived": false,
             "last_update": "2025-10-02T16:21:04Z",
-            "enriched_at": "2026-09-01T14:29:06.771248908Z"
+            "enriched_at": "2026-09-02T19:11:31.265599249Z"
           }
         },
         {
@@ -1125,7 +1723,7 @@
             "stars": 87,
             "is_archived": false,
             "last_update": "2023-02-18T15:14:23Z",
-            "enriched_at": "2026-09-01T14:29:06.771249829Z"
+            "enriched_at": "2026-09-02T19:11:31.26560003Z"
           }
         },
         {
@@ -1136,7 +1734,7 @@
             "stars": 119,
             "is_archived": false,
             "last_update": "2024-08-24T18:43:24Z",
-            "enriched_at": "2026-09-01T14:29:06.771250694Z"
+            "enriched_at": "2026-09-02T19:11:31.265600882Z"
           }
         },
         {
@@ -1147,7 +1745,7 @@
             "stars": 80,
             "is_archived": false,
             "last_update": "2020-04-15T18:01:42Z",
-            "enriched_at": "2026-09-01T14:29:06.771251588Z"
+            "enriched_at": "2026-09-02T19:11:31.265601683Z"
           }
         },
         {
@@ -1158,7 +1756,7 @@
             "stars": 132,
             "is_archived": false,
             "last_update": "2025-03-20T17:01:47Z",
-            "enriched_at": "2026-09-01T14:29:06.771252522Z"
+            "enriched_at": "2026-09-02T19:11:31.265602455Z"
           }
         },
         {
@@ -1169,7 +1767,7 @@
             "stars": 123,
             "is_archived": false,
             "last_update": "2025-11-10T00:50:51Z",
-            "enriched_at": "2026-09-01T14:29:06.771253626Z"
+            "enriched_at": "2026-09-02T19:11:31.265603316Z"
           }
         },
         {
@@ -1177,10 +1775,10 @@
           "description": "A Zanzibar-inspired database that enables fine-grained authorization.",
           "url": "https://github.com/authzed/spicedb",
           "repo_metadata": {
-            "stars": 7006,
+            "stars": 7012,
             "is_archived": false,
             "last_update": "2026-08-31T21:42:32Z",
-            "enriched_at": "2026-09-01T14:29:06.771254521Z"
+            "enriched_at": "2026-09-02T19:11:31.265604078Z"
           }
         },
         {
@@ -1191,7 +1789,7 @@
             "stars": 9,
             "is_archived": false,
             "last_update": "2025-01-19T19:03:32Z",
-            "enriched_at": "2026-09-01T14:29:06.771255446Z"
+            "enriched_at": "2026-09-02T19:11:31.265604869Z"
           }
         }
       ]
@@ -1206,10 +1804,10 @@
           "description": "A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm.",
           "url": "https://github.com/cometbft/cometbft",
           "repo_metadata": {
-            "stars": 916,
+            "stars": 917,
             "is_archived": false,
             "last_update": "2026-08-28T16:34:17Z",
-            "enriched_at": "2026-09-01T14:29:06.771256353Z"
+            "enriched_at": "2026-09-02T19:11:31.265605651Z"
           }
         },
         {
@@ -1217,10 +1815,10 @@
           "description": "A Framework for Building Public Blockchains in the Cosmos Ecosystem.",
           "url": "https://github.com/cosmos/cosmos-sdk",
           "repo_metadata": {
-            "stars": 7054,
+            "stars": 7052,
             "is_archived": false,
             "last_update": "2026-09-01T09:33:05Z",
-            "enriched_at": "2026-09-01T14:29:06.771257318Z"
+            "enriched_at": "2026-09-02T19:11:31.265606462Z"
           }
         },
         {
@@ -1231,7 +1829,7 @@
             "stars": 1081,
             "is_archived": false,
             "last_update": "2026-08-31T12:32:03Z",
-            "enriched_at": "2026-09-01T14:29:06.771258262Z"
+            "enriched_at": "2026-09-02T19:11:31.265607274Z"
           }
         },
         {
@@ -1239,10 +1837,10 @@
           "description": "Official Go implementation of the Ethereum protocol.",
           "url": "https://github.com/ethereum/go-ethereum",
           "repo_metadata": {
-            "stars": 51328,
+            "stars": 51327,
             "is_archived": false,
-            "last_update": "2026-09-01T11:34:20Z",
-            "enriched_at": "2026-09-01T14:29:06.771259242Z"
+            "last_update": "2026-09-02T11:17:40Z",
+            "enriched_at": "2026-09-02T19:11:31.265608105Z"
           }
         },
         {
@@ -1253,7 +1851,7 @@
             "stars": 15,
             "is_archived": false,
             "last_update": "2024-12-19T12:56:22Z",
-            "enriched_at": "2026-09-01T14:29:06.771260175Z"
+            "enriched_at": "2026-09-02T19:11:31.265608927Z"
           }
         },
         {
@@ -1264,7 +1862,7 @@
             "stars": 454,
             "is_archived": false,
             "last_update": "2026-08-10T18:03:49Z",
-            "enriched_at": "2026-09-01T14:29:06.771261117Z"
+            "enriched_at": "2026-09-02T19:11:31.265609748Z"
           }
         },
         {
@@ -1272,10 +1870,10 @@
           "description": "An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.",
           "url": "https://github.com/ipfs/kubo",
           "repo_metadata": {
-            "stars": 17122,
+            "stars": 17121,
             "is_archived": false,
-            "last_update": "2026-08-30T12:40:21Z",
-            "enriched_at": "2026-09-01T14:29:06.771262135Z"
+            "last_update": "2026-09-02T15:17:03Z",
+            "enriched_at": "2026-09-02T19:11:31.26561058Z"
           }
         },
         {
@@ -1285,8 +1883,8 @@
           "repo_metadata": {
             "stars": 8188,
             "is_archived": false,
-            "last_update": "2026-08-31T12:31:21Z",
-            "enriched_at": "2026-09-01T14:29:06.771263066Z"
+            "last_update": "2026-09-02T18:27:23Z",
+            "enriched_at": "2026-09-02T19:11:31.265611431Z"
           }
         },
         {
@@ -1297,7 +1895,7 @@
             "stars": 40,
             "is_archived": false,
             "last_update": "2026-08-16T10:47:00Z",
-            "enriched_at": "2026-09-01T14:29:06.771264033Z"
+            "enriched_at": "2026-09-02T19:11:31.265612263Z"
           }
         },
         {
@@ -1307,8 +1905,8 @@
           "repo_metadata": {
             "stars": 1576,
             "is_archived": false,
-            "last_update": "2026-08-28T13:47:38Z",
-            "enriched_at": "2026-09-01T14:29:06.771265042Z"
+            "last_update": "2026-09-02T14:21:42Z",
+            "enriched_at": "2026-09-02T19:11:31.265613115Z"
           }
         },
         {
@@ -1319,7 +1917,7 @@
             "stars": 5867,
             "is_archived": false,
             "last_update": "2025-03-06T20:43:12Z",
-            "enriched_at": "2026-09-01T14:29:06.77126638Z"
+            "enriched_at": "2026-09-02T19:11:31.265613946Z"
           }
         },
         {
@@ -1330,7 +1928,7 @@
             "stars": 6,
             "is_archived": false,
             "last_update": "2026-08-29T17:22:14Z",
-            "enriched_at": "2026-09-01T14:29:06.77126741Z"
+            "enriched_at": "2026-09-02T19:11:31.265614808Z"
           }
         }
       ]
@@ -1345,10 +1943,10 @@
           "description": "A library and framework for the Discord API.",
           "url": "https://github.com/diamondburned/arikawa",
           "repo_metadata": {
-            "stars": 598,
+            "stars": 599,
             "is_archived": false,
             "last_update": "2026-05-18T05:07:45Z",
-            "enriched_at": "2026-09-01T14:29:06.771268367Z"
+            "enriched_at": "2026-09-02T19:11:31.265615679Z"
           }
         },
         {
@@ -1356,10 +1954,10 @@
           "description": "Zero-dependencies Telegram Bot library with additional UI components.",
           "url": "https://github.com/go-telegram/bot",
           "repo_metadata": {
-            "stars": 1819,
+            "stars": 1822,
             "is_archived": false,
             "last_update": "2026-09-01T11:31:48Z",
-            "enriched_at": "2026-09-01T14:29:06.771269407Z"
+            "enriched_at": "2026-09-02T19:11:31.265616551Z"
           }
         },
         {
@@ -1370,7 +1968,7 @@
             "stars": 446,
             "is_archived": false,
             "last_update": "2026-07-07T07:19:33Z",
-            "enriched_at": "2026-09-01T14:29:06.771270379Z"
+            "enriched_at": "2026-09-02T19:11:31.265617433Z"
           }
         },
         {
@@ -1386,7 +1984,7 @@
             "stars": 272,
             "is_archived": false,
             "last_update": "2026-08-09T00:23:51Z",
-            "enriched_at": "2026-09-01T14:29:06.771271426Z"
+            "enriched_at": "2026-09-02T19:11:31.265618344Z"
           }
         },
         {
@@ -1397,7 +1995,7 @@
             "stars": 136,
             "is_archived": false,
             "last_update": "2026-02-18T13:17:30Z",
-            "enriched_at": "2026-09-01T14:29:06.771272542Z"
+            "enriched_at": "2026-09-02T19:11:31.265619236Z"
           }
         },
         {
@@ -1408,7 +2006,7 @@
             "stars": 403,
             "is_archived": false,
             "last_update": "2026-03-11T19:52:04Z",
-            "enriched_at": "2026-09-01T14:29:06.771273512Z"
+            "enriched_at": "2026-09-02T19:11:31.265620138Z"
           }
         },
         {
@@ -1419,7 +2017,7 @@
             "stars": 34,
             "is_archived": false,
             "last_update": "2026-03-19T09:49:33Z",
-            "enriched_at": "2026-09-01T14:29:06.771274605Z"
+            "enriched_at": "2026-09-02T19:11:31.26562104Z"
           }
         },
         {
@@ -1430,7 +2028,7 @@
             "stars": 210,
             "is_archived": false,
             "last_update": "2026-09-01T09:02:52Z",
-            "enriched_at": "2026-09-01T14:29:06.771275677Z"
+            "enriched_at": "2026-09-02T19:11:31.265621941Z"
           }
         },
         {
@@ -1441,7 +2039,7 @@
             "stars": 62,
             "is_archived": false,
             "last_update": "2024-11-16T01:16:59Z",
-            "enriched_at": "2026-09-01T14:29:06.771276794Z"
+            "enriched_at": "2026-09-02T19:11:31.265622863Z"
           }
         },
         {
@@ -1452,7 +2050,7 @@
             "stars": 4629,
             "is_archived": false,
             "last_update": "2026-06-16T23:23:25Z",
-            "enriched_at": "2026-09-01T14:29:06.771277902Z"
+            "enriched_at": "2026-09-02T19:11:31.265623765Z"
           }
         },
         {
@@ -1463,7 +2061,7 @@
             "stars": 1066,
             "is_archived": false,
             "last_update": "2026-08-29T10:55:10Z",
-            "enriched_at": "2026-09-01T14:29:13.751193382Z"
+            "enriched_at": "2026-09-02T19:11:38.738141224Z"
           }
         },
         {
@@ -1474,7 +2072,7 @@
             "stars": 6403,
             "is_archived": false,
             "last_update": "2022-10-20T00:35:52Z",
-            "enriched_at": "2026-09-01T14:29:13.751194328Z"
+            "enriched_at": "2026-09-02T19:11:38.738142887Z"
           }
         },
         {
@@ -1485,7 +2083,7 @@
             "stars": 54,
             "is_archived": false,
             "last_update": "2026-08-10T15:36:38Z",
-            "enriched_at": "2026-09-01T14:29:13.751194941Z"
+            "enriched_at": "2026-09-02T19:11:38.738143468Z"
           }
         },
         {
@@ -1496,7 +2094,7 @@
             "stars": 2228,
             "is_archived": false,
             "last_update": "2026-07-05T08:02:40Z",
-            "enriched_at": "2026-09-01T14:29:13.751195514Z"
+            "enriched_at": "2026-09-02T19:11:38.738144069Z"
           }
         },
         {
@@ -1506,8 +2104,8 @@
           "repo_metadata": {
             "stars": 7,
             "is_archived": false,
-            "last_update": "2026-04-08T08:29:14Z",
-            "enriched_at": "2026-09-01T14:29:13.751195935Z"
+            "last_update": "2026-09-02T12:50:06Z",
+            "enriched_at": "2026-09-02T19:11:38.73814458Z"
           }
         },
         {
@@ -1518,7 +2116,7 @@
             "stars": 12,
             "is_archived": false,
             "last_update": "2026-08-02T06:33:50Z",
-            "enriched_at": "2026-09-01T14:29:13.751196381Z"
+            "enriched_at": "2026-09-02T19:11:38.738145151Z"
           }
         }
       ]
@@ -1536,7 +2134,7 @@
             "stars": 251,
             "is_archived": false,
             "last_update": "2026-03-03T18:21:33Z",
-            "enriched_at": "2026-09-01T14:29:13.751196825Z"
+            "enriched_at": "2026-09-02T19:11:38.738145732Z"
           }
         },
         {
@@ -1544,10 +2142,10 @@
           "description": "Air - Live reload for Go apps.",
           "url": "https://github.com/cosmtrek/air",
           "repo_metadata": {
-            "stars": 23945,
+            "stars": 23949,
             "is_archived": false,
             "last_update": "2026-08-27T02:41:09Z",
-            "enriched_at": "2026-09-01T14:29:13.751197439Z"
+            "enriched_at": "2026-09-02T19:11:38.738146264Z"
           }
         },
         {
@@ -1558,7 +2156,7 @@
             "stars": 43,
             "is_archived": false,
             "last_update": "2021-03-28T15:09:07Z",
-            "enriched_at": "2026-09-01T14:29:13.751197889Z"
+            "enriched_at": "2026-09-02T19:11:38.738146745Z"
           }
         },
         {
@@ -1569,7 +2167,7 @@
             "stars": 83,
             "is_archived": false,
             "last_update": "2023-04-27T21:16:36Z",
-            "enriched_at": "2026-09-01T14:29:13.751198319Z"
+            "enriched_at": "2026-09-02T19:11:38.738147165Z"
           }
         },
         {
@@ -1596,7 +2194,7 @@
             "stars": 697,
             "is_archived": false,
             "last_update": "2026-08-26T20:31:03Z",
-            "enriched_at": "2026-09-01T14:29:13.751199265Z"
+            "enriched_at": "2026-09-02T19:11:38.738148317Z"
           }
         },
         {
@@ -1604,10 +2202,10 @@
           "description": "Mage is a make/rake-like build tool using Go.",
           "url": "https://github.com/magefile/mage",
           "repo_metadata": {
-            "stars": 4691,
+            "stars": 4690,
             "is_archived": false,
             "last_update": "2026-04-22T22:57:48Z",
-            "enriched_at": "2026-09-01T14:29:13.751199798Z"
+            "enriched_at": "2026-09-02T19:11:38.738148978Z"
           }
         },
         {
@@ -1615,10 +2213,10 @@
           "description": "Modern Make.",
           "url": "https://github.com/tj/mmake",
           "repo_metadata": {
-            "stars": 1736,
+            "stars": 1735,
             "is_archived": false,
             "last_update": "2020-03-02T16:01:40Z",
-            "enriched_at": "2026-09-01T14:29:13.751200278Z"
+            "enriched_at": "2026-09-02T19:11:38.738149409Z"
           }
         },
         {
@@ -1629,7 +2227,7 @@
             "stars": 4435,
             "is_archived": false,
             "last_update": "2020-05-04T21:51:27Z",
-            "enriched_at": "2026-09-01T14:29:13.751200639Z"
+            "enriched_at": "2026-09-02T19:11:38.73814985Z"
           }
         },
         {
@@ -1640,7 +2238,7 @@
             "stars": 7,
             "is_archived": false,
             "last_update": "2026-05-29T18:48:00Z",
-            "enriched_at": "2026-09-01T14:29:13.751217949Z"
+            "enriched_at": "2026-09-02T19:11:38.738166611Z"
           }
         },
         {
@@ -1648,10 +2246,10 @@
           "description": "simple \"Make\" alternative.",
           "url": "https://github.com/go-task/task",
           "repo_metadata": {
-            "stars": 16080,
+            "stars": 16083,
             "is_archived": false,
             "last_update": "2026-08-30T17:26:55Z",
-            "enriched_at": "2026-09-01T14:29:13.751218457Z"
+            "enriched_at": "2026-09-02T19:11:38.738167062Z"
           }
         },
         {
@@ -1662,7 +2260,7 @@
             "stars": 326,
             "is_archived": false,
             "last_update": "2026-07-19T16:07:26Z",
-            "enriched_at": "2026-09-01T14:29:13.751218995Z"
+            "enriched_at": "2026-09-02T19:11:38.738167543Z"
           }
         },
         {
@@ -1673,7 +2271,7 @@
             "stars": 1402,
             "is_archived": false,
             "last_update": "2026-07-17T09:54:30Z",
-            "enriched_at": "2026-09-01T14:29:13.751219675Z"
+            "enriched_at": "2026-09-02T19:11:38.738167964Z"
           }
         }
       ]
@@ -1692,10 +2290,10 @@
               "description": "Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.",
               "url": "https://github.com/guptarohit/asciigraph",
               "repo_metadata": {
-                "stars": 3088,
+                "stars": 3089,
                 "is_archived": false,
                 "last_update": "2026-06-21T17:29:50Z",
-                "enriched_at": "2026-09-01T14:29:13.751220201Z"
+                "enriched_at": "2026-09-02T19:11:38.738168415Z"
               }
             },
             {
@@ -1706,7 +2304,7 @@
                 "stars": 1495,
                 "is_archived": false,
                 "last_update": "2025-01-07T06:05:31Z",
-                "enriched_at": "2026-09-01T14:29:13.751220761Z"
+                "enriched_at": "2026-09-02T19:11:38.738168876Z"
               }
             },
             {
@@ -1717,7 +2315,7 @@
                 "stars": 648,
                 "is_archived": false,
                 "last_update": "2026-08-03T18:26:58Z",
-                "enriched_at": "2026-09-01T14:29:13.751221266Z"
+                "enriched_at": "2026-09-02T19:11:38.738169327Z"
               }
             },
             {
@@ -1728,7 +2326,7 @@
                 "stars": 576,
                 "is_archived": false,
                 "last_update": "2026-06-05T12:48:15Z",
-                "enriched_at": "2026-09-01T14:29:13.751221838Z"
+                "enriched_at": "2026-09-02T19:11:38.738169878Z"
               }
             },
             {
@@ -1736,10 +2334,10 @@
               "description": "TUI components for bubbletea.",
               "url": "https://github.com/charmbracelet/bubbles",
               "repo_metadata": {
-                "stars": 8866,
+                "stars": 8870,
                 "is_archived": false,
-                "last_update": "2026-08-24T09:13:59Z",
-                "enriched_at": "2026-09-01T14:29:13.751222429Z"
+                "last_update": "2026-09-01T17:35:02Z",
+                "enriched_at": "2026-09-02T19:11:38.738170369Z"
               }
             },
             {
@@ -1747,10 +2345,10 @@
               "description": "Go framework to build terminal apps, based on The Elm Architecture.",
               "url": "https://github.com/charmbracelet/bubbletea",
               "repo_metadata": {
-                "stars": 44739,
+                "stars": 44766,
                 "is_archived": false,
                 "last_update": "2026-08-19T15:30:09Z",
-                "enriched_at": "2026-09-01T14:29:13.751222996Z"
+                "enriched_at": "2026-09-02T19:11:38.73817087Z"
               }
             },
             {
@@ -1761,7 +2359,7 @@
                 "stars": 4,
                 "is_archived": false,
                 "last_update": "2026-03-25T18:05:14Z",
-                "enriched_at": "2026-09-01T14:29:13.751223524Z"
+                "enriched_at": "2026-09-02T19:11:38.73817138Z"
               }
             },
             {
@@ -1772,7 +2370,7 @@
                 "stars": 8,
                 "is_archived": false,
                 "last_update": "2022-07-21T13:48:31Z",
-                "enriched_at": "2026-09-01T14:29:13.751224075Z"
+                "enriched_at": "2026-09-02T19:11:38.738171941Z"
               }
             },
             {
@@ -1783,7 +2381,7 @@
                 "stars": 55,
                 "is_archived": false,
                 "last_update": "2026-05-15T02:40:02Z",
-                "enriched_at": "2026-09-01T14:29:13.75122467Z"
+                "enriched_at": "2026-09-02T19:11:38.738172482Z"
               }
             },
             {
@@ -1791,10 +2389,10 @@
               "description": "Terminal JSON viewer \u0026 processor.",
               "url": "https://github.com/antonmedv/fx",
               "repo_metadata": {
-                "stars": 20616,
+                "stars": 20617,
                 "is_archived": false,
                 "last_update": "2026-08-26T14:49:31Z",
-                "enriched_at": "2026-09-01T14:29:13.751225264Z"
+                "enriched_at": "2026-09-02T19:11:38.738173014Z"
               }
             },
             {
@@ -1805,7 +2403,7 @@
                 "stars": 20,
                 "is_archived": false,
                 "last_update": "2020-12-23T05:34:33Z",
-                "enriched_at": "2026-09-01T14:29:13.751225823Z"
+                "enriched_at": "2026-09-02T19:11:38.738173725Z"
               }
             },
             {
@@ -1816,7 +2414,7 @@
                 "stars": 811,
                 "is_archived": false,
                 "last_update": "2026-05-29T14:40:24Z",
-                "enriched_at": "2026-09-01T14:29:13.751226474Z"
+                "enriched_at": "2026-09-02T19:11:38.738174206Z"
               }
             },
             {
@@ -1827,7 +2425,7 @@
                 "stars": 217,
                 "is_archived": false,
                 "last_update": "2020-03-29T21:11:09Z",
-                "enriched_at": "2026-09-01T14:29:13.751227074Z"
+                "enriched_at": "2026-09-02T19:11:38.738174666Z"
               }
             },
             {
@@ -1838,7 +2436,7 @@
                 "stars": 924,
                 "is_archived": false,
                 "last_update": "2026-07-23T16:45:22Z",
-                "enriched_at": "2026-09-01T14:29:13.751227654Z"
+                "enriched_at": "2026-09-02T19:11:38.738175127Z"
               }
             },
             {
@@ -1849,7 +2447,7 @@
                 "stars": 20,
                 "is_archived": false,
                 "last_update": "2023-03-09T13:54:52Z",
-                "enriched_at": "2026-09-01T14:29:13.751228239Z"
+                "enriched_at": "2026-09-02T19:11:38.738175608Z"
               }
             },
             {
@@ -1860,7 +2458,7 @@
                 "stars": 5488,
                 "is_archived": false,
                 "last_update": "2021-03-03T08:56:52Z",
-                "enriched_at": "2026-09-01T14:29:13.751228815Z"
+                "enriched_at": "2026-09-02T19:11:38.738176109Z"
               }
             },
             {
@@ -1871,7 +2469,7 @@
                 "stars": 10596,
                 "is_archived": false,
                 "last_update": "2025-05-01T12:15:35Z",
-                "enriched_at": "2026-09-01T14:29:13.75122933Z"
+                "enriched_at": "2026-09-02T19:11:38.73817659Z"
               }
             },
             {
@@ -1887,7 +2485,7 @@
                 "stars": 1605,
                 "is_archived": false,
                 "last_update": "2026-06-04T12:59:53Z",
-                "enriched_at": "2026-09-01T14:29:13.751229913Z"
+                "enriched_at": "2026-09-02T19:11:38.738177091Z"
               }
             },
             {
@@ -1898,7 +2496,7 @@
                 "stars": 60,
                 "is_archived": false,
                 "last_update": "2026-08-16T10:43:19Z",
-                "enriched_at": "2026-09-01T14:29:13.751230519Z"
+                "enriched_at": "2026-09-02T19:11:38.738177612Z"
               }
             },
             {
@@ -1906,10 +2504,10 @@
               "description": "Declaratively define styles for color, format and layout in the terminal.",
               "url": "https://github.com/charmbracelet/lipgloss",
               "repo_metadata": {
-                "stars": 11781,
+                "stars": 11782,
                 "is_archived": false,
-                "last_update": "2026-08-12T20:36:36Z",
-                "enriched_at": "2026-09-01T14:29:13.751232083Z"
+                "last_update": "2026-09-01T02:30:42Z",
+                "enriched_at": "2026-09-02T19:11:38.738178123Z"
               }
             },
             {
@@ -1920,7 +2518,7 @@
                 "stars": 126,
                 "is_archived": false,
                 "last_update": "2026-03-28T20:19:49Z",
-                "enriched_at": "2026-09-01T14:29:13.751232932Z"
+                "enriched_at": "2026-09-02T19:11:38.738178634Z"
               }
             },
             {
@@ -1931,7 +2529,7 @@
                 "stars": 54,
                 "is_archived": false,
                 "last_update": "2022-06-28T09:08:08Z",
-                "enriched_at": "2026-09-01T14:29:13.75123362Z"
+                "enriched_at": "2026-09-02T19:11:38.738179155Z"
               }
             },
             {
@@ -1939,10 +2537,10 @@
               "description": "Multi progress bar for terminal applications.",
               "url": "https://github.com/vbauerster/mpb",
               "repo_metadata": {
-                "stars": 2508,
+                "stars": 2509,
                 "is_archived": false,
                 "last_update": "2026-08-30T02:42:08Z",
-                "enriched_at": "2026-09-01T14:29:13.751234255Z"
+                "enriched_at": "2026-09-02T19:11:38.738179666Z"
               }
             },
             {
@@ -1950,10 +2548,10 @@
               "description": "High-performance TUI framework with Elm-inspired architecture, perfect Unicode rendering, and zero-allocation event system.",
               "url": "https://github.com/phoenix-tui/phoenix",
               "repo_metadata": {
-                "stars": 41,
+                "stars": 42,
                 "is_archived": false,
                 "last_update": "2026-08-25T17:27:41Z",
-                "enriched_at": "2026-09-01T14:29:13.751234947Z"
+                "enriched_at": "2026-09-02T19:11:38.738180197Z"
               }
             },
             {
@@ -1961,10 +2559,10 @@
               "description": "Basic thread-safe progress bar that works in every OS.",
               "url": "https://github.com/schollz/progressbar",
               "repo_metadata": {
-                "stars": 4696,
+                "stars": 4698,
                 "is_archived": false,
                 "last_update": "2026-08-18T20:03:45Z",
-                "enriched_at": "2026-09-01T14:29:13.751235583Z"
+                "enriched_at": "2026-09-02T19:11:38.738180698Z"
               }
             },
             {
@@ -1972,10 +2570,10 @@
               "description": "A library to beautify console output on every platform with many combinable components.",
               "url": "https://github.com/pterm/pterm",
               "repo_metadata": {
-                "stars": 5528,
+                "stars": 5529,
                 "is_archived": false,
                 "last_update": "2026-07-11T21:14:09Z",
-                "enriched_at": "2026-09-01T14:29:13.751236234Z"
+                "enriched_at": "2026-09-02T19:11:38.738181219Z"
               }
             },
             {
@@ -1986,7 +2584,7 @@
                 "stars": 552,
                 "is_archived": false,
                 "last_update": "2021-04-02T17:55:03Z",
-                "enriched_at": "2026-09-01T14:29:13.751236892Z"
+                "enriched_at": "2026-09-02T19:11:38.73818182Z"
               }
             },
             {
@@ -1997,7 +2595,7 @@
                 "stars": 2531,
                 "is_archived": false,
                 "last_update": "2025-01-20T04:29:46Z",
-                "enriched_at": "2026-09-01T14:29:13.751237575Z"
+                "enriched_at": "2026-09-02T19:11:38.738182391Z"
               }
             },
             {
@@ -2008,7 +2606,7 @@
                 "stars": 372,
                 "is_archived": false,
                 "last_update": "2020-12-23T01:19:22Z",
-                "enriched_at": "2026-09-01T14:29:13.751238301Z"
+                "enriched_at": "2026-09-02T19:11:38.738182972Z"
               }
             },
             {
@@ -2016,10 +2614,10 @@
               "description": "Small library for terminal color based tables.",
               "url": "https://github.com/tomlazar/table",
               "repo_metadata": {
-                "stars": 52,
+                "stars": 51,
                 "is_archived": false,
                 "last_update": "2022-09-20T19:13:25Z",
-                "enriched_at": "2026-09-01T14:29:13.751238979Z"
+                "enriched_at": "2026-09-02T19:11:38.738183553Z"
               }
             },
             {
@@ -2030,7 +2628,7 @@
                 "stars": 4789,
                 "is_archived": false,
                 "last_update": "2026-06-23T13:06:23Z",
-                "enriched_at": "2026-09-01T14:29:13.751239676Z"
+                "enriched_at": "2026-09-02T19:11:38.738184144Z"
               }
             },
             {
@@ -2038,10 +2636,10 @@
               "description": "Go terminal dashboard based on termbox-go and inspired by termui.",
               "url": "https://github.com/mum4k/termdash",
               "repo_metadata": {
-                "stars": 3035,
+                "stars": 3036,
                 "is_archived": false,
                 "last_update": "2026-06-09T12:16:11Z",
-                "enriched_at": "2026-09-01T14:29:13.751240371Z"
+                "enriched_at": "2026-09-02T19:11:38.738184695Z"
               }
             },
             {
@@ -2052,7 +2650,7 @@
                 "stars": 2021,
                 "is_archived": false,
                 "last_update": "2025-09-22T18:08:15Z",
-                "enriched_at": "2026-09-01T14:29:13.75124107Z"
+                "enriched_at": "2026-09-02T19:11:38.738185266Z"
               }
             },
             {
@@ -2060,10 +2658,10 @@
               "description": "Go terminal dashboard based on termbox-go and inspired by blessed-contrib.",
               "url": "https://github.com/gizak/termui",
               "repo_metadata": {
-                "stars": 13583,
+                "stars": 13582,
                 "is_archived": false,
                 "last_update": "2025-07-10T06:33:40Z",
-                "enriched_at": "2026-09-01T14:29:13.751241743Z"
+                "enriched_at": "2026-09-02T19:11:38.738185898Z"
               }
             },
             {
@@ -2074,7 +2672,7 @@
                 "stars": 1725,
                 "is_archived": false,
                 "last_update": "2020-01-03T04:24:03Z",
-                "enriched_at": "2026-09-01T14:29:13.751242478Z"
+                "enriched_at": "2026-09-02T19:11:38.738186489Z"
               }
             },
             {
@@ -2085,7 +2683,7 @@
                 "stars": 2142,
                 "is_archived": false,
                 "last_update": "2021-03-17T15:09:16Z",
-                "enriched_at": "2026-09-01T14:29:13.751243188Z"
+                "enriched_at": "2026-09-02T19:11:38.73818707Z"
               }
             },
             {
@@ -2096,7 +2694,7 @@
                 "stars": 740,
                 "is_archived": false,
                 "last_update": "2022-08-26T18:33:36Z",
-                "enriched_at": "2026-09-01T14:29:13.75124391Z"
+                "enriched_at": "2026-09-02T19:11:38.738187681Z"
               }
             },
             {
@@ -2107,7 +2705,7 @@
                 "stars": 457,
                 "is_archived": false,
                 "last_update": "2022-01-03T06:35:05Z",
-                "enriched_at": "2026-09-01T14:29:13.75124465Z"
+                "enriched_at": "2026-09-02T19:11:38.738188272Z"
               }
             },
             {
@@ -2118,7 +2716,7 @@
                 "stars": 31,
                 "is_archived": false,
                 "last_update": "2026-04-08T06:41:18Z",
-                "enriched_at": "2026-09-01T14:29:13.751245393Z"
+                "enriched_at": "2026-09-02T19:11:38.738188893Z"
               }
             }
           ]
@@ -2136,7 +2734,7 @@
                 "stars": 152,
                 "is_archived": false,
                 "last_update": "2024-04-26T19:48:12Z",
-                "enriched_at": "2026-09-01T14:29:13.751246148Z"
+                "enriched_at": "2026-09-02T19:11:38.738189484Z"
               }
             },
             {
@@ -2144,10 +2742,10 @@
               "description": "Command line argument parser inspired by Python's argparse module.",
               "url": "https://github.com/akamensky/argparse",
               "repo_metadata": {
-                "stars": 640,
+                "stars": 639,
                 "is_archived": false,
                 "last_update": "2022-08-11T01:50:54Z",
-                "enriched_at": "2026-09-01T14:29:13.751246906Z"
+                "enriched_at": "2026-09-02T19:11:38.738190106Z"
               }
             },
             {
@@ -2158,7 +2756,7 @@
                 "stars": 43,
                 "is_archived": false,
                 "last_update": "2020-04-16T04:12:50Z",
-                "enriched_at": "2026-09-01T14:29:13.751247591Z"
+                "enriched_at": "2026-09-02T19:11:38.738190707Z"
               }
             },
             {
@@ -2169,7 +2767,7 @@
                 "stars": 48,
                 "is_archived": false,
                 "last_update": "2026-08-29T17:23:34Z",
-                "enriched_at": "2026-09-01T14:29:13.751248318Z"
+                "enriched_at": "2026-09-02T19:11:38.738191358Z"
               }
             },
             {
@@ -2177,10 +2775,10 @@
               "description": "Command argument completion generator for spf13/cobra.",
               "url": "https://github.com/rsteube/carapace",
               "repo_metadata": {
-                "stars": 1431,
+                "stars": 1432,
                 "is_archived": false,
                 "last_update": "2026-08-31T22:54:14Z",
-                "enriched_at": "2026-09-01T14:29:13.751249197Z"
+                "enriched_at": "2026-09-02T19:11:38.738191999Z"
               }
             },
             {
@@ -2190,8 +2788,8 @@
               "repo_metadata": {
                 "stars": 1943,
                 "is_archived": false,
-                "last_update": "2026-08-31T18:35:18Z",
-                "enriched_at": "2026-09-01T14:29:13.751250031Z"
+                "last_update": "2026-09-02T18:14:13Z",
+                "enriched_at": "2026-09-02T19:11:38.738193412Z"
               }
             },
             {
@@ -2202,7 +2800,7 @@
                 "stars": 34,
                 "is_archived": false,
                 "last_update": "2026-08-31T03:53:32Z",
-                "enriched_at": "2026-09-01T14:29:13.751250829Z"
+                "enriched_at": "2026-09-02T19:11:38.738194574Z"
               }
             },
             {
@@ -2213,7 +2811,7 @@
                 "stars": 215,
                 "is_archived": false,
                 "last_update": "2020-09-05T07:02:04Z",
-                "enriched_at": "2026-09-01T14:29:13.751251685Z"
+                "enriched_at": "2026-09-02T19:11:38.738198711Z"
               }
             },
             {
@@ -2224,7 +2822,7 @@
                 "stars": 201,
                 "is_archived": false,
                 "last_update": "2024-06-10T21:26:38Z",
-                "enriched_at": "2026-09-01T14:29:13.751252705Z"
+                "enriched_at": "2026-09-02T19:11:38.738200265Z"
               }
             },
             {
@@ -2235,7 +2833,7 @@
                 "stars": 47,
                 "is_archived": false,
                 "last_update": "2020-09-27T14:23:06Z",
-                "enriched_at": "2026-09-01T14:29:13.751253644Z"
+                "enriched_at": "2026-09-02T19:11:38.738201657Z"
               }
             },
             {
@@ -2246,7 +2844,7 @@
                 "stars": 141,
                 "is_archived": false,
                 "last_update": "2026-08-17T20:30:22Z",
-                "enriched_at": "2026-09-01T14:29:13.751254473Z"
+                "enriched_at": "2026-09-02T19:11:38.73820316Z"
               }
             },
             {
@@ -2254,10 +2852,10 @@
               "description": "Commander for modern Go CLI interactions.",
               "url": "https://github.com/spf13/cobra",
               "repo_metadata": {
-                "stars": 44551,
+                "stars": 44557,
                 "is_archived": false,
                 "last_update": "2026-07-11T00:43:07Z",
-                "enriched_at": "2026-09-01T14:29:13.751255287Z"
+                "enriched_at": "2026-09-02T19:11:38.738204602Z"
               }
             },
             {
@@ -2268,7 +2866,7 @@
                 "stars": 71,
                 "is_archived": false,
                 "last_update": "2025-07-19T14:49:32Z",
-                "enriched_at": "2026-09-01T14:29:13.751256162Z"
+                "enriched_at": "2026-09-02T19:11:38.738206135Z"
               }
             },
             {
@@ -2279,7 +2877,7 @@
                 "stars": 175,
                 "is_archived": false,
                 "last_update": "2022-09-20T17:54:03Z",
-                "enriched_at": "2026-09-01T14:29:13.751257032Z"
+                "enriched_at": "2026-09-02T19:11:38.738207768Z"
               }
             },
             {
@@ -2290,7 +2888,7 @@
                 "stars": 956,
                 "is_archived": false,
                 "last_update": "2020-12-08T04:56:21Z",
-                "enriched_at": "2026-09-01T14:29:13.751257905Z"
+                "enriched_at": "2026-09-02T19:11:38.738209281Z"
               }
             },
             {
@@ -2301,7 +2899,7 @@
                 "stars": 3076,
                 "is_archived": false,
                 "last_update": "2026-07-25T04:25:48Z",
-                "enriched_at": "2026-09-01T14:29:13.751258785Z"
+                "enriched_at": "2026-09-02T19:11:38.738210974Z"
               }
             },
             {
@@ -2312,7 +2910,7 @@
                 "stars": 6366,
                 "is_archived": false,
                 "last_update": "2025-07-14T13:07:57Z",
-                "enriched_at": "2026-09-01T14:29:13.751259709Z"
+                "enriched_at": "2026-09-02T19:11:38.738212628Z"
               }
             },
             {
@@ -2323,7 +2921,7 @@
                 "stars": 125,
                 "is_archived": false,
                 "last_update": "2024-06-18T13:34:06Z",
-                "enriched_at": "2026-09-01T14:29:13.751260641Z"
+                "enriched_at": "2026-09-02T19:11:38.73821418Z"
               }
             },
             {
@@ -2334,7 +2932,7 @@
                 "stars": 952,
                 "is_archived": false,
                 "last_update": "2025-10-04T05:43:00Z",
-                "enriched_at": "2026-09-01T14:29:13.751261466Z"
+                "enriched_at": "2026-09-02T19:11:38.738215823Z"
               }
             },
             {
@@ -2345,7 +2943,7 @@
                 "stars": 48,
                 "is_archived": false,
                 "last_update": "2024-09-26T12:50:57Z",
-                "enriched_at": "2026-09-01T14:29:13.751262413Z"
+                "enriched_at": "2026-09-02T19:11:38.738217537Z"
               }
             },
             {
@@ -2356,7 +2954,7 @@
                 "stars": 12,
                 "is_archived": false,
                 "last_update": "2026-05-03T09:23:22Z",
-                "enriched_at": "2026-09-01T14:29:13.751263332Z"
+                "enriched_at": "2026-09-02T19:11:38.73821949Z"
               }
             },
             {
@@ -2367,7 +2965,7 @@
                 "stars": 10,
                 "is_archived": false,
                 "last_update": "2026-02-18T22:49:55Z",
-                "enriched_at": "2026-09-01T14:29:13.751264159Z"
+                "enriched_at": "2026-09-02T19:11:38.738221103Z"
               }
             },
             {
@@ -2378,7 +2976,7 @@
                 "stars": 2277,
                 "is_archived": false,
                 "last_update": "2025-12-27T22:04:21Z",
-                "enriched_at": "2026-09-01T14:29:13.751265143Z"
+                "enriched_at": "2026-09-02T19:11:38.738223849Z"
               }
             },
             {
@@ -2389,7 +2987,7 @@
                 "stars": 2696,
                 "is_archived": false,
                 "last_update": "2024-06-17T09:13:29Z",
-                "enriched_at": "2026-09-01T14:29:13.75126647Z"
+                "enriched_at": "2026-09-02T19:11:38.738225632Z"
               }
             },
             {
@@ -2400,7 +2998,7 @@
                 "stars": 59,
                 "is_archived": false,
                 "last_update": "2025-04-15T03:57:40Z",
-                "enriched_at": "2026-09-01T14:29:13.751267409Z"
+                "enriched_at": "2026-09-02T19:11:38.738227535Z"
               }
             },
             {
@@ -2411,7 +3009,7 @@
                 "stars": 36,
                 "is_archived": false,
                 "last_update": "2026-05-10T05:14:19Z",
-                "enriched_at": "2026-09-01T14:29:13.751268429Z"
+                "enriched_at": "2026-09-02T19:11:38.738228948Z"
               }
             },
             {
@@ -2422,7 +3020,7 @@
                 "stars": 67,
                 "is_archived": false,
                 "last_update": "2023-04-04T21:43:24Z",
-                "enriched_at": "2026-09-01T14:29:13.751269666Z"
+                "enriched_at": "2026-09-02T19:11:38.73822981Z"
               }
             },
             {
@@ -2433,7 +3031,7 @@
                 "stars": 5,
                 "is_archived": false,
                 "last_update": "2026-06-30T15:45:32Z",
-                "enriched_at": "2026-09-01T14:29:13.751270629Z"
+                "enriched_at": "2026-09-02T19:11:38.738230691Z"
               }
             },
             {
@@ -2444,7 +3042,7 @@
                 "stars": 43,
                 "is_archived": false,
                 "last_update": "2026-08-25T06:32:19Z",
-                "enriched_at": "2026-09-01T14:29:13.751271589Z"
+                "enriched_at": "2026-09-02T19:11:38.738231543Z"
               }
             },
             {
@@ -2460,7 +3058,7 @@
                 "stars": 150,
                 "is_archived": false,
                 "last_update": "2020-06-30T10:16:50Z",
-                "enriched_at": "2026-09-01T14:29:13.751272587Z"
+                "enriched_at": "2026-09-02T19:11:38.738232414Z"
               }
             },
             {
@@ -2468,10 +3066,10 @@
               "description": "Command line and flag parser supporting sub commands (superseded by kong; see below).",
               "url": "https://github.com/alecthomas/kingpin",
               "repo_metadata": {
-                "stars": 3568,
+                "stars": 3569,
                 "is_archived": false,
                 "last_update": "2026-08-24T07:50:00Z",
-                "enriched_at": "2026-09-01T14:29:13.751273654Z"
+                "enriched_at": "2026-09-02T19:11:38.738233206Z"
               }
             },
             {
@@ -2482,7 +3080,7 @@
                 "stars": 1098,
                 "is_archived": false,
                 "last_update": "2022-01-14T22:30:32Z",
-                "enriched_at": "2026-09-01T14:29:13.751274657Z"
+                "enriched_at": "2026-09-02T19:11:38.738234088Z"
               }
             },
             {
@@ -2493,7 +3091,7 @@
                 "stars": 47,
                 "is_archived": false,
                 "last_update": "2026-01-28T13:14:20Z",
-                "enriched_at": "2026-09-01T14:29:13.751275642Z"
+                "enriched_at": "2026-09-02T19:11:38.738234949Z"
               }
             },
             {
@@ -2504,7 +3102,7 @@
                 "stars": 13,
                 "is_archived": false,
                 "last_update": "2026-07-24T07:07:19Z",
-                "enriched_at": "2026-09-01T14:29:13.751276551Z"
+                "enriched_at": "2026-09-02T19:11:38.738235791Z"
               }
             },
             {
@@ -2515,7 +3113,7 @@
                 "stars": 722,
                 "is_archived": false,
                 "last_update": "2023-03-07T03:02:42Z",
-                "enriched_at": "2026-09-01T14:29:13.751278064Z"
+                "enriched_at": "2026-09-02T19:11:38.738236642Z"
               }
             },
             {
@@ -2526,7 +3124,7 @@
                 "stars": 884,
                 "is_archived": false,
                 "last_update": "2021-07-25T11:03:07Z",
-                "enriched_at": "2026-09-01T14:29:13.751279098Z"
+                "enriched_at": "2026-09-02T19:11:38.738237504Z"
               }
             },
             {
@@ -2537,7 +3135,7 @@
                 "stars": 8,
                 "is_archived": false,
                 "last_update": "2026-06-28T04:18:50Z",
-                "enriched_at": "2026-09-01T14:29:13.751280132Z"
+                "enriched_at": "2026-09-02T19:11:38.738238446Z"
               }
             },
             {
@@ -2548,7 +3146,7 @@
                 "stars": 1513,
                 "is_archived": false,
                 "last_update": "2026-08-23T21:05:57Z",
-                "enriched_at": "2026-09-01T14:29:13.751281145Z"
+                "enriched_at": "2026-09-02T19:11:38.738239327Z"
               }
             },
             {
@@ -2559,7 +3157,7 @@
                 "stars": 33,
                 "is_archived": false,
                 "last_update": "2026-05-24T11:11:50Z",
-                "enriched_at": "2026-09-01T14:29:13.751282211Z"
+                "enriched_at": "2026-09-02T19:11:38.738240199Z"
               }
             },
             {
@@ -2567,10 +3165,10 @@
               "description": "Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.",
               "url": "https://github.com/spf13/pflag",
               "repo_metadata": {
-                "stars": 2765,
+                "stars": 2766,
                 "is_archived": false,
                 "last_update": "2026-08-09T08:11:20Z",
-                "enriched_at": "2026-09-01T14:29:13.751283285Z"
+                "enriched_at": "2026-09-02T19:11:38.738241141Z"
               }
             },
             {
@@ -2581,7 +3179,7 @@
                 "stars": 150,
                 "is_archived": false,
                 "last_update": "2026-08-02T02:32:05Z",
-                "enriched_at": "2026-09-01T14:29:13.751284288Z"
+                "enriched_at": "2026-09-02T19:11:38.738242032Z"
               }
             },
             {
@@ -2592,7 +3190,7 @@
                 "stars": 169,
                 "is_archived": false,
                 "last_update": "2026-01-06T14:15:39Z",
-                "enriched_at": "2026-09-01T14:29:13.751285353Z"
+                "enriched_at": "2026-09-02T19:11:38.738242934Z"
               }
             },
             {
@@ -2603,7 +3201,7 @@
                 "stars": 18,
                 "is_archived": false,
                 "last_update": "2026-07-06T17:40:58Z",
-                "enriched_at": "2026-09-01T14:29:21.511634539Z"
+                "enriched_at": "2026-09-02T19:11:46.523278934Z"
               }
             },
             {
@@ -2614,7 +3212,7 @@
                 "stars": 63,
                 "is_archived": false,
                 "last_update": "2026-08-22T10:19:56Z",
-                "enriched_at": "2026-09-01T14:29:21.511636833Z"
+                "enriched_at": "2026-09-02T19:11:46.523280758Z"
               }
             },
             {
@@ -2625,7 +3223,7 @@
                 "stars": 11,
                 "is_archived": false,
                 "last_update": "2026-01-12T15:32:56Z",
-                "enriched_at": "2026-09-01T14:29:21.511637752Z"
+                "enriched_at": "2026-09-02T19:11:46.523281278Z"
               }
             },
             {
@@ -2636,7 +3234,7 @@
                 "stars": 132,
                 "is_archived": false,
                 "last_update": "2021-05-09T19:28:00Z",
-                "enriched_at": "2026-09-01T14:29:21.51163891Z"
+                "enriched_at": "2026-09-02T19:11:46.523281799Z"
               }
             },
             {
@@ -2644,10 +3242,10 @@
               "description": "Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).",
               "url": "https://github.com/urfave/cli",
               "repo_metadata": {
-                "stars": 24221,
+                "stars": 24222,
                 "is_archived": false,
                 "last_update": "2026-08-24T18:20:51Z",
-                "enriched_at": "2026-09-01T14:29:21.511639812Z"
+                "enriched_at": "2026-09-02T19:11:46.52328226Z"
               }
             },
             {
@@ -2658,7 +3256,7 @@
                 "stars": 115,
                 "is_archived": false,
                 "last_update": "2023-05-06T14:35:36Z",
-                "enriched_at": "2026-09-01T14:29:21.51164086Z"
+                "enriched_at": "2026-09-02T19:11:46.523282871Z"
               }
             },
             {
@@ -2669,7 +3267,7 @@
                 "stars": 67,
                 "is_archived": false,
                 "last_update": "2024-05-13T15:01:35Z",
-                "enriched_at": "2026-09-01T14:29:21.511641611Z"
+                "enriched_at": "2026-09-02T19:11:46.523283352Z"
               }
             },
             {
@@ -2680,7 +3278,7 @@
                 "stars": 231,
                 "is_archived": false,
                 "last_update": "2024-05-14T13:51:53Z",
-                "enriched_at": "2026-09-01T14:29:21.511642319Z"
+                "enriched_at": "2026-09-02T19:11:46.523283843Z"
               }
             }
           ]
@@ -2700,7 +3298,7 @@
             "stars": 638,
             "is_archived": false,
             "last_update": "2025-11-28T07:00:17Z",
-            "enriched_at": "2026-09-01T14:29:21.511643402Z"
+            "enriched_at": "2026-09-02T19:11:46.523284344Z"
           }
         },
         {
@@ -2711,7 +3309,7 @@
             "stars": 169,
             "is_archived": false,
             "last_update": "2026-08-22T22:33:38Z",
-            "enriched_at": "2026-09-01T14:29:21.511643981Z"
+            "enriched_at": "2026-09-02T19:11:46.523284875Z"
           }
         },
         {
@@ -2722,7 +3320,7 @@
             "stars": 6,
             "is_archived": false,
             "last_update": "2026-09-01T06:41:39Z",
-            "enriched_at": "2026-09-01T14:29:21.511644716Z"
+            "enriched_at": "2026-09-02T19:11:46.523285436Z"
           }
         },
         {
@@ -2733,7 +3331,7 @@
             "stars": 34,
             "is_archived": false,
             "last_update": "2026-06-17T15:02:14Z",
-            "enriched_at": "2026-09-01T14:29:21.511645584Z"
+            "enriched_at": "2026-09-02T19:11:46.523285887Z"
           }
         },
         {
@@ -2744,7 +3342,7 @@
             "stars": 2158,
             "is_archived": false,
             "last_update": "2025-09-15T08:01:54Z",
-            "enriched_at": "2026-09-01T14:29:21.511646263Z"
+            "enriched_at": "2026-09-02T19:11:46.523286418Z"
           }
         },
         {
@@ -2755,7 +3353,7 @@
             "stars": 338,
             "is_archived": false,
             "last_update": "2021-11-18T16:46:47Z",
-            "enriched_at": "2026-09-01T14:29:21.51164845Z"
+            "enriched_at": "2026-09-02T19:11:46.523286889Z"
           }
         },
         {
@@ -2766,7 +3364,7 @@
             "stars": 61,
             "is_archived": false,
             "last_update": "2025-02-23T19:24:11Z",
-            "enriched_at": "2026-09-01T14:29:21.511649155Z"
+            "enriched_at": "2026-09-02T19:11:46.52328745Z"
           }
         },
         {
@@ -2777,7 +3375,7 @@
             "stars": 0,
             "is_archived": false,
             "last_update": "2025-05-03T11:55:37Z",
-            "enriched_at": "2026-09-01T14:29:21.511650055Z"
+            "enriched_at": "2026-09-02T19:11:46.523287881Z"
           }
         },
         {
@@ -2788,7 +3386,7 @@
             "stars": 108,
             "is_archived": false,
             "last_update": "2025-01-20T22:21:17Z",
-            "enriched_at": "2026-09-01T14:29:21.511650876Z"
+            "enriched_at": "2026-09-02T19:11:46.523288241Z"
           }
         },
         {
@@ -2799,7 +3397,7 @@
             "stars": 92,
             "is_archived": false,
             "last_update": "2022-09-25T10:51:03Z",
-            "enriched_at": "2026-09-01T14:29:21.511651456Z"
+            "enriched_at": "2026-09-02T19:11:46.523288642Z"
           }
         },
         {
@@ -2810,7 +3408,7 @@
             "stars": 39,
             "is_archived": false,
             "last_update": "2026-04-13T14:32:47Z",
-            "enriched_at": "2026-09-01T14:29:21.511651862Z"
+            "enriched_at": "2026-09-02T19:11:46.523289073Z"
           }
         },
         {
@@ -2821,7 +3419,7 @@
             "stars": 507,
             "is_archived": false,
             "last_update": "2025-12-08T13:06:04Z",
-            "enriched_at": "2026-09-01T14:29:21.511652499Z"
+            "enriched_at": "2026-09-02T19:11:46.523289474Z"
           }
         },
         {
@@ -2832,7 +3430,7 @@
             "stars": 36,
             "is_archived": false,
             "last_update": "2023-07-26T09:37:45Z",
-            "enriched_at": "2026-09-01T14:29:21.511653008Z"
+            "enriched_at": "2026-09-02T19:11:46.523290105Z"
           }
         },
         {
@@ -2843,7 +3441,7 @@
             "stars": 39,
             "is_archived": false,
             "last_update": "2025-09-29T12:30:10Z",
-            "enriched_at": "2026-09-01T14:29:21.511653467Z"
+            "enriched_at": "2026-09-02T19:11:46.523290556Z"
           }
         },
         {
@@ -2851,10 +3449,10 @@
           "description": "Parse environment variables to Go structs (with defaults).",
           "url": "https://github.com/caarlos0/env",
           "repo_metadata": {
-            "stars": 6302,
+            "stars": 6304,
             "is_archived": false,
             "last_update": "2026-08-03T16:32:47Z",
-            "enriched_at": "2026-09-01T14:29:21.511654Z"
+            "enriched_at": "2026-09-02T19:11:46.523291157Z"
           }
         },
         {
@@ -2865,7 +3463,7 @@
             "stars": 80,
             "is_archived": false,
             "last_update": "2024-05-02T21:53:59Z",
-            "enriched_at": "2026-09-01T14:29:21.511654486Z"
+            "enriched_at": "2026-09-02T19:11:46.523291558Z"
           }
         },
         {
@@ -2876,7 +3474,7 @@
             "stars": 8,
             "is_archived": false,
             "last_update": "2026-08-18T05:10:15Z",
-            "enriched_at": "2026-09-01T14:29:21.511655191Z"
+            "enriched_at": "2026-09-02T19:11:46.52329289Z"
           }
         },
         {
@@ -2887,7 +3485,7 @@
             "stars": 250,
             "is_archived": false,
             "last_update": "2025-01-31T10:56:46Z",
-            "enriched_at": "2026-09-01T14:29:21.511655796Z"
+            "enriched_at": "2026-09-02T19:11:46.523293602Z"
           }
         },
         {
@@ -2898,7 +3496,7 @@
             "stars": 101,
             "is_archived": false,
             "last_update": "2026-01-16T07:15:09Z",
-            "enriched_at": "2026-09-01T14:29:21.51165634Z"
+            "enriched_at": "2026-09-02T19:11:46.523297479Z"
           }
         },
         {
@@ -2909,7 +3507,7 @@
             "stars": 21,
             "is_archived": false,
             "last_update": "2025-12-25T22:45:18Z",
-            "enriched_at": "2026-09-01T14:29:21.51167578Z"
+            "enriched_at": "2026-09-02T19:11:46.523330931Z"
           }
         },
         {
@@ -2920,7 +3518,7 @@
             "stars": 382,
             "is_archived": false,
             "last_update": "2025-06-03T21:17:51Z",
-            "enriched_at": "2026-09-01T14:29:21.511676375Z"
+            "enriched_at": "2026-09-02T19:11:46.523331462Z"
           }
         },
         {
@@ -2931,7 +3529,7 @@
             "stars": 45,
             "is_archived": false,
             "last_update": "2026-01-27T13:01:58Z",
-            "enriched_at": "2026-09-01T14:29:21.511677018Z"
+            "enriched_at": "2026-09-02T19:11:46.523331983Z"
           }
         },
         {
@@ -2942,7 +3540,7 @@
             "stars": 23,
             "is_archived": false,
             "last_update": "2026-06-20T08:35:43Z",
-            "enriched_at": "2026-09-01T14:29:21.511677569Z"
+            "enriched_at": "2026-09-02T19:11:46.523332424Z"
           }
         },
         {
@@ -2953,7 +3551,7 @@
             "stars": 66,
             "is_archived": false,
             "last_update": "2026-08-25T13:28:40Z",
-            "enriched_at": "2026-09-01T14:29:21.511678148Z"
+            "enriched_at": "2026-09-02T19:11:46.523332895Z"
           }
         },
         {
@@ -2963,8 +3561,8 @@
           "repo_metadata": {
             "stars": 2,
             "is_archived": false,
-            "last_update": "2026-08-20T22:57:36Z",
-            "enriched_at": "2026-09-01T14:29:21.511678652Z"
+            "last_update": "2026-09-01T20:22:28Z",
+            "enriched_at": "2026-09-02T19:11:46.523333366Z"
           }
         },
         {
@@ -2974,8 +3572,8 @@
           "repo_metadata": {
             "stars": 1,
             "is_archived": false,
-            "last_update": "2026-07-23T19:53:24Z",
-            "enriched_at": "2026-09-01T14:29:21.511679155Z"
+            "last_update": "2026-09-01T20:31:32Z",
+            "enriched_at": "2026-09-02T19:11:46.523333877Z"
           }
         },
         {
@@ -2985,8 +3583,8 @@
           "repo_metadata": {
             "stars": 1,
             "is_archived": false,
-            "last_update": "2026-07-23T19:59:04Z",
-            "enriched_at": "2026-09-01T14:29:21.51167973Z"
+            "last_update": "2026-09-01T20:37:02Z",
+            "enriched_at": "2026-09-02T19:11:46.523334378Z"
           }
         },
         {
@@ -2996,8 +3594,8 @@
           "repo_metadata": {
             "stars": 1,
             "is_archived": false,
-            "last_update": "2026-07-23T20:01:02Z",
-            "enriched_at": "2026-09-01T14:29:21.511680258Z"
+            "last_update": "2026-09-01T20:43:22Z",
+            "enriched_at": "2026-09-02T19:11:46.523334859Z"
           }
         },
         {
@@ -3008,7 +3606,7 @@
             "stars": 50,
             "is_archived": false,
             "last_update": "2024-08-01T04:42:07Z",
-            "enriched_at": "2026-09-01T14:29:21.511680774Z"
+            "enriched_at": "2026-09-02T19:11:46.523335319Z"
           }
         },
         {
@@ -3019,7 +3617,7 @@
             "stars": 14,
             "is_archived": false,
             "last_update": "2025-01-28T22:32:32Z",
-            "enriched_at": "2026-09-01T14:29:21.511681432Z"
+            "enriched_at": "2026-09-02T19:11:46.52333585Z"
           }
         },
         {
@@ -3030,7 +3628,7 @@
             "stars": 6,
             "is_archived": false,
             "last_update": "2026-02-13T14:10:43Z",
-            "enriched_at": "2026-09-01T14:29:21.511682061Z"
+            "enriched_at": "2026-09-02T19:11:46.523336341Z"
           }
         },
         {
@@ -3041,7 +3639,7 @@
             "stars": 18,
             "is_archived": false,
             "last_update": "2026-07-22T14:51:07Z",
-            "enriched_at": "2026-09-01T14:29:21.511682669Z"
+            "enriched_at": "2026-09-02T19:11:46.523336842Z"
           }
         },
         {
@@ -3052,7 +3650,7 @@
             "stars": 23,
             "is_archived": false,
             "last_update": "2023-10-09T16:49:48Z",
-            "enriched_at": "2026-09-01T14:29:21.511683269Z"
+            "enriched_at": "2026-09-02T19:11:46.523337343Z"
           }
         },
         {
@@ -3063,7 +3661,7 @@
             "stars": 43,
             "is_archived": false,
             "last_update": "2020-01-14T07:21:29Z",
-            "enriched_at": "2026-09-01T14:29:21.511683826Z"
+            "enriched_at": "2026-09-02T19:11:46.523337844Z"
           }
         },
         {
@@ -3074,7 +3672,7 @@
             "stars": 6,
             "is_archived": false,
             "last_update": "2026-07-31T10:47:36Z",
-            "enriched_at": "2026-09-01T14:29:21.511684385Z"
+            "enriched_at": "2026-09-02T19:11:46.523338365Z"
           }
         },
         {
@@ -3085,7 +3683,7 @@
             "stars": 49,
             "is_archived": false,
             "last_update": "2026-06-12T17:51:00Z",
-            "enriched_at": "2026-09-01T14:29:21.511685035Z"
+            "enriched_at": "2026-09-02T19:11:46.523338876Z"
           }
         },
         {
@@ -3093,10 +3691,10 @@
           "description": "Go port of Ruby's dotenv library (Loads environment variables from .env).",
           "url": "https://github.com/joho/godotenv",
           "repo_metadata": {
-            "stars": 10605,
+            "stars": 10608,
             "is_archived": false,
             "last_update": "2026-05-25T00:52:27Z",
-            "enriched_at": "2026-09-01T14:29:21.511685712Z"
+            "enriched_at": "2026-09-02T19:11:46.523339377Z"
           }
         },
         {
@@ -3107,7 +3705,7 @@
             "stars": 365,
             "is_archived": false,
             "last_update": "2023-01-05T16:41:03Z",
-            "enriched_at": "2026-09-01T14:29:21.511686348Z"
+            "enriched_at": "2026-09-02T19:11:46.523339928Z"
           }
         },
         {
@@ -3123,7 +3721,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2021-08-02T20:36:53Z",
-            "enriched_at": "2026-09-01T14:29:21.51168695Z"
+            "enriched_at": "2026-09-02T19:11:46.523340449Z"
           }
         },
         {
@@ -3134,7 +3732,7 @@
             "stars": 585,
             "is_archived": false,
             "last_update": "2026-07-04T04:49:54Z",
-            "enriched_at": "2026-09-01T14:29:21.511687626Z"
+            "enriched_at": "2026-09-02T19:11:46.52334101Z"
           }
         },
         {
@@ -3144,8 +3742,8 @@
           "repo_metadata": {
             "stars": 135,
             "is_archived": false,
-            "last_update": "2026-08-16T10:20:50Z",
-            "enriched_at": "2026-09-01T14:29:21.51168823Z"
+            "last_update": "2026-09-02T09:00:51Z",
+            "enriched_at": "2026-09-02T19:11:46.523341581Z"
           }
         },
         {
@@ -3156,7 +3754,7 @@
             "stars": 8,
             "is_archived": false,
             "last_update": "2026-08-31T21:24:04Z",
-            "enriched_at": "2026-09-01T14:29:21.511688941Z"
+            "enriched_at": "2026-09-02T19:11:46.523342132Z"
           }
         },
         {
@@ -3166,8 +3764,8 @@
           "repo_metadata": {
             "stars": 357,
             "is_archived": false,
-            "last_update": "2026-08-22T10:56:04Z",
-            "enriched_at": "2026-09-01T14:29:21.511689596Z"
+            "last_update": "2026-09-01T17:21:53Z",
+            "enriched_at": "2026-09-02T19:11:46.523342673Z"
           }
         },
         {
@@ -3178,7 +3776,7 @@
             "stars": 92,
             "is_archived": false,
             "last_update": "2026-08-20T16:11:27Z",
-            "enriched_at": "2026-09-01T14:29:21.511690231Z"
+            "enriched_at": "2026-09-02T19:11:46.523343234Z"
           }
         },
         {
@@ -3186,10 +3784,10 @@
           "description": "Go package to read and write INI files.",
           "url": "https://github.com/go-ini/ini",
           "repo_metadata": {
-            "stars": 3542,
+            "stars": 3543,
             "is_archived": false,
             "last_update": "2026-06-10T02:52:00Z",
-            "enriched_at": "2026-09-01T14:29:21.511690918Z"
+            "enriched_at": "2026-09-02T19:11:46.523343805Z"
           }
         },
         {
@@ -3200,7 +3798,7 @@
             "stars": 18,
             "is_archived": false,
             "last_update": "2026-09-01T02:42:34Z",
-            "enriched_at": "2026-09-01T14:29:21.511691562Z"
+            "enriched_at": "2026-09-02T19:11:46.523344547Z"
           }
         },
         {
@@ -3211,7 +3809,7 @@
             "stars": 5469,
             "is_archived": false,
             "last_update": "2025-06-28T02:01:37Z",
-            "enriched_at": "2026-09-01T14:29:21.511692342Z"
+            "enriched_at": "2026-09-02T19:11:46.523345148Z"
           }
         },
         {
@@ -3219,10 +3817,10 @@
           "description": "Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line.",
           "url": "https://github.com/knadh/koanf",
           "repo_metadata": {
-            "stars": 4188,
+            "stars": 4191,
             "is_archived": false,
             "last_update": "2026-08-09T18:06:15Z",
-            "enriched_at": "2026-09-01T14:29:21.511693073Z"
+            "enriched_at": "2026-09-02T19:11:46.523345739Z"
           }
         },
         {
@@ -3233,7 +3831,7 @@
             "stars": 391,
             "is_archived": false,
             "last_update": "2026-08-20T07:07:38Z",
-            "enriched_at": "2026-09-01T14:29:21.511693896Z"
+            "enriched_at": "2026-09-02T19:11:46.52334636Z"
           }
         },
         {
@@ -3244,7 +3842,7 @@
             "stars": 645,
             "is_archived": false,
             "last_update": "2020-05-13T04:27:11Z",
-            "enriched_at": "2026-09-01T14:29:21.511694595Z"
+            "enriched_at": "2026-09-02T19:11:46.523346971Z"
           }
         },
         {
@@ -3252,10 +3850,10 @@
           "description": "Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to kingpin).",
           "url": "https://github.com/alecthomas/kong",
           "repo_metadata": {
-            "stars": 3169,
+            "stars": 3170,
             "is_archived": false,
             "last_update": "2026-08-28T07:12:22Z",
-            "enriched_at": "2026-09-01T14:29:21.511695341Z"
+            "enriched_at": "2026-09-02T19:11:46.523347552Z"
           }
         },
         {
@@ -3266,7 +3864,7 @@
             "stars": 23,
             "is_archived": false,
             "last_update": "2026-05-24T05:16:36Z",
-            "enriched_at": "2026-09-01T14:29:21.51169613Z"
+            "enriched_at": "2026-09-02T19:11:46.523348224Z"
           }
         },
         {
@@ -3277,7 +3875,7 @@
             "stars": 12,
             "is_archived": false,
             "last_update": "2026-08-31T17:45:33Z",
-            "enriched_at": "2026-09-01T14:29:21.511696933Z"
+            "enriched_at": "2026-09-02T19:11:46.523348895Z"
           }
         },
         {
@@ -3288,7 +3886,7 @@
             "stars": 119,
             "is_archived": false,
             "last_update": "2021-08-22T16:51:12Z",
-            "enriched_at": "2026-09-01T14:29:21.511697835Z"
+            "enriched_at": "2026-09-02T19:11:46.523349536Z"
           }
         },
         {
@@ -3299,7 +3897,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2021-12-03T04:07:09Z",
-            "enriched_at": "2026-09-01T14:29:21.511698623Z"
+            "enriched_at": "2026-09-02T19:11:46.523350237Z"
           }
         },
         {
@@ -3307,10 +3905,10 @@
           "description": "A blazingly fast JSON serializing \u0026 deserializing library.",
           "url": "https://github.com/bytedance/sonic",
           "repo_metadata": {
-            "stars": 9594,
+            "stars": 9595,
             "is_archived": false,
             "last_update": "2026-07-30T06:48:18Z",
-            "enriched_at": "2026-09-01T14:29:21.511699446Z"
+            "enriched_at": "2026-09-02T19:11:46.523350949Z"
           }
         },
         {
@@ -3321,7 +3919,7 @@
             "stars": 8,
             "is_archived": false,
             "last_update": "2025-04-04T10:04:36Z",
-            "enriched_at": "2026-09-01T14:29:21.511700266Z"
+            "enriched_at": "2026-09-02T19:11:46.52335167Z"
           }
         },
         {
@@ -3332,7 +3930,7 @@
             "stars": 12,
             "is_archived": false,
             "last_update": "2025-04-02T21:15:11Z",
-            "enriched_at": "2026-09-01T14:29:21.51170105Z"
+            "enriched_at": "2026-09-02T19:11:46.523352391Z"
           }
         },
         {
@@ -3343,7 +3941,7 @@
             "stars": 75,
             "is_archived": false,
             "last_update": "2026-06-18T05:23:11Z",
-            "enriched_at": "2026-09-01T14:29:21.511701852Z"
+            "enriched_at": "2026-09-02T19:11:46.523353293Z"
           }
         },
         {
@@ -3351,10 +3949,10 @@
           "description": "Go configuration with fangs.",
           "url": "https://github.com/spf13/viper",
           "repo_metadata": {
-            "stars": 30450,
+            "stars": 30452,
             "is_archived": false,
             "last_update": "2025-10-15T21:20:01Z",
-            "enriched_at": "2026-09-01T14:29:21.511702657Z"
+            "enriched_at": "2026-09-02T19:11:46.523354014Z"
           }
         },
         {
@@ -3365,7 +3963,7 @@
             "stars": 1017,
             "is_archived": false,
             "last_update": "2026-06-05T08:59:37Z",
-            "enriched_at": "2026-09-01T14:29:21.511703505Z"
+            "enriched_at": "2026-09-02T19:11:46.523354766Z"
           }
         },
         {
@@ -3376,7 +3974,7 @@
             "stars": 19,
             "is_archived": false,
             "last_update": "2026-07-10T22:17:34Z",
-            "enriched_at": "2026-09-01T14:29:21.51170438Z"
+            "enriched_at": "2026-09-02T19:11:46.523355487Z"
           }
         },
         {
@@ -3387,7 +3985,7 @@
             "stars": 200,
             "is_archived": false,
             "last_update": "2026-07-19T12:57:10Z",
-            "enriched_at": "2026-09-01T14:29:21.511705269Z"
+            "enriched_at": "2026-09-02T19:11:46.523356239Z"
           }
         }
       ]
@@ -3405,7 +4003,7 @@
             "stars": 959,
             "is_archived": false,
             "last_update": "2024-01-31T17:06:40Z",
-            "enriched_at": "2026-09-01T14:29:21.511706129Z"
+            "enriched_at": "2026-09-02T19:11:46.523357Z"
           }
         },
         {
@@ -3418,10 +4016,10 @@
           "description": "Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.",
           "url": "https://github.com/ovh/cds",
           "repo_metadata": {
-            "stars": 4837,
+            "stars": 4838,
             "is_archived": false,
-            "last_update": "2026-09-01T12:23:41Z",
-            "enriched_at": "2026-09-01T14:29:21.511706981Z"
+            "last_update": "2026-09-02T12:50:48Z",
+            "enriched_at": "2026-09-02T19:11:46.523357801Z"
           }
         },
         {
@@ -3432,7 +4030,7 @@
             "stars": 36,
             "is_archived": false,
             "last_update": "2024-04-19T13:16:14Z",
-            "enriched_at": "2026-09-01T14:29:21.511707796Z"
+            "enriched_at": "2026-09-02T19:11:46.523358543Z"
           }
         },
         {
@@ -3440,10 +4038,10 @@
           "description": "Drone is a Continuous Integration platform built on Docker, written in Go.",
           "url": "https://github.com/drone/drone",
           "repo_metadata": {
-            "stars": 38205,
+            "stars": 38219,
             "is_archived": false,
             "last_update": "2026-09-01T09:53:43Z",
-            "enriched_at": "2026-09-01T14:29:21.511708706Z"
+            "enriched_at": "2026-09-02T19:11:46.523359284Z"
           }
         },
         {
@@ -3454,7 +4052,7 @@
             "stars": 24,
             "is_archived": false,
             "last_update": "2024-05-22T05:13:27Z",
-            "enriched_at": "2026-09-01T14:29:21.511709715Z"
+            "enriched_at": "2026-09-02T19:11:46.523360076Z"
           }
         },
         {
@@ -3465,7 +4063,7 @@
             "stars": 21,
             "is_archived": false,
             "last_update": "2026-07-20T09:32:59Z",
-            "enriched_at": "2026-09-01T14:29:21.5117107Z"
+            "enriched_at": "2026-09-02T19:11:46.523360867Z"
           }
         },
         {
@@ -3476,7 +4074,7 @@
             "stars": 26,
             "is_archived": false,
             "last_update": "2026-04-23T07:42:15Z",
-            "enriched_at": "2026-09-01T14:29:21.511711632Z"
+            "enriched_at": "2026-09-02T19:11:46.523361658Z"
           }
         },
         {
@@ -3492,7 +4090,7 @@
             "stars": 69,
             "is_archived": false,
             "last_update": "2026-02-10T20:40:12Z",
-            "enriched_at": "2026-09-01T14:29:21.511712538Z"
+            "enriched_at": "2026-09-02T19:11:46.52336246Z"
           }
         },
         {
@@ -3500,10 +4098,10 @@
           "description": "go test output for humans.",
           "url": "https://github.com/GoTestTools/gotestfmt",
           "repo_metadata": {
-            "stars": 595,
+            "stars": 593,
             "is_archived": false,
             "last_update": "2023-06-05T07:49:53Z",
-            "enriched_at": "2026-09-01T14:29:21.5117135Z"
+            "enriched_at": "2026-09-02T19:11:46.523363252Z"
           }
         },
         {
@@ -3514,7 +4112,7 @@
             "stars": 796,
             "is_archived": false,
             "last_update": "2026-03-29T11:03:20Z",
-            "enriched_at": "2026-09-01T14:29:21.511714397Z"
+            "enriched_at": "2026-09-02T19:11:46.523364063Z"
           }
         },
         {
@@ -3522,10 +4120,10 @@
           "description": "Fast website link checker in Go, see alternatives.",
           "url": "https://github.com/raviqqe/muffet",
           "repo_metadata": {
-            "stars": 2610,
+            "stars": 2609,
             "is_archived": false,
             "last_update": "2026-08-31T16:09:31Z",
-            "enriched_at": "2026-09-01T14:29:21.511715322Z"
+            "enriched_at": "2026-09-02T19:11:46.523364875Z"
           }
         },
         {
@@ -3536,7 +4134,7 @@
             "stars": 116,
             "is_archived": false,
             "last_update": "2019-12-18T16:26:59Z",
-            "enriched_at": "2026-09-01T14:29:21.511716257Z"
+            "enriched_at": "2026-09-02T19:11:46.523365716Z"
           }
         },
         {
@@ -3547,7 +4145,7 @@
             "stars": 167,
             "is_archived": false,
             "last_update": "2026-09-01T11:23:31Z",
-            "enriched_at": "2026-09-01T14:29:21.511717156Z"
+            "enriched_at": "2026-09-02T19:11:46.523366558Z"
           }
         },
         {
@@ -3558,7 +4156,7 @@
             "stars": 22,
             "is_archived": false,
             "last_update": "2017-11-19T19:38:43Z",
-            "enriched_at": "2026-09-01T14:29:21.51171812Z"
+            "enriched_at": "2026-09-02T19:11:46.523367429Z"
           }
         },
         {
@@ -3566,10 +4164,10 @@
           "description": "Woodpecker is a community fork of the Drone CI system.",
           "url": "https://github.com/woodpecker-ci/woodpecker",
           "repo_metadata": {
-            "stars": 7796,
+            "stars": 7803,
             "is_archived": false,
-            "last_update": "2026-09-01T00:56:49Z",
-            "enriched_at": "2026-09-01T14:29:21.511719016Z"
+            "last_update": "2026-09-02T09:22:40Z",
+            "enriched_at": "2026-09-02T19:11:46.523368241Z"
           }
         }
       ]
@@ -3587,7 +4185,7 @@
             "stars": 94,
             "is_archived": false,
             "last_update": "2025-06-03T14:07:19Z",
-            "enriched_at": "2026-09-01T14:29:21.511719921Z"
+            "enriched_at": "2026-09-02T19:11:46.523369112Z"
           }
         },
         {
@@ -3598,7 +4196,7 @@
             "stars": 215,
             "is_archived": true,
             "last_update": "2023-02-26T16:40:13Z",
-            "enriched_at": "2026-09-01T14:29:21.511720917Z"
+            "enriched_at": "2026-09-02T19:11:46.523370285Z"
           }
         }
       ]
@@ -3613,10 +4211,10 @@
           "description": "A message streaming bridge between a range of protocols.",
           "url": "https://github.com/benthosdev/benthos",
           "repo_metadata": {
-            "stars": 8738,
+            "stars": 8739,
             "is_archived": false,
-            "last_update": "2026-09-01T13:19:16Z",
-            "enriched_at": "2026-09-01T14:29:21.511721818Z"
+            "last_update": "2026-09-02T13:55:55Z",
+            "enriched_at": "2026-09-02T19:11:46.523371126Z"
           }
         },
         {
@@ -3624,10 +4222,10 @@
           "description": "A high-performance ELT data integration framework with pluggable architecture.",
           "url": "http://github.com/cloudquery/cloudquery",
           "repo_metadata": {
-            "stars": 6506,
+            "stars": 6508,
             "is_archived": false,
-            "last_update": "2026-09-01T14:22:42Z",
-            "enriched_at": "2026-09-01T14:29:21.511722837Z"
+            "last_update": "2026-09-02T16:22:10Z",
+            "enriched_at": "2026-09-02T19:11:46.523371968Z"
           }
         },
         {
@@ -3638,7 +4236,7 @@
             "stars": 30,
             "is_archived": false,
             "last_update": "2026-08-17T21:36:27Z",
-            "enriched_at": "2026-09-01T14:29:21.511723786Z"
+            "enriched_at": "2026-09-02T19:11:46.523372819Z"
           }
         },
         {
@@ -3646,10 +4244,10 @@
           "description": "A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.",
           "url": "https://github.com/jf-tech/omniparser",
           "repo_metadata": {
-            "stars": 1088,
+            "stars": 1089,
             "is_archived": false,
             "last_update": "2025-02-21T17:27:05Z",
-            "enriched_at": "2026-09-01T14:29:21.511724814Z"
+            "enriched_at": "2026-09-02T19:11:46.523373701Z"
           }
         }
       ]
@@ -3670,7 +4268,7 @@
                 "stars": 52,
                 "is_archived": false,
                 "last_update": "2024-12-09T23:11:04Z",
-                "enriched_at": "2026-09-01T14:29:21.511725758Z"
+                "enriched_at": "2026-09-02T19:11:46.523374623Z"
               }
             },
             {
@@ -3681,7 +4279,7 @@
                 "stars": 234,
                 "is_archived": false,
                 "last_update": "2021-07-13T15:49:44Z",
-                "enriched_at": "2026-09-01T14:29:21.511726725Z"
+                "enriched_at": "2026-09-02T19:11:46.523375524Z"
               }
             },
             {
@@ -3692,7 +4290,7 @@
                 "stars": 167,
                 "is_archived": false,
                 "last_update": "2018-03-13T07:44:24Z",
-                "enriched_at": "2026-09-01T14:29:21.511727712Z"
+                "enriched_at": "2026-09-02T19:11:46.523376426Z"
               }
             },
             {
@@ -3703,7 +4301,7 @@
                 "stars": 99,
                 "is_archived": false,
                 "last_update": "2023-01-14T02:55:43Z",
-                "enriched_at": "2026-09-01T14:29:21.511728692Z"
+                "enriched_at": "2026-09-02T19:11:46.523377348Z"
               }
             },
             {
@@ -3714,7 +4312,7 @@
                 "stars": 42,
                 "is_archived": false,
                 "last_update": "2017-09-25T20:06:54Z",
-                "enriched_at": "2026-09-01T14:29:21.511729657Z"
+                "enriched_at": "2026-09-02T19:11:46.52337826Z"
               }
             },
             {
@@ -3724,8 +4322,8 @@
               "repo_metadata": {
                 "stars": 2929,
                 "is_archived": false,
-                "last_update": "2026-08-27T03:05:42Z",
-                "enriched_at": "2026-09-01T14:29:21.51173066Z"
+                "last_update": "2026-09-02T17:12:34Z",
+                "enriched_at": "2026-09-02T19:11:46.523379171Z"
               }
             }
           ]
@@ -3742,7 +4340,7 @@
                 "stars": 382,
                 "is_archived": false,
                 "last_update": "2026-03-07T13:18:04Z",
-                "enriched_at": "2026-09-01T14:29:21.511731636Z"
+                "enriched_at": "2026-09-02T19:11:46.523380073Z"
               }
             },
             {
@@ -3750,10 +4348,10 @@
               "description": "Go package implementing bitsets.",
               "url": "https://github.com/bits-and-blooms/bitset",
               "repo_metadata": {
-                "stars": 1513,
+                "stars": 1512,
                 "is_archived": false,
                 "last_update": "2026-08-13T17:12:24Z",
-                "enriched_at": "2026-09-01T14:29:21.511732762Z"
+                "enriched_at": "2026-09-02T19:11:46.523380985Z"
               }
             }
           ]
@@ -6326,7 +6924,7 @@
                 "stars": 12,
                 "is_archived": false,
                 "last_update": "2024-09-10T08:35:40.687Z",
-                "enriched_at": "2026-09-01T14:30:20.670700885Z"
+                "enriched_at": "2026-09-02T19:11:18.49293649Z"
               }
             },
             {
@@ -7931,7 +8529,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2026-04-12T17:01:30.479Z",
-            "enriched_at": "2026-09-01T14:30:20.9734321Z"
+            "enriched_at": "2026-09-02T19:11:19.013544639Z"
           }
         },
         {
@@ -8108,7 +8706,7 @@
             "stars": 4,
             "is_archived": false,
             "last_update": "2026-05-18T04:42:32.765Z",
-            "enriched_at": "2026-09-01T14:30:21.213910612Z"
+            "enriched_at": "2026-09-02T19:11:19.416651257Z"
           }
         },
         {
@@ -13366,7 +13964,7 @@
             "stars": 18,
             "is_archived": false,
             "last_update": "2026-07-24T20:30:43.679Z",
-            "enriched_at": "2026-09-01T14:30:21.61375309Z"
+            "enriched_at": "2026-09-02T19:11:19.946907903Z"
           }
         },
         {
@@ -14826,7 +15424,7 @@
                 "stars": 1,
                 "is_archived": false,
                 "last_update": "2023-12-16T22:03:36.768Z",
-                "enriched_at": "2026-09-01T14:30:23.879835684Z"
+                "enriched_at": "2026-09-02T19:11:20.292299743Z"
               }
             },
             {
@@ -15318,7 +15916,7 @@
                 "stars": 10,
                 "is_archived": false,
                 "last_update": "2021-05-23T19:34:26.043Z",
-                "enriched_at": "2026-09-01T14:30:24.272100543Z"
+                "enriched_at": "2026-09-02T19:11:20.679479088Z"
               }
             },
             {
@@ -21435,7 +22033,7 @@
                 "stars": 1,
                 "is_archived": false,
                 "last_update": "2023-02-08T18:03:11.636Z",
-                "enriched_at": "2026-09-01T14:30:24.566605103Z"
+                "enriched_at": "2026-09-02T19:11:21.052798085Z"
               }
             },
             {
@@ -23121,7 +23719,7 @@
             "stars": 8,
             "is_archived": false,
             "last_update": "2025-08-04T00:13:40.622Z",
-            "enriched_at": "2026-09-01T14:30:24.861389465Z"
+            "enriched_at": "2026-09-02T19:11:21.397822229Z"
           }
         },
         {
@@ -23165,7 +23763,7 @@
             "stars": 0,
             "is_archived": false,
             "last_update": "2024-04-03T12:14:13.867Z",
-            "enriched_at": "2026-09-01T14:30:25.259457434Z"
+            "enriched_at": "2026-09-02T19:11:21.918021354Z"
           }
         },
         {
@@ -26176,10 +26774,10 @@
           "description": "An open-source GitLab command line tool bringing GitLab's cool features to your command line.",
           "url": "https://gitlab.com/gitlab-org/cli",
           "repo_metadata": {
-            "stars": 1081,
+            "stars": 1082,
             "is_archived": false,
-            "last_update": "2026-09-01T12:35:22.971Z",
-            "enriched_at": "2026-09-01T14:30:26.202519911Z"
+            "last_update": "2026-09-02T19:10:43.929Z",
+            "enriched_at": "2026-09-02T19:11:22.419628139Z"
           }
         },
         {
@@ -27885,7 +28483,7 @@
             "stars": 2,
             "is_archived": false,
             "last_update": "2021-07-24T03:14:20.469Z",
-            "enriched_at": "2026-09-01T14:30:26.709485182Z"
+            "enriched_at": "2026-09-02T19:11:22.953860579Z"
           }
         },
         {
@@ -28479,7 +29077,7 @@
             "stars": 11,
             "is_archived": false,
             "last_update": "2019-08-01T21:17:51.965Z",
-            "enriched_at": "2026-09-01T14:30:27.21747924Z"
+            "enriched_at": "2026-09-02T19:11:23.40185764Z"
           }
         },
         {
