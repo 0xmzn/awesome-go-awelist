@@ -1,36 +1,135 @@
 {
   "metadata": {
-    "updated_at": "2026-09-29T07:49:52.044977334Z",
+    "updated_at": "2026-09-29T14:34:50.138364475Z",
     "provider_metrics": [
       {
-        "provider": "GitLab",
-        "attempted": 4,
-        "successful": 0,
-        "failed": 4
+        "provider": "GitHub",
+        "attempted": 213,
+        "successful": 99,
+        "failed": 114
       },
       {
-        "provider": "GitHub",
-        "attempted": 15,
-        "successful": 0,
-        "failed": 15
+        "provider": "GitLab",
+        "attempted": 16,
+        "successful": 12,
+        "failed": 4
       }
     ],
     "failed_links": {
-      "https://github.com/Knuspii/kepfi": "repository not found, renamed, or inaccessible",
-      "https://github.com/bahlo/go-styleguide": "repository not found, renamed, or inaccessible",
-      "https://github.com/cubahno/connexions": "repository not found, renamed, or inaccessible",
+      "https://github.com/DavidGamba/go-getoptions": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/Evertras/bubble-table": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/GiGurra/boa": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/GuilhermeCaruso/anko": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/Knuspii/kepfi": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/abusomani/go-palette": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/agilira/flash-flags": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/agilira/orpheus": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/akamensky/argparse": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/alecthomas/kingpin": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/alexeyco/simpletable": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/alexflint/go-arg": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/alfiankan/crab-config-files-templating": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/amjadjibon/memsh": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/antonmedv/fx": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/arceus-7/chroma16": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/bahlo/go-styleguide": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/box-cli-maker/box-cli-maker": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/briandowns/spinner": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/c-bata/go-prompt": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/charmbracelet/bubbles": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/charmbracelet/bubbletea": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/charmbracelet/lipgloss": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/cheynewallace/tabby": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/codingconcepts/env": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/cosiner/argv": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/cosmtrek/air": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/cristalhq/acmd": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/cubahno/connexions": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/cyucelen/marker": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/daviddengcn/go-colortext": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/devfacet/gocmd": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/dnote/dnote": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/elves/elvish": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/enetx/tg": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/gizak/termui": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
       "https://github.com/go-authgate/authgate": "repository not found, renamed, or inaccessible",
-      "https://github.com/kcmvp/gob": "repository not found, renamed, or inaccessible",
-      "https://github.com/mickep76/encdec": "repository not found, renamed, or inaccessible",
-      "https://github.com/micro/micro": "repository not found, renamed, or inaccessible",
-      "https://github.com/samuelcouch/clarifai": "repository not found, renamed, or inaccessible",
-      "https://github.com/seiflotfy/skizze": "repository not found, renamed, or inaccessible",
-      "https://github.com/stv0g/gont": "repository not found, renamed, or inaccessible",
-      "https://github.com/twharmon/golamb": "repository not found, renamed, or inaccessible",
-      "https://github.com/tyler-smith/golang-sql-benchmark": "repository not found, renamed, or inaccessible",
-      "https://github.com/us/den": "repository not found, renamed, or inaccessible",
-      "https://github.com/xtaci/kcptun": "repository not found, renamed, or inaccessible",
-      "https://github.com/zhenghaoz/gorse": "repository not found, renamed, or inaccessible",
+      "https://github.com/go-task/task": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/go-telegram-bot-api/telegram-bot-api": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/gookit/color": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/gopinath-langote/1build": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/gosuri/uilive": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/gosuri/uiprogress": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/gosuri/uitable": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/goyek/goyek": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/guptarohit/asciigraph": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/hashicorp/cli": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/hedzr/cmdr": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/integrii/flaggy": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/iyashjayesh/goscaf": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/jaffee/commandeer": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/jawher/mow.cli": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/jessevdk/go-flags": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/joerdav/xc": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/jon-codes/getopt": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/jroimartin/gocui": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/jxskiss/mcli": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/kcmvp/gob": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/lazynop/lazyenv": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/leaanthony/clir": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/liujianping/job": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/logrusorgru/aurora": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/loom-go/loom": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/magefile/mage": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/mattn/go-colorable": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/mattn/go-isatty": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/maxclaus/gaper": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/mickep76/encdec": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/micro/micro": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/mkideal/cli": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/muesli/termenv": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/mum4k/termdash": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/mymmrac/telego": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/nanovms/ops": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/napalu/goopt": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/nsf/termbox-go": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/nyaosorg/go-readline-ny": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/octago/sflags": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/peterh/liner": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/phoenix-tui/phoenix": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/posener/cmd": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/posener/complete": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/pterm/pterm": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/rainu/go-command-chain": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/reeflective/readline": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/rekurt/ymsdk": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/rexrun-dev/rex": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/rsteube/carapace": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/rsteube/carapace-bin": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/rsteube/carapace-spec": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/samuelcouch/clarifai": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/schollz/progressbar": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/seiflotfy/skizze": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/sgreben/flagvar": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/spf13/cobra": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/spf13/pflag": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/steevin/neuron-cli": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/stv0g/gont": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/taskctl/taskctl": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/theckman/yacspin": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/tj/mmake": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/tockins/realize": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/tomlazar/table": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/tucnak/climax": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/twharmon/golamb": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/tyler-smith/golang-sql-benchmark": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/us/den": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/vbauerster/mpb": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/wabarc/wayback": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/wisp-trading/wisp": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/workanator/go-ataman": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/wzshiming/ctc": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/xtaci/kcptun": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
+      "https://github.com/zhenghaoz/gorse": "graphql query failed: non-200 OK status code: 502 Bad Gateway body: \"\u003chtml\u003e\\r\\n\u003chead\u003e\u003ctitle\u003e502 Bad Gateway\u003c/title\u003e\u003c/head\u003e\\r\\n\u003cbody\u003e\\r\\n\u003ccenter\u003e\u003ch1\u003e502 Bad Gateway\u003c/h1\u003e\u003c/center\u003e\\r\\n\u003chr\u003e\u003ccenter\u003enginx\u003c/center\u003e\\r\\n\u003c/body\u003e\\r\\n\u003c/html\u003e\\r\\n\"",
       "https://gitlab.com/fruitygo/pnutmux": "404 Not Found",
       "https://gitlab.com/skilstak/code/go/uniq": "404 Not Found",
       "https://gitlab.com/tozd/go/errors": "404 Not Found",
@@ -316,10 +415,10 @@
           "description": "An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.",
           "url": "https://github.com/ergo-services/ergo",
           "repo_metadata": {
-            "stars": 4669,
+            "stars": 4671,
             "is_archived": false,
             "last_update": "2026-09-07T11:25:06Z",
-            "enriched_at": "2026-09-28T10:28:48.046594351Z"
+            "enriched_at": "2026-09-29T14:34:33.097089572Z"
           }
         },
         {
@@ -327,10 +426,10 @@
           "description": "Fast and Distributed Actor framework using protocol buffers as message for Golang.",
           "url": "https://github.com/Tochemey/goakt",
           "repo_metadata": {
-            "stars": 385,
+            "stars": 386,
             "is_archived": false,
-            "last_update": "2026-09-27T11:44:49Z",
-            "enriched_at": "2026-09-28T10:28:48.046595403Z"
+            "last_update": "2026-09-28T21:49:00Z",
+            "enriched_at": "2026-09-29T14:34:33.097090684Z"
           }
         },
         {
@@ -338,10 +437,10 @@
           "description": "Blazingly fast and light-weight Actor engine written in Golang.",
           "url": "https://github.com/anthdm/hollywood",
           "repo_metadata": {
-            "stars": 2341,
+            "stars": 2342,
             "is_archived": false,
             "last_update": "2026-06-06T09:40:53Z",
-            "enriched_at": "2026-09-28T10:28:48.046595824Z"
+            "enriched_at": "2026-09-29T14:34:33.097091586Z"
           }
         },
         {
@@ -349,10 +448,10 @@
           "description": "Distributed actors for Go, C#, and Java/Kotlin.",
           "url": "https://github.com/asynkron/protoactor-go",
           "repo_metadata": {
-            "stars": 5509,
+            "stars": 5510,
             "is_archived": false,
             "last_update": "2026-01-18T09:40:27Z",
-            "enriched_at": "2026-09-28T10:28:48.046596235Z"
+            "enriched_at": "2026-09-29T14:34:33.097092107Z"
           }
         }
       ]
@@ -370,7 +469,7 @@
             "stars": 35,
             "is_archived": false,
             "last_update": "2026-09-23T13:35:22Z",
-            "enriched_at": "2026-09-28T10:28:48.046596756Z"
+            "enriched_at": "2026-09-29T14:34:33.097092487Z"
           }
         },
         {
@@ -381,7 +480,7 @@
             "stars": 21,
             "is_archived": false,
             "last_update": "2026-09-10T05:48:59Z",
-            "enriched_at": "2026-09-28T10:28:48.046597177Z"
+            "enriched_at": "2026-09-29T14:34:33.097092878Z"
           }
         },
         {
@@ -392,7 +491,7 @@
             "stars": 56,
             "is_archived": false,
             "last_update": "2026-09-25T17:31:49Z",
-            "enriched_at": "2026-09-28T10:28:48.046597557Z"
+            "enriched_at": "2026-09-29T14:34:33.097093379Z"
           }
         },
         {
@@ -400,10 +499,10 @@
           "description": "A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.",
           "url": "https://github.com/joakimcarlsson/ai",
           "repo_metadata": {
-            "stars": 43,
+            "stars": 44,
             "is_archived": false,
             "last_update": "2026-09-27T13:29:25Z",
-            "enriched_at": "2026-09-28T10:28:48.046598028Z"
+            "enriched_at": "2026-09-29T14:34:33.09709383Z"
           }
         },
         {
@@ -414,7 +513,7 @@
             "stars": 1059,
             "is_archived": false,
             "last_update": "2026-09-06T16:36:35Z",
-            "enriched_at": "2026-09-28T10:28:48.046598559Z"
+            "enriched_at": "2026-09-29T14:34:33.097094281Z"
           }
         },
         {
@@ -425,7 +524,7 @@
             "stars": 7,
             "is_archived": false,
             "last_update": "2026-09-13T20:33:31Z",
-            "enriched_at": "2026-09-28T10:28:48.046600613Z"
+            "enriched_at": "2026-09-29T14:34:33.097096325Z"
           }
         },
         {
@@ -438,10 +537,10 @@
           "description": "Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.",
           "url": "https://github.com/zendev-sh/goai",
           "repo_metadata": {
-            "stars": 212,
+            "stars": 216,
             "is_archived": false,
-            "last_update": "2026-09-22T01:28:54Z",
-            "enriched_at": "2026-09-28T10:28:48.046601084Z"
+            "last_update": "2026-09-29T01:56:13Z",
+            "enriched_at": "2026-09-29T14:34:33.097096806Z"
           }
         },
         {
@@ -452,7 +551,7 @@
             "stars": 50,
             "is_archived": false,
             "last_update": "2026-09-12T15:58:29Z",
-            "enriched_at": "2026-09-28T10:28:48.046601535Z"
+            "enriched_at": "2026-09-29T14:34:33.097097226Z"
           }
         },
         {
@@ -460,10 +559,10 @@
           "description": "LangChainGo is a framework for developing applications powered by language models.",
           "url": "https://github.com/tmc/langchaingo",
           "repo_metadata": {
-            "stars": 9696,
+            "stars": 9698,
             "is_archived": false,
             "last_update": "2026-01-11T16:59:56Z",
-            "enriched_at": "2026-09-28T10:28:48.046602026Z"
+            "enriched_at": "2026-09-29T14:34:33.097097667Z"
           }
         },
         {
@@ -474,7 +573,7 @@
             "stars": 305,
             "is_archived": false,
             "last_update": "2026-07-16T08:38:49Z",
-            "enriched_at": "2026-09-28T10:28:48.046602457Z"
+            "enriched_at": "2026-09-29T14:34:33.097098138Z"
           }
         },
         {
@@ -482,10 +581,10 @@
           "description": "Open Source OpenAI alternative, self-host AI models.",
           "url": "https://github.com/mudler/LocalAI",
           "repo_metadata": {
-            "stars": 49305,
+            "stars": 49319,
             "is_archived": false,
-            "last_update": "2026-09-28T09:37:24Z",
-            "enriched_at": "2026-09-28T10:28:48.046602978Z"
+            "last_update": "2026-09-29T10:29:08Z",
+            "enriched_at": "2026-09-29T14:34:33.097098569Z"
           }
         },
         {
@@ -496,7 +595,7 @@
             "stars": 16,
             "is_archived": false,
             "last_update": "2026-08-06T20:50:44Z",
-            "enriched_at": "2026-09-28T10:28:48.046605001Z"
+            "enriched_at": "2026-09-29T14:34:33.097100362Z"
           }
         },
         {
@@ -504,10 +603,10 @@
           "description": "Go implementation of the Model Context Protocol for building MCP servers and clients in Go.",
           "url": "https://github.com/mark3labs/mcp-go",
           "repo_metadata": {
-            "stars": 9149,
+            "stars": 9152,
             "is_archived": false,
             "last_update": "2026-09-23T13:14:55Z",
-            "enriched_at": "2026-09-28T10:28:48.046605512Z"
+            "enriched_at": "2026-09-29T14:34:33.097100813Z"
           }
         },
         {
@@ -515,10 +614,10 @@
           "description": "Run large language models locally.",
           "url": "https://github.com/jmorganca/ollama",
           "repo_metadata": {
-            "stars": 181843,
+            "stars": 181916,
             "is_archived": false,
-            "last_update": "2026-09-26T14:29:54Z",
-            "enriched_at": "2026-09-28T10:28:48.046606003Z"
+            "last_update": "2026-09-29T01:25:08Z",
+            "enriched_at": "2026-09-29T14:34:33.097101264Z"
           }
         },
         {
@@ -529,7 +628,7 @@
             "stars": 103,
             "is_archived": false,
             "last_update": "2026-06-23T18:02:46Z",
-            "enriched_at": "2026-09-28T10:28:48.046606594Z"
+            "enriched_at": "2026-09-29T14:34:33.097101704Z"
           }
         },
         {
@@ -540,7 +639,7 @@
             "stars": 44,
             "is_archived": false,
             "last_update": "2026-08-09T12:24:04Z",
-            "enriched_at": "2026-09-28T10:28:48.046607235Z"
+            "enriched_at": "2026-09-29T14:34:33.097102336Z"
           }
         },
         {
@@ -551,7 +650,7 @@
             "stars": 24,
             "is_archived": false,
             "last_update": "2026-07-06T08:54:08Z",
-            "enriched_at": "2026-09-28T10:28:48.046607696Z"
+            "enriched_at": "2026-09-29T14:34:33.097102817Z"
           }
         },
         {
@@ -559,10 +658,10 @@
           "description": "Framework for building LLM-based multi-agent systems.",
           "url": "https://github.com/trpc-group/trpc-agent-go",
           "repo_metadata": {
-            "stars": 1828,
+            "stars": 1830,
             "is_archived": false,
             "last_update": "2026-09-25T11:03:48Z",
-            "enriched_at": "2026-09-28T10:28:48.046608378Z"
+            "enriched_at": "2026-09-29T14:34:33.097103338Z"
           }
         },
         {
@@ -572,8 +671,8 @@
           "repo_metadata": {
             "stars": 63,
             "is_archived": false,
-            "last_update": "2026-09-09T02:32:05Z",
-            "enriched_at": "2026-09-28T10:28:48.046608899Z"
+            "last_update": "2026-09-28T20:50:11Z",
+            "enriched_at": "2026-09-29T14:34:33.097103738Z"
           }
         },
         {
@@ -584,7 +683,7 @@
             "stars": 55,
             "is_archived": false,
             "last_update": "2026-09-04T23:03:22Z",
-            "enriched_at": "2026-09-28T10:28:48.04660941Z"
+            "enriched_at": "2026-09-29T14:34:33.097104239Z"
           }
         }
       ]
@@ -599,10 +698,10 @@
           "description": "A simple library for playback and audio manipulation.",
           "url": "https://github.com/gopxl/beep",
           "repo_metadata": {
-            "stars": 593,
+            "stars": 594,
             "is_archived": false,
             "last_update": "2025-07-16T20:38:10Z",
-            "enriched_at": "2026-09-28T10:28:48.046609911Z"
+            "enriched_at": "2026-09-29T14:34:33.097104861Z"
           }
         },
         {
@@ -613,7 +712,7 @@
             "stars": 362,
             "is_archived": false,
             "last_update": "2026-08-19T08:40:10Z",
-            "enriched_at": "2026-09-28T10:28:48.046610392Z"
+            "enriched_at": "2026-09-29T14:34:33.097105341Z"
           }
         },
         {
@@ -624,7 +723,7 @@
             "stars": 137,
             "is_archived": false,
             "last_update": "2023-01-25T20:45:12Z",
-            "enriched_at": "2026-09-28T10:28:48.046610913Z"
+            "enriched_at": "2026-09-29T14:34:33.097105983Z"
           }
         },
         {
@@ -635,7 +734,7 @@
             "stars": 22,
             "is_archived": false,
             "last_update": "2024-10-27T18:06:02Z",
-            "enriched_at": "2026-09-28T10:28:48.046611454Z"
+            "enriched_at": "2026-09-29T14:34:33.097106533Z"
           }
         },
         {
@@ -646,7 +745,7 @@
             "stars": 432,
             "is_archived": false,
             "last_update": "2022-02-05T21:21:44Z",
-            "enriched_at": "2026-09-28T10:28:48.046611984Z"
+            "enriched_at": "2026-09-29T14:34:33.097107074Z"
           }
         },
         {
@@ -657,7 +756,7 @@
             "stars": 39,
             "is_archived": false,
             "last_update": "2024-01-28T01:50:32Z",
-            "enriched_at": "2026-09-28T10:28:48.046614309Z"
+            "enriched_at": "2026-09-29T14:34:33.097109469Z"
           }
         },
         {
@@ -668,7 +767,7 @@
             "stars": 370,
             "is_archived": false,
             "last_update": "2023-05-09T07:37:30Z",
-            "enriched_at": "2026-09-28T10:28:48.04661488Z"
+            "enriched_at": "2026-09-29T14:34:33.09711001Z"
           }
         },
         {
@@ -679,7 +778,7 @@
             "stars": 428,
             "is_archived": false,
             "last_update": "2026-08-18T10:51:14Z",
-            "enriched_at": "2026-09-28T10:28:48.046615451Z"
+            "enriched_at": "2026-09-29T14:34:33.097110561Z"
           }
         },
         {
@@ -690,7 +789,7 @@
             "stars": 134,
             "is_archived": false,
             "last_update": "2023-08-02T02:31:13Z",
-            "enriched_at": "2026-09-28T10:28:48.046616573Z"
+            "enriched_at": "2026-09-29T14:34:33.097111102Z"
           }
         },
         {
@@ -701,7 +800,7 @@
             "stars": 463,
             "is_archived": false,
             "last_update": "2026-01-21T19:16:17Z",
-            "enriched_at": "2026-09-28T10:28:48.046617154Z"
+            "enriched_at": "2026-09-29T14:34:33.097111643Z"
           }
         },
         {
@@ -712,7 +811,7 @@
             "stars": 1973,
             "is_archived": false,
             "last_update": "2026-09-23T15:58:30Z",
-            "enriched_at": "2026-09-28T10:28:48.046617675Z"
+            "enriched_at": "2026-09-29T14:34:33.097112234Z"
           }
         },
         {
@@ -723,7 +822,7 @@
             "stars": 845,
             "is_archived": false,
             "last_update": "2026-02-03T16:44:31Z",
-            "enriched_at": "2026-09-28T10:28:48.046618236Z"
+            "enriched_at": "2026-09-29T14:34:33.097112835Z"
           }
         },
         {
@@ -734,7 +833,7 @@
             "stars": 4,
             "is_archived": false,
             "last_update": "2026-06-15T14:31:24Z",
-            "enriched_at": "2026-09-28T10:28:48.046618777Z"
+            "enriched_at": "2026-09-29T14:34:33.097113386Z"
           }
         }
       ]
@@ -749,10 +848,10 @@
           "description": "Modular authentication system for the web. It tries to remove as much boilerplate and \"hard things\" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.",
           "url": "https://github.com/volatiletech/authboss",
           "repo_metadata": {
-            "stars": 4197,
+            "stars": 4198,
             "is_archived": false,
             "last_update": "2025-11-25T03:16:22Z",
-            "enriched_at": "2026-09-28T10:28:48.046619318Z"
+            "enriched_at": "2026-09-29T14:34:33.097113958Z"
           }
         },
         {
@@ -774,7 +873,7 @@
             "stars": 100,
             "is_archived": false,
             "last_update": "2025-11-25T06:35:12Z",
-            "enriched_at": "2026-09-28T10:28:48.046621092Z"
+            "enriched_at": "2026-09-29T14:34:33.097115991Z"
           }
         },
         {
@@ -782,10 +881,10 @@
           "description": "Authorization library that supports access control models like ACL, RBAC, and ABAC.",
           "url": "https://github.com/hsluoyz/casbin",
           "repo_metadata": {
-            "stars": 20406,
+            "stars": 20409,
             "is_archived": false,
             "last_update": "2026-09-11T02:01:08Z",
-            "enriched_at": "2026-09-28T10:28:48.046621723Z"
+            "enriched_at": "2026-09-29T14:34:33.097116643Z"
           }
         },
         {
@@ -796,7 +895,7 @@
             "stars": 24,
             "is_archived": false,
             "last_update": "2026-01-12T10:29:36Z",
-            "enriched_at": "2026-09-28T10:28:48.046622294Z"
+            "enriched_at": "2026-09-29T14:34:33.097117244Z"
           }
         },
         {
@@ -806,8 +905,8 @@
           "repo_metadata": {
             "stars": 34,
             "is_archived": false,
-            "last_update": "2026-09-22T07:52:38Z",
-            "enriched_at": "2026-09-28T10:28:48.046622935Z"
+            "last_update": "2026-09-29T08:48:45Z",
+            "enriched_at": "2026-09-29T14:34:33.097117875Z"
           }
         },
         {
@@ -818,7 +917,7 @@
             "stars": 613,
             "is_archived": false,
             "last_update": "2024-07-25T18:02:12Z",
-            "enriched_at": "2026-09-28T10:28:48.046623546Z"
+            "enriched_at": "2026-09-29T14:34:33.097118506Z"
           }
         },
         {
@@ -829,7 +928,7 @@
             "stars": 48,
             "is_archived": false,
             "last_update": "2026-08-07T00:31:37Z",
-            "enriched_at": "2026-09-28T10:28:48.046624147Z"
+            "enriched_at": "2026-09-29T14:34:33.097119147Z"
           }
         },
         {
@@ -840,7 +939,7 @@
             "stars": 536,
             "is_archived": false,
             "last_update": "2026-09-03T23:05:40Z",
-            "enriched_at": "2026-09-28T10:28:48.046624758Z"
+            "enriched_at": "2026-09-29T14:34:33.097119798Z"
           }
         },
         {
@@ -851,7 +950,7 @@
             "stars": 3,
             "is_archived": false,
             "last_update": "2026-09-24T06:11:03Z",
-            "enriched_at": "2026-09-28T10:28:48.04662538Z"
+            "enriched_at": "2026-09-29T14:34:33.097120479Z"
           }
         },
         {
@@ -862,7 +961,7 @@
             "stars": 19,
             "is_archived": false,
             "last_update": "2026-07-13T08:08:02Z",
-            "enriched_at": "2026-09-28T10:28:48.046626031Z"
+            "enriched_at": "2026-09-29T14:34:33.097121131Z"
           }
         },
         {
@@ -872,8 +971,8 @@
           "repo_metadata": {
             "stars": 205,
             "is_archived": false,
-            "last_update": "2026-09-27T21:08:20Z",
-            "enriched_at": "2026-09-28T10:28:48.046626672Z"
+            "last_update": "2026-09-29T12:44:31Z",
+            "enriched_at": "2026-09-29T14:34:33.097121792Z"
           }
         },
         {
@@ -881,10 +980,10 @@
           "description": "chainable handlers for login with OAuth1 and OAuth2 authentication providers.",
           "url": "https://github.com/dghubble/gologin",
           "repo_metadata": {
-            "stars": 1960,
+            "stars": 1959,
             "is_archived": false,
             "last_update": "2026-09-21T22:22:38Z",
-            "enriched_at": "2026-09-28T10:28:48.046627313Z"
+            "enriched_at": "2026-09-29T14:34:33.097122463Z"
           }
         },
         {
@@ -895,7 +994,7 @@
             "stars": 1675,
             "is_archived": false,
             "last_update": "2026-07-21T00:27:55Z",
-            "enriched_at": "2026-09-28T10:28:48.046627944Z"
+            "enriched_at": "2026-09-29T14:34:33.097123135Z"
           }
         },
         {
@@ -906,7 +1005,7 @@
             "stars": 255,
             "is_archived": false,
             "last_update": "2024-07-31T19:08:02Z",
-            "enriched_at": "2026-09-28T10:28:48.046628575Z"
+            "enriched_at": "2026-09-29T14:34:33.097123796Z"
           }
         },
         {
@@ -914,10 +1013,10 @@
           "description": "provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box.",
           "url": "https://github.com/markbates/goth",
           "repo_metadata": {
-            "stars": 6607,
+            "stars": 6606,
             "is_archived": false,
             "last_update": "2026-02-11T05:06:29Z",
-            "enriched_at": "2026-09-28T10:28:48.046629317Z"
+            "enriched_at": "2026-09-29T14:34:33.097124467Z"
           }
         },
         {
@@ -928,7 +1027,7 @@
             "stars": 271,
             "is_archived": false,
             "last_update": "2021-06-23T12:10:10Z",
-            "enriched_at": "2026-09-28T10:28:48.046630008Z"
+            "enriched_at": "2026-09-29T14:34:33.097125168Z"
           }
         },
         {
@@ -939,7 +1038,7 @@
             "stars": 361,
             "is_archived": false,
             "last_update": "2023-04-29T11:28:55Z",
-            "enriched_at": "2026-09-28T10:28:48.04663065Z"
+            "enriched_at": "2026-09-29T14:34:33.09712582Z"
           }
         },
         {
@@ -950,7 +1049,7 @@
             "stars": 689,
             "is_archived": false,
             "last_update": "2024-07-10T08:11:23Z",
-            "enriched_at": "2026-09-28T10:28:48.046631321Z"
+            "enriched_at": "2026-09-29T14:34:33.097126571Z"
           }
         },
         {
@@ -961,7 +1060,7 @@
             "stars": 238,
             "is_archived": false,
             "last_update": "2021-08-01T23:03:58Z",
-            "enriched_at": "2026-09-28T10:28:48.046632012Z"
+            "enriched_at": "2026-09-29T14:34:33.097127272Z"
           }
         },
         {
@@ -969,10 +1068,10 @@
           "description": "A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs.",
           "url": "https://github.com/golang-jwt/jwt",
           "repo_metadata": {
-            "stars": 9230,
+            "stars": 9231,
             "is_archived": false,
             "last_update": "2026-09-14T13:54:52Z",
-            "enriched_at": "2026-09-28T10:28:48.046632693Z"
+            "enriched_at": "2026-09-29T14:34:33.097127973Z"
           }
         },
         {
@@ -980,10 +1079,10 @@
           "description": "Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies.",
           "url": "https://github.com/lestrrat-go/jwx",
           "repo_metadata": {
-            "stars": 2427,
+            "stars": 2428,
             "is_archived": false,
-            "last_update": "2026-09-25T09:02:47Z",
-            "enriched_at": "2026-09-28T10:28:48.04663623Z"
+            "last_update": "2026-09-29T01:43:06Z",
+            "enriched_at": "2026-09-29T14:34:33.09713168Z"
           }
         },
         {
@@ -991,10 +1090,10 @@
           "description": "Open Source (Go) implementation of \"Zanzibar: Google's Consistent, Global Authorization System\". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.",
           "url": "https://github.com/ory/keto",
           "repo_metadata": {
-            "stars": 5404,
+            "stars": 5405,
             "is_archived": false,
             "last_update": "2026-07-29T09:30:02Z",
-            "enriched_at": "2026-09-28T10:28:48.046636941Z"
+            "enriched_at": "2026-09-29T14:34:33.097132462Z"
           }
         },
         {
@@ -1005,7 +1104,7 @@
             "stars": 1930,
             "is_archived": false,
             "last_update": "2021-02-11T13:53:54Z",
-            "enriched_at": "2026-09-28T10:28:48.046637853Z"
+            "enriched_at": "2026-09-29T14:34:33.097133183Z"
           }
         },
         {
@@ -1013,10 +1112,10 @@
           "description": "Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support.",
           "url": "https://github.com/golang/oauth2",
           "repo_metadata": {
-            "stars": 5897,
+            "stars": 5898,
             "is_archived": false,
             "last_update": "2026-08-25T21:41:43Z",
-            "enriched_at": "2026-09-28T10:28:48.046638574Z"
+            "enriched_at": "2026-09-29T14:34:33.097133945Z"
           }
         },
         {
@@ -1024,10 +1123,10 @@
           "description": "Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation.",
           "url": "https://github.com/zitadel/oidc",
           "repo_metadata": {
-            "stars": 1894,
+            "stars": 1896,
             "is_archived": false,
-            "last_update": "2026-09-28T09:32:59Z",
-            "enriched_at": "2026-09-28T10:28:48.046639266Z"
+            "last_update": "2026-09-29T12:58:52Z",
+            "enriched_at": "2026-09-29T14:34:33.097134656Z"
           }
         },
         {
@@ -1035,10 +1134,10 @@
           "description": "Implementation of fine-grained authorization based on the \"Zanzibar: Google's Consistent, Global Authorization System\" paper. Backed by CNCF.",
           "url": "https://github.com/openfga/openfga",
           "repo_metadata": {
-            "stars": 5875,
+            "stars": 5886,
             "is_archived": false,
-            "last_update": "2026-09-24T18:35:01Z",
-            "enriched_at": "2026-09-28T10:28:48.046639997Z"
+            "last_update": "2026-09-28T20:42:04Z",
+            "enriched_at": "2026-09-29T14:34:33.097135387Z"
           }
         },
         {
@@ -1046,10 +1145,10 @@
           "description": "Golang OAuth2 server library.",
           "url": "https://github.com/openshift/osin",
           "repo_metadata": {
-            "stars": 1936,
+            "stars": 1935,
             "is_archived": false,
             "last_update": "2022-03-17T07:53:46Z",
-            "enriched_at": "2026-09-28T10:28:48.046640728Z"
+            "enriched_at": "2026-09-29T14:34:33.097136219Z"
           }
         },
         {
@@ -1060,7 +1159,7 @@
             "stars": 146,
             "is_archived": false,
             "last_update": "2021-08-06T16:31:11Z",
-            "enriched_at": "2026-09-28T10:28:48.04664148Z"
+            "enriched_at": "2026-09-29T14:34:33.097137001Z"
           }
         },
         {
@@ -1071,7 +1170,7 @@
             "stars": 77,
             "is_archived": false,
             "last_update": "2021-02-27T19:42:47Z",
-            "enriched_at": "2026-09-28T10:28:48.046642201Z"
+            "enriched_at": "2026-09-29T14:34:33.097137732Z"
           }
         },
         {
@@ -1082,7 +1181,7 @@
             "stars": 941,
             "is_archived": false,
             "last_update": "2022-09-05T10:18:33Z",
-            "enriched_at": "2026-09-28T10:28:48.046642982Z"
+            "enriched_at": "2026-09-29T14:34:33.097138684Z"
           }
         },
         {
@@ -1093,7 +1192,7 @@
             "stars": 14,
             "is_archived": false,
             "last_update": "2026-09-03T14:43:08Z",
-            "enriched_at": "2026-09-28T10:28:48.046643724Z"
+            "enriched_at": "2026-09-29T14:34:33.097139505Z"
           }
         },
         {
@@ -1104,7 +1203,7 @@
             "stars": 44,
             "is_archived": false,
             "last_update": "2021-05-25T13:48:24Z",
-            "enriched_at": "2026-09-28T10:28:48.046644515Z"
+            "enriched_at": "2026-09-29T14:34:33.097140357Z"
           }
         },
         {
@@ -1112,10 +1211,10 @@
           "description": "Session Manager for HTTP servers.",
           "url": "https://github.com/alexedwards/scs",
           "repo_metadata": {
-            "stars": 2620,
+            "stars": 2619,
             "is_archived": false,
             "last_update": "2025-10-02T16:21:04Z",
-            "enriched_at": "2026-09-28T10:28:48.046645257Z"
+            "enriched_at": "2026-09-29T14:34:33.097141158Z"
           }
         },
         {
@@ -1126,7 +1225,7 @@
             "stars": 87,
             "is_archived": false,
             "last_update": "2023-02-18T15:14:23Z",
-            "enriched_at": "2026-09-28T10:28:48.046645998Z"
+            "enriched_at": "2026-09-29T14:34:33.097141919Z"
           }
         },
         {
@@ -1137,7 +1236,7 @@
             "stars": 119,
             "is_archived": false,
             "last_update": "2024-08-24T18:43:24Z",
-            "enriched_at": "2026-09-28T10:28:48.04664676Z"
+            "enriched_at": "2026-09-29T14:34:33.097142701Z"
           }
         },
         {
@@ -1148,7 +1247,7 @@
             "stars": 80,
             "is_archived": false,
             "last_update": "2020-04-15T18:01:42Z",
-            "enriched_at": "2026-09-28T10:28:48.046647731Z"
+            "enriched_at": "2026-09-29T14:34:33.097143482Z"
           }
         },
         {
@@ -1159,7 +1258,7 @@
             "stars": 132,
             "is_archived": false,
             "last_update": "2025-03-20T17:01:47Z",
-            "enriched_at": "2026-09-28T10:28:48.046648533Z"
+            "enriched_at": "2026-09-29T14:34:33.097145426Z"
           }
         },
         {
@@ -1170,7 +1269,7 @@
             "stars": 123,
             "is_archived": false,
             "last_update": "2025-11-10T00:50:51Z",
-            "enriched_at": "2026-09-28T10:28:48.046649314Z"
+            "enriched_at": "2026-09-29T14:34:33.097149854Z"
           }
         },
         {
@@ -1178,10 +1277,10 @@
           "description": "A Zanzibar-inspired database that enables fine-grained authorization.",
           "url": "https://github.com/authzed/spicedb",
           "repo_metadata": {
-            "stars": 7101,
+            "stars": 7107,
             "is_archived": false,
             "last_update": "2026-09-24T21:00:20Z",
-            "enriched_at": "2026-09-28T10:28:48.046650086Z"
+            "enriched_at": "2026-09-29T14:34:33.097151658Z"
           }
         },
         {
@@ -1192,7 +1291,7 @@
             "stars": 9,
             "is_archived": false,
             "last_update": "2025-01-19T19:03:32Z",
-            "enriched_at": "2026-09-28T10:28:48.046650887Z"
+            "enriched_at": "2026-09-29T14:34:33.097153421Z"
           }
         }
       ]
@@ -1207,10 +1306,10 @@
           "description": "A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm.",
           "url": "https://github.com/cometbft/cometbft",
           "repo_metadata": {
-            "stars": 921,
+            "stars": 923,
             "is_archived": false,
-            "last_update": "2026-09-24T12:59:33Z",
-            "enriched_at": "2026-09-28T10:28:48.046651719Z"
+            "last_update": "2026-09-28T14:56:43Z",
+            "enriched_at": "2026-09-29T14:34:33.097155094Z"
           }
         },
         {
@@ -1218,10 +1317,10 @@
           "description": "A Framework for Building Public Blockchains in the Cosmos Ecosystem.",
           "url": "https://github.com/cosmos/cosmos-sdk",
           "repo_metadata": {
-            "stars": 7066,
+            "stars": 7068,
             "is_archived": false,
-            "last_update": "2026-09-24T14:25:36Z",
-            "enriched_at": "2026-09-28T10:28:48.04665254Z"
+            "last_update": "2026-09-28T14:40:55Z",
+            "enriched_at": "2026-09-29T14:34:33.097156827Z"
           }
         },
         {
@@ -1229,10 +1328,10 @@
           "description": "A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains.",
           "url": "https://github.com/gnolang/gno",
           "repo_metadata": {
-            "stars": 1086,
+            "stars": 1087,
             "is_archived": false,
-            "last_update": "2026-09-28T08:54:07Z",
-            "enriched_at": "2026-09-28T10:28:48.046653352Z"
+            "last_update": "2026-09-29T12:56:27Z",
+            "enriched_at": "2026-09-29T14:34:33.097158501Z"
           }
         },
         {
@@ -1240,10 +1339,10 @@
           "description": "Official Go implementation of the Ethereum protocol.",
           "url": "https://github.com/ethereum/go-ethereum",
           "repo_metadata": {
-            "stars": 51373,
+            "stars": 51377,
             "is_archived": false,
-            "last_update": "2026-09-28T05:51:00Z",
-            "enriched_at": "2026-09-28T10:28:48.046654154Z"
+            "last_update": "2026-09-29T13:03:26Z",
+            "enriched_at": "2026-09-29T14:34:33.097160174Z"
           }
         },
         {
@@ -1254,7 +1353,7 @@
             "stars": 15,
             "is_archived": false,
             "last_update": "2024-12-19T12:56:22Z",
-            "enriched_at": "2026-09-28T10:28:48.046654965Z"
+            "enriched_at": "2026-09-29T14:34:33.097162047Z"
           }
         },
         {
@@ -1265,7 +1364,7 @@
             "stars": 454,
             "is_archived": false,
             "last_update": "2026-08-10T18:03:49Z",
-            "enriched_at": "2026-09-28T10:28:48.046655817Z"
+            "enriched_at": "2026-09-29T14:34:33.0971637Z"
           }
         },
         {
@@ -1276,7 +1375,7 @@
             "stars": 17145,
             "is_archived": false,
             "last_update": "2026-09-27T18:55:16Z",
-            "enriched_at": "2026-09-28T10:28:48.046656658Z"
+            "enriched_at": "2026-09-29T14:34:33.097165373Z"
           }
         },
         {
@@ -1284,10 +1383,10 @@
           "description": "A complete implementation of a Lightning Network node.",
           "url": "https://github.com/lightningnetwork/lnd",
           "repo_metadata": {
-            "stars": 8197,
+            "stars": 8196,
             "is_archived": false,
-            "last_update": "2026-09-25T03:16:08Z",
-            "enriched_at": "2026-09-28T10:28:48.04665747Z"
+            "last_update": "2026-09-29T02:17:38Z",
+            "enriched_at": "2026-09-29T14:34:33.097167427Z"
           }
         },
         {
@@ -1298,7 +1397,7 @@
             "stars": 40,
             "is_archived": false,
             "last_update": "2026-09-27T11:40:30Z",
-            "enriched_at": "2026-09-28T10:28:48.046658321Z"
+            "enriched_at": "2026-09-29T14:34:33.097169301Z"
           }
         },
         {
@@ -1306,10 +1405,10 @@
           "description": "Go library to interface with Solana JSON RPC and WebSocket interfaces.",
           "url": "https://github.com/gagliardetto/solana-go",
           "repo_metadata": {
-            "stars": 1591,
+            "stars": 1592,
             "is_archived": false,
             "last_update": "2026-09-25T22:02:21Z",
-            "enriched_at": "2026-09-28T10:28:48.046659163Z"
+            "enriched_at": "2026-09-29T14:34:33.097171084Z"
           }
         },
         {
@@ -1317,10 +1416,10 @@
           "description": "High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols.",
           "url": "https://github.com/tendermint/tendermint",
           "repo_metadata": {
-            "stars": 5863,
+            "stars": 5864,
             "is_archived": false,
             "last_update": "2025-03-06T20:43:12Z",
-            "enriched_at": "2026-09-28T10:28:48.046660014Z"
+            "enriched_at": "2026-09-29T14:34:33.097172777Z"
           }
         },
         {
@@ -1331,7 +1430,7 @@
             "stars": 5,
             "is_archived": false,
             "last_update": "2026-08-29T17:22:14Z",
-            "enriched_at": "2026-09-28T10:28:48.046660886Z"
+            "enriched_at": "2026-09-29T14:34:33.097174661Z"
           }
         }
       ]
@@ -1349,7 +1448,7 @@
             "stars": 598,
             "is_archived": false,
             "last_update": "2026-05-18T05:07:45Z",
-            "enriched_at": "2026-09-28T10:28:48.046661748Z"
+            "enriched_at": "2026-09-29T14:34:33.097176484Z"
           }
         },
         {
@@ -1357,10 +1456,10 @@
           "description": "Zero-dependencies Telegram Bot library with additional UI components.",
           "url": "https://github.com/go-telegram/bot",
           "repo_metadata": {
-            "stars": 1844,
+            "stars": 1845,
             "is_archived": false,
             "last_update": "2026-09-11T09:33:41Z",
-            "enriched_at": "2026-09-28T10:28:48.046662659Z"
+            "enriched_at": "2026-09-29T14:34:33.097178087Z"
           }
         },
         {
@@ -1368,10 +1467,10 @@
           "description": "An elegant and concurrent library for Telegram Bots in Go.",
           "url": "https://github.com/NicoNex/echotron",
           "repo_metadata": {
-            "stars": 447,
+            "stars": 446,
             "is_archived": false,
             "last_update": "2026-07-07T07:19:33Z",
-            "enriched_at": "2026-09-28T10:28:48.046663521Z"
+            "enriched_at": "2026-09-29T14:34:33.09717969Z"
           }
         },
         {
@@ -1387,7 +1486,7 @@
             "stars": 272,
             "is_archived": false,
             "last_update": "2026-08-09T00:23:51Z",
-            "enriched_at": "2026-09-28T10:28:48.046664393Z"
+            "enriched_at": "2026-09-29T14:34:33.097180912Z"
           }
         },
         {
@@ -1398,7 +1497,7 @@
             "stars": 136,
             "is_archived": false,
             "last_update": "2026-02-18T13:17:30Z",
-            "enriched_at": "2026-09-28T10:28:48.046665274Z"
+            "enriched_at": "2026-09-29T14:34:33.097181874Z"
           }
         },
         {
@@ -1409,7 +1508,7 @@
             "stars": 404,
             "is_archived": false,
             "last_update": "2026-03-11T19:52:04Z",
-            "enriched_at": "2026-09-28T10:28:48.046666186Z"
+            "enriched_at": "2026-09-29T14:34:33.097182816Z"
           }
         },
         {
@@ -1420,7 +1519,7 @@
             "stars": 35,
             "is_archived": false,
             "last_update": "2026-03-19T09:49:33Z",
-            "enriched_at": "2026-09-28T10:28:48.046667108Z"
+            "enriched_at": "2026-09-29T14:34:33.097183758Z"
           }
         },
         {
@@ -1430,8 +1529,8 @@
           "repo_metadata": {
             "stars": 211,
             "is_archived": false,
-            "last_update": "2026-09-28T09:52:11Z",
-            "enriched_at": "2026-09-28T10:28:48.046667989Z"
+            "last_update": "2026-09-29T12:37:11Z",
+            "enriched_at": "2026-09-29T14:34:33.09718475Z"
           }
         },
         {
@@ -1442,7 +1541,7 @@
             "stars": 62,
             "is_archived": false,
             "last_update": "2024-11-16T01:16:59Z",
-            "enriched_at": "2026-09-28T10:28:48.046668881Z"
+            "enriched_at": "2026-09-29T14:34:33.097185841Z"
           }
         },
         {
@@ -1453,7 +1552,7 @@
             "stars": 4635,
             "is_archived": false,
             "last_update": "2026-06-16T23:23:25Z",
-            "enriched_at": "2026-09-28T10:28:48.046669803Z"
+            "enriched_at": "2026-09-29T14:34:33.097186823Z"
           }
         },
         {
@@ -6327,7 +6426,7 @@
                 "stars": 12,
                 "is_archived": false,
                 "last_update": "2024-09-10T08:35:40.687Z",
-                "enriched_at": "2026-09-28T10:29:08.571790483Z"
+                "enriched_at": "2026-09-29T14:34:44.579865903Z"
               }
             },
             {
@@ -7932,7 +8031,7 @@
             "stars": 10,
             "is_archived": false,
             "last_update": "2026-04-12T17:01:30.479Z",
-            "enriched_at": "2026-09-28T10:29:08.899167984Z"
+            "enriched_at": "2026-09-29T14:34:44.870272293Z"
           }
         },
         {
@@ -8109,7 +8208,7 @@
             "stars": 4,
             "is_archived": false,
             "last_update": "2026-05-18T04:42:32.765Z",
-            "enriched_at": "2026-09-28T10:29:09.19292478Z"
+            "enriched_at": "2026-09-29T14:34:45.148142035Z"
           }
         },
         {
@@ -13367,7 +13466,7 @@
             "stars": 18,
             "is_archived": false,
             "last_update": "2026-07-24T20:30:43.679Z",
-            "enriched_at": "2026-09-28T10:29:09.626057892Z"
+            "enriched_at": "2026-09-29T14:34:45.809028363Z"
           }
         },
         {
@@ -14827,7 +14926,7 @@
                 "stars": 1,
                 "is_archived": false,
                 "last_update": "2023-12-16T22:03:36.768Z",
-                "enriched_at": "2026-09-28T10:29:10.109356985Z"
+                "enriched_at": "2026-09-29T14:34:46.086392261Z"
               }
             },
             {
@@ -15319,7 +15418,7 @@
                 "stars": 10,
                 "is_archived": false,
                 "last_update": "2021-05-23T19:34:26.043Z",
-                "enriched_at": "2026-09-28T10:29:10.342014583Z"
+                "enriched_at": "2026-09-29T14:34:46.43659571Z"
               }
             },
             {
@@ -21436,7 +21535,7 @@
                 "stars": 1,
                 "is_archived": false,
                 "last_update": "2023-02-08T18:03:11.636Z",
-                "enriched_at": "2026-09-28T10:29:10.567888879Z"
+                "enriched_at": "2026-09-29T14:34:47.484462445Z"
               }
             },
             {
@@ -23122,7 +23221,7 @@
             "stars": 8,
             "is_archived": false,
             "last_update": "2025-08-04T00:13:40.622Z",
-            "enriched_at": "2026-09-28T10:29:10.862143896Z"
+            "enriched_at": "2026-09-29T14:34:47.75672189Z"
           }
         },
         {
@@ -23166,7 +23265,7 @@
             "stars": 0,
             "is_archived": false,
             "last_update": "2024-04-03T12:14:13.867Z",
-            "enriched_at": "2026-09-28T10:29:11.122295343Z"
+            "enriched_at": "2026-09-29T14:34:48.165937071Z"
           }
         },
         {
@@ -26179,8 +26278,8 @@
           "repo_metadata": {
             "stars": 1098,
             "is_archived": false,
-            "last_update": "2026-09-28T08:39:43.554Z",
-            "enriched_at": "2026-09-28T10:29:11.677341339Z"
+            "last_update": "2026-09-29T14:26:43.709Z",
+            "enriched_at": "2026-09-29T14:34:48.908473022Z"
           }
         },
         {
@@ -27886,7 +27985,7 @@
             "stars": 2,
             "is_archived": false,
             "last_update": "2021-07-24T03:14:20.469Z",
-            "enriched_at": "2026-09-28T10:29:12.241078785Z"
+            "enriched_at": "2026-09-29T14:34:49.533326942Z"
           }
         },
         {
@@ -28480,7 +28579,7 @@
             "stars": 11,
             "is_archived": false,
             "last_update": "2019-08-01T21:17:51.965Z",
-            "enriched_at": "2026-09-28T10:29:12.927913785Z"
+            "enriched_at": "2026-09-29T14:34:50.13834054Z"
           }
         },
         {
