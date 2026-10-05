@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "updated_at": "2026-10-05T08:16:21.153900361Z",
+    "updated_at": "2026-10-05T19:02:02.777897941Z",
     "provider_metrics": [
-      {
-        "provider": "GitHub",
-        "attempted": 2698,
-        "successful": 2681,
-        "failed": 15
-      },
       {
         "provider": "GitLab",
         "attempted": 16,
         "successful": 0,
         "failed": 16
+      },
+      {
+        "provider": "GitHub",
+        "attempted": 15,
+        "successful": 0,
+        "failed": 15
       }
     ],
     "failed_links": {
@@ -9367,10 +9367,10 @@
           "description": "Go client for the CoinPaprika cryptocurrency market data API.",
           "url": "https://github.com/coinpaprika/coinpaprika-api-go-client",
           "repo_metadata": {
-            "stars": 28,
+            "stars": 30,
             "is_archived": false,
             "last_update": "2026-09-01T10:03:06Z",
-            "enriched_at": "2026-10-04T07:45:02.577223899Z"
+            "enriched_at": "2026-10-05T08:15:33.498814647Z"
           }
         },
         {
@@ -20170,10 +20170,10 @@
           "description": "lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.",
           "url": "https://github.com/starwalkn/kono",
           "repo_metadata": {
-            "stars": 23,
+            "stars": 24,
             "is_archived": false,
             "last_update": "2026-10-03T17:56:21Z",
-            "enriched_at": "2026-10-04T07:44:51.262887288Z"
+            "enriched_at": "2026-10-05T08:15:20.592906224Z"
           }
         },
         {
