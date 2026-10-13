@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "updated_at": "2026-10-13T01:50:09.700818813Z",
+    "updated_at": "2026-10-13T08:53:21.287060449Z",
     "provider_metrics": [
       {
         "provider": "GitLab",
@@ -10,8 +10,8 @@
       },
       {
         "provider": "GitHub",
-        "attempted": 2698,
-        "successful": 2679,
+        "attempted": 17,
+        "successful": 0,
         "failed": 17
       }
     ],
@@ -9369,10 +9369,10 @@
           "description": "Go client for the CoinPaprika cryptocurrency market data API.",
           "url": "https://github.com/coinpaprika/coinpaprika-api-go-client",
           "repo_metadata": {
-            "stars": 37,
+            "stars": 38,
             "is_archived": false,
             "last_update": "2026-09-01T10:03:06Z",
-            "enriched_at": "2026-10-11T21:27:23.302680937Z"
+            "enriched_at": "2026-10-13T01:49:21.854788681Z"
           }
         },
         {
@@ -20175,7 +20175,7 @@
             "stars": 24,
             "is_archived": false,
             "last_update": "2026-10-03T17:56:21Z",
-            "enriched_at": "2026-10-11T21:27:09.721925151Z"
+            "enriched_at": "2026-10-13T01:49:08.210293349Z"
           }
         },
         {
