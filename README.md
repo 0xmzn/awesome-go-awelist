@@ -871,14 +871,14 @@ _Embedding other languages inside your go code._
 - [cel-go](https://github.com/google/cel-go) ⭐ 5 - Updated Sep 2026: Fast, portable, non-Turing complete expression evaluation with gradual typing.
 - [ecal](https://github.com/krotik/ecal) ⭐ 46 - Updated May 2021: A simple embeddable scripting language which supports concurrent event processing.
 - [expr](https://github.com/antonmedv/expr) ⭐ 8054 - Updated Jul 2026: Expression evaluation engine for Go: fast, non-Turing complete, dynamic typing, static typing.
-- [FrankenPHP](https://github.com/dunglas/frankenphp) ⭐ 11455 - Updated Oct 2026: PHP embedded in Go, with a net/http handler.
+- [FrankenPHP](https://github.com/dunglas/frankenphp) ⭐ 11459 - Updated Oct 2026: PHP embedded in Go, with a net/http handler.
 - [gentee](https://github.com/gentee/gentee) ⭐ 146 - Updated Aug 2026: Embeddable scripting programming language.
 - [gisp](https://github.com/jcla1/gisp) ⭐ 531 - Updated Jun 2014: Simple LISP in Go.
 - [go-lua](https://github.com/Shopify/go-lua) ⭐ 3460 - Updated Oct 2026: Port of the Lua 5.2 VM to pure Go.
 - [go-lua](https://github.com/speedata/go-lua) ⭐ 9 - Updated May 2026: Lua 5.4 VM implemented in pure Go.
 - [go-php](https://github.com/deuill/go-php) ⭐ 941 - Updated Oct 2018: PHP bindings for Go.
 - [goal](https://codeberg.org/anaseto/goal): An embeddable scripting array language.
-- [goja](https://github.com/dop251/goja) ⭐ 7159 - Updated Oct 2026: ECMAScript 5.1(+) implementation in Go.
+- [goja](https://github.com/dop251/goja) ⭐ 7166 - Updated Oct 2026: ECMAScript 5.1(+) implementation in Go.
 - [golua](https://github.com/aarzilli/golua) ⭐ 702 - Updated Oct 2026: Go bindings for Lua C API.
 - [gopher-lua](https://github.com/yuin/gopher-lua) ⭐ 6993 - Updated Apr 2026: Lua 5.1 VM and compiler written in Go.
 - [gval](https://github.com/PaesslerAG/gval) ⭐ 817 - Updated Sep 2026: A highly customizable expression language written in Go.
@@ -886,10 +886,10 @@ _Embedding other languages inside your go code._
 - [ngaro](https://github.com/db47h/ngaro) ⭐ 30 - Updated Jun 2018: Embeddable Ngaro VM implementation enabling scripting in Retro.
 - [prolog](https://github.com/ichiban/prolog) ⭐ 734 - Updated Oct 2024: Embeddable Prolog.
 - [purl](https://github.com/ian-kent/purl) ⭐ 41 - Updated Dec 2014: Perl 5.18.2 embedded in Go.
-- [starlark-go](https://github.com/google/starlark-go) ⭐ 2783 - Updated Oct 2026: Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution.
+- [starlark-go](https://github.com/google/starlark-go) ⭐ 2784 - Updated Oct 2026: Go implementation of Starlark: Python-like language with deterministic evaluation and hermetic execution.
 - [starlet](https://github.com/1set/starlet) ⭐ 51 - Updated Sep 2026: Go wrapper for starlark-go that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions.
 - [tengo](https://github.com/d5/tengo) ⭐ 3842 - Updated Oct 2026: Bytecode compiled script language for Go.
-- [Wa/凹语言](https://github.com/wa-lang/wa) ⭐ 1771 - Updated Apr 2026: The Wa Programming Language embedded in Go.
+- [Wa/凹语言](https://github.com/wa-lang/wa) ⭐ 1772 - Updated Apr 2026: The Wa Programming Language embedded in Go.
 
 ---
 ## Error Handling
@@ -911,7 +911,7 @@ _Libraries for handling errors._
 - [Fault](https://github.com/Southclaws/fault) ⭐ 307 - Updated Jun 2025: An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.
 - [go-multierror](https://github.com/hashicorp/go-multierror) ⭐ 2590 - Updated Oct 2026: Go (golang) package for representing a list of errors as a single error.
 - [metaerr](https://github.com/quantumcycle/metaerr) ⭐ 6 - Updated Jun 2026: A library to create your custom error builders producing structured errors with metadata from different sources and optional stacktraces.
-- [multierr](https://github.com/uber-go/multierr) ⭐ 1208 - Updated Apr 2024: Package for representing a list of errors as a single error.
+- [multierr](https://github.com/uber-go/multierr) ⭐ 1210 - Updated Apr 2024: Package for representing a list of errors as a single error.
 - [oops](https://github.com/samber/oops) ⭐ 995 - Updated Oct 2026: Error handling with context, stack trace and source fragments.
 - [tracerr](https://github.com/ztrue/tracerr) ⭐ 1126 - Updated Apr 2026: Golang errors with stack trace and source fragments.
 
@@ -919,14 +919,14 @@ _Libraries for handling errors._
 ## File Handling
 _Libraries for handling files and file systems._
 
-- [afero](https://github.com/spf13/afero) ⭐ 6714 - Updated Oct 2026: FileSystem Abstraction System for Go.
+- [afero](https://github.com/spf13/afero) ⭐ 6715 - Updated Oct 2026: FileSystem Abstraction System for Go.
 - [afs](https://github.com/viant/afs) ⭐ 408 - Updated Oct 2026: Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go.
 - [baraka](https://github.com/xis/baraka) ⭐ 65 - Updated Sep 2022: A library to process http file uploads easily.
 - [checksum](https://github.com/codingsince1985/checksum) ⭐ 112 - Updated Feb 2023: Compute message digest, like MD5, SHA256, SHA1, CRC or BLAKE2s, for large files.
 - [copy](https://github.com/otiai10/copy) ⭐ 773 - Updated Jan 2025: Copy directory recursively.
 - [fastwalk](https://github.com/charlievieth/fastwalk) ⭐ 145 - Updated Aug 2026: Fast parallel directory traversal library (used by fzf).
 - [flop](https://github.com/homedepot/flop) ⭐ 35 - Updated Dec 2021: File operations library which aims to mirror feature parity with GNU cp.
-- [gdu](https://github.com/dundee/gdu) ⭐ 6145 - Updated Oct 2026: Disk usage analyzer with console interface.
+- [gdu](https://github.com/dundee/gdu) ⭐ 6151 - Updated Oct 2026: Disk usage analyzer with console interface.
 - [go-csv-tag](https://github.com/artonge/go-csv-tag) ⭐ 131 - Updated Jun 2025: Load csv file using tag.
 - [go-decent-copy](https://github.com/hugocarreira/go-decent-copy) ⭐ 22 - Updated Jan 2020: Copy files for humans.
 - [go-exiftool](https://github.com/barasher/go-exiftool) ⭐ 298 - Updated Aug 2025: Go bindings for ExifTool, the well-known library used to extract as much metadata as possible (EXIF, IPTC, ...) from files (pictures, PDF, office, ...).
@@ -938,11 +938,11 @@ _Libraries for handling files and file systems._
 - [gxpdf](https://github.com/coregx/gxpdf) ⭐ 53 - Updated Oct 2026: Modern full-lifecycle PDF library for Go — parse, extract tables, generate, and sign documents with zero CGO dependencies.
 - [higgs](https://github.com/dastoori/higgs) ⭐ 25 - Updated Jan 2022: A tiny cross-platform Go library to hide/unhide files and directories.
 - [iso9660](https://github.com/kdomanski/iso9660) ⭐ 287 - Updated Dec 2023: A package for reading and creating ISO9660 disk images
-- [notify](https://github.com/rjeczalik/notify) ⭐ 936 - Updated Jun 2026: File system event notification library with simple API, similar to os/signal.
+- [notify](https://github.com/rjeczalik/notify) ⭐ 935 - Updated Jun 2026: File system event notification library with simple API, similar to os/signal.
 - [opc](https://github.com/qmuntal/opc) ⭐ 80 - Updated Dec 2023: Load Open Packaging Conventions (OPC) files for Go.
 - [parquet](https://github.com/parsyl/parquet) ⭐ 127 - Updated Apr 2025: Read and write parquet files.
 - [pathtype](https://github.com/jonchun/pathtype) ⭐ 14 - Updated Aug 2021: Treat paths as their own type instead of using strings.
-- [pdfcpu](https://github.com/pdfcpu/pdfcpu) ⭐ 8880 - Updated Oct 2026: PDF processor.
+- [pdfcpu](https://github.com/pdfcpu/pdfcpu) ⭐ 8882 - Updated Oct 2026: PDF processor.
 - [skywalker](https://github.com/dixonwille/skywalker) ⭐ 101 - Updated Aug 2021: Package to allow one to concurrently go through a filesystem with ease.
 - [todotxt](https://github.com/1set/todotxt) ⭐ 25 - Updated Oct 2022: Go library for Gina Trapani's _todo.txt_ files, supports parsing and manipulating of task lists in the _todo.txt_ format.
 - [vfs](https://github.com/C2FO/vfs) ⭐ 371 - Updated Oct 2026: A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS.
@@ -962,14 +962,14 @@ _Packages for accounting and finance._
 - [decimal](https://github.com/govalues/decimal) ⭐ 251 - Updated Jan 2025: Immutable decimal numbers with panic-free arithmetic.
 - [fpdecimal](https://github.com/nikolaydubina/fpdecimal) ⭐ 34 - Updated Aug 2026: Fast and precise serialization and arithmetic for small fixed-point decimals
 - [fpmoney](https://github.com/nikolaydubina/fpmoney) ⭐ 36 - Updated Aug 2026: Fast and simple ISO4217 fixed-point decimal money.
-- [go-finance](https://github.com/alpeb/go-finance) ⭐ 193 - Updated Oct 2026: Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
+- [go-finance](https://github.com/alpeb/go-finance) ⭐ 194 - Updated Oct 2026: Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 - [go-finance](https://github.com/pieterclaerhout/go-finance) ⭐ 32 - Updated Aug 2026: Module to fetch exchange rates, check VAT numbers via VIES and check IBAN bank account numbers.
 - [go-money](https://github.com/rhymond/go-money) ⭐ 1913 - Updated Apr 2025: Implementation of Fowler's Money pattern.
 - [coinpaprika-api-go-client](https://github.com/coinpaprika/coinpaprika-api-go-client) ⭐ 51 - Updated Oct 2026: Go client for the CoinPaprika cryptocurrency market data API.
 - [go-nowpayments](https://github.com/matm/go-nowpayments) ⭐ 5 - Updated Jan 2023: Library for the crypto NOWPayments API.
 - [gobl](https://github.com/invopop/gobl) ⭐ 316 - Updated Oct 2026: Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats.
-- [indicator](https://github.com/cinar/indicator) ⭐ 1898 - Updated Sep 2026: Technical analysis library providing financial indicators, strategies, and backtesting framework.
-- [ledger](https://github.com/formancehq/ledger) ⭐ 1447 - Updated Oct 2026: A programmable financial ledger that provides a foundation for money-moving applications.
+- [indicator](https://github.com/cinar/indicator) ⭐ 1905 - Updated Sep 2026: Technical analysis library providing financial indicators, strategies, and backtesting framework.
+- [ledger](https://github.com/formancehq/ledger) ⭐ 1448 - Updated Oct 2026: A programmable financial ledger that provides a foundation for money-moving applications.
 - [money](https://github.com/govalues/money) ⭐ 57 - Updated Jan 2025: Immutable monetary amounts and exchange rates with panic-free arithmetic.
 - [ofxgo](https://github.com/aclindsa/ofxgo) ⭐ 152 - Updated Feb 2026: Query OFX servers and/or parse the responses (with example command-line client).
 - [orderbook](https://github.com/i25959341/orderbook) ⭐ 557 - Updated Apr 2025: Matching Engine for Limit Order Book in Golang.
@@ -1028,16 +1028,16 @@ _Awesome game development libraries._
 - [go-astar](https://github.com/beefsack/go-astar) ⭐ 630 - Updated Aug 2020: Go implementation of the A\* path finding algorithm.
 - [go-sdl2](https://github.com/veandco/go-sdl2) ⭐ 2325 - Updated Feb 2025: Go bindings for the Simple DirectMedia Layer.
 - [go3d](https://github.com/ungerik/go3d) ⭐ 344 - Updated Oct 2025: Performance oriented 2D/3D math package for Go.
-- [gogpu](https://github.com/gogpu/gogpu) ⭐ 415 - Updated Sep 2026: GPU application framework with windowing, input, and rendering built on WebGPU — reduces 480+ lines of GPU code to ~20, zero CGO (GoGPU ecosystem: gg, ui, wgpu, naga).
+- [gogpu](https://github.com/gogpu/gogpu) ⭐ 420 - Updated Sep 2026: GPU application framework with windowing, input, and rendering built on WebGPU — reduces 480+ lines of GPU code to ~20, zero CGO (GoGPU ecosystem: gg, ui, wgpu, naga).
 - [gogpu/wgpu](https://github.com/gogpu/wgpu) ⭐ 192 - Updated Oct 2026: Pure Go WebGPU implementation with Vulkan, DX12, and Metal backends, zero CGO (part of GoGPU ecosystem).
 - [GOKe](https://github.com/kjkrol/goke) ⭐ 94 - Updated Oct 2026: Data-Oriented (DOD), archetype-based ECS engine utilizing an L1 cache-aligned chunked SoA layout for predictable, stepless memory growth and zero-allocation execution paths.
-- [gonet](https://github.com/xtaci/gonet) ⭐ 1285 - Updated Jul 2024 - ⚠️ Archived: Game server skeleton implemented with golang.
+- [gonet](https://github.com/xtaci/gonet) ⭐ 1284 - Updated Jul 2024 - ⚠️ Archived: Game server skeleton implemented with golang.
 - [goworld](https://github.com/xiaonanln/goworld) ⭐ 2719 - Updated Aug 2022: Scalable game server engine, featuring space-entity framework and hot-swapping.
 - [grid](https://github.com/s0rg/grid) ⭐ 27 - Updated Dec 2025: Generic 2D grid with ray-casting, shadow-casting and path finding.
 - [Leaf](https://github.com/name5566/leaf) ⭐ 5509 - Updated Oct 2022: Lightweight game server framework.
-- [nano](https://github.com/lonng/nano) ⭐ 3228 - Updated Feb 2026: Lightweight, facility, high performance golang based game server framework.
+- [nano](https://github.com/lonng/nano) ⭐ 3227 - Updated Feb 2026: Lightweight, facility, high performance golang based game server framework.
 - [Oak](https://github.com/oakmound/oak) ⭐ 1665 - Updated Jul 2026: Pure Go game engine.
-- [Pi](https://github.com/elgopher/pi) ⭐ 72 - Updated Oct 2026: Game engine for creating retro games for modern computers. Inspired by Pico-8 and powered by Ebitengine.
+- [Pi](https://github.com/elgopher/pi) ⭐ 71 - Updated Oct 2026: Game engine for creating retro games for modern computers. Inspired by Pico-8 and powered by Ebitengine.
 - [Pitaya](https://github.com/topfreegames/pitaya) ⭐ 2835 - Updated Oct 2026: Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
 - [Pixel](https://github.com/gopxl/pixel) ⭐ 392 - Updated Mar 2025: Hand-crafted 2D game library in Go.
 - [prototype](https://github.com/gonutz/prototype) ⭐ 109 - Updated Aug 2025: Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API.
@@ -1057,11 +1057,11 @@ _Tools that generate Go code._
 - [go-apispec](https://github.com/antst/go-apispec) ⭐ 39 - Updated Jun 2026: Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection.
 - [go-linq](https://github.com/ahmetalpbalkan/go-linq) ⭐ 3781 - Updated Aug 2026: .NET LINQ-like query methods for Go.
 - [goderive](https://github.com/awalterschulze/goderive) ⭐ 1265 - Updated Oct 2026: Derives functions from input types
-- [goverter](https://github.com/jmattheis/goverter) ⭐ 889 - Updated Oct 2026: Generate converters by defining an interface.
+- [goverter](https://github.com/jmattheis/goverter) ⭐ 890 - Updated Oct 2026: Generate converters by defining an interface.
 - [GoWrap](https://github.com/hexdigest/gowrap) ⭐ 1339 - Updated Oct 2026: Generate decorators for Go interfaces using simple templates.
 - [interfaces](https://github.com/rjeczalik/interfaces) ⭐ 431 - Updated Jun 2025: Command line tool for generating interface definitions.
 - [jennifer](https://github.com/dave/jennifer) ⭐ 3633 - Updated Oct 2026: Generate arbitrary Go code without templates.
-- [oapi-codegen](https://github.com/deepmap/oapi-codegen) ⭐ 8628 - Updated Oct 2026: This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.
+- [oapi-codegen](https://github.com/deepmap/oapi-codegen) ⭐ 8630 - Updated Oct 2026: This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.
 - [protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) ⭐ 27 - Updated Apr 2026: Generate HTTP server and client from protobuf.
 - [typeregistry](https://github.com/xiaoxin01/typeregistry) ⭐ 23 - Updated Feb 2020: A library to create type dynamically.
 
@@ -1074,7 +1074,7 @@ _Geographic tools and servers_
 - [geoserver](https://github.com/hishamkaram/geoserver) ⭐ 94 - Updated Jul 2026: geoserver Is a Go Package For Manipulating a GeoServer Instance via the GeoServer REST API.
 - [gismanager](https://github.com/hishamkaram/gismanager) ⭐ 54 - Updated May 2026: Publish Your GIS Data(Vector Data) to PostGIS and Geoserver.
 - [godal](https://github.com/airbusgeo/godal) ⭐ 185 - Updated May 2026: Go wrapper for GDAL.
-- [H3](https://github.com/uber/h3-go) ⭐ 456 - Updated Oct 2026: Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
+- [H3](https://github.com/uber/h3-go) ⭐ 457 - Updated Oct 2026: Go bindings for H3, a hierarchical hexagonal geospatial indexing system.
 - [H3 GeoJSON](https://github.com/mmadfox/go-geojson2h3) ⭐ 7 - Updated May 2026: Conversion utilities between H3 indexes and GeoJSON.
 - [H3GeoDist](https://github.com/mmadfox/go-h3geo-dist) ⭐ 2 - Updated May 2022: Distribution of Uber H3geo cells by virtual nodes.
 - [mbtileserver](https://github.com/consbio/mbtileserver) ⭐ 794 - Updated May 2025: A simple Go-based server for map tiles stored in mbtiles format.
@@ -1103,7 +1103,7 @@ _Tools for compiling Go to other languages and vice-versa._
 _Tools for managing and working with Goroutines._
 
 - [anchor](https://github.com/kyuff/anchor) ⭐ 6 - Updated Sep 2026: Library to manage component lifecycle in microservice architectures.
-- [ants](https://github.com/panjf2000/ants) ⭐ 14526 - Updated Sep 2026: A high-performance and low-cost goroutine pool in Go.
+- [ants](https://github.com/panjf2000/ants) ⭐ 14524 - Updated Sep 2026: A high-performance and low-cost goroutine pool in Go.
 - [artifex](https://github.com/borderstech/artifex) ⭐ 214 - Updated Jul 2024: Simple in-memory job queue for Golang using worker-based dispatching.
 - [async](https://github.com/yaitoo/async) ⭐ 17 - Updated Mar 2024: An asynchronous task package with async/await style for Go.
 - [async](https://github.com/reugn/async) ⭐ 317 - Updated Jan 2026: An alternative sync library for Go (Future, Promise, Locks).
@@ -1127,9 +1127,9 @@ _Tools for managing and working with Goroutines._
 - [go-workerpool](https://github.com/zenthangplus/go-workerpool) ⭐ 13 - Updated Aug 2022: Inspired from Java Thread Pool, Go WorkerPool aims to control heavy Go Routines.
 - [goccm](https://github.com/zenthangplus/goccm) ⭐ 73 - Updated Jan 2023: Go Concurrency Manager package limits the number of goroutines that allowed to run concurrently.
 - [gohive](https://github.com/loveleshsharma/gohive) ⭐ 54 - Updated Nov 2023: A highly performant and easy to use Goroutine pool for Go.
-- [gollback](https://github.com/vardius/gollback) ⭐ 121 - Updated Feb 2023: asynchronous simple function utilities, for managing execution of closures and callbacks.
+- [gollback](https://github.com/vardius/gollback) ⭐ 121 - Updated Oct 2026: asynchronous simple function utilities, for managing execution of closures and callbacks.
 - [gowl](https://github.com/hamed-yousefi/gowl) ⭐ 73 - Updated Oct 2026: Gowl is a process management and process monitoring tool at once. An infinite worker pool gives you the ability to control the pool and processes and monitor their status.
-- [goworker](https://github.com/benmanns/goworker) ⭐ 2847 - Updated Apr 2025: goworker is a Go-based background worker.
+- [goworker](https://github.com/benmanns/goworker) ⭐ 2846 - Updated Apr 2025: goworker is a Go-based background worker.
 - [gowp](https://github.com/xxjwxc/gowp) ⭐ 517 - Updated Sep 2024: gowp is concurrency limiting goroutine pool.
 - [gpool](https://github.com/Sherifabdlnaby/gpool) ⭐ 89 - Updated Jul 2026: manages a resizeable pool of context-aware goroutines to bound concurrency.
 - [grpool](https://github.com/ivpusic/grpool) ⭐ 731 - Updated Aug 2017: Lightweight Goroutine pool.
@@ -1140,7 +1140,7 @@ _Tools for managing and working with Goroutines._
 - [nursery](https://github.com/arunsworld/nursery) ⭐ 71 - Updated Jul 2021: Structured concurrency in Go.
 - [oversight](https://pkg.go.dev/cirello.io/oversight): Oversight is a complete implementation of the Erlang supervision trees.
 - [parallel-fn](https://github.com/rafaeljesus/parallel-fn) ⭐ 37 - Updated Jan 2018: Run functions in parallel.
-- [pond](https://github.com/alitto/pond) ⭐ 2200 - Updated Oct 2026: Minimalistic and High-performance goroutine worker pool written in Go.
+- [pond](https://github.com/alitto/pond) ⭐ 2199 - Updated Oct 2026: Minimalistic and High-performance goroutine worker pool written in Go.
 - [pool](https://github.com/go-playground/pool) ⭐ 721 - Updated Aug 2016: Limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation.
 - [rill](https://github.com/destel/rill) ⭐ 1892 - Updated Sep 2026: Go toolkit for clean, composable, channel-based concurrency.
 - [routine](https://github.com/timandy/routine) ⭐ 291 - Updated May 2026: routine is a ThreadLocal for go library. It encapsulates and provides some easy-to-use, non-competitive, high-performance goroutine context access interfaces, which can help you access coroutine context information more gracefully.
@@ -1150,7 +1150,7 @@ _Tools for managing and working with Goroutines._
 - [stl](https://github.com/ssgreg/stl) ⭐ 30 - Updated Oct 2019: Software transactional locks based on Software Transactional Memory (STM) concurrency control mechanism.
 - [threadpool](https://github.com/shettyh/threadpool) ⭐ 103 - Updated Mar 2020: Golang threadpool implementation.
 - [tunny](https://github.com/Jeffail/tunny) ⭐ 4021 - Updated Jul 2021: Goroutine pool for golang.
-- [worker-pool](https://github.com/vardius/worker-pool) ⭐ 93 - Updated Jan 2021: goworker is a Go simple async worker pool.
+- [worker-pool](https://github.com/vardius/worker-pool) ⭐ 93 - Updated Oct 2026: goworker is a Go simple async worker pool.
 - [workerpool](https://github.com/gammazero/workerpool) ⭐ 1459 - Updated Oct 2026: Goroutine pool that limits the concurrency of task execution, not the number of tasks queued.
 - [autopool](https://github.com/AshvinBambhaniya/autopool) ⭐ 6 - Updated Jul 2026: Zero-config, auto-scaling worker pool for Go with priority-aware scheduling.
 
@@ -1161,31 +1161,31 @@ _Libraries for building GUI Applications._
 - [app](https://github.com/murlokswarm/app) ⭐ 8972 - Updated Oct 2026: Package to create apps with GO, HTML and CSS. Supports: MacOS, Windows in progress.
 - [cimgui-go](https://github.com/AllenDang/cimgui-go) ⭐ 544 - Updated Oct 2026: Auto generated Go wrapper for Dear ImGui via cimgui.
 - [Cogent Core](https://github.com/cogentcore/core) ⭐ 2352 - Updated Oct 2026: A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.
-- [DarwinKit](https://github.com/progrium/darwinkit) ⭐ 5439 - Updated Jul 2024: Build native macOS applications using Go.
+- [DarwinKit](https://github.com/progrium/darwinkit) ⭐ 5440 - Updated Jul 2024: Build native macOS applications using Go.
 - [energy](https://github.com/energye/energy) ⭐ 618 - Updated Jun 2026: Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Linux)
-- [fyne](https://github.com/fyne-io/fyne) ⭐ 28769 - Updated Oct 2026: Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android.
+- [fyne](https://github.com/fyne-io/fyne) ⭐ 28772 - Updated Oct 2026: Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Android.
 - [gio](https://gioui.org): Gio is a library for writing cross-platform immediate mode GUI-s in Go. Gio supports all the major platforms: Linux, macOS, Windows, Android, iOS, FreeBSD, OpenBSD and WebAssembly.
 - [go-gtk](https://mattn.github.io/go-gtk/): Go bindings for GTK.
 - [go-sciter](https://github.com/sciter-sdk/go-sciter) ⭐ 2613 - Updated Apr 2022: Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform.
 - [Goey](https://bitbucket.org/rj/goey/src/master/): Cross platform UI toolkit aggregator for Windows / Linux / Mac. GTK, Cocoa, Windows API
-- [gogpu/ui](https://github.com/gogpu/ui) ⭐ 486 - Updated Aug 2026: GPU-accelerated GUI toolkit with 22 widgets, 3 design systems (Material, Fluent, Cupertino), reactive signals, and zero CGO (part of GoGPU ecosystem).
+- [gogpu/ui](https://github.com/gogpu/ui) ⭐ 489 - Updated Aug 2026: GPU-accelerated GUI toolkit with 22 widgets, 3 design systems (Material, Fluent, Cupertino), reactive signals, and zero CGO (part of GoGPU ecosystem).
 - [goradd/html5tag](https://github.com/goradd/html5tag) ⭐ 14 - Updated Dec 2023: Library for outputting HTML5 tags.
 - [gotk3](https://github.com/gotk3/gotk3) ⭐ 2212 - Updated Nov 2025: Go bindings for GTK3.
 - [gowd](https://github.com/dtylman/gowd) ⭐ 435 - Updated Aug 2022: Rapid and simple desktop UI development with GO, HTML, CSS and NW.js. Cross platform.
 - [proton](https://github.com/CzaxStudio/proton) ⭐ 54 - Updated Sep 2026: Pure Go immediate-mode GUI framework built on Gio with zero Cgo dependencies.
-- [qt](https://github.com/therecipe/qt) ⭐ 10804 - Updated Sep 2020: Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi).
+- [qt](https://github.com/therecipe/qt) ⭐ 10805 - Updated Sep 2020: Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi).
 - [Spot](https://github.com/roblillack/spot) ⭐ 1252 - Updated Dec 2024: Reactive, cross-platform desktop GUI toolkit.
 - [ui](https://github.com/andlabs/ui) ⭐ 8354 - Updated Jun 2020: Platform-native GUI library for Go. Cross platform.
 - [unison](https://github.com/richardwilkes/unison) ⭐ 343 - Updated Oct 2026: A unified graphical user experience toolkit for Go desktop applications. macOS, Windows, and Linux are supported.
 - [Wails](https://wails.io): Mac, Windows, Linux desktop apps with HTML UI using built-in OS HTML renderer.
-- [walk](https://github.com/lxn/walk) ⭐ 7103 - Updated Jan 2021: Windows application library kit for Go.
-- [webview](https://github.com/zserge/webview) ⭐ 14304 - Updated Oct 2026: Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux).
+- [walk](https://github.com/lxn/walk) ⭐ 7102 - Updated Jan 2021: Windows application library kit for Go.
+- [webview](https://github.com/zserge/webview) ⭐ 14308 - Updated Oct 2026: Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux).
 - [AppIndicator Go](https://github.com/gopherlibs/appindicator) ⭐ 5 - Updated Feb 2025: Go bindings for libappindicator3 C library.
 - [gogpu/systray](https://github.com/gogpu/systray) ⭐ 81 - Updated Aug 2026: Pure Go system tray library for Windows, macOS, and Linux with zero CGO (part of GoGPU ecosystem).
 - [gosx-notifier](https://github.com/deckarep/gosx-notifier) ⭐ 590 - Updated Feb 2018: OSX Desktop Notifications library for Go.
 - [mac-activity-tracker](https://github.com/prashantgupta24/activity-tracker) ⭐ 33 - Updated Oct 2023: OSX library to notify about any (pluggable) activity on your machine.
 - [mac-sleep-notifier](https://github.com/prashantgupta24/mac-sleep-notifier) ⭐ 41 - Updated Jun 2019: OSX Sleep/Wake notifications in golang.
-- [robotgo](https://github.com/go-vgo/robotgo) ⭐ 10878 - Updated Oct 2026: Go Native cross-platform GUI system automation. Control the mouse, keyboard and other.
+- [robotgo](https://github.com/go-vgo/robotgo) ⭐ 10881 - Updated Oct 2026: Go Native cross-platform GUI system automation. Control the mouse, keyboard and other.
 - [systray](https://github.com/getlantern/systray) ⭐ 3731 - Updated Nov 2023: Cross platform Go library to place an icon and menu in the notification area.
 - [trayhost](https://github.com/shurcooL/trayhost) ⭐ 261 - Updated Jul 2023: Cross-platform Go library to place an icon in the host operating system's taskbar.
 - [zenity](https://github.com/ncruces/zenity) ⭐ 929 - Updated Aug 2026: Cross-platform Go library and CLI to create simple dialogs that interact graphically with the user.
@@ -1194,7 +1194,7 @@ _Libraries for building GUI Applications._
 ## Hardware
 _Libraries, tools, and tutorials for interacting with hardware._
 
-- [arduino-cli](https://github.com/arduino/arduino-cli) ⭐ 5069 - Updated Oct 2026: Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects.
+- [arduino-cli](https://github.com/arduino/arduino-cli) ⭐ 5071 - Updated Oct 2026: Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects.
 - [emgo](https://github.com/ziutek/emgo) ⭐ 1097 - Updated Dec 2021: Go-like language for programming embedded systems (e.g. STM32 MCU).
 - [ghw](https://github.com/jaypipes/ghw) ⭐ 1879 - Updated Oct 2026: Golang hardware discovery/inspection library.
 - [go-osc](https://github.com/hypebeast/go-osc) ⭐ 234 - Updated Mar 2022: Open Sound Control (OSC) bindings for Go.
@@ -1202,21 +1202,21 @@ _Libraries, tools, and tutorials for interacting with hardware._
 - [goroslib](https://github.com/aler9/goroslib) ⭐ 366 - Updated Jun 2025 - ⚠️ Archived: Robot Operating System (ROS) library for Go.
 - [joystick](https://github.com/0xcafed00d/joystick) ⭐ 78 - Updated Oct 2026: a polled API to read the state of an attached joystick.
 - [moody](https://github.com/dinakars777/moody) ⭐ 5 - Updated May 2026: Hardware event personality daemon for macOS. Monitors USB, charger, lid, and other hardware events and responds with customizable personalities.
-- [sysinfo](https://github.com/zcalusic/sysinfo) ⭐ 580 - Updated Dec 2024: A pure Go library providing Linux OS / kernel / hardware system information.
+- [sysinfo](https://github.com/zcalusic/sysinfo) ⭐ 580 - Updated Oct 2026: A pure Go library providing Linux OS / kernel / hardware system information.
 
 ---
 ## Images
 _Libraries for manipulating images._
 
-- [bild](https://github.com/anthonynsimon/bild) ⭐ 4219 - Updated Sep 2026: Collection of image processing algorithms in pure Go.
-- [bimg](https://github.com/h2non/bimg) ⭐ 3039 - Updated Mar 2024: Small package for fast and efficient image processing using libvips.
+- [bild](https://github.com/anthonynsimon/bild) ⭐ 4218 - Updated Sep 2026: Collection of image processing algorithms in pure Go.
+- [bimg](https://github.com/h2non/bimg) ⭐ 3040 - Updated Mar 2024: Small package for fast and efficient image processing using libvips.
 - [cameron](https://github.com/aofei/cameron) ⭐ 131 - Updated Jul 2026: An avatar generator for Go.
-- [canvas](https://github.com/tdewolff/canvas) ⭐ 1845 - Updated Sep 2026: Vector graphics to PDF, SVG or rasterized image.
+- [canvas](https://github.com/tdewolff/canvas) ⭐ 1846 - Updated Sep 2026: Vector graphics to PDF, SVG or rasterized image.
 - [color-extractor](https://github.com/marekm4/color-extractor) ⭐ 131 - Updated Jul 2023: Dominant color extractor with no external dependencies.
 - [darkroom](https://github.com/gojek/darkroom) ⭐ 235 - Updated Oct 2023: An image proxy with changeable storage backends and image processing engines with focus on speed and resiliency.
 - [geopattern](https://github.com/pravj/geopattern) ⭐ 1286 - Updated May 2017: Create beautiful generative image patterns from a string.
-- [gg](https://github.com/fogleman/gg) ⭐ 4794 - Updated Sep 2021: 2D rendering in pure Go.
-- [gift](https://github.com/disintegration/gift) ⭐ 1797 - Updated Nov 2020: Package of image processing filters.
+- [gg](https://github.com/fogleman/gg) ⭐ 4795 - Updated Sep 2021: 2D rendering in pure Go.
+- [gift](https://github.com/disintegration/gift) ⭐ 1798 - Updated Nov 2020: Package of image processing filters.
 - [gltf](https://github.com/qmuntal/gltf) ⭐ 288 - Updated Aug 2026: Efficient and robust glTF 2.0 reader, writer and validator.
 - [go-cairo](https://github.com/ungerik/go-cairo) ⭐ 152 - Updated Apr 2026: Go binding for the cairo graphics library.
 - [go-gd](https://github.com/bolknote/go-gd) ⭐ 60 - Updated May 2026: Go binding for GD library.
@@ -1228,17 +1228,17 @@ _Libraries for manipulating images._
 - [gogpu/gg](https://github.com/gogpu/gg) ⭐ 167 - Updated Sep 2026: GPU-accelerated 2D rendering with Canvas-like API, zero CGO (part of GoGPU pure Go graphics ecosystem).
 - [goimagehash](https://github.com/corona10/goimagehash) ⭐ 843 - Updated Jan 2024: Go Perceptual image hashing package.
 - [goimghdr](https://github.com/corona10/goimghdr) ⭐ 40 - Updated Jun 2019: The imghdr module determines the type of image contained in a file for Go.
-- [govatar](https://github.com/o1egl/govatar) ⭐ 606 - Updated Jul 2022: Library and CMD tool for generating funny avatars.
-- [govips](https://github.com/davidbyttow/govips) ⭐ 1678 - Updated Oct 2026: A lightning fast image processing and resizing library for Go.
-- [gowitness](https://github.com/sensepost/gowitness) ⭐ 4547 - Updated Oct 2026: Screenshoting webpages using go and headless chrome on command line.
+- [govatar](https://github.com/o1egl/govatar) ⭐ 607 - Updated Jul 2022: Library and CMD tool for generating funny avatars.
+- [govips](https://github.com/davidbyttow/govips) ⭐ 1681 - Updated Oct 2026: A lightning fast image processing and resizing library for Go.
+- [gowitness](https://github.com/sensepost/gowitness) ⭐ 4548 - Updated Oct 2026: Screenshoting webpages using go and headless chrome on command line.
 - [gridder](https://github.com/shomali11/gridder) ⭐ 81 - Updated Sep 2021: A Grid based 2D Graphics library.
-- [image2ascii](https://github.com/qeesung/image2ascii) ⭐ 979 - Updated Jul 2022: Convert image to ASCII.
+- [image2ascii](https://github.com/qeesung/image2ascii) ⭐ 980 - Updated Jul 2022: Convert image to ASCII.
 - [imagick](https://github.com/gographics/imagick) ⭐ 1876 - Updated Feb 2026: Go binding to ImageMagick's MagickWand C API.
-- [imaginary](https://github.com/h2non/imaginary) ⭐ 6085 - Updated Nov 2025: Fast and simple HTTP microservice for image resizing.
-- [imaging](https://github.com/disintegration/imaging) ⭐ 5766 - Updated Dec 2020: Simple Go image processing package.
-- [imagor](https://github.com/cshum/imagor) ⭐ 4045 - Updated Oct 2026: Fast, secure image processing server and Go library, using libvips.
+- [imaginary](https://github.com/h2non/imaginary) ⭐ 6086 - Updated Nov 2025: Fast and simple HTTP microservice for image resizing.
+- [imaging](https://github.com/disintegration/imaging) ⭐ 5767 - Updated Dec 2020: Simple Go image processing package.
+- [imagor](https://github.com/cshum/imagor) ⭐ 4047 - Updated Oct 2026: Fast, secure image processing server and Go library, using libvips.
 - [img](https://github.com/hawx/img) ⭐ 158 - Updated May 2015: Selection of image manipulation tools.
-- [ln](https://github.com/fogleman/ln) ⭐ 3487 - Updated Feb 2017: 3D line art rendering in Go.
+- [ln](https://github.com/fogleman/ln) ⭐ 3490 - Updated Feb 2017: 3D line art rendering in Go.
 - [mergi](https://github.com/noelyahan/mergi) ⭐ 244 - Updated Nov 2024: Tool & Go library for image manipulation (Merge, Crop, Resize, Watermark, Animate).
 - [mort](https://github.com/aldor007/mort) ⭐ 523 - Updated Dec 2025: Storage and image processing server written in Go.
 - [mpo](https://github.com/donatj/mpo) ⭐ 28 - Updated Oct 2026: Decoder and conversion tool for MPO 3D Photos.
@@ -1259,17 +1259,17 @@ _Libraries for programming devices of the IoT._
 
 - [connectordb](https://github.com/connectordb/connectordb) ⭐ 423 - Updated Jun 2022: Open-Source Platform for Quantified Self & IoT.
 - [devices](https://github.com/goiot/devices) ⭐ 265 - Updated Jul 2016: Suite of libraries for IoT devices, experimental for x/exp/io.
-- [ekuiper](https://github.com/lf-edge/ekuiper) ⭐ 1742 - Updated Oct 2026: Lightweight data stream processing engine for IoT edge.
+- [ekuiper](https://github.com/lf-edge/ekuiper) ⭐ 1743 - Updated Oct 2026: Lightweight data stream processing engine for IoT edge.
 - [eywa](https://github.com/xcodersun/eywa) ⭐ 66 - Updated Apr 2017: Project Eywa is essentially a connection manager that keeps track of connected devices.
-- [flogo](https://github.com/tibcosoftware/flogo) ⭐ 2488 - Updated Apr 2024: Project Flogo is an Open Source Framework for IoT Edge Apps & Integration.
+- [flogo](https://github.com/tibcosoftware/flogo) ⭐ 2487 - Updated Apr 2024: Project Flogo is an Open Source Framework for IoT Edge Apps & Integration.
 - [gatt](https://github.com/paypal/gatt) ⭐ 1164 - Updated Oct 2015: Gatt is a Go package for building Bluetooth Low Energy peripherals.
-- [gobot](https://github.com/hybridgroup/gobot/) ⭐ 9481 - Updated Oct 2025: Gobot is a framework for robotics, physical computing, and the Internet of Things.
+- [gobot](https://github.com/hybridgroup/gobot/) ⭐ 9482 - Updated Oct 2025: Gobot is a framework for robotics, physical computing, and the Internet of Things.
 - [huego](https://github.com/amimof/huego) ⭐ 263 - Updated Jun 2023: An extensive Philips Hue client library for Go.
 - [iot](https://github.com/vaelen/iot/) ⭐ 68 - Updated Nov 2019: IoT is a simple framework for implementing a Google IoT Core device.
 - [periph](https://periph.io/): Peripherals I/O to interface with low-level board facilities.
-- [rulego](https://github.com/rulego/rulego) ⭐ 1627 - Updated Oct 2026: RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge.
+- [rulego](https://github.com/rulego/rulego) ⭐ 1628 - Updated Oct 2026: RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge.
 - [sensorbee](https://github.com/sensorbee/sensorbee) ⭐ 231 - Updated Nov 2019: Lightweight stream processing engine for IoT.
-- [shifu](https://github.com/Edgenesis/shifu) ⭐ 1437 - Updated Oct 2026: Kubernetes native IoT development framework.
+- [shifu](https://github.com/Edgenesis/shifu) ⭐ 1436 - Updated Oct 2026: Kubernetes native IoT development framework.
 - [smart-home](https://github.com/e154/smart-home) ⭐ 101 - Updated Nov 2025: Software package for IoT automation.
 
 ---
@@ -1285,8 +1285,8 @@ _Libraries for scheduling jobs._
 - [go-job](https://github.com/cybergarage/go-job) ⭐ 3 - Updated Sep 2026: A flexible and extensible job scheduling and execution library for Go.
 - [go-quartz](https://github.com/reugn/go-quartz) ⭐ 2018 - Updated Jan 2026: Simple, zero-dependency scheduling library for Go.
 - [go-scheduler](https://github.com/pardnchiu/go-scheduler) ⭐ 37 - Updated Sep 2026: Job scheduler supporting standard cron expressions, custom descriptors, intervals, and task dependencies.
-- [gocron](https://github.com/go-co-op/gocron) ⭐ 7177 - Updated Oct 2026: Easy and fluent Go job scheduling. This is an actively maintained fork of jasonlvhit/gocron.
-- [goflow](https://github.com/fieldryand/goflow) ⭐ 484 - Updated Jul 2024: A simple but powerful DAG scheduler and dashboard.
+- [gocron](https://github.com/go-co-op/gocron) ⭐ 7180 - Updated Oct 2026: Easy and fluent Go job scheduling. This is an actively maintained fork of jasonlvhit/gocron.
+- [goflow](https://github.com/fieldryand/goflow) ⭐ 483 - Updated Jul 2024: A simple but powerful DAG scheduler and dashboard.
 - [gron](https://github.com/roylee0704/gron) ⭐ 1033 - Updated Jun 2016: Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly.
 - [gronx](https://github.com/adhocore/gronx) ⭐ 515 - Updated Sep 2026: Cron expression parser, task runner and daemon consuming crontab like task list.
 - [JobRunner](https://github.com/bamzi/jobrunner) ⭐ 1086 - Updated Oct 2019: Smart and featureful cron job scheduler with job queuing and live monitoring built in.
@@ -1312,11 +1312,11 @@ _Libraries for working with JSON._
 - [fastjson](https://github.com/valyala/fastjson) ⭐ 2462 - Updated Feb 2026: Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection.
 - [gabs](https://github.com/Jeffail/gabs) ⭐ 3528 - Updated Feb 2023: For parsing, creating and editing unknown or dynamic JSON in Go.
 - [gjo](https://github.com/skanehira/gjo) ⭐ 132 - Updated Apr 2020: Small utility to create JSON objects.
-- [GJSON](https://github.com/tidwall/gjson) ⭐ 15560 - Updated Oct 2026: Get a JSON value with one line of code.
+- [GJSON](https://github.com/tidwall/gjson) ⭐ 15557 - Updated Oct 2026: Get a JSON value with one line of code.
 - [go-jsonerror](https://github.com/ddymko/go-jsonerror) ⭐ 16 - Updated Oct 2019: Go-JsonError is meant to allow us to easily create json response errors that follow the JsonApi spec.
 - [go-respond](https://github.com/nicklaw5/go-respond) ⭐ 55 - Updated Sep 2021: Go package for handling common HTTP JSON responses.
 - [gojmapr](https://github.com/limiu82214/gojmapr) ⭐ 22 - Updated Jun 2023: Get simple struct from complex json by json path.
-- [gojq](https://github.com/elgs/gojq) ⭐ 191 - Updated Jun 2023: JSON query in Golang.
+- [gojq](https://github.com/elgs/gojq) ⭐ 190 - Updated Jun 2023: JSON query in Golang.
 - [gojson](https://github.com/ChimeraCoder/gojson) ⭐ 2684 - Updated Aug 2018: Automatically generate Go (golang) struct definitions from example JSON.
 - [htmljson](https://github.com/nikolaydubina/htmljson) ⭐ 10 - Updated Aug 2026: Rich rendering of JSON as HTML in Go.
 - [JayDiff](https://github.com/yazgazan/jaydiff) ⭐ 111 - Updated Apr 2026: JSON diff utility written in Go.
@@ -1353,7 +1353,7 @@ _Libraries for generating and working with log files._
 - [distillog](https://github.com/amoghe/distillog) ⭐ 31 - Updated Jul 2018: distilled levelled logging (think of it as stdlib + log levels).
 - [glg](https://github.com/kpango/glg) ⭐ 193 - Updated Sep 2024: glg is simple and fast leveled logging library for Go.
 - [glo](https://github.com/lajosbencz/glo) ⭐ 16 - Updated Jan 2019: PHP Monolog inspired logging facility with identical severity levels.
-- [glog](https://github.com/golang/glog) ⭐ 3599 - Updated Apr 2025: Leveled execution logs for Go.
+- [glog](https://github.com/golang/glog) ⭐ 3597 - Updated Apr 2025: Leveled execution logs for Go.
 - [go-cronowriter](https://github.com/utahta/go-cronowriter) ⭐ 56 - Updated Nov 2020: Simple writer that rotate log files automatically based on current date and time, like cronolog.
 - [go-log](https://github.com/pieterclaerhout/go-log) ⭐ 11 - Updated Aug 2026: A logging library with stack traces, object dumping and optional timestamps.
 - [go-log](https://github.com/subchen/go-log) ⭐ 14 - Updated May 2018: Simple and configurable Logging in Go, with level, formatters and writers.
@@ -1365,9 +1365,9 @@ _Libraries for generating and working with log files._
 - [httpretty](https://github.com/henvic/httpretty) ⭐ 457 - Updated Aug 2026: Pretty-prints your regular HTTP requests on your terminal for debugging (similar to http.DumpRequest).
 - [journald](https://github.com/ssgreg/journald) ⭐ 46 - Updated Mar 2021: Go implementation of systemd Journal's native API for logging.
 - [kemba](https://github.com/clok/kemba) ⭐ 18 - Updated Jan 2024: A tiny debug logging tool inspired by debug, great for CLI tools and applications.
-- [lazyjournal](https://github.com/Lifailon/lazyjournal) ⭐ 1427 - Updated Oct 2026: A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods.
+- [lazyjournal](https://github.com/Lifailon/lazyjournal) ⭐ 1429 - Updated Oct 2026: A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods.
 - [log](https://github.com/aerogo/log) ⭐ 10 - Updated Oct 2019: An O(1) logging system that allows you to connect one log to multiple writers (e.g. stdout, a file and a TCP connection).
-- [log](https://github.com/apex/log) ⭐ 1374 - Updated Aug 2020: Structured logging package for Go.
+- [log](https://github.com/apex/log) ⭐ 1373 - Updated Aug 2020: Structured logging package for Go.
 - [log](https://github.com/go-playground/log) ⭐ 293 - Updated Aug 2023: Simple, configurable and scalable Structured Logging for Go.
 - [log](https://github.com/teris-io/log) ⭐ 25 - Updated Dec 2017: Structured log interface for Go cleanly separates logging facade from its implementation.
 - [log](https://github.com/heartwilltell/log) ⭐ 17 - Updated Dec 2022: Simple leveled logging wrapper around standard log package.
@@ -1377,7 +1377,7 @@ _Libraries for generating and working with log files._
 - [logex](https://github.com/chzyer/logex) ⭐ 42 - Updated Apr 2024: Golang log lib, supports tracking and level, wrap by standard log lib.
 - [logger](https://github.com/azer/logger) ⭐ 159 - Updated Jan 2026: Minimalistic logging library for Go.
 - [logo](https://github.com/mbndr/logo) ⭐ 12 - Updated Dec 2020: Golang logger to different configurable writers.
-- [logrus](https://github.com/Sirupsen/logrus) ⭐ 25764 - Updated Oct 2026: Structured logger for Go.
+- [logrus](https://github.com/Sirupsen/logrus) ⭐ 25762 - Updated Oct 2026: Structured logger for Go.
 - [logrusiowriter](https://github.com/cabify/logrusiowriter) ⭐ 16 - Updated Oct 2024: io.Writer implementation using logrus logger.
 - [logrusly](https://github.com/sebest/logrusly) ⭐ 29 - Updated Mar 2018: logrus plug-in to send errors to a Loggly.
 - [logutils](https://github.com/hashicorp/logutils) ⭐ 371 - Updated Jan 2026: Utilities for slightly better logging in Go (Golang) extending the standard logger.
@@ -1388,14 +1388,14 @@ _Libraries for generating and working with log files._
 - [onelog](https://github.com/francoispqt/onelog) ⭐ 413 - Updated Mar 2019: Onelog is a dead simple but very efficient JSON logger. It is the fastest JSON logger out there in all scenarios. Also, it is one of the logger with the lowest allocation.
 - [ozzo-log](https://github.com/go-ozzo/ozzo-log) ⭐ 123 - Updated Aug 2026: High performance logging supporting log severity, categorization, and filtering. Can send filtered log messages to various targets (e.g. console, network, mail).
 - [phuslu/log](https://github.com/phuslu/log) ⭐ 878 - Updated Oct 2026: High performance structured logging.
-- [pp](https://github.com/k0kubun/pp) ⭐ 2055 - Updated Oct 2026: Colored pretty printer for Go language.
+- [pp](https://github.com/k0kubun/pp) ⭐ 2056 - Updated Oct 2026: Colored pretty printer for Go language.
 - [rollingwriter](https://github.com/arthurkiller/rollingWriter) ⭐ 292 - Updated Oct 2023: RollingWriter is an auto-rotate io.Writer implementation with multi policies to provide log file rotation.
 - [seelog](https://github.com/cihub/seelog) ⭐ 1632 - Updated Jan 2017: Logging functionality with flexible dispatching, filtering, and formatting.
 - [sentry-go](https://github.com/getsentry/sentry-go) ⭐ 1108 - Updated Oct 2026: Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring.
 - [slf4g](https://github.com/echocat/slf4g) ⭐ 6 - Updated Oct 2026: Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.
 - [slog](https://github.com/gookit/slog) ⭐ 556 - Updated Oct 2026: Lightweight, configurable, extensible logger for Go.
 - [slog-formatter](https://github.com/samber/slog-formatter) ⭐ 226 - Updated Aug 2026: Common formatters for slog and helpers to build your own.
-- [slog-multi](https://github.com/samber/slog-multi) ⭐ 639 - Updated Aug 2026: Chain of slog.Handler (pipeline, fanout...).
+- [slog-multi](https://github.com/samber/slog-multi) ⭐ 639 - Updated Oct 2026: Chain of slog.Handler (pipeline, fanout...).
 - [slogor](https://gitlab.com/greyxor/slogor) ⭐ 18 - Updated Jul 2026: A colorful slog handler.
 - [spew](https://github.com/davecgh/go-spew) ⭐ 6426 - Updated Aug 2018: Implements a deep pretty printer for Go data structures to aid in debugging.
 - [sqldb-logger](https://github.com/simukti/sqldb-logger) ⭐ 379 - Updated Jan 2023: A logger for Go SQL database driver without modify existing \*sql.DB stdlib usage.
@@ -1408,9 +1408,9 @@ _Libraries for generating and working with log files._
 - [xlog](https://github.com/rs/xlog) ⭐ 141 - Updated Dec 2017: Structured logger for net/context aware HTTP handlers with flexible dispatching.
 - [xylog](https://github.com/xybor-x/xylog) ⭐ 17 - Updated Jan 2023: Leveled and structured logging, dynamic fields, high performance, zone management, simple configuration, and readable syntax.
 - [yell](https://github.com/jfcg/yell) ⭐ 1 - Updated Mar 2022: Yet another minimalistic logging library.
-- [zap](https://github.com/uber-go/zap) ⭐ 24677 - Updated Sep 2026: Fast, structured, leveled logging in Go.
+- [zap](https://github.com/uber-go/zap) ⭐ 24679 - Updated Sep 2026: Fast, structured, leveled logging in Go.
 - [zax](https://github.com/yuseferi/zax) ⭐ 39 - Updated Aug 2026: Integrate Context with Zap logger, which leads to more flexibility in Go logging.
-- [zerolog](https://github.com/rs/zerolog) ⭐ 12518 - Updated Oct 2026: Zero-allocation JSON logger.
+- [zerolog](https://github.com/rs/zerolog) ⭐ 12519 - Updated Oct 2026: Zero-allocation JSON logger.
 - [zkits-logger](https://github.com/edoger/zkits-logger) ⭐ 28 - Updated May 2023: A powerful zero-dependency JSON logger.
 - [zl](https://github.com/nkmr-jp/zl) ⭐ 11 - Updated Sep 2026: High Developer Experience, zap based logger. It offers rich functionality but is easy to configure.
 
@@ -1419,7 +1419,7 @@ _Libraries for generating and working with log files._
 _Libraries for Machine Learning._
 
 - [Anneal](https://github.com/georgebuilds/anneal) ⭐ 33 - Updated Jun 2026: Machine learning compiler in Go, a from-scratch tinygrad port with a WebGPU backend.
-- [bayesian](https://github.com/jbrukh/bayesian) ⭐ 815 - Updated Dec 2025: Naive Bayesian Classification for Golang.
+- [bayesian](https://github.com/jbrukh/bayesian) ⭐ 816 - Updated Dec 2025: Naive Bayesian Classification for Golang.
 - [born](https://github.com/born-ml/born) ⭐ 137 - Updated Sep 2026: Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration.
 - [catboost-cgo](https://github.com/mirecl/catboost-cgo) ⭐ 26 - Updated Jun 2026: Fast, scalable, high performance Gradient Boosting on Decision Trees library. Golang using Cgo for blazing fast inference CatBoost Model.
 - [CloudForest](https://github.com/ryanbressler/CloudForest) ⭐ 748 - Updated Feb 2022: Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
@@ -1436,10 +1436,10 @@ _Libraries for Machine Learning._
 - [gobrain](https://github.com/goml/gobrain) ⭐ 569 - Updated Dec 2020: Neural Networks written in go.
 - [godist](https://github.com/e-dard/godist) ⭐ 44 - Updated May 2015: Various probability distributions, and associated methods.
 - [goga](https://github.com/tomcraven/goga) ⭐ 224 - Updated Apr 2022: Genetic algorithm library for Go.
-- [GoLearn](https://github.com/sjwhitworth/golearn) ⭐ 9433 - Updated Dec 2022: General Machine Learning library for Go.
+- [GoLearn](https://github.com/sjwhitworth/golearn) ⭐ 9432 - Updated Dec 2022: General Machine Learning library for Go.
 - [GoMind](https://github.com/surenderthakran/gomind) ⭐ 98 - Updated Jul 2018: A simplistic Neural Network Library in Go.
 - [goml](https://github.com/cdipaolo/goml) ⭐ 1615 - Updated Jul 2022: On-line Machine Learning in Go.
-- [GoMLX](https://github.com/gomlx/gomlx) ⭐ 1660 - Updated Oct 2026: An accelerated Machine Learning framework for Go.
+- [GoMLX](https://github.com/gomlx/gomlx) ⭐ 1663 - Updated Oct 2026: An accelerated Machine Learning framework for Go.
 - [gonet](https://github.com/dathoangnd/gonet) ⭐ 82 - Updated Apr 2020: Neural Network for Go.
 - [Goptuna](https://github.com/c-bata/goptuna) ⭐ 282 - Updated Aug 2025: Bayesian optimization framework for black-box functions written in Go. Everything will be optimized.
 - [goRecommend](https://github.com/timkaye11/goRecommend) ⭐ 205 - Updated Jul 2014: Recommendation Algorithms library written in Go.
@@ -1447,7 +1447,7 @@ _Libraries for Machine Learning._
 - [gorse](https://github.com/zhenghaoz/gorse): An offline recommender system backend based on collaborative filtering written in Go.
 - [goscore](https://github.com/asafschers/goscore) ⭐ 101 - Updated Aug 2019: Go Scoring API for PMML.
 - [gosseract](https://github.com/otiai10/gosseract) ⭐ 3139 - Updated Jan 2026: Go package for OCR (Optical Character Recognition), by using Tesseract C++ library.
-- [hugot](https://github.com/knights-analytics/hugot) ⭐ 656 - Updated Oct 2026: Huggingface transformer pipelines for golang with onnxruntime.
+- [hugot](https://github.com/knights-analytics/hugot) ⭐ 657 - Updated Oct 2026: Huggingface transformer pipelines for golang with onnxruntime.
 - [libsvm](https://github.com/datastream/libsvm) ⭐ 73 - Updated May 2016: libsvm golang version derived work based on LIBSVM 3.14.
 - [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 2999 - Updated Oct 2022: A CLI tool to transpile trained classic ML models into a native Go code with zero dependencies, written in Python with Go language support.
 - [neural-go](https://github.com/schuyler/neural-go) ⭐ 73 - Updated Oct 2013: Multilayer perceptron network implemented in Go, with training via backpropagation.
@@ -1465,14 +1465,14 @@ _Libraries for Machine Learning._
 _Libraries that implement messaging systems._
 
 - [ami](https://github.com/kak-tus/ami) ⭐ 34 - Updated Apr 2020: Go client to reliable queues based on Redis Cluster Streams.
-- [amqp](https://github.com/rabbitmq/amqp091-go) ⭐ 2041 - Updated Oct 2026: Go RabbitMQ Client Library.
+- [amqp](https://github.com/rabbitmq/amqp091-go) ⭐ 2042 - Updated Oct 2026: Go RabbitMQ Client Library.
 - [APNs2](https://github.com/sideshow/apns2) ⭐ 3192 - Updated Jul 2025: HTTP/2 Apple Push Notification provider for Go - Send push notifications to iOS, tvOS, Safari and OSX apps.
-- [Asynq](https://github.com/hibiken/asynq) ⭐ 13784 - Updated Oct 2026: A simple, reliable, and efficient distributed task queue for Go built on top of Redis.
+- [Asynq](https://github.com/hibiken/asynq) ⭐ 13787 - Updated Oct 2026: A simple, reliable, and efficient distributed task queue for Go built on top of Redis.
 - [backlite](https://github.com/mikestefanello/backlite) ⭐ 156 - Updated Oct 2026: Type-safe, persistent, embedded task queues and background job runner w/ SQLite.
 - [Beaver](https://github.com/Clivern/Beaver) ⭐ 1584 - Updated Dec 2023: A real time messaging server to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
 - [broker](https://github.com/qvcloud/broker) ⭐ 12 - Updated Aug 2026: Production-grade messaging abstraction with a unified API for various brokers and built-in OpenTelemetry integration.
 - [Bus](https://github.com/mustafaturan/bus) ⭐ 368 - Updated May 2023: Minimalist message bus implementation for internal communication.
-- [Centrifugo](https://github.com/centrifugal/centrifugo) ⭐ 10914 - Updated Oct 2026: Real-time messaging (Websockets or SockJS) server in Go.
+- [Centrifugo](https://github.com/centrifugal/centrifugo) ⭐ 10918 - Updated Oct 2026: Real-time messaging (Websockets or SockJS) server in Go.
 - [Chanify](https://github.com/chanify/chanify) ⭐ 1319 - Updated Feb 2023: A push notification server send message to your iOS devices.
 - [Commander](https://github.com/jeroenrinzema/commander) ⭐ 68 - Updated Apr 2021: A high-level event driven consumer/producer supporting various "dialects" such as Apache Kafka.
 - [Confluent Kafka Golang Client](https://github.com/confluentinc/confluent-kafka-go) ⭐ 5174 - Updated Oct 2026: confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform.
@@ -1493,8 +1493,8 @@ _Libraries that implement messaging systems._
 - [GoEventBus](https://github.com/Raezil/GoEventBus) ⭐ 75 - Updated Oct 2026: A blazing‑fast, in‑memory, lock‑free event bus library
 - [Gollum](https://github.com/trivago/gollum) ⭐ 940 - Updated Oct 2025 - ⚠️ Archived: A n:m multiplexer that gathers messages from different sources and broadcasts them to a set of destinations.
 - [golongpoll](https://github.com/jcuga/golongpoll) ⭐ 666 - Updated Aug 2023: HTTP longpoll server library that makes web pub-sub simple.
-- [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) ⭐ 2067 - Updated May 2017: gopush-cluster is a go push server cluster.
-- [gorush](https://github.com/appleboy/gorush) ⭐ 8792 - Updated Jul 2026: Push notification server using APNs2 and google GCM.
+- [gopush-cluster](https://github.com/Terry-Mao/gopush-cluster) ⭐ 2066 - Updated May 2017: gopush-cluster is a go push server cluster.
+- [gorush](https://github.com/appleboy/gorush) ⭐ 8791 - Updated Jul 2026: Push notification server using APNs2 and google GCM.
 - [gosd](https://github.com/alexsniffin/gosd) ⭐ 26 - Updated Aug 2022: A library for scheduling when to dispatch a message to a channel.
 - [guble](https://github.com/smancke/guble) ⭐ 161 - Updated Oct 2017: Messaging server using push notifications (Google Firebase Cloud Messaging, Apple Push Notification services, SMS) as well as websockets, a REST API, featuring distributed operation and message-persistence.
 - [hare](https://github.com/leozz37/hare) ⭐ 55 - Updated Aug 2022: A user friendly library for sending messages and listening to TCP sockets.
@@ -1505,12 +1505,12 @@ _Libraries that implement messaging systems._
 - [mangos](https://github.com/nanomsg/mangos) ⭐ 761 - Updated Oct 2026: Pure go implementation of the Nanomsg ("Scalability Protocols") with transport interoperability.
 - [melody](https://github.com/olahol/melody) ⭐ 4080 - Updated Oct 2025: Minimalist framework for dealing with websocket sessions, includes broadcasting and automatic ping/pong handling.
 - [Mercure](https://github.com/dunglas/mercure) ⭐ 5353 - Updated Oct 2026: Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events).
-- [messagebus](https://github.com/vardius/message-bus) ⭐ 283 - Updated Jan 2021: messagebus is a Go simple async message bus, perfect for using as event bus when doing event sourcing, CQRS, DDD.
+- [messagebus](https://github.com/vardius/message-bus) ⭐ 283 - Updated Oct 2026: messagebus is a Go simple async message bus, perfect for using as event bus when doing event sourcing, CQRS, DDD.
 - [NATS Go Client](https://github.com/nats-io/nats.go) ⭐ 6790 - Updated Oct 2026: Go client for the NATS
 - [nsq-event-bus](https://github.com/rafaeljesus/nsq-event-bus) ⭐ 80 - Updated Feb 2018: A tiny wrapper around NSQ topic and channel.
 - [oplog](https://github.com/dailymotion/oplog) ⭐ 111 - Updated Sep 2024: Generic oplog/replication system for REST APIs.
 - [pubsub](https://github.com/tuxychandru/pubsub) ⭐ 453 - Updated May 2024: Simple pubsub package for go.
-- [Quamina](https://github.com/timbray/quamina) ⭐ 506 - Updated Oct 2026: Fast pattern-matching for filtering messages and events.
+- [Quamina](https://github.com/timbray/quamina) ⭐ 507 - Updated Oct 2026: Fast pattern-matching for filtering messages and events.
 - [rabbitroutine](https://github.com/furdarius/rabbitroutine) ⭐ 115 - Updated Mar 2024: Lightweight library that handles RabbitMQ auto-reconnect and publishing retries. The library takes into account the need to re-declare entities in RabbitMQ after reconnection.
 - [rabbus](https://github.com/rafaeljesus/rabbus) ⭐ 98 - Updated Jul 2019: A tiny wrapper over amqp exchanges and queues.
 - [rabtap](https://github.com/jandelgado/rabtap) ⭐ 290 - Updated Aug 2026: RabbitMQ swiss army knife cli app.
@@ -1518,7 +1518,7 @@ _Libraries that implement messaging systems._
 - [Ratus](https://github.com/hyperonym/ratus) ⭐ 127 - Updated Mar 2025: Ratus is a RESTful asynchronous task queue server.
 - [redisqueue](https://github.com/robinjoseph08/redisqueue) ⭐ 138 - Updated Oct 2020: redisqueue provides a producer and consumer of a queue that uses Redis streams.
 - [rmqconn](https://github.com/sbabiv/rmqconn) ⭐ 23 - Updated Jan 2020: RabbitMQ Reconnection. Wrapper over amqp.Connection and amqp.Dial. Allowing to do a reconnection when the connection is broken before forcing the call to the Close () method to be closed.
-- [sarama](https://github.com/Shopify/sarama) ⭐ 12523 - Updated Oct 2026: Go library for Apache Kafka.
+- [sarama](https://github.com/Shopify/sarama) ⭐ 12521 - Updated Oct 2026: Go library for Apache Kafka.
 - [Uniqush-Push](https://github.com/uniqush/uniqush-push) ⭐ 1565 - Updated Oct 2026: Redis backed unified push service for server-side notifications to mobile devices.
 - [varmq](https://github.com/goptics/varmq) ⭐ 208 - Updated Oct 2026: A storage-agnostic message queue and worker pool for concurrent Go programs.
 - [Watermill](https://github.com/ThreeDotsLabs/watermill) ⭐ 9927 - Updated Aug 2026: Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages, sagas. Can use conventional pub/sub implementations like Kafka or RabbitMQ, but also HTTP or MySQL binlog.
@@ -1532,10 +1532,10 @@ _Libraries that implement messaging systems._
 _Libraries for working with Microsoft Excel._
 
 - [cellwalker](https://github.com/chonla/cellwalker) ⭐ 3 - Updated Oct 2024: Virtually traverse Excel cell by cell's name.
-- [excelize](https://github.com/xuri/excelize) ⭐ 21016 - Updated Oct 2026: Golang library for reading and writing Microsoft Excel&trade; (XLSX) files.
+- [excelize](https://github.com/xuri/excelize) ⭐ 21015 - Updated Oct 2026: Golang library for reading and writing Microsoft Excel&trade; (XLSX) files.
 - [exl](https://github.com/go-the-way/exl) ⭐ 33 - Updated Oct 2025: Excel binding to struct written in Go.(Only supports Go1.18+)
 - [go-excel](https://github.com/szyhf/go-excel) ⭐ 198 - Updated Oct 2025: A simple and light reader to read a relate-db-like excel as a table.
-- [xlsx](https://github.com/tealeg/xlsx) ⭐ 5988 - Updated Aug 2025 - ⚠️ Archived: Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs.
+- [xlsx](https://github.com/tealeg/xlsx) ⭐ 5987 - Updated Aug 2025 - ⚠️ Archived: Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs.
 - [xlsx](https://github.com/plandem/xlsx) ⭐ 177 - Updated Nov 2019: Fast and safe way to read/update your existing Microsoft Excel files in Go programs.
 ### Microsoft Word
 _Libraries for working with Microsoft Word._
@@ -1555,11 +1555,11 @@ _Libraries for working with dependency injection._
 - [di](https://github.com/goava/di) ⭐ 240 - Updated Dec 2023: A dependency injection container for go programming language.
 - [dig](https://github.com/uber-go/dig) ⭐ 4506 - Updated May 2025: A reflection based dependency injection toolkit for Go.
 - [dingo](https://github.com/i-love-flamingo/dingo) ⭐ 189 - Updated Sep 2026: A dependency injection toolkit for Go, based on Guice.
-- [do](https://github.com/samber/do) ⭐ 2824 - Updated Sep 2026: A dependency injection framework based on Generics.
-- [fx](https://github.com/uber-go/fx) ⭐ 7709 - Updated Dec 2025: A dependency injection based application framework for Go (built on top of dig).
+- [do](https://github.com/samber/do) ⭐ 2825 - Updated Sep 2026: A dependency injection framework based on Generics.
+- [fx](https://github.com/uber-go/fx) ⭐ 7712 - Updated Dec 2025: A dependency injection based application framework for Go (built on top of dig).
 - [go-beans](https://github.com/go-beans/go) ⭐ 2 - Updated Oct 2026: Spring-inspired dependency injection and application lifecycle framework for Go.
 - [Go-Spring](https://github.com/go-spring/spring-core) ⭐ 84 - Updated May 2026 - ⚠️ Archived: A high-performance Go framework inspired by Spring Boot, offering DI, auto-configuration, and lifecycle management while maintaining Go's simplicity and efficiency.
-- [gocontainer](https://github.com/vardius/gocontainer) ⭐ 21 - Updated Mar 2020: Simple Dependency Injection Container.
+- [gocontainer](https://github.com/vardius/gocontainer) ⭐ 21 - Updated Oct 2026: Simple Dependency Injection Container.
 - [godi](https://github.com/junioryono/godi) ⭐ 79 - Updated Oct 2026: Microsoft-style dependency injection for Go with scoped lifetimes and generics.
 - [goioc/di](https://github.com/goioc/di) ⭐ 379 - Updated Sep 2026: Spring-inspired Dependency Injection Container.
 - [GoLobby/Container](https://github.com/golobby/container) ⭐ 610 - Updated Aug 2023: GoLobby Container is a lightweight yet powerful IoC dependency injection container for the Go programming language.
@@ -1578,7 +1578,7 @@ _Unofficial set of patterns for structuring projects._
 
 - [ardanlabs/service](https://github.com/ardanlabs/service) ⭐ 4130 - Updated Oct 2026: A starter kit for building production grade scalable web service applications.
 - [cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) ⭐ 735 - Updated Oct 2023: A Go application boilerplate template for quick starting projects following production best practices.
-- [go-blueprint](https://github.com/Melkeydev/go-blueprint) ⭐ 8974 - Updated Jul 2025: Allows users to spin up a quick Go project using a popular framework.
+- [go-blueprint](https://github.com/Melkeydev/go-blueprint) ⭐ 8976 - Updated Jul 2025: Allows users to spin up a quick Go project using a popular framework.
 - [go-module](https://github.com/octomation/go-module) ⭐ 40 - Updated Dec 2025: Template for a typical module written on Go.
 - [go-rest-api-boilerplate](https://github.com/vahiiiid/go-rest-api-boilerplate) ⭐ 70 - Updated Aug 2026: AI-friendly, production-ready Go REST API boilerplate with clean architecture, JWT authentication, RBAC, PostgreSQL, Docker hot-reload, and Swagger documentation.
 - [go-sample](https://github.com/zitryss/go-sample) ⭐ 139 - Updated Jan 2019: A sample layout for Go application projects with the real code.
@@ -1586,9 +1586,9 @@ _Unofficial set of patterns for structuring projects._
 - [go-todo-backend](https://github.com/Fs02/go-todo-backend) ⭐ 338 - Updated May 2023: Go Todo Backend example using modular project layout for product microservice.
 - [goapp](https://github.com/naughtygopher/goapp) ⭐ 1077 - Updated Sep 2026: An opinionated guideline to structure & develop a Go web application/service.
 - [gobase](https://github.com/wajox/gobase) ⭐ 66 - Updated Jun 2023: A simple skeleton for golang application with basic setup for real golang application.
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) ⭐ 56707 - Updated Apr 2026: Set of common historical and emerging project layout patterns in the Go ecosystem. Note: despite the org-name they do not represent official golang standards, see this issue for more information. Nonetheless, some may find the layout useful.
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) ⭐ 56710 - Updated Apr 2026: Set of common historical and emerging project layout patterns in the Go ecosystem. Note: despite the org-name they do not represent official golang standards, see this issue for more information. Nonetheless, some may find the layout useful.
 - [golang-templates/seed](https://github.com/golang-templates/seed) ⭐ 565 - Updated Sep 2026: Go application GitHub repository template.
-- [goxygen](https://github.com/shpota/goxygen) ⭐ 3589 - Updated Dec 2024: Generate a modern Web project with Go and Angular, React, or Vue in seconds.
+- [goxygen](https://github.com/shpota/goxygen) ⭐ 3588 - Updated Dec 2024: Generate a modern Web project with Go and Angular, React, or Vue in seconds.
 - [insidieux/inizio](https://github.com/insidieux/inizio) ⭐ 19 - Updated Jun 2022: Golang project layout generator with plugins.
 - [kickstart.go](https://github.com/raeperd/kickstart.go) ⭐ 112 - Updated Sep 2026: Minimalistic single-file Go HTTP server template without third-party dependencies.
 - [modern-go-application](https://github.com/sagikazarmark/modern-go-application) ⭐ 1945 - Updated Apr 2023: Go application boilerplate and example applying modern practices.
@@ -1605,7 +1605,7 @@ _Libraries for working with strings._
 - [gobeam/Stringy](https://github.com/gobeam/Stringy) ⭐ 249 - Updated May 2025: String manipulation library to convert string to camel case, snake case, kebab case / slugify etc.
 - [str](https://github.com/schigh/str) ⭐ 10 - Updated Mar 2026: Pipeline-first string toolkit for composing transformations.
 - [strcase](https://github.com/charlievieth/strcase) ⭐ 16 - Updated Sep 2026: Case-insensitive implementation of the standard library's strings/bytes packages.
-- [stringFormatter](https://github.com/Wissance/stringFormatter) ⭐ 165 - Updated Jul 2026: String formatting like in Python or C# manner with the additional text formatting features.
+- [stringFormatter](https://github.com/Wissance/stringFormatter) ⭐ 151 - Updated Jul 2026: String formatting like in Python or C# manner with the additional text formatting features.
 - [strutil](https://github.com/ozgio/strutil) ⭐ 206 - Updated Oct 2021: String utilities.
 - [sttr](https://github.com/abhimanyu003/sttr) ⭐ 1354 - Updated Dec 2025: cross-platform, cli app to perform various operations on string.
 - [xstrings](https://github.com/huandu/xstrings) ⭐ 1412 - Updated Oct 2026: Collection of useful string functions ported from other languages.
@@ -1614,7 +1614,7 @@ _These libraries were placed here because none of the other categories seemed to
 
 - [anagent](https://github.com/mudler/anagent) ⭐ 15 - Updated Aug 2018: Minimalistic, pluggable Golang evloop/timer handler with dependency-injection.
 - [antch](https://github.com/antchfx/antch) ⭐ 265 - Updated May 2020: A fast, powerful and extensible web crawling & scraping framework.
-- [archives](https://github.com/mholt/archives) ⭐ 448 - Updated Aug 2026: a cross-platform, multi-format Go library for working with archives and compression formats with a unified API and as virtual file systems compatible with io/fs.
+- [archives](https://github.com/mholt/archives) ⭐ 447 - Updated Aug 2026: a cross-platform, multi-format Go library for working with archives and compression formats with a unified API and as virtual file systems compatible with io/fs.
 - [autoflags](https://github.com/artyom/autoflags) ⭐ 42 - Updated Jun 2022: Go package to automatically define command line flags from struct fields.
 - [avgRating](https://github.com/kirillDanshin/avgRating) ⭐ 17 - Updated Aug 2017: Calculate average score and rating based on Wilson Score Equation.
 - [banner](https://github.com/dimiro1/banner) ⭐ 463 - Updated Dec 2020: Add beautiful banners into your Go applications.
@@ -1630,9 +1630,9 @@ _These libraries were placed here because none of the other categories seemed to
 - [fake-useragent](https://github.com/lib4u/fake-useragent) ⭐ 19 - Updated Feb 2026: Up-to-date simple useragent faker with real world database in Golang
 - [faker](https://github.com/pioz/faker) ⭐ 102 - Updated Oct 2023: Random fake data and struct generator for Go.
 - [ffmt](https://github.com/go-ffmt/ffmt) ⭐ 317 - Updated Nov 2021: Beautify data display for Humans.
-- [gatus](https://github.com/TwinProduction/gatus) ⭐ 12379 - Updated Oct 2026: Automated service health dashboard.
+- [gatus](https://github.com/TwinProduction/gatus) ⭐ 12392 - Updated Oct 2026: Automated service health dashboard.
 - [go-commandbus](https://github.com/lana/go-commandbus) ⭐ 15 - Updated Apr 2020: A slight and pluggable command-bus for Go.
-- [go-commons-pool](https://github.com/jolestar/go-commons-pool) ⭐ 1238 - Updated May 2023: Generic object pool for Golang.
+- [go-commons-pool](https://github.com/jolestar/go-commons-pool) ⭐ 1237 - Updated May 2023: Generic object pool for Golang.
 - [go-openapi](https://github.com/go-openapi): Collection of packages to parse and utilize open-api schemas.
 - [go-resiliency](https://github.com/eapache/go-resiliency) ⭐ 2369 - Updated Feb 2025: Resiliency patterns for golang.
 - [go-unarr](https://github.com/gen2brain/go-unarr) ⭐ 309 - Updated Oct 2024: Decompression library for RAR, TAR, ZIP and 7z archives.
@@ -1657,13 +1657,13 @@ _These libraries were placed here because none of the other categories seemed to
 - [numa](https://github.com/lrita/numa) ⭐ 40 - Updated Oct 2024: NUMA is a utility library, which is written in go. It help us to write some NUMA-AWARED code.
 - [pdfgen](https://github.com/hyperboloide/pdfgen) ⭐ 75 - Updated Feb 2018: HTTP service to generate PDF from Json requests.
 - [persian](https://github.com/mavihq/persian) ⭐ 94 - Updated Oct 2023: Some utilities for Persian language in go.
-- [purego](https://github.com/ebitengine/purego) ⭐ 4049 - Updated Oct 2026: A library for calling C functions from Go without Cgo.
+- [purego](https://github.com/ebitengine/purego) ⭐ 4052 - Updated Oct 2026: A library for calling C functions from Go without Cgo.
 - [sandid](https://github.com/aofei/sandid) ⭐ 47 - Updated May 2025 - ⚠️ Archived: Every grain of sand on earth has its own ID.
 - [shellwords](https://github.com/Wing924/shellwords) ⭐ 27 - Updated Apr 2023: A Golang library to manipulate strings according to the word parsing rules of the UNIX Bourne shell.
 - [shortid](https://github.com/teris-io/shortid) ⭐ 957 - Updated Jun 2022: Distributed generation of super short, unique, non-sequential, URL friendly IDs.
-- [shoutrrr](https://github.com/containrrr/shoutrrr) ⭐ 1699 - Updated May 2026: Notification library providing easy access to various messaging services like slack, mattermost, gotify and smtp among others.
+- [shoutrrr](https://github.com/containrrr/shoutrrr) ⭐ 1701 - Updated May 2026: Notification library providing easy access to various messaging services like slack, mattermost, gotify and smtp among others.
 - [sitemap-format](https://github.com/mingard/sitemap-format) ⭐ 6 - Updated Nov 2022: A simple sitemap generator, with a little syntactic sugar.
-- [stateless](https://github.com/qmuntal/stateless) ⭐ 1387 - Updated Feb 2026: A fluent library for creating state machines.
+- [stateless](https://github.com/qmuntal/stateless) ⭐ 1388 - Updated Feb 2026: A fluent library for creating state machines.
 - [stats](https://github.com/go-playground/stats) ⭐ 172 - Updated Sep 2016: Monitors Go MemStats + System stats such as Memory, Swap and CPU and sends via UDP anywhere you want for logging etc...
 - [turtle](https://github.com/hackebrot/turtle) ⭐ 165 - Updated Oct 2021: Emojis for Go.
 - [url-shortener](https://github.com/pantrif/url-shortener) ⭐ 51 - Updated Feb 2023: A modern, powerful, and robust URL shortener microservice with mysql support.
@@ -1746,7 +1746,7 @@ _Libraries for working with various layers of the network._
 - [canopus](https://github.com/zubairhamed/canopus) ⭐ 156 - Updated Feb 2018: CoAP Client/Server implementation (RFC 7252).
 - [cdns](https://github.com/junevm/cdns) ⭐ 5 - Updated May 2026: Change DNS servers effortlessly via terminal.
 - [cidranger](https://github.com/yl2chen/cidranger) ⭐ 967 - Updated Sep 2021: Fast IP to CIDR lookup for Go.
-- [cloudflared](https://github.com/cloudflare/cloudflared) ⭐ 16224 - Updated Oct 2026: Cloudflare Tunnel client (formerly Argo Tunnel).
+- [cloudflared](https://github.com/cloudflare/cloudflared) ⭐ 16233 - Updated Oct 2026: Cloudflare Tunnel client (formerly Argo Tunnel).
 - [dhcp6](https://github.com/mdlayher/dhcp6) ⭐ 80 - Updated Mar 2019: Package dhcp6 implements a DHCPv6 server, as described in RFC 3315.
 - [dns](https://github.com/miekg/dns) ⭐ 8789 - Updated Sep 2026: Go library for working with DNS.
 - [dnsmonster](https://github.com/mosajjal/dnsmonster) ⭐ 360 - Updated Oct 2026: Passive DNS Capture/Monitoring Framework.
@@ -1754,8 +1754,8 @@ _Libraries for working with various layers of the network._
 - [ether](https://github.com/songgao/ether) ⭐ 82 - Updated Apr 2016: Cross-platform Go package for sending and receiving ethernet frames.
 - [ethernet](https://github.com/mdlayher/ethernet) ⭐ 288 - Updated Feb 2022: Package ethernet implements marshaling and unmarshalling of IEEE 802.3 Ethernet II frames and IEEE 802.1Q VLAN tags.
 - [event](https://github.com/cheng-zhongliang/event) ⭐ 119 - Updated Dec 2023: Simple I/O event notification library written in Golang.
-- [fasthttp](https://github.com/valyala/fasthttp) ⭐ 23491 - Updated Oct 2026: Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http.
-- [fortio](https://github.com/fortio/fortio) ⭐ 3740 - Updated Oct 2026: Load testing library and command line tool, advanced echo server and web UI. Allows to specify a set query-per-second load and record latency histograms and other useful stats and graph them. Tcp, Http, gRPC.
+- [fasthttp](https://github.com/valyala/fasthttp) ⭐ 23488 - Updated Oct 2026: Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http.
+- [fortio](https://github.com/fortio/fortio) ⭐ 3739 - Updated Oct 2026: Load testing library and command line tool, advanced echo server and web UI. Allows to specify a set query-per-second load and record latency histograms and other useful stats and graph them. Tcp, Http, gRPC.
 - [ftp](https://github.com/jlaffaye/ftp) ⭐ 1404 - Updated Aug 2026: Package ftp implements a FTP client as described in RFC 959.
 - [ftpserverlib](https://github.com/fclairamb/ftpserverlib) ⭐ 480 - Updated Oct 2026: Fully featured FTP server library.
 - [fullproxy](https://github.com/shoriwe/fullproxy) ⭐ 81 - Updated Jun 2023: A fully featured scriptable and daemon configurable proxy and pivoting toolkit with SOCKS5, HTTP, raw ports and reverse proxy protocols.
@@ -1767,7 +1767,7 @@ _Libraries for working with various layers of the network._
 - [gnet](https://github.com/panjf2000/gnet) ⭐ 11251 - Updated Jul 2026: gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [gnet](https://github.com/fish-tennis/gnet) ⭐ 27 - Updated Sep 2026: gnet is a high-performance networking framework,especially for game servers.
 - [gNxI](https://github.com/google/gnxi) ⭐ 287 - Updated Aug 2026: A collection of tools for Network Management that use the gNMI and gNOI protocols.
-- [go-getter](https://github.com/hashicorp/go-getter) ⭐ 1826 - Updated Oct 2026: Go library for downloading files or directories from various sources using a URL.
+- [go-getter](https://github.com/hashicorp/go-getter) ⭐ 1825 - Updated Oct 2026: Go library for downloading files or directories from various sources using a URL.
 - [go-multiproxy](https://github.com/presbrey/go-multiproxy) ⭐ 30 - Updated Jul 2025: Library for making HTTP requests through a pool of proxies offering fault tolerance, load balancing, automatic retries, cookie management, and more, via http.Get/Post replacement or http.Client RoundTripper drop-in
 - [go-pcaplite](https://github.com/alexcfv/go-pcaplite) ⭐ 9 - Updated May 2026: Lightweight live packet capture library with HTTPS SNI extraction.
 - [go-powerdns](https://github.com/joeig/go-powerdns) ⭐ 105 - Updated Oct 2026: PowerDNS API bindings for Golang.
@@ -1775,20 +1775,20 @@ _Libraries for working with various layers of the network._
 - [fibersse](https://github.com/vinod-morya/fibersse) ⭐ 3 - Updated Aug 2026: Production-grade Server-Sent Events (SSE) for Fiber v3 with event coalescing, priority lanes, topic wildcards, adaptive throttling, and built-in auth.
 - [go-stun](https://github.com/ccding/go-stun) ⭐ 722 - Updated Oct 2026: Go implementation of the STUN client (RFC 3489 and RFC 5389).
 - [gobgp](https://github.com/osrg/gobgp) ⭐ 4116 - Updated Oct 2026: BGP implemented in the Go Programming Language.
-- [gopacket](https://github.com/google/gopacket) ⭐ 6797 - Updated Mar 2025: Go library for packet processing with libpcap bindings.
+- [gopacket](https://github.com/google/gopacket) ⭐ 6798 - Updated Mar 2025: Go library for packet processing with libpcap bindings.
 - [gopcap](https://github.com/akrennmair/gopcap) ⭐ 489 - Updated Jul 2015: Go wrapper for libpcap.
-- [GoProxy](https://github.com/elazarl/goproxy) ⭐ 6765 - Updated Sep 2026: A library to create a customized HTTP/HTTPS proxy server using Go.
+- [GoProxy](https://github.com/elazarl/goproxy) ⭐ 6766 - Updated Sep 2026: A library to create a customized HTTP/HTTPS proxy server using Go.
 - [goshark](https://github.com/sunwxg/goshark) ⭐ 17 - Updated Oct 2017: Package goshark use tshark to decode IP packet and create data struct to analyse packet.
 - [gosnmp](https://github.com/soniah/gosnmp) ⭐ 1 - Updated Oct 2026: Native Go library for performing SNMP actions.
 - [gotcp](https://github.com/gansidui/gotcp) ⭐ 509 - Updated Apr 2017: Go package for quickly writing tcp applications.
 - [grab](https://github.com/cavaliercoder/grab) ⭐ 1486 - Updated Aug 2026: Go package for managing file downloads.
 - [graval](https://github.com/koofr/graval) ⭐ 28 - Updated Oct 2020: Experimental FTP server framework.
-- [gws](https://github.com/lxzan/gws) ⭐ 1807 - Updated Sep 2026: High-Performance WebSocket Server & Client With AsyncIO Supporting .
+- [gws](https://github.com/lxzan/gws) ⭐ 1808 - Updated Sep 2026: High-Performance WebSocket Server & Client With AsyncIO Supporting .
 - [HTTPLab](https://github.com/gchaincl/httplab) ⭐ 4142 - Updated Feb 2024: HTTPLabs let you inspect HTTP requests and forge responses.
 - [httpproxy](https://github.com/wzshiming/httpproxy) ⭐ 32 - Updated Sep 2026: HTTP proxy handler and dialer.
 - [iplib](https://github.com/c-robinson/iplib) ⭐ 152 - Updated Apr 2024: Library for working with IP addresses (net.IP, net.IPNet), inspired by python ipaddress and ruby ipaddr
 - [jazigo](https://github.com/udhos/jazigo) ⭐ 230 - Updated Nov 2023: Jazigo is a tool written in Go for retrieving configuration for multiple network devices.
-- [kcp-go](https://github.com/xtaci/kcp-go) ⭐ 4555 - Updated Oct 2026: KCP - Fast and Reliable ARQ Protocol.
+- [kcp-go](https://github.com/xtaci/kcp-go) ⭐ 4554 - Updated Oct 2026: KCP - Fast and Reliable ARQ Protocol.
 - [kcptun](https://github.com/xtaci/kcptun): Extremely simple & fast udp tunnel based on KCP protocol.
 - [lhttp](https://github.com/fanux/lhttp) ⭐ 689 - Updated Apr 2018: Powerful websocket framework, build your IM server more easily.
 - [linkio](https://github.com/ian-kent/linkio) ⭐ 53 - Updated Aug 2017: Network link speed simulation for Reader/Writer interfaces.
@@ -1806,9 +1806,9 @@ _Libraries for working with various layers of the network._
 - [portproxy](https://github.com/aybabtme/portproxy) ⭐ 58 - Updated Dec 2014: Simple TCP proxy which adds CORS support to API's which don't support it.
 - [psql-wire](https://github.com/jeroenrinzema/psql-wire) ⭐ 241 - Updated Sep 2026: PostgreSQL server wire protocol. Build your own server and start serving connections..
 - [publicip](https://github.com/polera/publicip) ⭐ 29 - Updated Dec 2016: Package publicip returns your public facing IPv4 address (internet egress).
-- [quic-go](https://github.com/lucas-clemente/quic-go) ⭐ 11820 - Updated Oct 2026: An implementation of the QUIC protocol in pure Go.
+- [quic-go](https://github.com/lucas-clemente/quic-go) ⭐ 11819 - Updated Oct 2026: An implementation of the QUIC protocol in pure Go.
 - [sdns](https://github.com/semihalev/sdns) ⭐ 1087 - Updated Oct 2026: A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
-- [sftp](https://github.com/pkg/sftp) ⭐ 1664 - Updated Oct 2026: Package sftp implements the SSH File Transfer Protocol as described in <https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt>.
+- [sftp](https://github.com/pkg/sftp) ⭐ 1663 - Updated Oct 2026: Package sftp implements the SSH File Transfer Protocol as described in <https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt>.
 - [ssh](https://github.com/gliderlabs/ssh) ⭐ 4182 - Updated Jan 2025: Higher-level API for building SSH servers (wraps crypto/ssh).
 - [sslb](https://github.com/eduardonunesp/sslb) ⭐ 152 - Updated Feb 2024: It's a Super Simples Load Balancer, just a little project to achieve some kind of performance.
 - [stun](https://github.com/go-rtc/stun) ⭐ 492 - Updated Nov 2020 - ⚠️ Archived: Go implementation of RFC 5389 STUN protocol.
@@ -1816,7 +1816,7 @@ _Libraries for working with various layers of the network._
 - [tspool](https://github.com/two/tspool) ⭐ 14 - Updated Oct 2018: A TCP Library use worker pool to improve performance and protect your server.
 - [tun2socks](https://github.com/xjasonlyu/tun2socks) ⭐ 5552 - Updated Oct 2026: A pure go implementation of tun2socks powered by gVisor TCP/IP stack.
 - [utp](https://github.com/anacrolix/utp) ⭐ 179 - Updated Sep 2026: Go uTP micro transport protocol implementation.
-- [vssh](https://github.com/yahoo/vssh) ⭐ 990 - Updated Nov 2020: Go library for building network and server automation over SSH protocol.
+- [vssh](https://github.com/yahoo/vssh) ⭐ 989 - Updated Nov 2020: Go library for building network and server automation over SSH protocol.
 - [water](https://github.com/songgao/water) ⭐ 2168 - Updated Mar 2020: Simple TUN/TAP library.
 - [webrtc](https://github.com/pions/webrtc) ⭐ 16851 - Updated Oct 2026: A pure Go implementation of the WebRTC API.
 - [winrm](https://github.com/masterzen/winrm) ⭐ 479 - Updated Oct 2026: Go WinRM client to remotely execute commands on Windows machines.
@@ -1838,17 +1838,17 @@ _Libraries for making HTTP requests._
 - [Grequest](https://github.com/lib4u/grequest) ⭐ 9 - Updated Jan 2025: Simple and lightweight golang package for http requests. based on powerful net/http
 - [grequests](https://github.com/levigross/grequests) ⭐ 2179 - Updated Jun 2025 - ⚠️ Archived: A Go "clone" of the great and famous Requests library.
 - [hedge](https://github.com/bhope/hedge) ⭐ 286 - Updated May 2026: Adaptive hedged requests for Go. Cuts p99 latency with zero configuration, based on Google's "The Tail at Scale" paper.
-- [heimdall](https://github.com/gojektech/heimdall) ⭐ 2776 - Updated Jul 2026: An enhanced http client with retry and hystrix capabilities.
+- [heimdall](https://github.com/gojektech/heimdall) ⭐ 2775 - Updated Jul 2026: An enhanced http client with retry and hystrix capabilities.
 - [httpretry](https://github.com/ybbus/httpretry) ⭐ 56 - Updated Feb 2023: Enriches the default go HTTP client with retry functionality.
 - [pester](https://github.com/sethgrid/pester) ⭐ 654 - Updated Feb 2022: Go HTTP client calls with retries, backoff, and concurrency.
 - [req](https://github.com/imroc/req) ⭐ 4867 - Updated Sep 2026: Simple Go HTTP client with Black Magic (Less code and More efficiency).
 - [request](https://github.com/monaco-io/request) ⭐ 295 - Updated Nov 2025: HTTP client for golang. If you have experience about axios or requests, you will love it. No 3rd dependency.
 - [requests](https://github.com/carlmjohnson/requests) ⭐ 1672 - Updated Oct 2026: HTTP requests for Gophers. Uses context.Context and doesn't hide the underlying net/http.Client, making it compatible with standard Go APIs. Also includes testing tools.
-- [resty](https://github.com/go-resty/resty) ⭐ 11817 - Updated Oct 2026: Simple HTTP and REST client for Go inspired by Ruby rest-client.
+- [resty](https://github.com/go-resty/resty) ⭐ 11818 - Updated Oct 2026: Simple HTTP and REST client for Go inspired by Ruby rest-client.
 - [rq](https://github.com/ddo/rq) ⭐ 52 - Updated Aug 2019: A nicer interface for golang stdlib HTTP client.
 - [sling](https://github.com/dghubble/sling) ⭐ 1719 - Updated Sep 2026: Sling is a Go HTTP client library for creating and sending API requests.
 - [surf](https://github.com/enetx/surf) ⭐ 1844 - Updated Sep 2026: Advanced HTTP client with HTTP/1.1, HTTP/2, HTTP/3 (QUIC), SOCKS5 proxy support and browser-grade TLS fingerprinting.
-- [tls-client](https://github.com/bogdanfinn/tls-client) ⭐ 1906 - Updated Oct 2026: net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
+- [tls-client](https://github.com/bogdanfinn/tls-client) ⭐ 1910 - Updated Oct 2026: net/http.Client like HTTP Client with options to select specific client TLS Fingerprints to use for requests.
 
 ---
 ## OpenGL
@@ -1865,18 +1865,18 @@ _Libraries for using OpenGL in Go._
 ## ORM
 _Libraries that implement Object-Relational Mapping or datamapping techniques._
 
-- [bob](https://github.com/stephenafamo/bob) ⭐ 1795 - Updated Oct 2026: SQL query builder and ORM/Factory generator for Go. Successor of SQLBoiler.
+- [bob](https://github.com/stephenafamo/bob) ⭐ 1796 - Updated Oct 2026: SQL query builder and ORM/Factory generator for Go. Successor of SQLBoiler.
 - [bun](https://github.com/uptrace/bun) ⭐ 5002 - Updated Oct 2026: SQL-first Golang ORM. Successor of go-pg.
 - [cacheme](https://github.com/Yiling-J/cacheme-go) ⭐ 25 - Updated Dec 2021: Schema based, typed Redis caching/memoize framework for Go.
 - [CQL](https://github.com/FrancoLiberali/cql) ⭐ 17 - Updated Sep 2026: Built on top of GORM, adds compile-time verified queries based on auto-generated code.
-- [ent](https://github.com/facebook/ent) ⭐ 17209 - Updated Oct 2026: An entity framework for Go. Simple, yet powerful ORM for modeling and querying data.
+- [ent](https://github.com/facebook/ent) ⭐ 17208 - Updated Oct 2026: An entity framework for Go. Simple, yet powerful ORM for modeling and querying data.
 - [go-dbw](https://github.com/hashicorp/go-dbw) ⭐ 18 - Updated Jul 2026: A simple package that encapsulates database operations.
 - [go-firestorm](https://github.com/jschoedt/go-firestorm) ⭐ 53 - Updated Dec 2021: A simple ORM for Google/Firebase Cloud Firestore.
 - [go-sql](https://github.com/rushteam/gosql) ⭐ 176 - Updated Jun 2021: A easy ORM for mysql.
 - [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) ⭐ 1729 - Updated Oct 2026: A flexible and powerful SQL string builder library plus a zero-config ORM.
 - [go-store](https://github.com/gosuri/go-store) ⭐ 113 - Updated Feb 2017: Simple and fast Redis backed key-value store library for Go.
 - [golobby/orm](https://github.com/golobby/orm) ⭐ 162 - Updated Jun 2026: Simple, fast, type-safe, generic orm for developer happiness.
-- [GORM](https://github.com/go-gorm/gorm) ⭐ 39987 - Updated Sep 2026: The fantastic ORM library for Golang, aims to be developer friendly.
+- [GORM](https://github.com/go-gorm/gorm) ⭐ 39984 - Updated Oct 2026: The fantastic ORM library for Golang, aims to be developer friendly.
 - [gormt](https://github.com/xxjwxc/gormt) ⭐ 2423 - Updated Feb 2026: Mysql database to golang gorm struct.
 - [gorp](https://github.com/go-gorp/gorp) ⭐ 3742 - Updated Nov 2024: Go Relational Persistence, ORM-ish library for Go.
 - [grimoire](https://github.com/Fs02/grimoire) ⭐ 161 - Updated Oct 2021: Grimoire is a database access layer and validation for golang. (Support: MySQL, PostgreSQL and SQLite3).
@@ -1898,20 +1898,20 @@ _Official tooling for dependency and package management_
 - [go modules](https://golang.org/cmd/go/#hdr-Modules__module_versions__and_more): Modules are the unit of source code interchange and versioning. The go command has direct support for working with modules, including recording and resolving dependencies on other modules.
 - [gup](https://github.com/nao1215/gup) ⭐ 615 - Updated Oct 2026: Update binaries installed by "go install".
 - [modup](https://github.com/chaindead/modup) ⭐ 65 - Updated Aug 2025: Terminal UI for Go dependency updates with outdated module detection and selective upgrading.
-- [syft](https://github.com/anchore/syft) ⭐ 9733 - Updated Oct 2026: A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
+- [syft](https://github.com/anchore/syft) ⭐ 9742 - Updated Oct 2026: A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 
 ---
 ## Performance
 
-- [ebpf-go](https://github.com/cilium/ebpf) ⭐ 8018 - Updated Oct 2026: Provides utilities for loading, compiling, and debugging eBPF programs.
+- [ebpf-go](https://github.com/cilium/ebpf) ⭐ 8019 - Updated Oct 2026: Provides utilities for loading, compiling, and debugging eBPF programs.
 - [go-instrument](https://github.com/nikolaydubina/go-instrument) ⭐ 301 - Updated Aug 2026: Automatically add spans to all methods and functions.
 - [go-perfstat](https://github.com/go-perfstat/go) ⭐ 1 - Updated Aug 2026: Lightweight performance statistics and execution time aggregation for Go.
-- [jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23332 - Updated Oct 2026: A distributed tracing system.
+- [jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23335 - Updated Oct 2026: A distributed tracing system.
 - [mm-go](https://github.com/joetifa2003/mm-go) ⭐ 195 - Updated Dec 2024: Generic manual memory management for golang.
 - [otelinji](https://github.com/hedhyw/otelinji) ⭐ 29 - Updated Oct 2026: OpenTelemetry auto-instrumentation tool for adding spans to functions.
-- [pixie](https://github.com/pixie-labs/pixie) ⭐ 6552 - Updated Oct 2026: No instrumentation tracing for Golang applications via eBPF.
+- [pixie](https://github.com/pixie-labs/pixie) ⭐ 6551 - Updated Oct 2026: No instrumentation tracing for Golang applications via eBPF.
 - [profile](https://github.com/pkg/profile) ⭐ 2053 - Updated Oct 2022: Simple profiling support package for Go.
-- [statsviz](https://github.com/arl/statsviz) ⭐ 3646 - Updated Oct 2026: Live visualization of your Go application runtime statistics.
+- [statsviz](https://github.com/arl/statsviz) ⭐ 3647 - Updated Oct 2026: Live visualization of your Go application runtime statistics.
 - [tracer](https://github.com/kamilsk/tracer) ⭐ 89 - Updated Dec 2025: Simple, lightweight tracing.
 
 ---
@@ -1924,7 +1924,7 @@ _Official tooling for dependency and package management_
 - [gqlgen](https://github.com/99designs/gqlgen) ⭐ 10769 - Updated Oct 2026: go generate based graphql server library.
 - [grapher](https://github.com/reaganiwadha/grapher) ⭐ 4 - Updated Jul 2023: A GraphQL field builder utilizing Go generics with extra utilities and features.
 - [graphql](https://github.com/neelance/graphql-go) ⭐ 4754 - Updated Oct 2026: GraphQL server with a focus on ease of use.
-- [graphql-go](https://github.com/graphql-go/graphql) ⭐ 10141 - Updated Jun 2026: Implementation of GraphQL for Go.
+- [graphql-go](https://github.com/graphql-go/graphql) ⭐ 10140 - Updated Jun 2026: Implementation of GraphQL for Go.
 - [gws](https://github.com/Zaba505/gws) ⭐ 6 - Updated Sep 2020: Apollos' "GraphQL over Websocket" client and server implementation.
 - [jsonpath](https://github.com/AsaiYusuke/jsonpath) ⭐ 32 - Updated Aug 2026: A query library for retrieving part of JSON based on JSONPath syntax.
 - [jsonql](https://github.com/elgs/jsonql) ⭐ 280 - Updated Feb 2026: JSON query expression library in Golang.
@@ -1954,7 +1954,7 @@ _Official tooling for dependency and package management_
 - [debme](https://github.com/leaanthony/debme) ⭐ 36 - Updated Jun 2021: Create an embed.FS from an existing embed.FS subdirectory.
 - [embed](https://pkg.go.dev/embed): Package embed provides access to files embedded in the running Go program.
 - [rebed](https://github.com/soypat/rebed) ⭐ 30 - Updated Feb 2022: Recreate folder structures and files from Go 1.16's embed.FS type
-- [vfsgen](https://github.com/shurcooL/vfsgen) ⭐ 981 - Updated Jul 2023: Generates a vfsdata.go file that statically implements the given virtual filesystem.
+- [vfsgen](https://github.com/shurcooL/vfsgen) ⭐ 980 - Updated Jul 2023: Generates a vfsdata.go file that statically implements the given virtual filesystem.
 
 ---
 ## Science and Data Analysis
@@ -1983,7 +1983,7 @@ _Libraries for scientific computing and data analyzing._
 - [GoStats](https://github.com/OGFris/GoStats) ⭐ 22 - Updated Jan 2019: GoStats is an Open Source GoLang library for math statistics mostly used in Machine Learning domains, it covers most of the Statistical measures functions.
 - [graph](https://github.com/yourbasic/graph) ⭐ 752 - Updated Jun 2021: Library of basic graph algorithms.
 - [hdf5](https://github.com/scigolib/hdf5) ⭐ 32 - Updated Oct 2026: Pure Go implementation of the HDF5 file format for scientific data storage and exchange.
-- [insyra](https://github.com/HazelnutParadise/insyra) ⭐ 57 - Updated Sep 2026: Data analysis library with statistics, visualization, Parquet support, and Python integration.
+- [insyra](https://github.com/HazelnutParadise/insyra) ⭐ 57 - Updated Oct 2026: Data analysis library with statistics, visualization, Parquet support, and Python integration.
 - [jsonl-graph](https://github.com/nikolaydubina/jsonl-graph) ⭐ 80 - Updated Aug 2026: Tool to manipulate JSONL graphs with graphviz support.
 - [matlab](https://github.com/scigolib/matlab) ⭐ 12 - Updated Oct 2026: Pure Go library for reading and writing MATLAB .mat files (v5-v7.3) without CGO.
 - [MatProInterface.go](https://github.com/MatProGo-dev/MatProInterface.go) ⭐ 3 - Updated Feb 2026: MatProInterface.go is an open source package for defining mathematical programs (e.g., convex optimization problems) in Go.
@@ -2009,19 +2009,19 @@ _Libraries that are used to help make your application more secure._
 
 - [acmetool](https://github.com/hlandau/acme) ⭐ 2094 - Updated Jan 2023: ACME (Let's Encrypt) client tool with automatic renewal.
 - [acopw-go](https://sr.ht/~jamesponddotco/acopw-go/): Small cryptographically secure password generator package for Go.
-- [acra](https://github.com/cossacklabs/acra) ⭐ 1493 - Updated Dec 2025: Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system.
+- [acra](https://github.com/cossacklabs/acra) ⭐ 1494 - Updated Dec 2025: Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL injections prevention, intrusion detection system.
 - [aes-ctr-drbg](https://github.com/sixafter/aes-ctr-drbg) ⭐ 9 - Updated Oct 2026: A Deterministic Random Bit Generator based on AES in Counter mode (AES-CTR-DRBG) as specified in NIST SP 800-90A.
-- [age](https://github.com/FiloSottile/age) ⭐ 24029 - Updated Aug 2026: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [age](https://github.com/FiloSottile/age) ⭐ 24044 - Updated Aug 2026: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [argon2-hashing](https://github.com/andskur/argon2-hashing) ⭐ 25 - Updated May 2025: light wrapper around Go's argon2 package that closely mirrors with Go's standard library Bcrypt and simple-scrypt package.
 - [autocert](https://pkg.go.dev/golang.org/x/crypto/acme/autocert): Auto provision Let's Encrypt certificates and start a TLS server.
 - [BadActor](https://github.com/jaredfolkins/badactor) ⭐ 328 - Updated May 2020: In-memory, application-driven jailer built in the spirit of fail2ban.
 - [beelzebub](https://github.com/mariocandela/beelzebub) ⭐ 2207 - Updated Oct 2026: A secure low code honeypot framework, leveraging AI for System Virtualization.
 - [booster](https://github.com/anatol/booster) ⭐ 684 - Updated Oct 2026: Fast initramfs generator with full-disk encryption support.
-- [canery](https://github.com/rluders/canery) ⭐ 8 - Updated Jun 2026: Minimal, stateless authorization engine with a pluggable evaluation model.
+- [canery](https://github.com/rluders/canery) ⭐ 8 - Updated Oct 2026: Minimal, stateless authorization engine with a pluggable evaluation model.
 - [Cameradar](https://github.com/Ullaakut/cameradar) ⭐ 5267 - Updated Oct 2026: Tool and library to remotely hack RTSP streams from surveillance cameras.
 - [certificates](https://github.com/mvmaasakkers/certificates) ⭐ 38 - Updated Dec 2022: An opinionated tool for generating tls certificates.
 - [CertMagic](https://github.com/caddyserver/certmagic) ⭐ 5613 - Updated Oct 2026: Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal.
-- [Coraza](https://github.com/corazawaf/coraza) ⭐ 3937 - Updated Oct 2026: Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
+- [Coraza](https://github.com/corazawaf/coraza) ⭐ 3949 - Updated Oct 2026: Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
 - [dongle](https://github.com/golang-module/dongle) ⭐ 1104 - Updated Oct 2026: A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption.
 - [dotlock](https://github.com/ahmadraza100/dotlock) ⭐ 4 - Updated May 2026: Encrypted .env vault manager with interactive TUI for managing secrets across multiple environments and profiles.
 - [encid](https://github.com/bobg/encid) ⭐ 7 - Updated Oct 2026: Encode and decode encrypted integer IDs.
@@ -2039,7 +2039,7 @@ _Libraries that are used to help make your application more secure._
 - [gspy](https://github.com/Mutasem-mk4/gspy) ⭐ 1 - Updated Oct 2026: Forensic goroutine-to-syscall inspector for live Go processes.
 - [Interpol](https://github.com/avahidi/interpol) ⭐ 7 - Updated Jul 2025: Rule-based data generator for fuzzing and penetration testing.
 - [leakhound](https://github.com/nilpoona/leakhound) ⭐ 18 - Updated Sep 2026: Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs.
-- [lego](https://github.com/go-acme/lego) ⭐ 9962 - Updated Oct 2026: Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
+- [lego](https://github.com/go-acme/lego) ⭐ 9964 - Updated Oct 2026: Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
 - [luks.go](https://github.com/anatol/luks.go) ⭐ 99 - Updated Jun 2026: Pure Golang library to manage LUKS partitions.
 - [memguard](https://github.com/awnumar/memguard) ⭐ 2764 - Updated May 2026: A pure Go library for handling sensitive values in memory.
 - [multikey](https://github.com/adrianosela/multikey) ⭐ 13 - Updated May 2024: An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
@@ -2053,9 +2053,9 @@ _Libraries that are used to help make your application more secure._
 - [qrand](https://github.com/bitfield/qrand) ⭐ 18 - Updated Feb 2024: Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
 - [Razify](https://github.com/Hossiy21/razify) ⭐ 20 - Updated Jul 2026: CLI to scan, validate and audit .env files for leaked secrets and environment drift.
 - [redact](https://github.com/alesr/redact) ⭐ 2 - Updated Sep 2026: Redact sensitive information from slog-based logs using a configurable pipeline.
-- [SafeDep/vet](https://github.com/safedep/vet) ⭐ 1116 - Updated Oct 2026: Protect against malicious open source packages.
+- [SafeDep/vet](https://github.com/safedep/vet) ⭐ 1117 - Updated Oct 2026: Protect against malicious open source packages.
 - [secret](https://github.com/rsjethani/secret) ⭐ 33 - Updated Aug 2024: Prevent your secrets from leaking into logs, std\* etc.
-- [secure](https://github.com/unrolled/secure) ⭐ 2358 - Updated Oct 2026: HTTP middleware for Go that facilitates some quick security wins.
+- [secure](https://github.com/unrolled/secure) ⭐ 2359 - Updated Oct 2026: HTTP middleware for Go that facilitates some quick security wins.
 - [secureio](https://github.com/xaionaro-go/secureio) ⭐ 33 - Updated Jul 2025 - ⚠️ Archived: An keyexchanging+authenticating+encrypting wrapper and multiplexer for io.ReadWriteCloser based on XChaCha20-poly1305, ECDH and ED25519.
 - [simple-scrypt](https://github.com/elithrar/simple-scrypt) ⭐ 204 - Updated Aug 2026: Scrypt package with a simple, obvious API and automatic cost calibration built-in.
 - [ssh-vault](https://github.com/ssh-vault/ssh-vault) ⭐ 511 - Updated Oct 2026: encrypt/decrypt using ssh keys.
@@ -2074,16 +2074,16 @@ _Libraries and tools for binary serialization._
 - [binstruct](https://github.com/ghostiam/binstruct) ⭐ 114 - Updated Oct 2024: Golang binary decoder for mapping data into the structure.
 - [cbor](https://github.com/fxamacker/cbor) ⭐ 1097 - Updated Oct 2026: Small, safe, and easy CBOR encoding and decoding library.
 - [colfer](https://github.com/pascaldekloe/colfer) ⭐ 760 - Updated Feb 2026: Code generation for the Colfer binary format.
-- [csvutil](https://github.com/jszwec/csvutil) ⭐ 1035 - Updated Mar 2025: High Performance, idiomatic CSV record encoding and decoding to native Go structures.
+- [csvutil](https://github.com/jszwec/csvutil) ⭐ 1035 - Updated Oct 2026: High Performance, idiomatic CSV record encoding and decoding to native Go structures.
 - [elastic](https://github.com/epiclabs-io/elastic) ⭐ 25 - Updated Feb 2020: Convert slices, maps or any other unknown value across different types at run-time, no matter what.
 - [fixedwidth](https://github.com/huydang284/fixedwidth) ⭐ 9 - Updated Aug 2026: Fixed-width text formatting (UTF-8 supported).
 - [fwencoder](https://github.com/o1egl/fwencoder) ⭐ 27 - Updated Feb 2025: Fixed width file parser (encoding and decoding library) for Go.
 - [go-capnproto](https://github.com/glycerine/go-capnproto) ⭐ 286 - Updated Jan 2019: Cap'n Proto library and parser for go.
 - [go-codec](https://github.com/ugorji/go) ⭐ 1966 - Updated Sep 2026: High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support.
 - [go-csvlib](https://github.com/tiendc/go-csvlib) ⭐ 18 - Updated Sep 2024: High level and rich functionalities CSV serialization/deserialization library.
-- [goprotobuf](https://github.com/golang/protobuf) ⭐ 10077 - Updated Sep 2026: Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers.
+- [goprotobuf](https://github.com/golang/protobuf) ⭐ 10076 - Updated Sep 2026: Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers.
 - [gotiny](https://github.com/raszia/gotiny) ⭐ 21 - Updated Jan 2024: Efficient Go serialization library, gotiny is almost as fast as serialization libraries that generate code.
-- [jsoniter](https://github.com/json-iterator/go) ⭐ 13857 - Updated Sep 2022 - ⚠️ Archived: High-performance 100% compatible drop-in replacement of "encoding/json".
+- [jsoniter](https://github.com/json-iterator/go) ⭐ 13854 - Updated Sep 2022 - ⚠️ Archived: High-performance 100% compatible drop-in replacement of "encoding/json".
 - [mus-go](https://github.com/mus-format/mus-go) ⭐ 145 - Updated May 2026: MUS format serializer for Go.
 - [php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) ⭐ 170 - Updated Aug 2018: GoLang library for working with PHP session format and PHP Serialize/Unserialize functions.
 - [pletter](https://github.com/vimeda/pletter) ⭐ 20 - Updated Mar 2023: A standard way to wrap a proto message for message brokers.
@@ -2095,7 +2095,7 @@ _Libraries and tools for binary serialization._
 ## Server Applications
 
 - [algernon](https://github.com/xyproto/algernon) ⭐ 3031 - Updated Oct 2026: HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
-- [Caddy](https://github.com/caddyserver/caddy) ⭐ 78309 - Updated Oct 2026: Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
+- [Caddy](https://github.com/caddyserver/caddy) ⭐ 78354 - Updated Oct 2026: Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
 - [consul](https://www.consul.io/): Consul is a tool for service discovery, monitoring and configuration.
 - [cortex-tenant](https://github.com/blind-oracle/cortex-tenant) ⭐ 141 - Updated Jun 2026: Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels.
 - [devd](https://github.com/cortesi/devd) ⭐ 3474 - Updated Jun 2026: Local webserver for developers.
@@ -2105,29 +2105,29 @@ _Libraries and tools for binary serialization._
 - [Engity's Bifröst](https://bifroest.engity.org/): Highly customizable SSH server with several ways to authorize a user how to execute its session (local or in containers).
 - [etcd](https://github.com/etcd-io/etcd) ⭐ 52423 - Updated Oct 2026: Highly-available key value store for shared configuration and service discovery.
 - [Euterpe](https://github.com/ironsmile/euterpe) ⭐ 573 - Updated Jan 2026: Self-hosted music streaming server with built-in web UI and REST API.
-- [Fider](https://github.com/getfider/fider) ⭐ 4586 - Updated Oct 2026: Fider is an open platform to collect and organize customer feedback.
-- [Flagr](https://github.com/checkr/flagr) ⭐ 2611 - Updated Oct 2026: Flagr is an open-source feature flagging and A/B testing service.
+- [Fider](https://github.com/getfider/fider) ⭐ 4587 - Updated Oct 2026: Fider is an open platform to collect and organize customer feedback.
+- [Flagr](https://github.com/checkr/flagr) ⭐ 2610 - Updated Oct 2026: Flagr is an open-source feature flagging and A/B testing service.
 - [flipt](https://github.com/markphelps/flipt) ⭐ 4926 - Updated Oct 2026: A self contained feature flag solution written in Go and Vue.js
-- [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ⭐ 2125 - Updated Oct 2026: A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
+- [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) ⭐ 2124 - Updated Oct 2026: A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
 - [go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) ⭐ 153 - Updated Oct 2026: Simple Reverse Proxy with Caching, written in Go, using Redis.
 - [gondola](https://github.com/bmf-san/gondola) ⭐ 11 - Updated Jun 2026: A YAML based golang reverse proxy.
 - [goshs](https://github.com/patrickhener/goshs) ⭐ 995 - Updated Oct 2026: SimpleHTTPServer replacement with file upload/download, WebDAV, SFTP, SMB, TLS, authentication, and share links.
 - [Kono](https://github.com/starwalkn/kono) ⭐ 24 - Updated Oct 2026: lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.
 - [lets-proxy2](https://github.com/rekby/lets-proxy2) ⭐ 102 - Updated Apr 2024: Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
-- [minio](https://github.com/minio/minio) ⭐ 61305 - Updated Feb 2026 - ⚠️ Archived: Minio is a distributed object storage server.
+- [minio](https://github.com/minio/minio) ⭐ 61299 - Updated Feb 2026 - ⚠️ Archived: Minio is a distributed object storage server.
 - [Moxy](https://github.com/sinhashubham95/moxy) ⭐ 15 - Updated May 2022: Moxy is a simple mocker and proxy application server, you can create mock endpoints as well as proxy requests in case no mock exists for the endpoint.
 - [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) ⭐ 43 - Updated Oct 2026: Nginx log parser and exporter to Prometheus.
 - [nsq](https://nsq.io/): A realtime distributed messaging platform.
 - [OpenRun](https://github.com/openrundev/openrun) ⭐ 986 - Updated Oct 2026: Open-source alternative to Google Cloud Run and AWS App Runner. Easily deploy internal tools across a team.
-- [pocketbase](https://github.com/pocketbase/pocketbase) ⭐ 61560 - Updated Oct 2026: PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
+- [pocketbase](https://github.com/pocketbase/pocketbase) ⭐ 61585 - Updated Oct 2026: PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management and much more.
 - [protoxy](https://github.com/camgraff/protoxy) ⭐ 36 - Updated Nov 2020: A proxy server that converts JSON request bodies to Protocol Buffers.
 - [psql-streamer](https://github.com/blind-oracle/psql-streamer) ⭐ 61 - Updated Mar 2020: Stream database events from PostgreSQL to Kafka.
 - [riemann-relay](https://github.com/blind-oracle/riemann-relay) ⭐ 2 - Updated Oct 2019: Relay to load-balance Riemann events and/or convert them to Carbon.
-- [RoadRunner](https://github.com/spiral/roadrunner) ⭐ 8523 - Updated Oct 2026: High-performance PHP application server, load-balancer and process manager.
-- [SFTPGo](https://github.com/drakkan/sftpgo) ⭐ 12693 - Updated Oct 2026: Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
+- [RoadRunner](https://github.com/spiral/roadrunner) ⭐ 8525 - Updated Oct 2026: High-performance PHP application server, load-balancer and process manager.
+- [SFTPGo](https://github.com/drakkan/sftpgo) ⭐ 12701 - Updated Oct 2026: Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
 - [Trickster](https://github.com/tricksterproxy/trickster) ⭐ 2092 - Updated Oct 2026: HTTP reverse proxy cache and time series accelerator.
 - [wd-41](https://github.com/baalimago/wd-41) ⭐ 153 - Updated Jan 2026: A (w)eb (d)evelopment server with automatic live-reload on file changes.
-- [Wish](https://github.com/charmbracelet/wish) ⭐ 5565 - Updated Oct 2026: Make SSH apps, just like that!
+- [Wish](https://github.com/charmbracelet/wish) ⭐ 5571 - Updated Oct 2026: Make SSH apps, just like that!
 - [Kono](https://github.com/starwalkn/kono) ⭐ 24 - Updated Oct 2026: lightweight extendable API Gateway in Go - parallel fan-out, flexible aggregation, and zero configuration magic.
 
 ---
@@ -2135,13 +2135,13 @@ _Libraries and tools for binary serialization._
 _Libraries and tools for stream processing and reactive programming._
 
 - [go-etl](https://github.com/Breeze0806/go-etl) ⭐ 191 - Updated Jun 2026: A lightweight toolkit for data source extraction, transformation, and loading (ETL).
-- [go-streams](https://github.com/reugn/go-streams) ⭐ 2177 - Updated Jan 2026: Go stream processing library.
+- [go-streams](https://github.com/reugn/go-streams) ⭐ 2176 - Updated Jan 2026: Go stream processing library.
 - [goio](https://github.com/primetalk/goio) ⭐ 89 - Updated Oct 2026: An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2.
 - [gostream](https://github.com/mariomac/gostream) ⭐ 173 - Updated Oct 2026: Type-safe stream processing library inspired by the Java Streams API.
 - [machine](https://github.com/whitaker-io/machine) ⭐ 167 - Updated Apr 2024: Go library for writing and generating stream workers with built in metrics and traceability.
 - [nibbler](https://github.com/naughtygopher/nibbler) ⭐ 17 - Updated Dec 2025: A lightweight package for micro batch processing.
 - [ro](https://github.com/samber/ro) ⭐ 694 - Updated Oct 2026: Reactive Programming: declarative and composable API for event-driven applications.
-- [signals](https://github.com/coregx/signals) ⭐ 21 - Updated Aug 2026: Type-safe reactive state management inspired by Angular Signals with computed values, effects, and dependency tracking.
+- [signals](https://github.com/coregx/signals) ⭐ 22 - Updated Aug 2026: Type-safe reactive state management inspired by Angular Signals with computed values, effects, and dependency tracking.
 - [stream](https://github.com/youthlin/stream) ⭐ 92 - Updated Feb 2024: Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...
 - [StreamSQL](https://github.com/rulego/streamsql) ⭐ 63 - Updated Sep 2026: A lightweight streaming SQL engine for real-time data processing.
 
@@ -2149,7 +2149,7 @@ _Libraries and tools for stream processing and reactive programming._
 ## Template Engines
 _Libraries and tools for templating and lexing._
 
-- [bagme](https://github.com/boxesandglue/bagme) ⭐ 114 - Updated Oct 2026: HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.
+- [bagme](https://github.com/boxesandglue/bagme) ⭐ 115 - Updated Oct 2026: HTML/CSS to PDF rendering with TeX-quality typesetting in pure Go.
 - [ego](https://github.com/benbjohnson/ego) ⭐ 588 - Updated Jul 2021: Lightweight templating language that lets you write templates in Go. Templates are translated into Go and compiled.
 - [fasttemplate](https://github.com/valyala/fasttemplate) ⭐ 915 - Updated Oct 2022: Simple and fast template engine. Substitutes template placeholders up to 10x faster than text/template.
 - [gomponents](https://www.gomponents.com): HTML 5 components in pure Go, that look something like this: func(name string) g.Node { return Div(Class("headline"), g.Textf("Hi %v!", name)) }.
@@ -2159,14 +2159,14 @@ _Libraries and tools for templating and lexing._
 - [htmgo](https://htmgo.dev): build simple and scalable systems with go + htmx
 - [jet](https://github.com/CloudyKit/jet) ⭐ 1409 - Updated Sep 2026: Jet template engine.
 - [liquid](https://github.com/osteele/liquid) ⭐ 358 - Updated Aug 2026: Go implementation of Shopify Liquid templates.
-- [maroto](https://github.com/johnfercher/maroto) ⭐ 2772 - Updated Oct 2026: A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
+- [maroto](https://github.com/johnfercher/maroto) ⭐ 2773 - Updated Oct 2026: A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
 - [pongo2](https://github.com/flosch/pongo2) ⭐ 3081 - Updated Mar 2026: Django-like template-engine for Go.
 - [quicktemplate](https://github.com/valyala/quicktemplate) ⭐ 3325 - Updated Jul 2024: Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it.
 - [Razor](https://github.com/sipin/gorazor) ⭐ 885 - Updated Sep 2026: Razor view engine for Golang.
 - [Soy](https://github.com/robfig/soy) ⭐ 176 - Updated Mar 2024: Closure templates (aka Soy templates) for Go, following the official spec.
 - [sprout](https://github.com/go-sprout/sprout) ⭐ 233 - Updated Oct 2026: Useful template functions for Go templates.
 - [tbd](https://github.com/lucasepe/tbd) ⭐ 26 - Updated Aug 2021: A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
-- [templ](https://github.com/a-h/templ) ⭐ 10589 - Updated Oct 2026: A HTML templating language that has great developer tooling.
+- [templ](https://github.com/a-h/templ) ⭐ 10591 - Updated Oct 2026: A HTML templating language that has great developer tooling.
 - [templator](https://github.com/alesr/templator) ⭐ 13 - Updated Sep 2026: A type-safe HTML template rendering engine for Go.
 
 ---
@@ -2212,7 +2212,7 @@ _Libraries for testing codebases and generating test data._
 - [gocheck](https://labix.org/gocheck): More advanced testing framework alternative to gotest.
 - [GoConvey](https://github.com/smartystreets/goconvey/) ⭐ 8399 - Updated Mar 2024: BDD-style framework with web UI and live reload.
 - [gocrest](https://github.com/corbym/gocrest) ⭐ 107 - Updated Sep 2026: Composable hamcrest-like matchers for Go assertions.
-- [godog](https://github.com/cucumber/godog) ⭐ 2684 - Updated Oct 2026: Cucumber BDD framework for Go.
+- [godog](https://github.com/cucumber/godog) ⭐ 2685 - Updated Oct 2026: Cucumber BDD framework for Go.
 - [gofight](https://github.com/appleboy/gofight) ⭐ 445 - Updated Sep 2026: API Handler Testing for Golang Router framework.
 - [gogiven](https://github.com/corbym/gogiven) ⭐ 17 - Updated May 2026: YATSPEC-like BDD testing framework for Go.
 - [gomatch](https://github.com/jfilipczyk/gomatch) ⭐ 47 - Updated Jan 2021: library created for testing JSON against patterns.
@@ -2226,17 +2226,17 @@ _Libraries for testing codebases and generating test data._
 - [httpexpect](https://github.com/gavv/httpexpect) ⭐ 2723 - Updated Jun 2025: Concise, declarative, and easy to use end-to-end HTTP and REST API testing.
 - [is](https://github.com/matryer/is) ⭐ 1973 - Updated May 2023: Professional lightweight testing mini-framework for Go.
 - [jsonassert](https://github.com/kinbiko/jsonassert) ⭐ 144 - Updated Sep 2026: Package for verifying that your JSON payloads are serialized correctly.
-- [keploy](https://github.com/keploy/keploy) ⭐ 18712 - Updated Oct 2026: Generate Testcase and Data Mocks from API calls automatically.
+- [keploy](https://github.com/keploy/keploy) ⭐ 18727 - Updated Oct 2026: Generate Testcase and Data Mocks from API calls automatically.
 - [omg.testingtools](https://github.com/dedalqq/omg.testingtools) ⭐ 1 - Updated Oct 2021: The simple library for change a values of private fields for testing.
 - [restit](https://github.com/yookoala/restit) ⭐ 54 - Updated Jun 2024: Go micro framework to help writing RESTful API integration test.
 - [schema](https://github.com/jgroeneveld/schema) ⭐ 20 - Updated Oct 2019: Quick and easy expression matching for JSON schemas used in requests and responses.
 - [should](https://github.com/Kairum-Labs/should) ⭐ 48 - Updated Aug 2026: Testing library with zero dependencies, detailed struct diffs and human-readable error messages.
 - [stop-and-go](https://github.com/elgohr/stop-and-go) ⭐ 13 - Updated Aug 2026: Testing helper for concurrency.
-- [testcase](https://github.com/adamluzsi/testcase) ⭐ 133 - Updated Sep 2026: Idiomatic testing framework for Behavior Driven Development.
+- [testcase](https://github.com/adamluzsi/testcase) ⭐ 133 - Updated Oct 2026: Idiomatic testing framework for Behavior Driven Development.
 - [testcerts](https://github.com/madflojo/testcerts) ⭐ 84 - Updated Oct 2026: Dynamically generate self-signed certificates and certificate authorities within your test functions.
-- [testcontainers-go](https://github.com/testcontainers/testcontainers-go) ⭐ 5019 - Updated Oct 2026: A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
+- [testcontainers-go](https://github.com/testcontainers/testcontainers-go) ⭐ 5018 - Updated Oct 2026: A Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
 - [testfixtures](https://github.com/go-testfixtures/testfixtures) ⭐ 1239 - Updated Jul 2026: A helper for Rails' like test fixtures to test database applications.
-- [Testify](https://github.com/stretchr/testify) ⭐ 26227 - Updated Sep 2026: Sacred extension to the standard go testing package.
+- [Testify](https://github.com/stretchr/testify) ⭐ 26229 - Updated Sep 2026: Sacred extension to the standard go testing package.
 - [Testo](https://github.com/ozontech/testo) ⭐ 186 - Updated Oct 2026: Plugin-based testing framework with suites, parallel tests, hooks and parametrization. Inspired by Pytest.
 - [testsql](https://github.com/zhulongcheng/testsql) ⭐ 17 - Updated Sep 2019: Generate test data from SQL files before testing and clear it after finished.
 - [testza](https://github.com/MarvinJWendt/testza) ⭐ 416 - Updated Feb 2023: Full-featured test framework with nice colorized output.
@@ -2255,7 +2255,7 @@ _Libraries for testing codebases and generating test data._
 - [gomock](https://github.com/uber-go/mock) ⭐ 3424 - Updated Aug 2026: Mocking framework for the Go programming language.
 - [gomock](https://github.com/vibridi/gomock) ⭐ 7 - Updated Apr 2026: CLI tool to generate typed and framework-agnostic interface mocks, with support for generics.
 - [govcr](https://github.com/seborama/govcr) ⭐ 200 - Updated Apr 2026: HTTP mock for Golang: record and replay HTTP interactions for offline testing.
-- [hoverfly](https://github.com/SpectoLabs/hoverfly) ⭐ 2527 - Updated Oct 2026: HTTP(S) proxy for recording and simulating REST/SOAP APIs with extensible middleware and easy-to-use CLI.
+- [hoverfly](https://github.com/SpectoLabs/hoverfly) ⭐ 2528 - Updated Oct 2026: HTTP(S) proxy for recording and simulating REST/SOAP APIs with extensible middleware and easy-to-use CLI.
 - [httpmock](https://github.com/jarcoal/httpmock) ⭐ 2078 - Updated Oct 2026: Easy mocking of HTTP responses from external resources.
 - [minimock](https://github.com/gojuno/minimock) ⭐ 752 - Updated Jul 2026: Mock generator for Go interfaces.
 - [mockery](https://github.com/vektra/mockery) ⭐ 7169 - Updated Oct 2026: Tool to generate Go interfaces.
@@ -2275,9 +2275,9 @@ _Libraries for testing codebases and generating test data._
 
 - [bonk](https://github.com/joakimcarlsson/bonk) ⭐ 15 - Updated Jul 2026: Fast, stealth-first browser automation library using Chrome DevTools Protocol over WebSocket with no external dependencies.
 - [cdp](https://github.com/mafredri/cdp) ⭐ 795 - Updated Dec 2025: Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.
-- [chromedp](https://github.com/knq/chromedp) ⭐ 13332 - Updated Oct 2026: a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
-- [playwright-go](https://github.com/mxschmitt/playwright-go) ⭐ 3528 - Updated Sep 2026: browser automation library to control Chromium, Firefox and WebKit with a single API.
-- [rod](https://github.com/go-rod/rod) ⭐ 7138 - Updated Aug 2026: A Devtools driver to make web automation and scraping easy.
+- [chromedp](https://github.com/knq/chromedp) ⭐ 13336 - Updated Oct 2026: a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
+- [playwright-go](https://github.com/mxschmitt/playwright-go) ⭐ 3530 - Updated Sep 2026: browser automation library to control Chromium, Firefox and WebKit with a single API.
+- [rod](https://github.com/go-rod/rod) ⭐ 7136 - Updated Aug 2026: A Devtools driver to make web automation and scraping easy.
 - [selenosis](https://github.com/alcounit/selenosis) ⭐ 95 - Updated Oct 2026: Stateless Kubernetes-native hub that routes Selenium, Playwright, and MCP sessions to on-demand browser pods via custom resources.
 ### Fail injection
 
@@ -2292,7 +2292,7 @@ _Libraries for parsing and manipulating texts._
 - [align](https://github.com/Guitarbum722/align) ⭐ 84 - Updated Sep 2021: A general purpose application that aligns text.
 - [bytes](https://github.com/labstack/gommon/tree/master/bytes): Formats and parses numeric byte values (10K, 2M, 3G, etc.).
 - [go-fixedwidth](https://github.com/ianlopshire/go-fixedwidth) ⭐ 87 - Updated Feb 2024: Fixed-width text formatting (encoder/decoder with reflection).
-- [go-humanize](https://github.com/dustin/go-humanize) ⭐ 4845 - Updated Oct 2026: Formatters for time, numbers, and memory size to human readable format.
+- [go-humanize](https://github.com/dustin/go-humanize) ⭐ 4846 - Updated Oct 2026: Formatters for time, numbers, and memory size to human readable format.
 - [gotabulate](https://github.com/bndr/gotabulate) ⭐ 336 - Updated Feb 2021: Easily pretty-print your tabular data with Go.
 - [sq](https://github.com/neilotoole/sq) ⭐ 2573 - Updated Oct 2026: Convert data from SQL databases or document formats like CSV or Excel into formats such as JSON, Excel, CSV, HTML, Markdown, XML, and YAML.
 - [textwrap](https://github.com/isbm/textwrap) ⭐ 7 - Updated Jul 2019: Wraps text at end of lines. Implementation of textwrap module from Python.
@@ -2300,18 +2300,18 @@ _Libraries for parsing and manipulating texts._
 
 - [bafi](https://github.com/mmalcek/bafi) ⭐ 118 - Updated Oct 2026: Universal JSON, BSON, YAML, XML translator to ANY format using templates.
 - [bbConvert](https://github.com/CalebQ42/bbConvert) ⭐ 11 - Updated Dec 2024: Converts bbCode to HTML that allows you to add support for custom bbCode tags.
-- [blackfriday](https://github.com/russross/blackfriday) ⭐ 5593 - Updated Oct 2020: Markdown processor in Go.
+- [blackfriday](https://github.com/russross/blackfriday) ⭐ 5594 - Updated Oct 2020: Markdown processor in Go.
 - [go-output-format](https://github.com/drewstinnett/go-output-format) ⭐ 18 - Updated Feb 2024: Output go structures into multiple formats (YAML/JSON/etc) in your command line app.
 - [go-toml](https://github.com/pelletier/go-toml) ⭐ 1998 - Updated Jul 2026: Go library for the TOML format with query support and handy cli tools.
-- [goldmark](https://github.com/yuin/goldmark) ⭐ 5073 - Updated Oct 2026: A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured.
+- [goldmark](https://github.com/yuin/goldmark) ⭐ 5077 - Updated Oct 2026: A Markdown parser written in Go. Easy to extend, standard (CommonMark) compliant, well structured.
 - [goq](https://github.com/andrewstuart/goq) ⭐ 269 - Updated Sep 2021: Declarative unmarshalling of HTML using struct tags with jQuery syntax (uses GoQuery).
-- [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ⭐ 3836 - Updated Jun 2026: Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
+- [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ⭐ 3837 - Updated Jun 2026: Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [htmlquery](https://github.com/antchfx/htmlquery) ⭐ 783 - Updated Oct 2026: An XPath query package for HTML, lets you extract data or evaluate from HTML documents by an XPath expression.
 - [htmlyaml](https://github.com/nikolaydubina/htmlyaml) ⭐ 6 - Updated Aug 2026: Rich rendering of YAML as HTML in Go.
 - [htree](https://github.com/bobg/htree) ⭐ 5 - Updated Dec 2025: Traverse, navigate, filter, and otherwise process trees of html.Node objects.
 - [mdsmith](https://github.com/jeduden/mdsmith) ⭐ 20 - Updated Oct 2026: fast, auto-fixing Markdown linter and formatter. Checks style, readability, structure, and cross-file integrity.
 - [mxj](https://github.com/clbanning/mxj) ⭐ 627 - Updated Aug 2025: Encode / decode XML as JSON or map[string]interface{}; extract values with dot-notation paths and wildcards. Replaces x2j and j2x packages.
-- [toml](https://github.com/BurntSushi/toml) ⭐ 5026 - Updated Aug 2026: TOML configuration format (encoder/decoder with reflection).
+- [toml](https://github.com/BurntSushi/toml) ⭐ 5027 - Updated Aug 2026: TOML configuration format (encoder/decoder with reflection).
 ### Parsers/Encoders/Decoders
 
 - [allot](https://github.com/sbstjn/allot) ⭐ 60 - Updated Oct 2016: Placeholder and wildcard text parsing for CLI tools and bots.
@@ -2334,14 +2334,14 @@ _Libraries for parsing and manipulating texts._
 - [normalize](https://github.com/avito-tech/normalize) ⭐ 53 - Updated Mar 2021: Sanitize, normalize and compare fuzzy text.
 - [parseargs-go](https://github.com/nproc/parseargs-go) ⭐ 11 - Updated Jan 2017: string argument parser that understands quotes and backslashes.
 - [prattle](https://github.com/askeladdk/prattle) ⭐ 10 - Updated Oct 2025: Scan and parse LL(1) grammars simply and efficiently.
-- [sh](https://github.com/mvdan/sh) ⭐ 9147 - Updated Oct 2026: Shell parser and formatter.
-- [tokenizer](https://github.com/bzick/tokenizer) ⭐ 142 - Updated Jul 2026: Parse any string, slice or infinite buffer to any tokens.
+- [sh](https://github.com/mvdan/sh) ⭐ 9149 - Updated Oct 2026: Shell parser and formatter.
+- [tokenizer](https://github.com/bzick/tokenizer) ⭐ 142 - Updated Oct 2026: Parse any string, slice or infinite buffer to any tokens.
 - [vdf](https://github.com/andygrunwald/vdf) ⭐ 68 - Updated Oct 2026: A Lexer and Parser for Valves Data Format (known as vdf) written in Go.
-- [when](https://github.com/olebedev/when) ⭐ 1465 - Updated Oct 2026: Natural EN and RU language date/time parser with pluggable rules.
+- [when](https://github.com/olebedev/when) ⭐ 1464 - Updated Oct 2026: Natural EN and RU language date/time parser with pluggable rules.
 - [xj2go](https://github.com/stackerzzq/xj2go) ⭐ 36 - Updated Oct 2021: Convert xml or json to go struct.
 ### Regular Expressions
 
-- [coregex](https://github.com/coregx/coregex) ⭐ 270 - Updated Oct 2026: Production regex engine with Rust regex-crate architecture: multi-engine DFA/NFA, SIMD prefilters, drop-in stdlib replacement.
+- [coregex](https://github.com/coregx/coregex) ⭐ 284 - Updated Oct 2026: Production regex engine with Rust regex-crate architecture: multi-engine DFA/NFA, SIMD prefilters, drop-in stdlib replacement.
 - [genex](https://github.com/alixaxel/genex) ⭐ 77 - Updated Jan 2020: Count and expand Regular Expressions into all matching Strings.
 - [go-wildcard](https://github.com/IGLOU-EU/go-wildcard) ⭐ 103 - Updated May 2026: Simple and lightweight wildcard pattern matching.
 - [goregen](https://github.com/zach-klippenstein/goregen) ⭐ 92 - Updated Mar 2016: Library for generating random strings from regular expressions.
@@ -2353,11 +2353,11 @@ _Libraries for parsing and manipulating texts._
 - [gofuckyourself](https://github.com/JoshuaDoes/gofuckyourself) ⭐ 71 - Updated Jun 2025: A sanitization-based swear filter for Go.
 ### Scrapers
 
-- [colly](https://github.com/asciimoo/colly) ⭐ 25565 - Updated Oct 2026: Fast and Elegant Scraping Framework for Gophers.
+- [colly](https://github.com/asciimoo/colly) ⭐ 25567 - Updated Oct 2026: Fast and Elegant Scraping Framework for Gophers.
 - [dataflowkit](https://github.com/slotix/dataflowkit) ⭐ 714 - Updated Jun 2020: Web scraping Framework to turn websites into structured data.
 - [go-recipe](https://github.com/kkyr/go-recipe) ⭐ 33 - Updated Mar 2023: A package for scraping recipes from websites.
 - [go-sitemap-parser](https://github.com/aafeher/go-sitemap-parser) ⭐ 8 - Updated Oct 2026: Go language library for parsing Sitemaps.
-- [GoQuery](https://github.com/PuerkitoBio/goquery) ⭐ 14989 - Updated Oct 2026: GoQuery brings a syntax and a set of features similar to jQuery to the Go language.
+- [GoQuery](https://github.com/PuerkitoBio/goquery) ⭐ 14988 - Updated Oct 2026: GoQuery brings a syntax and a set of features similar to jQuery to the Go language.
 - [pagser](https://github.com/foolin/pagser) ⭐ 112 - Updated Oct 2023: Pagser is a simple, extensible, configurable parse and deserialize html page to struct based on goquery and struct tags for golang crawler.
 - [Tagify](https://github.com/zoomio/tagify) ⭐ 39 - Updated Jul 2024: Produces a set of tags from given source.
 - [walker](https://github.com/cyucelen/walker) ⭐ 16 - Updated Feb 2023: Seamlessly fetch paginated data from any source. Simple and high performance API scraping included.
@@ -2385,27 +2385,27 @@ _Libraries for accessing third party APIs._
 - [anaconda](https://github.com/ChimeraCoder/anaconda) ⭐ 1136 - Updated Oct 2018: Go client library for the Twitter 1.1 API.
 - [appstore-sdk-go](https://github.com/Kachit/appstore-sdk-go) ⭐ 6 - Updated Jan 2024: Unofficial Golang SDK for AppStore Connect API.
 - [aws-encryption-sdk-go](https://github.com/chainifynet/aws-encryption-sdk-go) ⭐ 23 - Updated Jun 2025: Unofficial Go SDK implementation of the AWS Encryption SDK.
-- [aws-sdk-go](https://github.com/aws/aws-sdk-go-v2) ⭐ 3669 - Updated Oct 2026: The official AWS SDK for the Go programming language.
+- [aws-sdk-go](https://github.com/aws/aws-sdk-go-v2) ⭐ 3671 - Updated Oct 2026: The official AWS SDK for the Go programming language.
 - [bqwriter](https://github.com/OTA-Insight/bqwriter) ⭐ 16 - Updated Sep 2023: High Level Go Library to write data into Google BigQuery at a high throughout.
 - [brewerydb](https://github.com/naegelejd/brewerydb) ⭐ 20 - Updated Jun 2015: Go library for accessing the BreweryDB API.
 - [cachet](https://github.com/andygrunwald/cachet) ⭐ 90 - Updated Jun 2021: Go client library for Cachet (open source status page system).
 - [circleci](https://github.com/jszwedko/go-circleci) ⭐ 66 - Updated Jan 2024: Go client library for interacting with CircleCI's API.
 - [clarifai](https://github.com/samuelcouch/clarifai): Go client library for interfacing with the Clarifai API.
 - [codeship-go](https://github.com/codeship/codeship-go) ⭐ 18 - Updated Nov 2020: Go client library for interacting with Codeship's API v2.
-- [coinpaprika-go](https://github.com/coinpaprika/coinpaprika-api-go-client) ⭐ 51 - Updated Oct 2026: Go client library for interacting with Coinpaprika's API.
+- [coinpaprika-go](https://github.com/coinpaprika/coinpaprika-api-go-client) ⭐ 53 - Updated Oct 2026: Go client library for interacting with Coinpaprika's API.
 - [colony-sdk-go](https://github.com/TheColonyCC/colony-sdk-go) ⭐ 1 - Updated Oct 2026: Go client library for The Colony — a public social network whose users are AI agents.
 - [device-check-go](https://github.com/rinchsan/device-check-go) ⭐ 27 - Updated Sep 2023: Go client library for interacting with iOS DeviceCheck API v1.
 - [discordgo](https://github.com/bwmarrin/discordgo) ⭐ 5991 - Updated Feb 2026: Go bindings for the Discord Chat API.
 - [disgo](https://github.com/switchupcb/disgo) ⭐ 116 - Updated Mar 2025: Go API Wrapper for the Discord API.
 - [dusupay-sdk-go](https://github.com/Kachit/dusupay-sdk-go) ⭐ 4 - Updated Dec 2022: Unofficial Dusupay payment gateway API Client for Go
 - [ethrpc](https://github.com/onrik/ethrpc) ⭐ 271 - Updated Jun 2023: Go bindings for Ethereum JSON RPC API.
-- [facebook](https://github.com/huandu/facebook) ⭐ 1490 - Updated Aug 2026: Go Library that supports the Facebook Graph API.
+- [facebook](https://github.com/huandu/facebook) ⭐ 1489 - Updated Aug 2026: Go Library that supports the Facebook Graph API.
 - [fasapay-sdk-go](https://github.com/Kachit/fasapay-sdk-go) ⭐ 2 - Updated Jun 2022: Unofficial Fasapay payment gateway XML API Client for Golang.
 - [fcm](https://github.com/maddevsio/fcm) ⭐ 52 - Updated Mar 2020: Go library for Firebase Cloud Messaging.
 - [gads](https://github.com/emiddleton/gads) ⭐ 51 - Updated Sep 2015: Google Adwords Unofficial API.
 - [gcm](https://github.com/Aorioli/gcm) ⭐ 31 - Updated Dec 2015: Go library for Google Cloud Messaging.
 - [geo-golang](https://github.com/codingsince1985/geo-golang) ⭐ 547 - Updated Apr 2026: Go Library to access Google Maps, MapQuest, Nominatim, OpenCage, Bing, Mapbox, and OpenStreetMap geocoding / reverse geocoding APIs.
-- [github](https://github.com/google/go-github) ⭐ 11327 - Updated Oct 2026: Go library for accessing the GitHub REST API v3.
+- [github](https://github.com/google/go-github) ⭐ 11326 - Updated Oct 2026: Go library for accessing the GitHub REST API v3.
 - [githubql](https://github.com/shurcooL/githubql) ⭐ 1202 - Updated Feb 2026: Go library for accessing the GitHub GraphQL API v4.
 - [go-atlassian](https://github.com/ctreminiom/go-atlassian) ⭐ 217 - Updated Oct 2026: Go library for accessing the Atlassian Cloud services (Jira, Jira Service Management, Jira Agile, Confluence, Admin Cloud)
 - [go-aws-news](https://github.com/circa10a/go-aws-news) ⭐ 19 - Updated Sep 2026: Go application and library to fetch what's new from AWS.
@@ -2419,7 +2419,7 @@ _Libraries for accessing third party APIs._
 - [go-lark](https://github.com/go-lark/lark) ⭐ 248 - Updated May 2026: An easy-to-use unofficial SDK for Feishu and Lark Open Platform.
 - [go-marathon](https://github.com/gambol99/go-marathon) ⭐ 198 - Updated Jan 2020: Go library for interacting with Mesosphere's Marathon PAAS.
 - [go-myanimelist](https://github.com/nstratos/go-myanimelist) ⭐ 46 - Updated May 2026: Go client library for accessing the MyAnimeList API.
-- [go-openai](https://github.com/sashabaranov/go-openai) ⭐ 10787 - Updated Sep 2026: OpenAI ChatGPT, DALL·E, Whisper API library for Go.
+- [go-openai](https://github.com/sashabaranov/go-openai) ⭐ 10790 - Updated Sep 2026: OpenAI ChatGPT, DALL·E, Whisper API library for Go.
 - [go-openproject](https://github.com/manuelbcd/go-openproject) ⭐ 19 - Updated Nov 2022: Go client library for interacting with OpenProject API.
 - [go-postman-collection](https://github.com/rbretecher/go-postman-collection) ⭐ 85 - Updated Sep 2022: Go module to work with Postman Collections (compatible with Insomnia).
 - [go-redoc](https://github.com/mvrilo/go-redoc) ⭐ 95 - Updated Feb 2025: Embedded OpenAPI/Swagger documentation ui for Go using ReDoc.
@@ -2442,7 +2442,7 @@ _Libraries for accessing third party APIs._
 - [GoMusicBrainz](https://github.com/michiwend/gomusicbrainz) ⭐ 62 - Updated Oct 2018: Go MusicBrainz WS2 client library.
 - [google](https://github.com/google/google-api-go-client) ⭐ 4489 - Updated Oct 2026: Auto-generated Google APIs for Go.
 - [google-analytics](https://github.com/chonthu/go-google-analytics) ⭐ 15 - Updated May 2015: Simple wrapper for easy google analytics reporting.
-- [google-cloud](https://github.com/GoogleCloudPlatform/gcloud-golang) ⭐ 4523 - Updated Oct 2026: Google Cloud APIs Go Client Library.
+- [google-cloud](https://github.com/GoogleCloudPlatform/gcloud-golang) ⭐ 4522 - Updated Oct 2026: Google Cloud APIs Go Client Library.
 - [gopaapi5](https://github.com/utekaravinash/gopaapi5) ⭐ 16 - Updated Apr 2020: Go Client Library for Amazon Product Advertising API 5.0.
 - [gopensky](https://github.com/navidys/gopensky) ⭐ 4 - Updated Aug 2026: Go client implementation for OpenSKY Network live's API (airspace ADS-B and Mode S data).
 - [gosip](https://github.com/koltyakov/gosip) ⭐ 171 - Updated Jan 2026: Client library for SharePoint.
@@ -2458,7 +2458,7 @@ _Libraries for accessing third party APIs._
 - [libopenapi](https://github.com/pb33f/libopenapi) ⭐ 882 - Updated Oct 2026: Parse, validate, and work with OpenAPI, Swagger, Overlays, and Arazzo specifications.
 - [Medium](https://github.com/Medium/medium-sdk-go) ⭐ 142 - Updated Dec 2017: Golang SDK for Medium's OAuth2 API.
 - [megos](https://github.com/andygrunwald/megos) ⭐ 54 - Updated Jun 2021: Client library for accessing an Apache Mesos cluster.
-- [minio-go](https://github.com/minio/minio-go) ⭐ 3011 - Updated Oct 2026: Minio Go Library for Amazon S3 compatible cloud storage.
+- [minio-go](https://github.com/minio/minio-go) ⭐ 3010 - Updated Oct 2026: Minio Go Library for Amazon S3 compatible cloud storage.
 - [mixpanel](https://github.com/dukex/mixpanel) ⭐ 61 - Updated Jan 2026 - ⚠️ Archived: Mixpanel is a library for tracking events and sending Mixpanel profile updates to Mixpanel from your go applications.
 - [newsapi-go](https://github.com/jellydator/newsapi-go) ⭐ 7 - Updated Sep 2025: Go client for NewsAPI.
 - [openaigo](https://github.com/otiai10/openaigo) ⭐ 295 - Updated May 2024 - ⚠️ Archived: OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.
@@ -2474,7 +2474,7 @@ _Libraries for accessing third party APIs._
 - [spec](https://github.com/oaswrap/spec) ⭐ 120 - Updated Oct 2026: Lightweight OpenAPI 3.x builder supporting static generation and popular frameworks like chi, echo, gin, fiber, mux and more.
 - [spotify](https://github.com/rapito/go-spotify) ⭐ 53 - Updated Sep 2024: Go Library to access Spotify WEB API.
 - [steam](https://github.com/sostronk/go-steam) ⭐ 33 - Updated Mar 2018: Go Library to interact with Steam game servers.
-- [stripe](https://github.com/stripe/stripe-go) ⭐ 2647 - Updated Oct 2026: Go client for the Stripe API.
+- [stripe](https://github.com/stripe/stripe-go) ⭐ 2648 - Updated Oct 2026: Go client for the Stripe API.
 - [swag](https://github.com/zc2638/swag) ⭐ 49 - Updated Apr 2024: No comments, simple go wrapper to create swagger 2.0 compatible APIs. Support most routing frameworks, such as built-in, gin, chi, mux, echo, httprouter, fasthttp and more.
 - [textbelt](https://github.com/dietsche/textbelt) ⭐ 21 - Updated Sep 2015: Go client for the textbelt.com txt messaging API.
 - [threads-go](https://github.com/tirthpatell/threads-go) ⭐ 9 - Updated Sep 2026: Go client library for the Meta Threads API with OAuth 2.0, rate limiting, and type-safe error handling.
@@ -2483,7 +2483,7 @@ _Libraries for accessing third party APIs._
 - [tumblr](https://github.com/mattcunningham/gumblr) ⭐ 8 - Updated Oct 2016: Go wrapper for the Tumblr v2 API.
 - [uptimerobot](https://github.com/bitfield/uptimerobot) ⭐ 59 - Updated Apr 2023: Go wrapper and command-line client for the Uptime Robot v2 API.
 - [vl-go](https://github.com/verifid/vl-go) ⭐ 2 - Updated May 2021: Go client library around the VerifID identity verification layer API.
-- [webhooks](https://github.com/go-playground/webhooks) ⭐ 1031 - Updated Jul 2024: Webhook receiver for GitHub and Bitbucket.
+- [webhooks](https://github.com/go-playground/webhooks) ⭐ 1030 - Updated Jul 2024: Webhook receiver for GitHub and Bitbucket.
 - [wit-go](https://github.com/wit-ai/wit-go) ⭐ 170 - Updated Sep 2025: Go client for wit.ai HTTP API.
 - [ynab](https://github.com/brunomvsouza/ynab.go) ⭐ 79 - Updated Oct 2026: Go wrapper for the YNAB API.
 - [zooz](https://github.com/gojuno/go-zooz) ⭐ 7 - Updated Jun 2018: Go client for the Zooz API.
@@ -2495,15 +2495,15 @@ _General utilities and tools to make your life easier._
 - [abstract](https://github.com/maxbolgarin/abstract) ⭐ 9 - Updated Jul 2026: Abstractions and utilities to get rid of boilerplate code in business logic.
 - [apm](https://github.com/topfreegames/apm) ⭐ 168 - Updated Nov 2016: Process manager for Golang applications with an HTTP API.
 - [backscanner](https://github.com/icza/backscanner) ⭐ 70 - Updated Oct 2026: A scanner similar to bufio.Scanner, but it reads and returns lines in reverse order, starting at a given position and going backward.
-- [bed](https://github.com/itchyny/bed) ⭐ 1344 - Updated Dec 2024: A Vim-like binary editor written in Go.
+- [bed](https://github.com/itchyny/bed) ⭐ 1344 - Updated Oct 2026: A Vim-like binary editor written in Go.
 - [blank](https://github.com/Henry-Sarabia/blank) ⭐ 14 - Updated Jul 2019: Verify or remove blanks and whitespace from strings.
 - [bleep](https://github.com/sinhashubham95/bleep) ⭐ 11 - Updated Jan 2021: Perform any number of actions on any set of OS signals in Go.
 - [boilr](https://github.com/tmrts/boilr) ⭐ 1768 - Updated Jul 2017: Blazingly fast CLI tool for creating projects from boilerplate templates.
 - [boring](https://github.com/alebeck/boring) ⭐ 1692 - Updated Oct 2026: Simple command-line SSH tunnel manager.
 - [changie](https://github.com/miniscruff/changie) ⭐ 919 - Updated Aug 2026: Automated changelog tool for preparing releases with lots of customization options.
 - [chyle](https://github.com/antham/chyle) ⭐ 164 - Updated Aug 2026: Changelog generator using a git repository with multiple configuration possibilities.
-- [circuit](https://github.com/cep21/circuit) ⭐ 815 - Updated Oct 2026: An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
-- [circuitbreaker](https://github.com/rubyist/circuitbreaker) ⭐ 1163 - Updated May 2024: Circuit Breakers in Go.
+- [circuit](https://github.com/cep21/circuit) ⭐ 814 - Updated Oct 2026: An efficient and feature complete Hystrix like Go implementation of the circuit breaker pattern.
+- [circuitbreaker](https://github.com/rubyist/circuitbreaker) ⭐ 1162 - Updated May 2024: Circuit Breakers in Go.
 - [clipboard](https://github.com/golang-design/clipboard) ⭐ 865 - Updated Sep 2026: 📋 cross-platform clipboard package in Go.
 - [clockwork](https://github.com/jonboulle/clockwork) ⭐ 729 - Updated Nov 2024: A simple fake clock for golang.
 - [cmd](https://github.com/SimonBaeumer/cmd) ⭐ 161 - Updated Jan 2024: Library for executing shell commands on osx, windows and linux.
@@ -2515,14 +2515,14 @@ _General utilities and tools to make your life easier._
 - [countries](https://github.com/pioz/countries) ⭐ 101 - Updated Dec 2025: All you need when you are working with countries in Go.
 - [create-go-app](https://github.com/create-go-app/cli) ⭐ 2773 - Updated Sep 2025: A powerful CLI for create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) & deploy automation (Ansible, Docker) by running one command.
 - [cryptgo](https://github.com/Gituser143/cryptgo) ⭐ 162 - Updated Oct 2021: Crytpgo is a TUI based application written purely in Go to monitor and observe cryptocurrency prices in real time!
-- [ctop](https://github.com/bcicen/ctop) ⭐ 17846 - Updated Aug 2022: Top-like interface (e.g. htop) for container metrics.
+- [ctop](https://github.com/bcicen/ctop) ⭐ 17845 - Updated Aug 2022: Top-like interface (e.g. htop) for container metrics.
 - [ctxutil](https://github.com/posener/ctxutil) ⭐ 26 - Updated Aug 2019: A collection of utility functions for contexts.
 - [cvt](https://github.com/shockerli/cvt) ⭐ 53 - Updated Nov 2024: Easy and safe convert any value to another type.
 - [dbt](https://github.com/nikogura/dbt) ⭐ 70 - Updated Oct 2026: A framework for running self-updating signed binaries from a central, trusted repository.
 - [Death](https://github.com/vrecan/death) ⭐ 199 - Updated Dec 2024: Managing go application shutdown with signals.
 - [debounce](https://github.com/floatdrop/debounce) ⭐ 36 - Updated Jun 2025: A zero-allocation debouncer written in Go.
 - [delve](https://github.com/derekparker/delve) ⭐ 660 - Updated Mar 2026: Go debugger.
-- [dive](https://github.com/wagoodman/dive) ⭐ 54664 - Updated May 2025: A tool for exploring each layer in a Docker image.
+- [dive](https://github.com/wagoodman/dive) ⭐ 54667 - Updated May 2025: A tool for exploring each layer in a Docker image.
 - [dlog](https://github.com/kirillDanshin/dlog) ⭐ 17 - Updated Jul 2017: Compile-time controlled logger to make your release smaller without removing debug calls.
 - [EaseProbe](https://github.com/megaease/easeprobe) ⭐ 2295 - Updated Oct 2026: A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification.
 - [equalizer](https://github.com/reugn/equalizer) ⭐ 89 - Updated Mar 2024: Quota manager and rate limiter collection for Go.
@@ -2532,7 +2532,7 @@ _General utilities and tools to make your life easier._
 - [filetype](https://github.com/h2non/filetype) ⭐ 2302 - Updated Jul 2026: Small package to infer the file type checking the magic numbers signature.
 - [filler](https://github.com/yaronsumel/filler) ⭐ 18 - Updated Apr 2017: small utility to fill structs using "fill" tag.
 - [filter](https://github.com/gookit/filter) ⭐ 151 - Updated Jul 2026: provide filtering, sanitizing, and conversion of Go data.
-- [fzf](https://github.com/junegunn/fzf) ⭐ 83737 - Updated Oct 2026: Command-line fuzzy finder written in Go.
+- [fzf](https://github.com/junegunn/fzf) ⭐ 83753 - Updated Oct 2026: Command-line fuzzy finder written in Go.
 - [generate](https://github.com/go-playground/generate) ⭐ 31 - Updated Jan 2017: runs go generate recursively on a specified path or environment variable and can filter by regex.
 - [ghokin](https://github.com/antham/ghokin) ⭐ 59 - Updated Oct 2026: Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
 - [git-time-metric](https://github.com/git-time-metric/gtm) ⭐ 1002 - Updated Aug 2019: Simple, seamless, lightweight time tracking for Git.
@@ -2549,7 +2549,7 @@ _General utilities and tools to make your life easier._
 - [go-countries](https://github.com/mikekonan/go-countries) ⭐ 16 - Updated Dec 2020: Lightweight lookup over ISO-3166 codes.
 - [go-dry](https://github.com/ungerik/go-dry) ⭐ 488 - Updated Oct 2025: DRY (don't repeat yourself) package for Go.
 - [go-events](https://github.com/deatil/go-events) ⭐ 10 - Updated Jul 2026: A go event and event'subscribe package, like wordpress hook functions.
-- [go-funk](https://github.com/thoas/go-funk) ⭐ 4926 - Updated Jun 2023: Modern Go utility library which provides helpers (map, find, contains, filter, chunk, reverse, ...).
+- [go-funk](https://github.com/thoas/go-funk) ⭐ 4925 - Updated Jun 2023: Modern Go utility library which provides helpers (map, find, contains, filter, chunk, reverse, ...).
 - [go-health](https://github.com/Talento90/go-health) ⭐ 96 - Updated Jan 2022: Health package simplifies the way you add health check to your services.
 - [go-httpheader](https://github.com/mozillazg/go-httpheader) ⭐ 47 - Updated Jun 2023: Go library for encoding structs into Header fields.
 - [go-lambda-cleanup](https://github.com/karl-cardenas-coding/go-lambda-cleanup) ⭐ 98 - Updated Jun 2026: A CLI for removing unused or previous versions of AWS Lambdas.
@@ -2576,7 +2576,7 @@ _General utilities and tools to make your life easier._
 - [gopencils](https://github.com/bndr/gopencils) ⭐ 453 - Updated Nov 2016: Small and simple package to easily consume REST APIs.
 - [goplaceholder](https://github.com/michiwend/goplaceholder) ⭐ 29 - Updated Jan 2016: a small golang lib to generate placeholder images.
 - [goreadability](https://github.com/philipjkim/goreadability) ⭐ 68 - Updated Apr 2019: Webpage summary extractor using Facebook Open Graph and arc90's readability.
-- [goreleaser](https://github.com/goreleaser/goreleaser) ⭐ 16116 - Updated Oct 2026: Deliver Go binaries as fast and easily as possible.
+- [goreleaser](https://github.com/goreleaser/goreleaser) ⭐ 16117 - Updated Oct 2026: Deliver Go binaries as fast and easily as possible.
 - [goreporter](https://github.com/wgliang/goreporter) ⭐ 3123 - Updated Sep 2018: Golang tool that does static analysis, unit testing, code review and generate code quality report.
 - [goseaweedfs](https://github.com/linxGnu/goseaweedfs) ⭐ 119 - Updated Nov 2022: SeaweedFS client library with almost full features.
 - [gostrutils](https://github.com/ik5/gostrutils) ⭐ 48 - Updated Mar 2023: Collections of string manipulation and conversion functions.
@@ -2589,7 +2589,7 @@ _General utilities and tools to make your life easier._
 - [healthcheck](https://github.com/kazhuravlev/healthcheck) ⭐ 26 - Updated Apr 2026: A simple yet powerful readiness test for Kubernetes.
 - [hostctl](https://github.com/guumaster/hostctl) ⭐ 1244 - Updated Aug 2023: A CLI tool to manage /etc/hosts with easy commands.
 - [htcat](https://github.com/htcat/htcat) ⭐ 557 - Updated Jun 2015: Parallel and Pipelined HTTP GET Utility.
-- [hub](https://github.com/github/hub) ⭐ 22957 - Updated Oct 2023: wrap git commands with additional functionality to interact with github from the terminal.
+- [hub](https://github.com/github/hub) ⭐ 22955 - Updated Oct 2023: wrap git commands with additional functionality to interact with github from the terminal.
 - [immortal](https://github.com/immortal/immortal) ⭐ 844 - Updated Jul 2026: \*nix cross-platform (OS agnostic) supervisor.
 - [jet](https://github.com/NicoNex/jet) ⭐ 14 - Updated Mar 2025: Just Edit Text: a fast and powerful tool for finding and replacing file content and names using regular expressions.
 - [jsend](https://github.com/clevergo/jsend) ⭐ 21 - Updated Jun 2021: JSend's implementation written in Go.
@@ -2600,12 +2600,12 @@ _General utilities and tools to make your life easier._
 - [lang](https://github.com/maxbolgarin/lang) ⭐ 7 - Updated Jul 2026: Generic one-liners to work with variables, slices and maps without boilerplate code.
 - [lets-go](https://github.com/aplescia-chwy/lets-go) ⭐ 7 - Updated Apr 2021: Go module that provides common utilities for Cloud Native REST API development. Also contains AWS Specific utilities.
 - [limiters](https://github.com/mennanov/limiters) ⭐ 652 - Updated Oct 2026: Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks.
-- [lo](https://github.com/samber/lo) ⭐ 21441 - Updated Oct 2026: A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+- [lo](https://github.com/samber/lo) ⭐ 21443 - Updated Oct 2026: A Lodash like Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [loncha](https://github.com/kazu/loncha) ⭐ 11 - Updated Jul 2022: A high-performance slice Utilities.
 - [lrserver](https://github.com/jaschaephraim/lrserver) ⭐ 128 - Updated Mar 2024: LiveReload server for Go.
-- [mani](https://github.com/alajmo/mani) ⭐ 781 - Updated May 2026: CLI tool to help you manage multiple repositories.
-- [mc](https://github.com/minio/mc) ⭐ 3509 - Updated Nov 2025 - ⚠️ Archived: Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems.
-- [mergo](https://github.com/imdario/mergo) ⭐ 3109 - Updated Oct 2026: Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements.
+- [mani](https://github.com/alajmo/mani) ⭐ 782 - Updated May 2026: CLI tool to help you manage multiple repositories.
+- [mc](https://github.com/minio/mc) ⭐ 3508 - Updated Nov 2025 - ⚠️ Archived: Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems.
+- [mergo](https://github.com/imdario/mergo) ⭐ 3108 - Updated Oct 2026: Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements.
 - [mimemagic](https://github.com/zRedShift/mimemagic) ⭐ 99 - Updated Feb 2023: Pure Go ultra performant MIME sniffing library/utility.
 - [mimetype](https://github.com/gabriel-vasile/mimetype) ⭐ 2024 - Updated Oct 2026: Package for MIME type detection based on magic numbers.
 - [minify](https://github.com/tdewolff/minify) ⭐ 4149 - Updated Oct 2026: Fast minifiers for HTML, CSS, JS, XML, JSON and SVG file formats.
@@ -2651,7 +2651,7 @@ _General utilities and tools to make your life easier._
 - [scan](https://github.com/wroge/scan) ⭐ 68 - Updated Mar 2024: Scan sql rows into any type powered by generics.
 - [scany](https://github.com/georgysavva/scany) ⭐ 1524 - Updated Mar 2025: Library for scanning data from a database into Go structs and more.
 - [serve](https://github.com/syntaqx/serve) ⭐ 357 - Updated Oct 2026: A static http server anywhere you need.
-- [sesh](https://github.com/joshmedeski/sesh) ⭐ 2898 - Updated Oct 2026: Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide.
+- [sesh](https://github.com/joshmedeski/sesh) ⭐ 2900 - Updated Oct 2026: Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide.
 - [set](https://github.com/nofeaturesonlybugs/set) ⭐ 47 - Updated Jun 2022: Performant and flexible struct mapping and loose type conversion.
 - [shutdown](https://github.com/ztrue/shutdown) ⭐ 60 - Updated Jan 2022: App shutdown hooks for os.Signal handling.
 - [silk](https://github.com/chrispassas/silk) ⭐ 14 - Updated Aug 2026: Read silk netflow files.
@@ -2659,7 +2659,7 @@ _General utilities and tools to make your life easier._
 - [sliceconv](https://github.com/Henry-Sarabia/sliceconv) ⭐ 9 - Updated Feb 2020: Slice conversion between primitive types.
 - [slicer](https://github.com/leaanthony/slicer) ⭐ 47 - Updated Aug 2021: Makes working with slices easier.
 - [sorty](https://github.com/jfcg/sorty) ⭐ 145 - Updated May 2026: Fast Concurrent / Parallel Sorting.
-- [sqlx](https://github.com/jmoiron/sqlx) ⭐ 17738 - Updated May 2024: provides a set of extensions on top of the excellent built-in database/sql package.
+- [sqlx](https://github.com/jmoiron/sqlx) ⭐ 17739 - Updated May 2024: provides a set of extensions on top of the excellent built-in database/sql package.
 - [sqlz](https://github.com/rfberaldo/sqlz) ⭐ 13 - Updated Aug 2026: Extension for the database/sql package, adding named queries, struct scanning, and batch operations.
 - [sshman](https://github.com/shoobyban/sshman) ⭐ 58 - Updated Jun 2026: SSH Manager for authorized_keys files on multiple remote servers.
 - [stacktower](https://github.com/stacktower-io/stacktower) ⭐ 522 - Updated Jun 2026: Visualize dependency graphs as physical tower structures, inspired by XKCD #2347.
@@ -2671,12 +2671,12 @@ _General utilities and tools to make your life easier._
 - [tome](https://github.com/cyruzin/tome) ⭐ 35 - Updated Apr 2022: Tome was designed to paginate simple RESTful APIs.
 - [toolbox](https://github.com/viant/toolbox) ⭐ 229 - Updated Oct 2026: Slice, map, multimap, struct, function, data conversion utilities. Service router, macro evaluator, tokenizer.
 - [UNIS](https://github.com/esemplastic/unis) ⭐ 70 - Updated May 2017: Common Architecture™ for String Utilities in Go.
-- [upterm](https://github.com/owenthereal/upterm) ⭐ 1325 - Updated Oct 2026: A tool for developers to share terminal/tmux sessions securely over the web. It’s perfect for remote pair programming, accessing computers behind NATs/firewalls, remote debugging, and more.
-- [usql](https://github.com/knq/usql) ⭐ 10160 - Updated Oct 2026: usql is a universal command-line interface for SQL databases.
+- [upterm](https://github.com/owenthereal/upterm) ⭐ 1326 - Updated Oct 2026: A tool for developers to share terminal/tmux sessions securely over the web. It’s perfect for remote pair programming, accessing computers behind NATs/firewalls, remote debugging, and more.
+- [usql](https://github.com/knq/usql) ⭐ 10162 - Updated Oct 2026: usql is a universal command-line interface for SQL databases.
 - [util](https://github.com/shomali11/util) ⭐ 299 - Updated Jul 2022: Collection of useful utility functions. (strings, concurrency, manipulations, ...).
 - [watchhttp](https://github.com/nikolaydubina/watchhttp) ⭐ 35 - Updated Aug 2026: Run command periodically and expose latest STDOUT or its rich delta as HTTP endpoint.
 - [wifiqr](https://github.com/reugn/wifiqr) ⭐ 287 - Updated Dec 2025: Wi-Fi QR Code Generator.
-- [wuzz](https://github.com/asciimoo/wuzz) ⭐ 10744 - Updated Aug 2026: Interactive cli tool for HTTP inspection.
+- [wuzz](https://github.com/asciimoo/wuzz) ⭐ 10742 - Updated Aug 2026: Interactive cli tool for HTTP inspection.
 - [xferspdy](https://github.com/monmohan/xferspdy) ⭐ 99 - Updated Dec 2020: Xferspdy provides binary diff and patch library in golang.
 - [xpool](https://github.com/peczenyj/xpool) ⭐ 8 - Updated Aug 2026: Yet another golang type safe object pool using generics.
 - [yogo](https://github.com/antham/yogo) ⭐ 48 - Updated Oct 2026: Check yopmail mails from command line.
@@ -2695,7 +2695,7 @@ _Libraries for working with UUIDs._
 - [uniq](https://gitlab.com/skilstak/code/go/uniq): No hassle safe, fast unique identifiers with commands.
 - [uuid](https://github.com/agext/uuid) ⭐ 18 - Updated Mar 2020: Generate, encode, and decode UUIDs v1 with fast or cryptographic-quality random node identifier.
 - [uuid](https://github.com/gofrs/uuid) ⭐ 1807 - Updated Aug 2026: Implementation of Universally Unique Identifier (UUID). Supports both creation and parsing of UUIDs. Actively maintained fork of satori uuid.
-- [uuid](https://github.com/google/uuid) ⭐ 6148 - Updated Nov 2024: Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+- [uuid](https://github.com/google/uuid) ⭐ 6149 - Updated Nov 2024: Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [uuidcheck](https://github.com/ashwingopalsamy/uuidcheck) ⭐ 6 - Updated Dec 2024: A tiny, dependency-free Go library that validates UUIDs against standard RFC 4122 formatting, converts UUIDv7() into UTC timestamps.
 - [wuid](https://github.com/edwingeng/wuid) ⭐ 541 - Updated Jan 2024: An extremely fast globally unique number generator.
 - [xid](https://github.com/rs/xid) ⭐ 4280 - Updated Sep 2026: Xid is a globally unique id generator library, ready to be safely used directly in your server code.
@@ -2708,29 +2708,29 @@ _Libraries for validation._
 - [go-validator](https://github.com/tiendc/go-validator) ⭐ 34 - Updated Nov 2024: Validation library using Generics.
 - [gody](https://github.com/guiferpa/gody) ⭐ 179 - Updated May 2025: :balloon: A lightweight struct validator for Go.
 - [govalid](https://github.com/twharmon/govalid) ⭐ 121 - Updated Jun 2026: Fast, tag-based validation for structs.
-- [govalidator](https://github.com/asaskevich/govalidator) ⭐ 6201 - Updated Apr 2026: Validators and sanitizers for strings, numerics, slices and structs.
+- [govalidator](https://github.com/asaskevich/govalidator) ⭐ 6202 - Updated Apr 2026: Validators and sanitizers for strings, numerics, slices and structs.
 - [govalidator](https://github.com/thedevsaddam/govalidator) ⭐ 1344 - Updated Apr 2020: Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
 - [govy](https://github.com/nobl9/govy) ⭐ 55 - Updated Oct 2026: strongly-typed validation rules over functional interface, powered by generics and reflection free with heavy focus on crafting clear and information-rich error messages.
 - [jio](https://github.com/faceair/jio) ⭐ 126 - Updated Jul 2024: jio is a json schema validator similar to joi.
 - [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) ⭐ 4154 - Updated Sep 2026: Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags.
 - [validate](https://github.com/gookit/validate) ⭐ 1165 - Updated Sep 2026: Go package for data validation and filtering. support validate Map, Struct, Request(Form, JSON, url.Values, Uploaded Files) data and more features.
 - [validate](https://github.com/gobuffalo/validate) ⭐ 94 - Updated Sep 2022: This package provides a framework for writing validations for Go applications.
-- [validator](https://github.com/go-playground/validator) ⭐ 20208 - Updated Oct 2026: Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
+- [validator](https://github.com/go-playground/validator) ⭐ 20207 - Updated Oct 2026: Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
 - [Validator](https://github.com/go-the-way/validator) ⭐ 7 - Updated Aug 2024: A lightweight model validator written in Go.Contains VFs:Min, Max, MinLength, MaxLength, Length, Enum, Regex.
-- [Zog](https://github.com/Oudwins/zog) ⭐ 1219 - Updated Aug 2026: A Zod inspired schema builder for runtime value parsing and validation.
+- [Zog](https://github.com/Oudwins/zog) ⭐ 1218 - Updated Aug 2026: A Zod inspired schema builder for runtime value parsing and validation.
 
 ---
 ## Version Control
 _Libraries for version control._
 
 - [cli](https://gitlab.com/gitlab-org/cli) ⭐ 1098 - Updated Sep 2026: An open-source GitLab command line tool bringing GitLab's cool features to your command line.
-- [froggit-go](https://github.com/jfrog/froggit-go) ⭐ 55 - Updated Oct 2026: Froggit-Go is a Go library, allowing to perform actions on VCS providers.
+- [froggit-go](https://github.com/jfrog/froggit-go) ⭐ 54 - Updated Oct 2026: Froggit-Go is a Go library, allowing to perform actions on VCS providers.
 - [ggc](https://github.com/bmf-san/ggc) ⭐ 286 - Updated Oct 2026: A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
 - [git-courer](https://github.com/Alejandro-M-P/git-courer) ⭐ 44 - Updated Sep 2026: Local MCP server for Git operations using Ollama to save tokens and prevent secret leakage.
-- [git2go](https://github.com/libgit2/git2go) ⭐ 2005 - Updated Oct 2022: Go bindings for libgit2.
+- [git2go](https://github.com/libgit2/git2go) ⭐ 2006 - Updated Oct 2022: Go bindings for libgit2.
 - [githooks](https://github.com/gabyx/githooks) ⭐ 133 - Updated Sep 2026: Per-repo and shared Git hooks with version control and auto update.
 - [gitty](https://github.com/Omibranch/gitty) ⭐ 28 - Updated Apr 2026 - ⚠️ Archived: Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies.
-- [go-git](https://github.com/go-git/go-git) ⭐ 7807 - Updated Oct 2026: highly extensible Git implementation in pure Go.
+- [go-git](https://github.com/go-git/go-git) ⭐ 7812 - Updated Oct 2026: highly extensible Git implementation in pure Go.
 - [go-vcs](https://github.com/sourcegraph/go-vcs) ⭐ 82 - Updated Jul 2023: manipulate and inspect VCS repositories in Go.
 - [hercules](https://github.com/src-d/hercules) ⭐ 2811 - Updated Nov 2022: gaining advanced insights from Git repository history.
 - [hgo](https://github.com/beyang/hgo) ⭐ 16 - Updated Aug 2015: Hgo is a collection of Go packages providing read-access to local Mercurial repositories.
@@ -2741,7 +2741,7 @@ _Libraries for manipulating video._
 
 - [gmf](https://github.com/3d0c/gmf) ⭐ 931 - Updated Sep 2022: Go bindings for FFmpeg av\* libraries.
 - [go-astiav](https://github.com/asticode/go-astiav) ⭐ 747 - Updated Sep 2026: Better C bindings for ffmpeg in GO.
-- [go-astisub](https://github.com/asticode/go-astisub) ⭐ 717 - Updated Sep 2026: Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
+- [go-astisub](https://github.com/asticode/go-astisub) ⭐ 719 - Updated Sep 2026: Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
 - [go-astits](https://github.com/asticode/go-astits) ⭐ 618 - Updated Sep 2026: Parse and demux MPEG Transport Streams (.ts) natively in GO.
 - [go-mpd](https://github.com/unki2aut/go-mpd) ⭐ 32 - Updated Jun 2025: Parser and generator library for MPEG-DASH manifest files.
 - [goav](https://github.com/giorgisio/goav) ⭐ 2135 - Updated May 2022: Comprehensive Go bindings for FFmpeg.
@@ -2758,21 +2758,21 @@ _Full stack web frameworks._
 
 - [Atreugo](https://github.com/savsgio/atreugo) ⭐ 1301 - Updated Jan 2025: High performance and extensible micro web framework with zero memory allocations in hot paths.
 - [Barf](https://github.com/opensaucerer/barf) ⭐ 103 - Updated Dec 2023: Basically, A Remarkable Framework for building JSON-based web APIs. It is entirely unobtrusive and re-invents no wheel. It is crafted such that getting started is easy and quick while being flexible enough for more complex use cases.
-- [Beego](https://github.com/beego/beego) ⭐ 32430 - Updated Mar 2026: beego is an open-source, high-performance web framework for the Go programming language.
+- [Beego](https://github.com/beego/beego) ⭐ 32429 - Updated Mar 2026: beego is an open-source, high-performance web framework for the Go programming language.
 - [Confetti Framework](https://confetti-framework.github.io/docs/): Confetti is a Go web application framework with an expressive, elegant syntax. Confetti combines the elegance of Laravel and the simplicity of Go.
 - [Don](https://github.com/abemedia/go-don) ⭐ 60 - Updated Oct 2026: A highly performant and simple to use API framework.
 - [doors](https://github.com/doors-dev/doors) ⭐ 120 - Updated Oct 2026: Server-driven framework for building stateful, reactive web applications entirely in Go.
-- [Echo](https://github.com/labstack/echo) ⭐ 32775 - Updated Oct 2026: High performance, minimalist Go web framework.
+- [Echo](https://github.com/labstack/echo) ⭐ 32778 - Updated Oct 2026: High performance, minimalist Go web framework.
 - [Fastschema](https://github.com/fastschema/fastschema) ⭐ 576 - Updated Jun 2026: A flexible Go web framework and Headless CMS.
 - [Fiber](https://github.com/gofiber/fiber) ⭐ 40228 - Updated Oct 2026: An Express.js inspired web framework build on Fasthttp.
 - [Flamingo](https://github.com/i-love-flamingo/flamingo) ⭐ 561 - Updated Oct 2026: Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, template engines, graphql, observability, security, events, routing & reverse routing etc.
 - [Flamingo Commerce](https://github.com/i-love-flamingo/flamingo-commerce) ⭐ 598 - Updated Oct 2026: Providing e-commerce features using clean architecture like DDD and ports and adapters, that you can use to build flexible e-commerce applications.
 - [Fuego](https://github.com/go-fuego/fuego) ⭐ 1776 - Updated Oct 2026: The framework for busy Go developers! Web framework generating OpenAPI 3 spec from source code.
-- [Gin](https://github.com/gin-gonic/gin) ⭐ 89421 - Updated Oct 2026: Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity.
+- [Gin](https://github.com/gin-gonic/gin) ⭐ 89423 - Updated Oct 2026: Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity.
 - [Ginrpc](https://github.com/xxjwxc/ginrpc) ⭐ 304 - Updated Jul 2025: Gin parameter automatic binding tool,gin rpc tools.
 - [go-api-boot](https://github.com/SaiNageswarS/go-api-boot) ⭐ 35 - Updated Apr 2026: A gRpc-first micro-service framework. Features include ODM support for Mongo, cloud resource support (AWS/Azure/Google), and a fluent dependency injection which is customized for gRpc. Additionally, grpc-web is supported directly, enabling browser access to all gRpc APIs without a proxy.
-- [Goa](https://github.com/goadesign/goa) ⭐ 6111 - Updated Oct 2026: Goa provides a holistic approach for developing remote APIs and microservices in Go.
-- [GoFr](https://github.com/gofr-dev/gofr) ⭐ 20842 - Updated Oct 2026: Gofr is an opinionated microservice development framework.
+- [Goa](https://github.com/goadesign/goa) ⭐ 6112 - Updated Oct 2026: Goa provides a holistic approach for developing remote APIs and microservices in Go.
+- [GoFr](https://github.com/gofr-dev/gofr) ⭐ 20839 - Updated Oct 2026: Gofr is an opinionated microservice development framework.
 - [GoFrame](https://github.com/gogf/gf) ⭐ 13287 - Updated Oct 2026: GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [golamb](https://github.com/twharmon/golamb): Golamb makes it easier to write API endpoints for use with AWS Lambda and API Gateway.
 - [Gone](https://github.com/gone-io/gone) ⭐ 131 - Updated Nov 2025: A lightweight dependency injection and web framework inspired by Spring.
