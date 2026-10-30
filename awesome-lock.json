@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "updated_at": "2026-10-30T08:02:01.07340601Z",
+    "updated_at": "2026-10-30T14:59:30.980504967Z",
     "provider_metrics": [
+      {
+        "provider": "GitHub",
+        "attempted": 18,
+        "successful": 0,
+        "failed": 18
+      },
       {
         "provider": "GitLab",
         "attempted": 16,
         "successful": 0,
         "failed": 16
-      },
-      {
-        "provider": "GitHub",
-        "attempted": 1707,
-        "successful": 1688,
-        "failed": 18
       }
     ],
     "failed_links": {
@@ -20176,7 +20176,7 @@
             "stars": 24,
             "is_archived": false,
             "last_update": "2026-10-03T17:56:21Z",
-            "enriched_at": "2026-10-29T07:58:19.293433834Z"
+            "enriched_at": "2026-10-30T08:00:57.544456695Z"
           }
         },
         {
