@@ -5,7 +5,7 @@ _Libraries for building actor-based programs._
 
 - [asyncmachine-go/pkg/machine](https://github.com/pancsta/asyncmachine-go/tree/main/pkg/machine): Graph control flow library (AOP, actor, state-machine).
 - [Ergo](https://github.com/ergo-services/ergo) ⭐ 4699 - Updated Nov 2026: An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.
-- [Goakt](https://github.com/Tochemey/goakt) ⭐ 392 - Updated Nov 2026: Fast and Distributed Actor framework using protocol buffers as message for Golang.
+- [Goakt](https://github.com/Tochemey/goakt) ⭐ 393 - Updated Nov 2026: Fast and Distributed Actor framework using protocol buffers as message for Golang.
 - [Hollywood](https://github.com/anthdm/hollywood) ⭐ 2348 - Updated Jun 2026: Blazingly fast and light-weight Actor engine written in Golang.
 - [ProtoActor](https://github.com/asynkron/protoactor-go) ⭐ 5521 - Updated Jan 2026: Distributed actors for Go, C#, and Java/Kotlin.
 
@@ -15,7 +15,7 @@ _Libraries for building programs that leverage AI._
 
 - [AegisFlow](https://github.com/saivedant169/AegisFlow) ⭐ 39 - Updated Nov 2026: AI gateway for routing, securing, and monitoring LLM traffic across 10+ providers. OpenAI-compatible API, WASM policy plugins, canary rollouts, real-time dashboard.
 - [Aetheris](https://github.com/Colin4k1024/Aetheris) ⭐ 23 - Updated Sep 2026 - ⚠️ Archived: AI Agent execution runtime with event sourcing, checkpoint recovery, and At-Most-Once execution guarantee. Written in Go.
-- [agent-sdk-go](https://github.com/agenticenv/agent-sdk-go) ⭐ 65 - Updated Nov 2026: Go SDK for building durable AI agents on Temporal with support for tools, MCP, human approvals, and sub-agent delegation.
+- [agent-sdk-go](https://github.com/agenticenv/agent-sdk-go) ⭐ 66 - Updated Nov 2026: Go SDK for building durable AI agents on Temporal with support for tools, MCP, human approvals, and sub-agent delegation.
 - [ai](https://github.com/joakimcarlsson/ai) ⭐ 50 - Updated Nov 2026: A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.
 - [chromem-go](https://github.com/philippgille/chromem-go) ⭐ 1078 - Updated Sep 2026: Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 - [dakera-go](https://github.com/dakera-ai/dakera-go) ⭐ 7 - Updated Oct 2026: Official Go client SDK for the Dakera self-hosted agent memory server, providing typed interfaces for memory store/recall, session management, namespace operations, and decay configuration.
@@ -24,15 +24,15 @@ _Libraries for building programs that leverage AI._
 - [hotplex](https://github.com/hrygo/hotplex) ⭐ 53 - Updated Oct 2026: AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides full-duplex streaming, multi-platform integrations, and secure sandbox.
 - [langchaingo](https://github.com/tmc/langchaingo) ⭐ 9779 - Updated Oct 2026: LangChainGo is a framework for developing applications powered by language models.
 - [langgraphgo](https://github.com/smallnest/langgraphgo) ⭐ 311 - Updated Jul 2026: A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of builtin Agent architectures.
-- [LocalAI](https://github.com/mudler/LocalAI) ⭐ 50365 - Updated Nov 2026: Open Source OpenAI alternative, self-host AI models.
+- [LocalAI](https://github.com/mudler/LocalAI) ⭐ 50380 - Updated Nov 2026: Open Source OpenAI alternative, self-host AI models.
 - [localaik](https://github.com/harshaneel/localaik) ⭐ 16 - Updated Aug 2026: LocalStack-style local emulation of OpenAI and Gemini APIs; single Docker container, llama.cpp + Gemma 3 backend.
-- [mcp-go](https://github.com/mark3labs/mcp-go) ⭐ 9237 - Updated Nov 2026: Go implementation of the Model Context Protocol for building MCP servers and clients in Go.
-- [Ollama](https://github.com/jmorganca/ollama) ⭐ 186973 - Updated Nov 2026: Run large language models locally.
+- [mcp-go](https://github.com/mark3labs/mcp-go) ⭐ 9239 - Updated Nov 2026: Go implementation of the Model Context Protocol for building MCP servers and clients in Go.
+- [Ollama](https://github.com/jmorganca/ollama) ⭐ 187090 - Updated Nov 2026: Run large language models locally.
 - [OllamaFarm](https://github.com/presbrey/ollamafarm) ⭐ 103 - Updated Jun 2026: Manage, load-balance, and failover packs of Ollamas.
 - [otellix](https://github.com/oluwajubelo1/otellix) ⭐ 56 - Updated Nov 2026: OpenTelemetry-native LLM observability and budget guardrails for cost-constrained production environments.
 - [routex](https://github.com/Ad3bay0c/routex) ⭐ 25 - Updated Jul 2026: YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.
-- [trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) ⭐ 1932 - Updated Nov 2026: Framework for building LLM-based multi-agent systems.
-- [web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp) ⭐ 77 - Updated Nov 2026: MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline.
+- [trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) ⭐ 1931 - Updated Nov 2026: Framework for building LLM-based multi-agent systems.
+- [web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp) ⭐ 78 - Updated Nov 2026: MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline.
 - [zenflow](https://github.com/zendev-sh/zenflow) ⭐ 59 - Updated Nov 2026: Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider.
 
 ---
@@ -49,7 +49,7 @@ _Libraries for manipulating audio and music._
 - [malgo](https://github.com/gen2brain/malgo) ⭐ 439 - Updated Nov 2026: Mini audio library.
 - [minimp3](https://github.com/tosone/minimp3) ⭐ 135 - Updated Oct 2026: Lightweight MP3 decoder library.
 - [music-theory](https://github.com/go-music-theory/music-theory) ⭐ 465 - Updated Jan 2026: Music theory models in Go.
-- [Oto](https://github.com/hajimehoshi/oto) ⭐ 1983 - Updated Nov 2026: A low-level library to play sound on multiple platforms.
+- [Oto](https://github.com/hajimehoshi/oto) ⭐ 1985 - Updated Nov 2026: A low-level library to play sound on multiple platforms.
 - [PortAudio](https://github.com/gordonklaus/portaudio) ⭐ 845 - Updated Feb 2026: Go bindings for the PortAudio audio I/O library.
 - [voxrai-ai](https://github.com/Voxray-AI/Voxray) ⭐ 4 - Updated Jun 2026: AI voice agents with a JSON configuration,  STT → LLM → TTS pipelines over WebSocket and WebRTC
 
@@ -60,12 +60,12 @@ _Libraries for implementing authentication and authorization._
 - [authboss](https://github.com/volatiletech/authboss) ⭐ 4201 - Updated Nov 2025: Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.
 - [authgate](https://github.com/go-authgate/authgate) ⭐ 72 - Updated Jun 2026: A lightweight OAuth 2.0 Authorization Server supporting Device Authorization Grant (RFC 8628), Authorization Code Flow with PKCE (RFC 6749 + RFC 7636), and Client Credentials Grant for machine-to-machine authentication.
 - [branca](https://github.com/essentialkaos/branca) ⭐ 100 - Updated Nov 2025: branca token specification implementation for Golang 1.15+.
-- [casbin](https://github.com/hsluoyz/casbin) ⭐ 20498 - Updated Nov 2026: Authorization library that supports access control models like ACL, RBAC, and ABAC.
+- [casbin](https://github.com/hsluoyz/casbin) ⭐ 20499 - Updated Nov 2026: Authorization library that supports access control models like ACL, RBAC, and ABAC.
 - [cookiestxt](https://github.com/mengzhuo/cookiestxt) ⭐ 23 - Updated Jan 2026: provides a parser of cookies.txt file format.
 - [go-githubauth](https://github.com/jferrl/go-githubauth) ⭐ 35 - Updated Nov 2026: Utilities for GitHub authentication: generate and use GitHub application and installation tokens.
 - [go-guardian](https://github.com/shaj13/go-guardian) ⭐ 614 - Updated Jul 2024: Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.
 - [go-iam](https://github.com/melvinodsa/go-iam) ⭐ 50 - Updated Aug 2026: Developer-first Identity and Access Management system with a simple UI.
-- [go-jose](https://github.com/go-jose/go-jose) ⭐ 549 - Updated Nov 2026: Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
+- [go-jose](https://github.com/go-jose/go-jose) ⭐ 550 - Updated Nov 2026: Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
 - [go-jwt](https://github.com/deatil/go-jwt) ⭐ 3 - Updated Oct 2026: A JWT (JSON Web Token) library for Go.
 - [go-jwt](https://github.com/pardnchiu/go-jwt) ⭐ 19 - Updated Oct 2026: JWT authentication package providing access tokens and refresh tokens with fingerprinting, Redis storage, and automatic refresh capabilities.
 - [goiabada](https://github.com/leodip/goiabada) ⭐ 204 - Updated Nov 2026: An open-source authentication and authorization server supporting OAuth2 and OpenID Connect.
@@ -77,13 +77,13 @@ _Libraries for implementing authentication and authorization._
 - [jwt](https://github.com/pascaldekloe/jwt) ⭐ 360 - Updated Apr 2023: Lightweight JSON Web Token (JWT) library.
 - [jwt](https://github.com/cristalhq/jwt) ⭐ 688 - Updated Jul 2024: Safe, simple, and fast JSON Web Tokens for Go.
 - [jwt-auth](https://github.com/adam-hanna/jwt-auth) ⭐ 237 - Updated Aug 2021: JWT middleware for Golang http servers with many configuration options.
-- [jwt-go](https://github.com/golang-jwt/jwt) ⭐ 9268 - Updated Nov 2026: A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs.
+- [jwt-go](https://github.com/golang-jwt/jwt) ⭐ 9269 - Updated Nov 2026: A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs.
 - [jwx](https://github.com/lestrrat-go/jwx) ⭐ 2445 - Updated Nov 2026: Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies.
 - [keto](https://github.com/ory/keto) ⭐ 5424 - Updated Jul 2026: Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
 - [loginsrv](https://github.com/tarent/loginsrv) ⭐ 1927 - Updated Feb 2021: JWT login microservice with pluggable backends such as OAuth2 (Github), htpasswd, osiam.
 - [oauth2](https://github.com/golang/oauth2) ⭐ 5908 - Updated Nov 2026: Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support.
-- [oidc](https://github.com/zitadel/oidc) ⭐ 1923 - Updated Nov 2026: Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation.
-- [openfga](https://github.com/openfga/openfga) ⭐ 6143 - Updated Nov 2026: Implementation of fine-grained authorization based on the "Zanzibar: Google's Consistent, Global Authorization System" paper. Backed by CNCF.
+- [oidc](https://github.com/zitadel/oidc) ⭐ 1924 - Updated Nov 2026: Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation.
+- [openfga](https://github.com/openfga/openfga) ⭐ 6146 - Updated Nov 2026: Implementation of fine-grained authorization based on the "Zanzibar: Google's Consistent, Global Authorization System" paper. Backed by CNCF.
 - [osin](https://github.com/openshift/osin) ⭐ 1935 - Updated Mar 2022: Golang OAuth2 server library.
 - [otpgen](https://github.com/grijul/otpgen) ⭐ 146 - Updated Aug 2021: Library to generate TOTP/HOTP codes.
 - [otpgo](https://github.com/jltorresm/otpgo) ⭐ 77 - Updated Feb 2021: Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go.
@@ -109,7 +109,7 @@ _Tools for building blockchains._
 - [go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51478 - Updated Nov 2026: Official Go implementation of the Ethereum protocol.
 - [gosemble](https://github.com/LimeChain/gosemble) ⭐ 15 - Updated Dec 2024: A Go-based framework for building Polkadot/Substrate-compatible runtimes.
 - [gossamer](https://github.com/ChainSafe/gossamer) ⭐ 453 - Updated Aug 2026: A Go implementation of the Polkadot Host.
-- [kubo](https://github.com/ipfs/kubo) ⭐ 17184 - Updated Sep 2026: An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
+- [kubo](https://github.com/ipfs/kubo) ⭐ 17187 - Updated Sep 2026: An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
 - [lnd](https://github.com/lightningnetwork/lnd) ⭐ 8218 - Updated Nov 2026: A complete implementation of a Lightning Network node.
 - [nview](https://github.com/blinklabs-io/nview) ⭐ 40 - Updated Nov 2026: Local monitoring tool for a Cardano Node. It's a TUI (terminal user interface) designed to fit most screens.
 - [solana-go](https://github.com/gagliardetto/solana-go) ⭐ 1591 - Updated Nov 2026: Go library to interface with Solana JSON RPC and WebSocket interfaces.
@@ -377,10 +377,10 @@ _Frameworks for performing ELT / ETL_
 ### Bit Sets
 
 - [bitmap](https://github.com/kelindar/bitmap) ⭐ 386 - Updated Sep 2026: Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go.
-- [bitset](https://github.com/bits-and-blooms/bitset) ⭐ 1514 - Updated Oct 2026: Go package implementing bitsets.
+- [bitset](https://github.com/bits-and-blooms/bitset) ⭐ 1515 - Updated Nov 2026: Go package implementing bitsets.
 ### Bloom and Cuckoo Filters
 
-- [bloom](https://github.com/bits-and-blooms/bloom) ⭐ 2836 - Updated Nov 2026: Go package implementing Bloom filters.
+- [bloom](https://github.com/bits-and-blooms/bloom) ⭐ 2837 - Updated Nov 2026: Go package implementing Bloom filters.
 - [bloom](https://github.com/zhenjl/bloom) ⭐ 147 - Updated Oct 2015: Bloom filters implemented in Go.
 - [bloom](https://github.com/yourbasic/bloom) ⭐ 88 - Updated Jun 2017: Golang Bloom filter implementation.
 - [bloomfilter](https://github.com/OldPanda/bloomfilter) ⭐ 21 - Updated Oct 2026: Yet another Bloomfilter implementation in Go, compatible with Java's Guava library.
@@ -391,9 +391,9 @@ _Frameworks for performing ELT / ETL_
 - [ring](https://github.com/TheTannerRyan/ring) ⭐ 147 - Updated Sep 2026: Go implementation of a high performance, thread safe bloom filter.
 ### Data Structure and Algorithm Collections
 
-- [algorithms](https://github.com/shady831213/algorithms) ⭐ 842 - Updated Apr 2019: Algorithms and data structures.CLRS study.
-- [go-datastructures](https://github.com/Workiva/go-datastructures) ⭐ 7968 - Updated Oct 2026: Collection of useful, performant, and thread-safe data structures.
-- [gods](https://github.com/emirpasic/gods) ⭐ 17456 - Updated Mar 2025: Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
+- [algorithms](https://github.com/shady831213/algorithms) ⭐ 843 - Updated Apr 2019: Algorithms and data structures.CLRS study.
+- [go-datastructures](https://github.com/Workiva/go-datastructures) ⭐ 7969 - Updated Oct 2026: Collection of useful, performant, and thread-safe data structures.
+- [gods](https://github.com/emirpasic/gods) ⭐ 17457 - Updated Mar 2025: Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
 - [gostl](https://github.com/liyue201/gostl) ⭐ 1144 - Updated Jan 2025: Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
 ### Iterators
 
@@ -411,13 +411,13 @@ _See also Database for more complex key-value stores, and Trees for additional o
 - [hmap](https://github.com/lyonnee/hmap) ⭐ 2 - Updated Jan 2025: HMap is a concurrent and secure, generic support Map implementation designed to provide an easy-to-use API.
 ### Miscellaneous Data Structures and Algorithms
 
-- [combo](https://github.com/bobg/combo) ⭐ 4 - Updated Mar 2026: Combinatorial operations including permutations, combinations, and combinations-with-replacement.
+- [combo](https://github.com/bobg/combo) ⭐ 5 - Updated Mar 2026: Combinatorial operations including permutations, combinations, and combinations-with-replacement.
 - [concurrent-writer](https://github.com/free/concurrent-writer) ⭐ 62 - Updated Nov 2017: Highly concurrent drop-in replacement for bufio.Writer.
 - [count-min-log](https://github.com/seiflotfy/count-min-log) ⭐ 70 - Updated Mar 2025: Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but using less memory).
 - [FSM](https://github.com/enetx/fsm) ⭐ 27 - Updated Aug 2026: FSM for Go.
 - [fsm](https://github.com/cocoonspace/fsm) ⭐ 88 - Updated Oct 2021: Finite-State Machine package.
 - [genfuncs](https://github.com/nwillc/genfuncs) ⭐ 51 - Updated Aug 2022: Go 1.18+ generics package inspired by Kotlin's Sequence and Map.
-- [go-generics](https://github.com/bobg/go-generics) ⭐ 85 - Updated Sep 2026: Generic slice, map, set, iterator, and goroutine utilities.
+- [go-generics](https://github.com/bobg/go-generics) ⭐ 86 - Updated Sep 2026: Generic slice, map, set, iterator, and goroutine utilities.
 - [go-geoindex](https://github.com/hailocab/go-geoindex) ⭐ 359 - Updated Jan 2016: In-memory geo index.
 - [go-rampart](https://github.com/francesconi/go-rampart) ⭐ 106 - Updated Jun 2024: Determine how intervals relate to each other.
 - [go-rquad](https://github.com/aurelien-rainone/go-rquad) ⭐ 141 - Updated Jun 2022: Region quadtrees with efficient point location and neighbour finding.
@@ -442,14 +442,14 @@ _See also Database for more complex key-value stores, and Trees for additional o
 - [deque](https://github.com/gammazero/deque) ⭐ 791 - Updated Nov 2026: Fast ring-buffer deque (double-ended queue).
 - [dqueue](https://github.com/vodolaz095/dqueue) ⭐ 5 - Updated Jul 2026: Simple, in memory, zero dependency and battle tested, thread-safe deferred queue.
 - [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) ⭐ 434 - Updated Nov 2022: Concurrent FIFO queue.
-- [hatchet](https://github.com/hatchet-dev/hatchet) ⭐ 8285 - Updated Nov 2026: Distributed, Fault-tolerant task queue.
+- [hatchet](https://github.com/hatchet-dev/hatchet) ⭐ 8292 - Updated Nov 2026: Distributed, Fault-tolerant task queue.
 - [list](https://github.com/koss-null/list) ⭐ 14 - Updated Oct 2025: A generic, thread-safe doubly linked list with full iterator support and an intrusive singly linked list for embedded use; a feature-rich replacement for container/list.
 - [memlog](https://github.com/embano1/memlog) ⭐ 143 - Updated Oct 2026 - ⚠️ Archived: An easy to use, lightweight, thread-safe and append-only in-memory data structure inspired by Apache Kafka.
-- [queue](https://github.com/adrianbrad/queue) ⭐ 370 - Updated Nov 2026: Multiple thread-safe, generic queue implementations for Go.
+- [queue](https://github.com/adrianbrad/queue) ⭐ 371 - Updated Nov 2026: Multiple thread-safe, generic queue implementations for Go.
 ### Sets
 
 - [dsu](https://github.com/ihebu/dsu) ⭐ 18 - Updated Jan 2022: Disjoint Set data structure implementation in Go.
-- [golang-set](https://github.com/deckarep/golang-set) ⭐ 4778 - Updated Oct 2026: Thread-Safe and Non-Thread-Safe high-performance sets for Go.
+- [golang-set](https://github.com/deckarep/golang-set) ⭐ 4780 - Updated Oct 2026: Thread-Safe and Non-Thread-Safe high-performance sets for Go.
 - [goset](https://github.com/zoumo/goset) ⭐ 52 - Updated Dec 2020: A useful Set collection implementation for Go.
 - [set](https://github.com/StudioSol/set) ⭐ 30 - Updated Oct 2025: Simple set data structure implementation in Go using LinkedHashMap.
 ### Text Analysis
@@ -485,7 +485,7 @@ _See also Database for more complex key-value stores, and Trees for additional o
 _Data stores with expiring records, in-memory distributed data stores, or in-memory subsets of file-based databases._
 
 - [bcache](https://github.com/iwanbk/bcache) ⭐ 163 - Updated May 2019: Eventually consistent distributed in-memory cache Go library.
-- [BigCache](https://github.com/allegro/bigcache) ⭐ 8177 - Updated Nov 2026: Efficient key/value cache for gigabytes of data.
+- [BigCache](https://github.com/allegro/bigcache) ⭐ 8176 - Updated Nov 2026: Efficient key/value cache for gigabytes of data.
 - [cache2go](https://github.com/muesli/cache2go) ⭐ 2151 - Updated Oct 2022: In-memory key:value cache which supports automatic invalidation based on timeouts.
 - [cachego](https://github.com/faabiosr/cachego) ⭐ 370 - Updated Apr 2025 - ⚠️ Archived: Golang Cache component for multiple drivers.
 - [clusteredBigCache](https://github.com/oaStuff/clusteredBigCache) ⭐ 45 - Updated Jan 2018: BigCache with clustering support and individual item expiration.
@@ -498,9 +498,9 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 - [go-cache](https://github.com/viney-shih/go-cache) ⭐ 161 - Updated Jan 2023: A flexible multi-layer Go caching library to deal with in-memory and shared cache by adopting Cache-Aside pattern.
 - [go-gcache](https://github.com/szyhf/go-gcache) ⭐ 12 - Updated May 2025: The generic version of GCache, cache support for expirable Cache, LFU, LRU and ARC.
 - [go-mcache](https://github.com/OrlovEvgeny/go-mcache) ⭐ 107 - Updated Oct 2026: Fast in-memory key:value store/cache library. Pointer caches.
-- [gocache](https://github.com/eko/gocache) ⭐ 2889 - Updated Oct 2026: A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
+- [gocache](https://github.com/eko/gocache) ⭐ 2890 - Updated Oct 2026: A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
 - [gocache](https://github.com/yuseferi/gocache) ⭐ 24 - Updated Dec 2025: A data race free Go ache library with high performance and auto pruge functionality
-- [groupcache](https://github.com/golang/groupcache) ⭐ 13339 - Updated Nov 2024: Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+- [groupcache](https://github.com/golang/groupcache) ⭐ 13338 - Updated Nov 2024: Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [icache](https://github.com/mdaliyan/icache) ⭐ 23 - Updated Jan 2025: A High Performance, Generic, thread-safe, zero-dependency cache package.
 - [imcache](https://github.com/erni27/imcache) ⭐ 123 - Updated Dec 2024: A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
 - [jetcache-go](https://github.com/mgtv-tech/jetcache-go) ⭐ 500 - Updated Feb 2026: Unified Go cache library supporting multi-level caching.
